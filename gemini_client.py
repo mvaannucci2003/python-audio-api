@@ -46,7 +46,7 @@ def send_query(chat, category, tags):
 
     query = QUERY_TEMPLATE.format(category=category, tags=tags_str)
 
-    response = chat.send.message(query)
+    response = chat.send_message(query)
 
     return response.text
 
