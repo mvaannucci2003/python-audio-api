@@ -1,0 +1,361 @@
+category,tag,domain,source,environment,scenario
+Density/Complexity,sparse,Musical,piano,hall,a single hammer strike on a low piano string
+Density/Complexity,sparse,Musical,triangle,chamber,a lone strike on a steel triangle
+Density/Complexity,sparse,Musical,harp,gallery,a single pluck of a nylon harp string
+Density/Complexity,sparse,Musical,bass drum,stadium,a lone beat on a large orchestral bass drum
+Density/Complexity,sparse,Musical,flute,meadow,a single short note on a silver flute
+Density/Complexity,sparse,Musical,cello,basement,a lone pizzicato pluck on a cello string
+Density/Complexity,sparse,Musical,woodblock,pit,a single tap on a maple woodblock
+Density/Complexity,sparse,Musical,handbell,church,a lone ring of a polished brass handbell
+Density/Complexity,sparse,Musical,trumpet,plaza,a single staccato note on a trumpet
+Density/Complexity,sparse,Musical,sitar,temple,a lone pluck on a sitar string
+Density/Complexity,sparse,Musical,snare drum,rehearsal room,a single hit on a snare drum head
+Density/Complexity,sparse,Musical,tuning fork,lab,a lone strike on a steel tuning fork
+Density/Complexity,sparse,Musical,glockenspiel,rooftop,a single hit on a high glockenspiel bar
+Density/Complexity,sparse,Musical,pipe organ,cathedral,a lone short note from a pedal pipe
+Density/Complexity,sparse,Musical,mandolin,porch,a single pluck on a mandolin string
+Density/Complexity,sparse,Mechanical,gears,clocktower,a single click of a large brass gear
+Density/Complexity,sparse,Mechanical,typewriter,attic,a lone key strike on a manual typewriter
+Density/Complexity,sparse,Mechanical,relay,server room,a single mechanical click of a power relay
+Density/Complexity,sparse,Mechanical,latch,vault,a lone metallic click of a safe latch closing
+Density/Complexity,sparse,Mechanical,stapler,office,a single staple being fired into paper
+Density/Complexity,sparse,Mechanical,hammer,workshop,a lone strike of a hammer on a metal nail
+Density/Complexity,sparse,Mechanical,camera,garden,a single shutter click of a vintage camera
+Density/Complexity,sparse,Mechanical,switch,hallway,a lone flip of a heavy toggle switch
+Density/Complexity,sparse,Mechanical,ratchet,garage,a single tooth click of a socket wrench
+Density/Complexity,sparse,Mechanical,metronome,parlor,a lone tick of a mechanical metronome
+Density/Complexity,sparse,Mechanical,solenoid,factory,a single engagement of a metal solenoid
+Density/Complexity,sparse,Mechanical,piston,mill,a lone stroke of a slow steam piston
+Density/Complexity,sparse,Mechanical,lock,foyer,a single turn of a key in a deadbolt
+Density/Complexity,sparse,Mechanical,punch,warehouse,a single hole being punched in a steel sheet
+Density/Complexity,sparse,Mechanical,lever,shipyard,a lone clunk of a heavy iron lever moving
+Density/Complexity,sparse,Environmental,rain,balcony,a single raindrop hitting a tin roof
+Density/Complexity,sparse,Environmental,thunder,plains,a lone distant roll of thunder
+Density/Complexity,sparse,Environmental,twig,forest,a single snap of a dry branch on the ground
+Density/Complexity,sparse,Environmental,ice,arctic,a lone crack in a thick ice sheet
+Density/Complexity,sparse,Environmental,rock,quarry,a single stone falling onto a dirt slope
+Density/Complexity,sparse,Environmental,water,cave,a lone droplet of water hitting a pool
+Density/Complexity,sparse,Environmental,wind,canyon,a single whistle of wind through a rock hole
+Density/Complexity,sparse,Environmental,leaf,garden,a lone rustle of a single dry leaf
+Density/Complexity,sparse,Environmental,geyser,park,a single bubble of gas bursting in a vent
+Density/Complexity,sparse,Environmental,snow,mountain,a lone clump of snow falling from a branch
+Density/Complexity,sparse,Environmental,wave,beach,a single small lap of water on a quiet shore
+Density/Complexity,sparse,Environmental,fire,campsite,a lone pop of a dry pine needle in embers
+Density/Complexity,sparse,Environmental,shell,shore,a lone clink of a seashell on a rock
+Density/Complexity,sparse,Environmental,mud,swamp,a single bubble of gas escaping a bog
+Density/Complexity,sparse,Environmental,icicle,eaves,a lone drip of water from a frozen tip
+Density/Complexity,sparse,Organic,bird,jungle,a single chirp from a lone tropical bird
+Density/Complexity,sparse,Organic,footstep,hallway,a lone step of a boot on a wooden floor
+Density/Complexity,sparse,Organic,throat,classroom,a single short cough in a quiet room
+Density/Complexity,sparse,Organic,heartbeat,clinic,a single beat of a heart heard through a chest
+Density/Complexity,sparse,Organic,beak,forest,a single tap of a woodpecker on a tree
+Density/Complexity,sparse,Organic,wing,attic,a single flap of a bird's wing
+Density/Complexity,sparse,Organic,claw,tile,a single click of a dog's nail on a floor
+Density/Complexity,sparse,Organic,bone,museum,a lone clatter of a single bone falling
+Density/Complexity,sparse,Organic,finger,parlor,a single snap of a person's fingers
+Density/Complexity,sparse,Organic,teeth,bedroom,a lone click of teeth being tapped together
+Density/Complexity,sparse,Organic,bark,woods,a single crack of bark peeling from a tree
+Density/Complexity,sparse,Organic,insect,meadow,a lone chirp of a single field cricket
+Density/Complexity,sparse,Organic,snort,farm,a single huff from a resting horse
+Density/Complexity,sparse,Organic,tongue,office,a lone click produced by a tongue
+Density/Complexity,sparse,Organic,stomp,plain,a lone hoof beat of a bison on dry earth
+Density/Complexity,sparse,Domestic,glass,kitchen,a single clink of a spoon against a glass
+Density/Complexity,sparse,Domestic,door,hallway,a lone thud of a bedroom door closing
+Density/Complexity,sparse,Domestic,key,foyer,a single jingle of a key on a ring
+Density/Complexity,sparse,Domestic,book,library,a lone sound of a page being turned
+Density/Complexity,sparse,Domestic,cup,dining room,a single teacup being placed on a saucer
+Density/Complexity,sparse,Domestic,faucet,bathroom,a lone drip of water into a ceramic sink
+Density/Complexity,sparse,Domestic,zipper,closet,a single short tug on a metal zipper
+Density/Complexity,sparse,Domestic,coin,hallway,a single coin hitting a marble floor
+Density/Complexity,sparse,Domestic,match,den,a lone strike of a match on a box
+Density/Complexity,sparse,Domestic,drawer,kitchen,a single slide of a wooden drawer closing
+Density/Complexity,sparse,Domestic,pen,office,a lone click of a retractable ballpoint pen
+Density/Complexity,sparse,Domestic,foil,pantry,a single crinkle of a piece of aluminum foil
+Density/Complexity,sparse,Domestic,bottle,cellar,a lone clink of a bottle hitting a shelf
+Density/Complexity,sparse,Domestic,chair,dining room,a single creak of a wooden chair
+Density/Complexity,sparse,Domestic,scissors,sewing room,a lone snip of fabric shears
+Density/Complexity,sparse,Electronic,beep,lab,a single short beep from a digital monitor
+Density/Complexity,sparse,Electronic,spark,garage,a lone snap of a static electricity discharge
+Density/Complexity,sparse,Electronic,relay,office,a single click of a tiny reed relay
+Density/Complexity,sparse,Electronic,capacitor,workshop,a lone pop of a capacitor discharging
+Density/Complexity,sparse,Electronic,switch,studio,a single click of a professional toggle switch
+Density/Complexity,sparse,Electronic,buzzer,kitchen,a lone short buzz of a microwave timer
+Density/Complexity,sparse,Electronic,shutter,street,a single electronic click of a phone camera
+Density/Complexity,sparse,Electronic,fan,laptop,a lone whir of a fan starting and stopping
+Density/Complexity,sparse,Electronic,signal,lab,a single short pulse on an oscilloscope
+Density/Complexity,sparse,Electronic,fuse,garage,a lone pop of a small fuse blowing
+Density/Complexity,sparse,Electronic,radio,attic,a single burst of static on a shortwave radio
+Density/Complexity,sparse,Electronic,alarm,hospital,a lone chirp of a medical alert system
+Density/Complexity,sparse,Electronic,bit,studio,a single digital glitch in a clean audio stream
+Density/Complexity,sparse,Electronic,coil,basement,a lone hum of a transformer being energized
+Density/Complexity,sparse,Electronic,modulator,lab,a lone sweep of a low-frequency oscillator
+Density/Complexity,thick,Musical,orchestra,hall,a sustained tutti chord from a full orchestra
+Density/Complexity,thick,Musical,organ,cathedral,a massive swell of multiple organ stops
+Density/Complexity,thick,Musical,choir,church,the dense harmony of a polyphonic vocal ensemble
+Density/Complexity,thick,Musical,synthesizer,studio,a multi-layered analog pad with several oscillators
+Density/Complexity,thick,Musical,bagpipes,field,the continuous multi-tone drone of highland pipes
+Density/Complexity,thick,Musical,drums,stadium,the overlapping roll of ten marching snare drums
+Density/Complexity,thick,Musical,cello,conservatory,the dense resonance of four cellos playing in unison
+Density/Complexity,thick,Musical,piano,ballroom,a complex ten-finger chord held with the sustain pedal
+Density/Complexity,thick,Musical,guitar,garage,the thick wall of sound from a distorted electric guitar
+Density/Complexity,thick,Musical,marimba,stage,a rapid tremolo chord on multiple marimba bars
+Density/Complexity,thick,Musical,gong,temple,the dense evolving wash of a large bronze gong
+Density/Complexity,thick,Musical,accordion,plaza,a full-bellows chord on a reed accordion
+Density/Complexity,thick,Musical,saxophone,club,the rich textured tone of a baritone sax ensemble
+Density/Complexity,thick,Musical,cymbals,hall,the overlapping resonance of multiple orchestral cymbals
+Density/Complexity,thick,Musical,harp,gallery,a rapid multi-string glissando on a pedal harp
+Density/Complexity,thick,Mechanical,engine,shipyard,the dense idling roar of a massive diesel engine
+Density/Complexity,thick,Mechanical,gears,factory,the overlapping whirring of a hundred small gears
+Density/Complexity,thick,Mechanical,turbine,dam,the continuous heavy drone of a power turbine
+Density/Complexity,thick,Mechanical,ventilation,tunnel,the thick wall of sound from a giant exhaust fan
+Density/Complexity,thick,Mechanical,printing press,shop,the dense rhythmic clatter of an antique press
+Density/Complexity,thick,Mechanical,transformer,power plant,the heavy steady hum of a high-voltage system
+Density/Complexity,thick,Mechanical,mill,quarry,the continuous grinding of large stones in a mill
+Density/Complexity,thick,Mechanical,conveyor,warehouse,the dense rattling of a long industrial belt
+Density/Complexity,thick,Mechanical,pump,oil field,the rhythmic overlapping thumping of many pumps
+Density/Complexity,thick,Mechanical,loom,textile mill,the dense rhythmic thudding of a row of looms
+Density/Complexity,thick,Mechanical,projector,cinema,the thick mechanical whirring of a 35mm system
+Density/Complexity,thick,Mechanical,boiler,basement,the dense roar of a large industrial furnace
+Density/Complexity,thick,Mechanical,drill,shipyard,the continuous heavy whine of a large-bore drill
+Density/Complexity,thick,Mechanical,excavator,construction site,the dense rumbling of a heavy diesel crawler
+Density/Complexity,thick,Mechanical,compressor,garage,the thick vibrating drone of a large air compressor
+Density/Complexity,thick,Environmental,rain,rainforest,the dense continuous patter of heavy tropical rain
+Density/Complexity,thick,Environmental,waterfall,jungle,the massive wall of sound from a falling river
+Density/Complexity,thick,Environmental,wind,canyon,the continuous deep howling of wind through rock
+Density/Complexity,thick,Environmental,ocean,beach,the dense wash of surf on a pebble shore
+Density/Complexity,thick,Environmental,thunder,plains,the overlapping rolling resonance of a nearby storm
+Density/Complexity,thick,Environmental,fire,forest,the dense crackling and roaring of a large brush fire
+Density/Complexity,thick,Environmental,river,mountains,the continuous heavy roar of a river in flood
+Density/Complexity,thick,Environmental,mud,volcanic field,the thick constant bubbling of a mud pot
+Density/Complexity,thick,Environmental,leaves,woods,the dense rustling of wind through an entire forest
+Density/Complexity,thick,Environmental,ice,arctic,the continuous crackling of a melting glacier face
+Density/Complexity,thick,Environmental,storm,coast,the thick buffeting of wind against a lighthouse
+Density/Complexity,thick,Environmental,stream,valley,the dense gurgling of water over a rocky bed
+Density/Complexity,thick,Environmental,snow,mountain,the heavy muffled roar of a distant avalanche
+Density/Complexity,thick,Environmental,geyser,park,the continuous hissing and boiling of a thermal vent
+Density/Complexity,thick,Environmental,cicada,field,the dense shimmering drone of a summer insect swarm
+Density/Complexity,thick,Organic,human,hall,the dense murmuring of a large crowd in a stone room
+Density/Complexity,thick,Organic,bees,orchard,the continuous heavy buzzing of a large beehive
+Density/Complexity,thick,Organic,birds,jungle,the dense multi-layered chorus of a rainforest at dawn
+Density/Complexity,thick,Organic,frogs,swamp,the continuous rhythmic croaking of a thousand frogs
+Density/Complexity,thick,Organic,wolves,forest,the overlapping harmonic howling of a wolf pack
+Density/Complexity,thick,Organic,elephants,savanna,the dense rumbling call of an elephant herd
+Density/Complexity,thick,Organic,heartbeat,clinic,the rapid heavy thumping of a heart after a run
+Density/Complexity,thick,Organic,breathing,den,the deep rhythmic snoring of a large dog
+Density/Complexity,thick,Organic,wings,cliff,the dense flapping of a thousand bats leaving a cave
+Density/Complexity,thick,Organic,hooves,plain,the heavy vibrating thud of a running bison herd
+Density/Complexity,thick,Organic,throat,church,the dense harmonic texture of a deep throat singer
+Density/Complexity,thick,Organic,whales,ocean,the overlapping melodic groans of humpback whales
+Density/Complexity,thick,Organic,locusts,plain,the dense whirring of a locust swarm passing over
+Density/Complexity,thick,Organic,crickets,meadow,the continuous multi-layered chirping of field crickets
+Density/Complexity,thick,Organic,wood,shipyard,the dense groaning of a wooden ship's hull creaking
+Density/Complexity,thick,Domestic,shower,bathroom,the dense roar of water hitting a tiled floor
+Density/Complexity,thick,Domestic,vacuum,hallway,the continuous heavy drone of a high-powered vacuum
+Density/Complexity,thick,Domestic,frying,kitchen,the dense multi-layered sizzle of oil in a hot pan
+Density/Complexity,thick,Domestic,fireplace,den,the thick crackling of a large cedar log fire
+Density/Complexity,thick,Domestic,washing machine,laundry room,the dense mechanical rumble of a spin cycle
+Density/Complexity,thick,Domestic,fan,bedroom,the continuous heavy thrum of a large ceiling fan
+Density/Complexity,thick,Domestic,curtain,theater,the dense rustle of heavy velvet curtains moving
+Density/Complexity,thick,Domestic,rug,living room,the thick sound of a stiff brush scrubbing a carpet
+Density/Complexity,thick,Domestic,coffee,kitchen,the dense bubbling and steaming of a percolator
+Density/Complexity,thick,Domestic,dishwasher,kitchen,the thick splashing of water inside a machine
+Density/Complexity,thick,Domestic,stairs,hallway,the heavy overlapping thud of footsteps on wood
+Density/Complexity,thick,Domestic,refrigerator,kitchen,the continuous heavy hum of a commercial fridge
+Density/Complexity,thick,Domestic,shaker,kitchen,the dense rattling of a salt cellar being shaken
+Density/Complexity,thick,Domestic,drawer,study,the thick mechanical slide of a heavy oak drawer
+Density/Complexity,thick,Domestic,boiler,basement,the dense roar of a gas furnace igniting
+Density/Complexity,thick,Electronic,analog synth,studio,a dense multi-oscillator sawtooth pad with chorus
+Density/Complexity,thick,Electronic,tube amp,stage,the dense harmonic roar of a distorted amplifier
+Density/Complexity,thick,Electronic,reverb,cathedral,the dense complex decay of a signal in a large space
+Density/Complexity,thick,Electronic,hum,studio,the continuous heavy ground hum of a cable system
+Density/Complexity,thick,Electronic,white noise,lab,the dense unbroken hiss of a noise generator
+Density/Complexity,thick,Electronic,transformer,power plant,the thick steady hum of a large substation
+Density/Complexity,thick,Electronic,fan,datacenter,the dense combined roar of a thousand server fans
+Density/Complexity,thick,Electronic,modulator,lab,the thick harmonic texture of frequency modulation
+Density/Complexity,thick,Electronic,feedback,stage,the dense evolving drone of guitar feedback
+Density/Complexity,thick,Electronic,drone,attic,the continuous deep vibration of a power line
+Density/Complexity,thick,Electronic,interference,radio,the dense multi-layered static of shortwave radio
+Density/Complexity,thick,Electronic,bitcrush,bedroom,the dense textured distortion of a crushed signal
+Density/Complexity,thick,Electronic,oscillator,lab,the thick harmonic sweep of a wavetable synth
+Density/Complexity,thick,Electronic,solenoid,warehouse,the dense rhythmic clunking of a sorting machine
+Density/Complexity,thick,Electronic,welder,factory,the thick intense sizzle of a plasma cutter
+Density/Complexity,saturated,Musical,orchestra,hall,a full orchestral crescendo at maximum volume
+Density/Complexity,saturated,Musical,organ,cathedral,a wall of sound from every organ pipe speaking
+Density/Complexity,saturated,Musical,drums,stadium,a continuous rolling of ten bass drums
+Density/Complexity,saturated,Musical,feedback,club,an intense unbroken scream of guitar feedback
+Density/Complexity,saturated,Musical,synthesizer,studio,a dense wall of noise from multiple detuned oscillators
+Density/Complexity,saturated,Musical,gong,temple,a continuous roll on a large gong at peak resonance
+Density/Complexity,saturated,Musical,choir,church,a massive fortissimo chord from a hundred voices
+Density/Complexity,saturated,Musical,cymbals,hall,a sustained crash of multiple orchestral cymbals
+Density/Complexity,saturated,Musical,bagpipes,field,the intense unbroken drone of multiple pipe bands
+Density/Complexity,saturated,Musical,piano,ballroom,a rapid fortissimo tremolo on the lowest keys
+Density/Complexity,saturated,Musical,marimba,stage,a continuous roll on the lowest marimba resonators
+Density/Complexity,saturated,Musical,trumpet,plaza,a sustained high-volume blast from a brass section
+Density/Complexity,saturated,Musical,snare,field,a continuous machine-gun roll on a marching snare
+Density/Complexity,saturated,Musical,shaker,studio,a rapid continuous shaking of metal beads
+Density/Complexity,saturated,Musical,harp,gallery,a continuous multi-string glissando arpeggio
+Density/Complexity,saturated,Mechanical,jet engine,airport,the intense wall of sound from a jet at full thrust
+Density/Complexity,saturated,Mechanical,drill,shipyard,the continuous piercing whine of a pneumatic drill
+Density/Complexity,saturated,Mechanical,turbine,dam,the massive unbroken roar of a hydroelectric turbine
+Density/Complexity,saturated,Mechanical,ventilation,tunnel,the intense vibrating roar of a giant industrial fan
+Density/Complexity,saturated,Mechanical,grinder,workshop,the continuous intense scream of an angle grinder
+Density/Complexity,saturated,Mechanical,shredder,office,the unbroken grinding of a high-speed paper shredder
+Density/Complexity,saturated,Mechanical,compressor,factory,the intense vibrating drone of a large industrial pump
+Density/Complexity,saturated,Mechanical,boiler,basement,the massive roar of a steam boiler at full pressure
+Density/Complexity,saturated,Mechanical,press,print shop,the continuous rapid clattering of a high-speed press
+Density/Complexity,saturated,Mechanical,saw,woodshop,the intense unbroken scream of a table saw in hardwood
+Density/Complexity,saturated,Mechanical,engine,racetrack,the continuous high-frequency scream of a race engine
+Density/Complexity,saturated,Mechanical,sandblaster,garage,the intense unbroken hiss of high-pressure sand
+Density/Complexity,saturated,Mechanical,loom,factory,the continuous wall of sound from a hundred looms
+Density/Complexity,saturated,Mechanical,generator,shipyard,the massive steady roar of a backup power unit
+Density/Complexity,saturated,Mechanical,conveyor,warehouse,the continuous heavy rattling of a metal belt
+Density/Complexity,saturated,Environmental,waterfall,jungle,the massive unbroken thundering of a great waterfall
+Density/Complexity,saturated,Environmental,hurricane,coast,the intense wall of sound from a hundred-mph wind
+Density/Complexity,saturated,Environmental,fire,forest,the massive unbroken roar of a forest fire canopy
+Density/Complexity,saturated,Environmental,thunder,plains,a continuous rolling clap of thunder directly overhead
+Density/Complexity,saturated,Environmental,rain,roof,the intense unbroken roar of rain on a tin roof
+Density/Complexity,saturated,Environmental,ocean,cliff,the massive wall of sound from waves hitting a sea cave
+Density/Complexity,saturated,Environmental,river,mountains,the continuous heavy roar of a river in full flood
+Density/Complexity,saturated,Environmental,geyser,park,the intense unbroken hissing of a high-pressure vent
+Density/Complexity,saturated,Environmental,cicada,field,the intense shimmering wall of sound from a swarm
+Density/Complexity,saturated,Environmental,sandstorm,desert,the continuous intense hiss of wind-blown sand
+Density/Complexity,saturated,Environmental,landslide,mountain,the massive unbroken clatter of falling debris
+Density/Complexity,saturated,Environmental,avalanche,valley,the intense muffled roar of a massive snow slide
+Density/Complexity,saturated,Environmental,stream,mountain,the continuous dense gurgling of a rushing rapids
+Density/Complexity,saturated,Environmental,storm,woods,the intense wall of sound from wind through trees
+Density/Complexity,saturated,Environmental,ice,arctic,the continuous intense crackling of a pressure ridge
+Density/Complexity,saturated,Organic,birds,jungle,the intense unbroken chorus of a tropical rainforest
+Density/Complexity,saturated,Organic,locusts,plain,the massive wall of sound from a locust swarm
+Density/Complexity,saturated,Organic,bees,orchard,the intense unbroken buzzing of a massive beehive
+Density/Complexity,saturated,Organic,frogs,swamp,the continuous intense croaking of a marsh at night
+Density/Complexity,saturated,Organic,human,stadium,the intense wall of sound from a cheering crowd
+Density/Complexity,saturated,Organic,wolves,forest,the continuous overlapping howling of multiple packs
+Density/Complexity,saturated,Organic,elephants,savanna,the massive unbroken trumpeting of an elephant herd
+Density/Complexity,saturated,Organic,monkeys,jungle,the intense unbroken chatter of a large troop
+Density/Complexity,saturated,Organic,crickets,meadow,the continuous intense chirping of a field at dusk
+Density/Complexity,saturated,Organic,heartbeat,clinic,the intense rapid thumping of a heart in panic
+Density/Complexity,saturated,Organic,breathing,den,the intense heavy snoring of a large animal
+Density/Complexity,saturated,Organic,wings,cliff,the massive unbroken flapping of a colony of bats
+Density/Complexity,saturated,Organic,throat,temple,the intense unbroken drone of a deep throat singer
+Density/Complexity,saturated,Organic,whales,ocean,the continuous overlapping groans of a whale pod
+Density/Complexity,saturated,Organic,wood,shipyard,the massive unbroken groaning of a wooden hull
+Density/Complexity,saturated,Domestic,vacuum,hallway,the intense unbroken drone of an industrial vacuum
+Density/Complexity,saturated,Domestic,blender,kitchen,the continuous intense roar of an overloaded blender
+Density/Complexity,saturated,Domestic,shower,bathroom,the intense unbroken roar of high-pressure water
+Density/Complexity,saturated,Domestic,frying,kitchen,the continuous intense sizzle of deep frying
+Density/Complexity,saturated,Domestic,fan,warehouse,the intense unbroken thrum of a high-speed fan
+Density/Complexity,saturated,Domestic,fireplace,den,the massive unbroken roar of a large roaring fire
+Density/Complexity,saturated,Domestic,hairdryer,bathroom,the continuous intense whine of a hairdryer
+Density/Complexity,saturated,Domestic,washing machine,laundry room,the intense unbroken rumble of a spin cycle
+Density/Complexity,saturated,Domestic,kettle,kitchen,the intense unbroken whistling of a boiling kettle
+Density/Complexity,saturated,Domestic,dishwasher,kitchen,the continuous intense splashing of water in a machine
+Density/Complexity,saturated,Domestic,boiler,basement,the massive unbroken roar of a gas furnace
+Density/Complexity,saturated,Domestic,shredder,office,the continuous intense grinding of a paper shredder
+Density/Complexity,saturated,Domestic,drill,garage,the intense unbroken whine of a power drill
+Density/Complexity,saturated,Domestic,fountain,garden,the continuous intense splashing of a large fountain
+Density/Complexity,saturated,Domestic,sink,bathroom,the intense unbroken hiss of a high-pressure faucet
+Density/Complexity,saturated,Electronic,white noise,lab,the intense unbroken hiss of a digital noise source
+Density/Complexity,saturated,Electronic,feedback,stage,an intense unbroken loop of electronic feedback
+Density/Complexity,saturated,Electronic,hum,studio,the intense unbroken ground hum of a power system
+Density/Complexity,saturated,Electronic,transformer,power plant,the massive unbroken hum of a large station
+Density/Complexity,saturated,Electronic,welder,factory,the intense unbroken sizzle of a plasma cutter
+Density/Complexity,saturated,Electronic,fan,datacenter,the intense combined roar of server cooling fans
+Density/Complexity,saturated,Electronic,bitcrush,bedroom,the intense unbroken distortion of a crushed signal
+Density/Complexity,saturated,Electronic,modulator,lab,the intense unbroken texture of frequency modulation
+Density/Complexity,saturated,Electronic,oscillator,lab,the intense unbroken sweep of a wavetable synth
+Density/Complexity,saturated,Electronic,drone,attic,the intense unbroken vibration of a power line
+Density/Complexity,saturated,Electronic,static,radio,the intense unbroken hiss between radio stations
+Density/Complexity,saturated,Electronic,buzzer,factory,an intense unbroken electronic alarm sound
+Density/Complexity,saturated,Electronic,arc,lab,the intense unbroken crackling of a high-voltage arc
+Density/Complexity,saturated,Electronic,spark,garage,the intense unbroken sizzle of a static discharge
+Density/Complexity,saturated,Electronic,reverb,cathedral,the intense unbroken decay of a white noise burst
+Density/Complexity,cluttered,Musical,percussion,pit,the disorganized clatter of many falling instruments
+Density/Complexity,cluttered,Musical,orchestra,hall,the messy sound of a hundred musicians tuning
+Density/Complexity,cluttered,Musical,drums,garage,the disorganized rattling of a box of drum sticks
+Density/Complexity,cluttered,Musical,piano,ballroom,the messy sound of random keys being mashed
+Density/Complexity,cluttered,Musical,tambourine,stage,the disorganized jingle of multiple shaken tambourines
+Density/Complexity,cluttered,Musical,shakers,studio,the messy sound of ten different shakers moving
+Density/Complexity,cluttered,Musical,bells,church,the disorganized tolling of a dozen different bells
+Density/Complexity,cluttered,Musical,marimba,stage,the messy clatter of multiple mallets on wood
+Density/Complexity,cluttered,Musical,horns,plaza,the disorganized honking of a brass section warming up
+Density/Complexity,cluttered,Musical,strings,gallery,the messy sound of rapid random pizzicato notes
+Density/Complexity,cluttered,Musical,chimes,meadow,the disorganized clashing of tangled wind chimes
+Density/Complexity,cluttered,Musical,cymbals,hall,the messy resonance of a box of cymbals falling
+Density/Complexity,cluttered,Musical,synthesizer,lab,a disorganized sequence of random digital bleeps
+Density/Complexity,cluttered,Musical,flutes,conservatory,the messy sound of multiple flutes practicing scales
+Density/Complexity,cluttered,Musical,harp,parlor,a disorganized plucking of strings in no order
+Density/Complexity,cluttered,Mechanical,gears,clocktower,the disorganized clicking of a broken gear system
+Density/Complexity,cluttered,Mechanical,engine,garage,the messy sound of a rattling loose engine part
+Density/Complexity,cluttered,Mechanical,typewriter,attic,the disorganized clatter of five people typing at once
+Density/Complexity,cluttered,Mechanical,tools,workshop,the messy clattering of a jar of loose screws
+Density/Complexity,cluttered,Mechanical,relay,server room,the disorganized clicking of a hundred relays firing
+Density/Complexity,cluttered,Mechanical,conveyor,warehouse,the messy rattling of loose parts on a belt
+Density/Complexity,cluttered,Mechanical,printer,office,the disorganized whirring and clicking of a paper jam
+Density/Complexity,cluttered,Mechanical,lathe,factory,the messy sound of metal scraps hitting a tray
+Density/Complexity,cluttered,Mechanical,projector,cinema,the disorganized ticking of a tangled film reel
+Density/Complexity,cluttered,Mechanical,clock,museum,the messy overlapping ticking of a dozen clocks
+Density/Complexity,cluttered,Mechanical,ratchet,garage,the disorganized clicking of a loose ratchet tool
+Density/Complexity,cluttered,Mechanical,pump,basement,the messy gurgling of a pump with air in the line
+Density/Complexity,cluttered,Mechanical,shutter,shop,the disorganized rattling of a loose metal door
+Density/Complexity,cluttered,Mechanical,drill,shipyard,the messy sound of a drill bit skipping on metal
+Density/Complexity,cluttered,Mechanical,loom,textile mill,the disorganized clatter of a broken loom
+Density/Complexity,cluttered,Environmental,leaves,woods,the disorganized rustling of debris in a storm
+Density/Complexity,cluttered,Environmental,rocks,quarry,the messy clatter of gravel falling down a slope
+Density/Complexity,cluttered,Environmental,rain,balcony,the disorganized patter of rain on ten different surfaces
+Density/Complexity,cluttered,Environmental,wind,canyon,the messy whistling of wind through many rock holes
+Density/Complexity,cluttered,Environmental,ice,arctic,the disorganized crackling of thousands of ice shards
+Density/Complexity,cluttered,Environmental,fire,campsite,the messy popping of a pile of mixed dry brush
+Density/Complexity,cluttered,Environmental,water,beach,the disorganized splashing of waves in a rocky cove
+Density/Complexity,cluttered,Environmental,mud,swamp,the messy glopping of multiple gas bubbles in a bog
+Density/Complexity,cluttered,Environmental,thunder,plains,the disorganized rolling of multiple storm cells
+Density/Complexity,cluttered,Environmental,stream,mountain,the messy gurgling of water through a debris dam
+Density/Complexity,cluttered,Environmental,geyser,park,the disorganized hissing of many small steam vents
+Density/Complexity,cluttered,Environmental,snow,mountain,the messy sound of a small rock and snow slide
+Density/Complexity,cluttered,Environmental,hail,carport,the disorganized bouncing of hailstones on a pile of junk
+Density/Complexity,cluttered,Environmental,twigs,forest,the messy sound of walking through a thicket
+Density/Complexity,cluttered,Environmental,shells,shore,the disorganized clinking of shells in a tide pool
+Density/Complexity,cluttered,Organic,birds,jungle,the disorganized chatter of a hundred different species
+Density/Complexity,cluttered,Organic,human,market,the messy sound of many people shouting at once
+Density/Complexity,cluttered,Organic,insects,meadow,the disorganized buzzing and chirping of a field
+Density/Complexity,cluttered,Organic,footsteps,hallway,the messy sound of a group of people running
+Density/Complexity,cluttered,Organic,monkeys,jungle,the disorganized screeching of a panicked troop
+Density/Complexity,cluttered,Organic,wings,attic,the messy flapping of multiple birds in a room
+Density/Complexity,cluttered,Organic,claws,tile,the disorganized clicking of a dozen dogs' nails
+Density/Complexity,cluttered,Organic,bones,museum,the messy clatter of a skeleton display collapsing
+Density/Complexity,cluttered,Organic,teeth,bedroom,the disorganized chattering of a group of cold people
+Density/Complexity,cluttered,Organic,bees,orchard,the messy buzzing of a hive being disturbed
+Density/Complexity,cluttered,Organic,frogs,swamp,the disorganized croaking of multiple frog species
+Density/Complexity,cluttered,Organic,hooves,trail,the messy sound of horses trotting on a rocky path
+Density/Complexity,cluttered,Organic,beaks,zoo,the disorganized snapping of many birds' beaks
+Density/Complexity,cluttered,Organic,scales,desert,the messy rustle of many snakes in a pit
+Density/Complexity,cluttered,Organic,throat,hallway,the disorganized sound of a crowd whispering
+Density/Complexity,cluttered,Domestic,silverware,kitchen,the disorganized clatter of a drawer being rummaged
+Density/Complexity,cluttered,Domestic,toys,nursery,the messy sound of a box of blocks being dumped
+Density/Complexity,cluttered,Domestic,dishes,kitchen,the disorganized clinking of a pile of dirty plates
+Density/Complexity,cluttered,Domestic,keys,foyer,the messy jingle of a large bundle of keys
+Density/Complexity,cluttered,Domestic,coins,laundry room,the disorganized rattling of coins in a dryer
+Density/Complexity,cluttered,Domestic,cabinet,pantry,the messy sound of searching through a full shelf
+Density/Complexity,cluttered,Domestic,tools,garage,the disorganized clatter of a toolbox being shaken
+Density/Complexity,cluttered,Domestic,cleaning,bathroom,the messy sound of many bottles being moved
+Density/Complexity,cluttered,Domestic,shoes,foyer,the disorganized thud of a pile of shoes falling
+Density/Complexity,cluttered,Domestic,paper,office,the messy sound of a stack of papers being shuffled
+Density/Complexity,cluttered,Domestic,closet,bedroom,the disorganized rustle of searching through hangers
+Density/Complexity,cluttered,Domestic,trash,kitchen,the messy sound of sorting through a recycling bin
+Density/Complexity,cluttered,Domestic,drawer,study,the disorganized sliding of a drawer filled with junk
+Density/Complexity,cluttered,Domestic,pot,kitchen,the messy clinking of a stack of metal pans
+Density/Complexity,cluttered,Domestic,curtain,theater,the disorganized rustle of tangled silk drapes
+Density/Complexity,cluttered,Electronic,radio,living room,the disorganized sound of scanning through stations
+Density/Complexity,cluttered,Electronic,glitch,studio,a messy sequence of digital bit-errors
+Density/Complexity,cluttered,Electronic,static,radio,the disorganized crackle of atmospheric interference
+Density/Complexity,cluttered,Electronic,buzzer,factory,the messy sound of multiple alarms overlapping
+Density/Complexity,cluttered,Electronic,shutter,street,the disorganized clicking of ten phone cameras
+Density/Complexity,cluttered,Electronic,relay,office,the messy sound of a telephone exchange firing
+Density/Complexity,cluttered,Electronic,interference,radio,a disorganized chirping of many digital signals
+Density/Complexity,cluttered,Electronic,hum,studio,the messy sound of multiple ground loops buzzing
+Density/Complexity,cluttered,Electronic,spark,garage,the disorganized crackling of multiple static sparks
+Density/Complexity,cluttered,Electronic,modulator,lab,a messy sequence of random frequency sweeps
+Density/Complexity,cluttered,Electronic,fan,office,the disorganized clicking of a fan hitting debris
+Density/Complexity,cluttered,Electronic,alarm,hospital,the messy sound of different medical monitors beeping
+Density/Complexity,cluttered,Electronic,bitcrush,bedroom,a disorganized texture of digital noise
+Density/Complexity,cluttered,Electronic,switch,lab,the messy clicking of a panel of toggle switches
+Density/Complexity,cluttered,Electronic,cable,stage,the disorganized crackling of a loose audio jack

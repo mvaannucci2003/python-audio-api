@@ -1,6 +1,7 @@
 import csv
 import io
-from config import DOMAINS, CATEGORIES
+from config import DOMAINS, CATEGORIES, SCENARIOS_PER_TAG_PER_DOMAIN
+from collections import Counter
 
 EXPECTED_COLUMNS = ["category", "tag", "domain", "source", "environment", "scenario"]
 
@@ -51,7 +52,11 @@ def parse_rows(csv_text):
         if "domain" in row:
             row["domain"] = row["domain"].strip().title()
         # strips whitespace
-        row = {key: value.strip() for key, value in row.items()}
+        row = {
+            key: value.strip()
+            for key, value in row.items()
+            if key is not None and isinstance(value, str)
+        }
 
         rows.append(row)
 
@@ -71,12 +76,11 @@ def validate(rows, category, tags):
     Prints warnings for any issues found.
     Returns True if all checks pass, False otherwise
     """
-    expected_count = len(tags) * len(DOMAINS)
+    expected_count = len(tags) * len(DOMAINS) * SCENARIOS_PER_TAG_PER_DOMAIN
     is_valid = True
-
+    # length count
     if len(rows) != expected_count:
         print(f" Warning: Expected {expected_count} rows, got {len(rows)}")
-        is_valid = False
 
     for tag in tags:
         tag_rows = [r for r in rows if r.get("tag") == tag]
@@ -86,17 +90,39 @@ def validate(rows, category, tags):
         if missing:
             print(f" Warning: Tag '{tag}' missing domains: {missing}")
             is_valid = False
-
+    # missing category check
     for row in rows:
         if row.get("category") != category:
             print(f" Warning: Unexpected category '{row.get("category")}' in row")
             is_valid = False
-
+    # Duplicate check
     scenarios = [r.get("scenario") for r in rows]
     if len(scenarios) != len(set(scenarios)):
         print(" Warning: Duplicate scenarios detected")
-        is_valid = False
+        # checks the duplicates occuring in text
+        duplicate_counter = Counter(scenarios)
+        for scenario_text, count in duplicate_counter.items():
+            if count > 1:
+                matching_rows = [r for r in rows if r.get("scenario") == scenario_text]
+                locations = [f"{r.get('tag')}/{r.get('domain')}" for r in matching_rows]
+                print(f'  "{scenario_text}" ({count}x): {', '.join(locations)}')
+        # duplicate remover
+        seen = set()
+        cleaned = []
+        removed = 0
 
+        for row in rows:
+            scenario = row.get("scenario")
+            if scenario not in seen:
+                seen.add(scenario)
+                cleaned.append(row)
+            else:
+                removed += 1
+        rows.clear()
+        rows.extend(cleaned)
+        print(f" Removed {removed} duplicate rows, {len(rows)} rows remaining")
+
+    # When false, skips the csv write
     if is_valid:
         print(f" Valid: {len(rows)} rows, all checks passed")
 

@@ -49,7 +49,8 @@ def run():
 
         write_csv(rows, filepath)
         print(f"  Saved to {filepath}")
-        break  # placeholder for testing
+        # break
+        # placeholder that stops at one category csv for testing
     print("\n= Generation Complete =")
 
 

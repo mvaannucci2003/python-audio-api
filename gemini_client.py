@@ -1,4 +1,5 @@
 from google import genai
+from google.genai import types
 from config import MODEL_NAME, RULES_PROMPT, QUERY_TEMPLATE
 import os
 from dotenv import load_dotenv
@@ -15,7 +16,9 @@ def init_chat():
     if not api_key:
         raise ValueError("GEMINI_API_KEY environment variable is not set")
 
-    client = genai.Client(api_key=api_key)
+    client = genai.Client(
+        api_key=api_key, http_options=types.HttpOptions(timeout=400000)
+    )
 
     chat = client.chats.create(model=MODEL_NAME)
 
