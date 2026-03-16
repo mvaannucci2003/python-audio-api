@@ -1,5 +1,6 @@
 import os
 import csv
+from parser import EXPECTED_COLUMNS
 
 
 def find_batch_files(category, scenarios_dir):
@@ -52,6 +53,20 @@ def load_and_merge(category, scenarios_dir):
     return all_rows
 
 
-def dedup_and_write(csv):
+def deduplicate(rows):
+    """
+    Removes duplicate scenarios, keeping the first occurence.
+    Returns the cleaned master file.
+    """
+    seen = set()
+    cleaned = []
 
-    pass
+    for row in rows:
+        scenario = row.get("scenario")
+        if scenario not in seen:
+            seen.add(scenario)
+            cleaned.append(row)
+
+    removed = len(rows) - len(cleaned)
+    print(f"Removed {removed} duplicates, {len(cleaned)} unique rows remaining")
+    return cleaned
