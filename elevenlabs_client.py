@@ -64,7 +64,7 @@ def generate_batch(client, csv_filepath, audio_output_dir):
         # Build filename from row data
         safe_tag = row["tag"].replace(" ", "_")
         safe_domain = row["domain"].replace(" ", "_").lower()
-        filename = f"{safe_tag}_{safe_domain}.mp3"
+        filename = f"{safe_tag}_{safe_domain}_{i:04d}.mp3"
         output_path = os.path.join(audio_output_dir, filename)
 
         print(f"\n[{i+1}/{len(rows)}]")
