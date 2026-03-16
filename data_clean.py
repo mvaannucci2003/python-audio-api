@@ -70,3 +70,38 @@ def deduplicate(rows):
     removed = len(rows) - len(cleaned)
     print(f"Removed {removed} duplicates, {len(cleaned)} unique rows remaining")
     return cleaned
+
+
+def write_to_master(rows, category, scenarios_dir):
+    """
+    Write the cleaned rows to the master for this category
+    Overwrites the existing master if it exists.
+    """
+    master_path = os.path.join(scenarios_dir, f"{category}.csv")
+    headers = EXPECTED_COLUMNS
+
+    with open(master_path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=headers)
+        writer.writeheader()
+        writer.writerow()
+
+    print(f"wrote {len(rows)} rows to {master_path}")
+
+
+if __name__ == "__main__":
+    import sys
+
+    SCENARIOS_DIR = "output/scenarios"
+
+    # Pass category as CLA
+    # Use case: python data_clean.py brightness_spectral
+    if len(sys.argv) < 2:
+        print("usage: python data_clean.py <category_name>")
+        print("Example: python data_clean.py brightness_spectral")
+        sys.exit(1)
+
+    category = sys.argv[1]
+
+    all_rows = load_and_merge(category, SCENARIOS_DIR)
+    cleaned = deduplicate(all_rows)
+    write_to_master(cleaned, category, SCENARIOS_DIR)
