@@ -83,7 +83,7 @@ def write_to_master(rows, category, scenarios_dir):
     with open(master_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=headers)
         writer.writeheader()
-        writer.writerow()
+        writer.writerows(rows)
 
     print(f"wrote {len(rows)} rows to {master_path}")
 

@@ -60,11 +60,24 @@ def generate_batch(client, csv_filepath, audio_output_dir):
 
     print(f"Generating {len(rows)} sound effects..")
 
+    # check which audio file number we are at.
+    existing_files = [f for f in os.listdir(audio_output_dir) if f.endswith(".mp3")]
+    offset = 0
+
+    if existing_files:
+        for f in existing_files:
+            name = f.replace(".mp3", "")
+            num = int(name.split("_")[-1])
+            if num > offset:
+                offset = num
+        offset += 1
+
+    print(f"Starting from index {offset}")
     for i, row in enumerate(rows):
         # Build filename from row data
         safe_tag = row["tag"].replace(" ", "_")
         safe_domain = row["domain"].replace(" ", "_").lower()
-        filename = f"{safe_tag}_{safe_domain}_{i:04d}.mp3"
+        filename = f"{safe_tag}_{safe_domain}_{i + offset:04d}.mp3"
         output_path = os.path.join(audio_output_dir, filename)
 
         print(f"\n[{i+1}/{len(rows)}]")
