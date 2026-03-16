@@ -1,0 +1,604 @@
+category,tag,domain,source,environment,scenario
+Processing,distorted,Musical,electric guitar,industrial warehouse,an electric guitar signal clipping a small battery-powered amplifier
+Processing,distorted,Musical,cello,stone cellar,a cello played with a metal file across the copper strings
+Processing,distorted,Musical,piano,ballroom,a grand piano with metal coins placed on the internal strings
+Processing,distorted,Musical,drums,basement,a snare drum with a loose sheet of aluminum foil on the head
+Processing,distorted,Musical,saxophone,underpass,a baritone saxophone played with a cracked reed
+Processing,distorted,Musical,synthesizer,studio,an analog oscillator signal overdriving a vintage mixing console
+Processing,distorted,Musical,harmonica,porch,a harmonica being played through a small over-driven tube radio
+Processing,distorted,Musical,bass guitar,club,a bass guitar played through a speaker with a torn paper cone
+Processing,distorted,Musical,timpani,concert hall,a timpani drum hit with a metal chain instead of a mallet
+Processing,distorted,Musical,organ,abbey,a pipe organ suffering from a massive air pressure drop
+Processing,distorted,Musical,violin,art gallery,a violin bow drawn harshly across the bridge of the instrument
+Processing,distorted,Musical,cymbals,rehearsal room,a crash cymbal with several metal rivets vibrating loosely
+Processing,distorted,Musical,harp,sunroom,a harp string vibrating against a metal music stand
+Processing,distorted,Musical,banjo,riverbank,a banjo string being snapped against a rusted metal pot
+Processing,distorted,Musical,recorder,classroom,a plastic recorder being overblown until the note breaks
+Processing,distorted,Musical,triangle,studio,a triangle being struck with a heavy steel bolt
+Processing,distorted,Musical,gong,temple,a large bronze gong vibrating against a stone wall
+Processing,distorted,Mechanical,wood chipper,suburban yard,a wood chipper processing a dry oak log
+Processing,distorted,Mechanical,shredder,office,a paper shredder eating through a plastic credit card
+Processing,distorted,Mechanical,engine,garage,a car engine running with a broken exhaust manifold
+Processing,distorted,Mechanical,lathe,machine shop,a metal lathe tool chatter against a spinning steel rod
+Processing,distorted,Mechanical,drill,construction site,a hammer drill bit vibrating against a steel reinforcement bar
+Processing,distorted,Mechanical,chainsaw,forest,a chainsaw biting into a knot in a hardwood tree
+Processing,distorted,Mechanical,grinder,garage,an angle grinder showering sparks off a rusted iron plate
+Processing,distorted,Mechanical,gears,clock tower,large rusted gears grinding together without lubrication
+Processing,distorted,Mechanical,winch,dockside,a steel cable slipping and rubbing against a metal drum
+Processing,distorted,Mechanical,press,factory,a hydraulic press crushing a hollow metal container
+Processing,distorted,Mechanical,boiler,foundry,high-pressure steam escaping a jagged hole in a pipe
+Processing,distorted,Mechanical,fan,warehouse,a large metal fan blade hitting a wire safety cage
+Processing,distorted,Mechanical,typewriter,library,the metal typebars of a typewriter jamming together
+Processing,distorted,Mechanical,shutter,photography studio,a vintage camera shutter mechanism catching on its frame
+Processing,distorted,Mechanical,pump,oil field,a pumpjack motor straining against a seized bearing
+Processing,distorted,Mechanical,mixer,construction site,a cement mixer drum full of large jagged rocks
+Processing,distorted,Mechanical,roller,highway,a steamroller vibrating against a loose manhole cover
+Processing,distorted,Environmental,thunder,canyon,a massive thunderclap echoing and saturating in a narrow gorge
+Processing,distorted,Environmental,wind,ridge,hurricane-force wind whistling through a taut wire fence
+Processing,distorted,Environmental,ocean,coast,a massive wave crashing into a hollow metal pier
+Processing,distorted,Environmental,volcano,crater,a sudden burst of volcanic gas through a rocky vent
+Processing,distorted,Environmental,lightning,mountaintop,the immediate explosive snap of a nearby lightning strike
+Processing,distorted,Environmental,fire,wildfire,the intense roar of a crown fire in a pine forest
+Processing,distorted,Environmental,avalanche,mountain,the wall of sound from a snowpack engulfing a thicket
+Processing,distorted,Environmental,ice,arctic,the grinding of two massive icebergs in a storm
+Processing,distorted,Environmental,flood,valley,a river breaking its banks and rushing over a gravel road
+Processing,distorted,Environmental,geyser,thermal park,a high-pressure steam vent erupting from a narrow crack
+Processing,distorted,Environmental,landslide,cliff,a massive collapse of a granite rock face into a ravine
+Processing,distorted,Environmental,rain,tin shed,torrential rain hitting a corrugated metal roof with force
+Processing,distorted,Environmental,echo,limestone cave,a loud shout saturating the air in a tight stone passage
+Processing,distorted,Environmental,mud,swamp,a large gas bubble popping violently in thick stagnant mud
+Processing,distorted,Environmental,stream,mountain,water rushing through a narrow metal culvert pipe
+Processing,distorted,Environmental,tide,estuary,the deafening roar of a tidal bore entering a river
+Processing,distorted,Environmental,rock,well,a large boulder impacting the stone wall of a deep shaft
+Processing,distorted,Organic,roar,zoo,the deafening roar of a lion in a small stone enclosure
+Processing,distorted,Organic,scream,stadium,a person yelling at full volume into a plastic megaphone
+Processing,distorted,Organic,growl,campsite,the guttural snarl of a large bear at close range
+Processing,distorted,Organic,voice,theater,a singer's voice breaking under extreme vocal strain
+Processing,distorted,Organic,heartbeat,medical lab,a heart thumping loudly through a low-quality stethoscope
+Processing,distorted,Organic,breathing,gym,the heavy gasping of a runner after a sprint
+Processing,distorted,Organic,cough,library,a violent hacking cough in a resonant room
+Processing,distorted,Organic,shout,tunnel,a person yelling in a narrow corrugated metal pipe
+Processing,distorted,Organic,wings,cave,the combined flapping of a million bats exiting at once
+Processing,distorted,Organic,bark,kennel,the sound of a hundred dogs barking in a tiled room
+Processing,distorted,Organic,hooves,dirt track,the thundering of a horse gallop on hard dry earth
+Processing,distorted,Organic,movement,jungle,a large animal crashing through a dense bamboo thicket
+Processing,distorted,Organic,grunt,weight room,the maximum-effort roar of a powerlifter
+Processing,distorted,Organic,snore,bedroom,the rattling vibration of a heavy sleeper's airway
+Processing,distorted,Organic,chest,forest,the hollow drumming of a gorilla's chest echoing in a valley
+Processing,distorted,Organic,tongue,quiet room,a sharp tongue click against the teeth
+Processing,distorted,Organic,laughter,playground,the sharp cackle of a group of children laughing
+Processing,distorted,Domestic,blender,kitchen,a high-speed blender crushing a load of ice and frozen fruit
+Processing,distorted,Domestic,vacuum,hallway,an industrial vacuum cleaner sucking up a loose piece of rug
+Processing,distorted,Domestic,sink,kitchen,a garbage disposal unit grinding through animal bones
+Processing,distorted,Domestic,can,pantry,a soda can being crushed in a manual metal press
+Processing,distorted,Domestic,door,foyer,a heavy metal door slamming against a steel frame
+Processing,distorted,Domestic,kettle,kitchen,the screaming whistle of a boiling tea kettle
+Processing,distorted,Domestic,shredder,office,a paper shredder eating through a plastic spiral binder
+Processing,distorted,Domestic,stove,pantry,the roar of a high-pressure propane camping burner
+Processing,distorted,Domestic,hairdryer,bathroom,a hairdryer running at its highest speed and heat
+Processing,distorted,Domestic,pipes,basement,the screaming of water through a narrowed iron pipe
+Processing,distorted,Domestic,iron,laundry room,a steam iron releasing a sharp pressurized burst
+Processing,distorted,Domestic,bin,alleyway,a metal trash can lid clattering on a pavement
+Processing,distorted,Domestic,cabinet,bathroom,a medicine cabinet door snapping shut on its magnet
+Processing,distorted,Domestic,remote,living room,the battery cover of a remote being snapped into place
+Processing,distorted,Domestic,stapler,office,a desktop stapler being slammed down onto paper
+Processing,distorted,Domestic,fridge,kitchen,the loud hum of an old refrigerator's broken cooling fan
+Processing,distorted,Domestic,trunk,attic,a heavy wooden lid falling shut with force
+Processing,distorted,Electronic,feedback,stage,the sharp piercing scream of microphone feedback
+Processing,distorted,Electronic,synthesizer,studio,a digital sawtooth lead with high-frequency aliasing
+Processing,distorted,Electronic,spark,lab,the rapid-fire snapping of a static electricity discharge
+Processing,distorted,Electronic,buzzer,apartment,the sharp rasp of a door entry system buzzer
+Processing,distorted,Electronic,interference,office,the high-pitched whine of a digital device on a metal desk
+Processing,distorted,Electronic,static,radio,the full-scale white noise of a radio between stations
+Processing,distorted,Electronic,modem,basement,the screeching handshake tones of a 56k modem
+Processing,distorted,Electronic,alarm,factory,the ring of a fire bell on a metal wall
+Processing,distorted,Electronic,oscillator,lab,a square wave at full amplitude clipping a preamp
+Processing,distorted,Electronic,beeper,hospital,the continuous tone of a medical flatline alarm
+Processing,distorted,Electronic,discharge,laboratory,the deafening crackle of a continuous tesla coil
+Processing,distorted,Electronic,switch,station,the loud electronic pop of a high-voltage switch
+Processing,distorted,Electronic,relay,server room,the rapid chatter of a mechanical relay bank
+Processing,distorted,Electronic,monitor,control room,the internal hum of a cathode ray tube screen
+Processing,distorted,Electronic,speaker,club,the distorted thumping of a maxed-out bass bin
+Processing,distorted,Electronic,transformer,substation,the intense buzzing of a failing power transformer
+Processing,distorted,Electronic,glitch,recording booth,the sharp crackle of digital clipping in a recording
+Processing,overdriven,Musical,saxophone,jazz club,a tenor saxophone played with maximum air pressure
+Processing,overdriven,Musical,organ,chapel,a pump organ with the bellows pushed to their limit
+Processing,overdriven,Musical,harmonica,campfire,a blues melody played with heavy breath pressure
+Processing,overdriven,Musical,electric guitar,garage,a power chord sustaining through a small tube amp
+Processing,overdriven,Musical,piano,ballroom,a fast passage played with heavy force in the low register
+Processing,overdriven,Musical,drums,studio,a snare drum hit with a rimshot at maximum volume
+Processing,overdriven,Musical,trumpet,rooftop,a high note played with intense air support
+Processing,overdriven,Musical,bass guitar,concert stage,a low string plucked with force through a stack of amps
+Processing,overdriven,Musical,voice,stadium,a vocalist using a harsh guttural growl technique
+Processing,overdriven,Musical,violin,art gallery,a bow being pressed firmly against a violin string
+Processing,overdriven,Musical,cello,conservatory,a cello played with heavy vibrato and high bow pressure
+Processing,overdriven,Musical,bagpipes,highlands,a sharp overblown note on a set of highland bagpipes
+Processing,overdriven,Musical,tambourine,festival,a tambourine being hit with a closed fist
+Processing,overdriven,Musical,marimba,theater,a strike on a wooden bar using hard plastic mallets
+Processing,overdriven,Musical,flute,recording booth,a sharp overblown trill on a silver piccolo
+Processing,overdriven,Musical,accordion,plaza,a full-register chord with the bellows fully compressed
+Processing,overdriven,Musical,gong,shrine,a heavy mallet strike on a large bronze gong
+Processing,overdriven,Mechanical,engine,racing track,a high-performance car engine revving to its redline
+Processing,overdriven,Mechanical,motor,workshop,a small electric motor spinning at maximum voltage
+Processing,overdriven,Mechanical,drill,construction site,a rock drill boring at high speed into granite
+Processing,overdriven,Mechanical,saw,woodshop,a circular saw biting into a thick piece of hardwood
+Processing,overdriven,Mechanical,turbine,dam,a hydroelectric turbine spinning under peak load
+Processing,overdriven,Mechanical,boiler,foundry,the internal roar of a steam boiler at its safety limit
+Processing,overdriven,Mechanical,generator,power plant,a large generator hum at peak electrical demand
+Processing,overdriven,Mechanical,shredder,industrial park,a metal shredder grinding through thick steel scrap
+Processing,overdriven,Mechanical,piston,racing garage,the deafening roar of a dragster engine idling
+Processing,overdriven,Mechanical,winch,dockside,a steel cable straining and creaking under a massive load
+Processing,overdriven,Mechanical,pump,station,multiple water pumps running at full power
+Processing,overdriven,Mechanical,ventilation,tunnel,a massive exhaust fan running at high resonance
+Processing,overdriven,Mechanical,fan,server room,high-velocity air moving through a cooling unit
+Processing,overdriven,Mechanical,lathe,machine shop,a cutting tool screeching against a spinning metal rod
+Processing,overdriven,Mechanical,sewing machine,factory,a needle punching through heavy leather at high speed
+Processing,overdriven,Mechanical,mixer,kitchen,a high-speed mixer straining against thick batter
+Processing,overdriven,Mechanical,press,industrial plant,the continuous throb of a heavy hydraulic system
+Processing,overdriven,Environmental,wind,canyon,wind whistling sharply through a jagged rock crevice
+Processing,overdriven,Environmental,thunder,plains,a continuous rolling boom of thunder during a storm
+Processing,overdriven,Environmental,fire,wildfire,the deafening roar of a forest fire's crown stage
+Processing,overdriven,Environmental,geyser,thermal park,a full-scale eruption of a high-pressure geyser
+Processing,overdriven,Environmental,ocean,coast,a massive storm surge crashing into a narrow sea cave
+Processing,overdriven,Environmental,waterfall,jungle,the continuous floor-shaking roar of a massive waterfall
+Processing,overdriven,Environmental,volcano,crater,the roar of a high-pressure volcanic gas vent
+Processing,overdriven,Environmental,lightning,peak,the immediate explosive crack of a nearby bolt
+Processing,overdriven,Environmental,avalanche,alpine peak,the total roar of a snowpack engulfing a valley
+Processing,overdriven,Environmental,rain,tin shed,a torrential downpour on a corrugated metal roof
+Processing,overdriven,Environmental,storm,open sea,the wall of sound from wind and spray in a gale
+Processing,overdriven,Environmental,flood,riverbank,the deafening rushing of a river over its banks
+Processing,overdriven,Environmental,stream,mountain,the dense rushing sound of a river over boulders
+Processing,overdriven,Environmental,tide,estuary,the heavy continuous roar of a tidal bore
+Processing,overdriven,Environmental,echo,canyon,the total wash of sound from a shout in a gorge
+Processing,overdriven,Environmental,mud,geothermal area,the thick constant glooping of a large mud pot
+Processing,overdriven,Environmental,steam,vent,the roar of steam from a high-pressure rock fissure
+Processing,overdriven,Organic,roar,zoo,the deafening close-range roar of a male lion
+Processing,overdriven,Organic,scream,stadium,a hundred thousand people shouting at once
+Processing,overdriven,Organic,growl,campsite,the deep guttural snarl of a bear at close range
+Processing,overdriven,Organic,voice,theater,a singer's voice sustained with maximum effort
+Processing,overdriven,Organic,breathing,gym,the heavy gasping of a marathon runner after a sprint
+Processing,overdriven,Organic,laughter,theater,the overwhelming sound of a thousand people laughing
+Processing,overdriven,Organic,bark,kennel,the deafening sound of a hundred dogs barking at once
+Processing,overdriven,Organic,hooves,dirt track,the wall of sound from a horse race finish
+Processing,overdriven,Organic,heartbeat,medical lab,the loud thumping of a heart during physical exertion
+Processing,overdriven,Organic,vocalization,ocean,the intense song of a whale heard underwater
+Processing,overdriven,Organic,chest,forest,the loud hollow drumming of a gorilla's chest
+Processing,overdriven,Organic,movement,jungle,a large animal crashing through a dense thicket
+Processing,overdriven,Organic,wings,cave,the deafening flapping of a million bats exiting
+Processing,overdriven,Organic,cough,library,a violent racking cough in a resonant room
+Processing,overdriven,Organic,shout,tunnel,a person yelling at full volume in a tiled passage
+Processing,overdriven,Organic,snore,bedroom,the deafening rattling of a heavy sleeper
+Processing,overdriven,Domestic,vacuum,hallway,an industrial vacuum cleaner running on high power
+Processing,overdriven,Domestic,blender,kitchen,a high-speed blender crushing a load of ice
+Processing,overdriven,Domestic,shower,bathroom,a high-pressure shower head hitting a plastic tub
+Processing,overdriven,Domestic,furnace,basement,the roar of an oil-burning furnace at full tilt
+Processing,overdriven,Domestic,hairdryer,bedroom,a high-wattage hairdryer on the highest setting
+Processing,overdriven,Domestic,sink,kitchen,a garbage disposal unit grinding through bones
+Processing,overdriven,Domestic,shredder,office,a paper shredder eating a thick stack of documents
+Processing,overdriven,Domestic,fan,bedroom,a large floor fan spinning at maximum speed
+Processing,overdriven,Domestic,washer,laundry room,the roar of a washing machine during the spin
+Processing,overdriven,Domestic,curtain,theater,the loud rush of heavy velvet curtains closing
+Processing,overdriven,Domestic,fridge,kitchen,the loud hum of an old refrigerator's fan
+Processing,overdriven,Domestic,alarm,bedroom,the deafening ringing of an old bell alarm
+Processing,overdriven,Domestic,iron,laundry room,a steam iron releasing a sharp continuous burst
+Processing,overdriven,Domestic,pipes,laundry room,the screaming of water through a narrow pipe
+Processing,overdriven,Electronic,noise,studio,a continuous stream of white noise at full scale
+Processing,overdriven,Electronic,feedback,stage,the deafening scream of microphone feedback
+Processing,overdriven,Electronic,transformer,substation,the intense buzzing of a failing transformer
+Processing,overdriven,Electronic,synthesizer,workshop,a multi-oscillator patch with full resonance
+Processing,overdriven,Electronic,amplifier,garage,the loud hum of a tube amp with no ground
+Processing,overdriven,Electronic,buzzer,factory,the deafening rasp of an industrial buzzer
+Processing,overdriven,Electronic,interference,studio,the intense whine of a digital ground loop
+Processing,overdriven,Electronic,static,radio,the full-scale hiss of an unassigned frequency
+Processing,overdriven,Electronic,server,data center,the overwhelming roar of cooling fans
+Processing,overdriven,Electronic,beeper,hospital,the continuous tone of a medical monitor
+Processing,overdriven,Electronic,discharge,laboratory,the deafening crackle of a tesla coil
+Processing,overdriven,Electronic,modem,office,the intense screeching tones of a handshake
+Processing,overdriven,Electronic,alarm,factory,the piercing continuous sound of a fire alarm
+Processing,overdriven,Electronic,speaker,club,the intense distorted thumping of a bass bin
+Processing,overdriven,Electronic,relay,power plant,the rapid chatter of a high-voltage relay
+Processing,overdriven,Electronic,static,attic,the dense low-frequency brown noise
+Processing,filtered,Musical,trumpet,jazz club,a trumpet being played with a tight-fitting cup mute
+Processing,filtered,Musical,piano,ballroom,a grand piano heard from behind a heavy velvet curtain
+Processing,filtered,Musical,drums,basement,a drum kit heard from the street through a concrete wall
+Processing,filtered,Musical,violin,chapel,a violin played in a highly dampened carpeted room
+Processing,filtered,Musical,flute,meadow,a wooden flute played through a thick layer of fog
+Processing,filtered,Musical,organ,abbey,the sound of a pipe organ with the swell box fully closed
+Processing,filtered,Musical,guitar,porch,an acoustic guitar heard through a closed wooden door
+Processing,filtered,Musical,cello,conservatory,a cello played with a heavy rubber practice mute
+Processing,filtered,Musical,xylophone,classroom,wooden keys being struck through a thick wool blanket
+Processing,filtered,Musical,tambourine,festival,a tambourine shaken inside a heavy canvas bag
+Processing,filtered,Musical,harp,sunroom,a harp string plucked while being dampened by a finger
+Processing,filtered,Musical,gong,temple,a gong strike immediately muffled by a heavy cloth
+Processing,filtered,Musical,brass,bandstand,a tuba heard from the back of a large auditorium
+Processing,filtered,Musical,synthesizer,studio,a sawtooth wave passing through a low-pass filter
+Processing,filtered,Musical,didgeridoo,outback,the drone of a didgeridoo through a thick pile of sand
+Processing,filtered,Musical,marimba,stage,a strike on a low marimba bar with a very soft mallet
+Processing,filtered,Musical,shaker,recording booth,a shaker filled with heavy wet sand
+Processing,filtered,Mechanical,engine,garage,a car engine idling behind a thick closed garage door
+Processing,filtered,Mechanical,drill,mining shaft,a rock drill heard through a hundred feet of earth
+Processing,filtered,Mechanical,ventilation,office,the hum of a fan inside a narrow padded duct
+Processing,filtered,Mechanical,gears,mill,wooden gears turning in a damp subterranean room
+Processing,filtered,Mechanical,pump,basement,a sump pump vibrating under a layer of muddy water
+Processing,filtered,Mechanical,elevator,hotel,the distant thud of an elevator through a concrete shaft
+Processing,filtered,Mechanical,typewriter,library,a typewriter being used under a heavy rubber mat
+Processing,filtered,Mechanical,shutter,museum,a camera shutter firing inside a padded soundproof case
+Processing,filtered,Mechanical,zipper,closet,a plastic zipper pulled slowly on a thick fleece jacket
+Processing,filtered,Mechanical,stapler,mailroom,a stapler firing into a thick stack of soft cardboard
+Processing,filtered,Mechanical,lock,vault,a heavy bolt sliding into a felt-lined metal slot
+Processing,filtered,Mechanical,lathe,machine shop,a lathe turning a large piece of soft wax
+Processing,filtered,Mechanical,winch,dockside,a winch ratcheting underwater in a quiet harbor
+Processing,filtered,Mechanical,boiler,foundry,the internal rumbling of a steam boiler through insulation
+Processing,filtered,Mechanical,press,printing shop,a manual press making a soft thud on thick paper
+Processing,filtered,Mechanical,piston,factory,a hydraulic piston moving through heavy industrial oil
+Processing,filtered,Mechanical,fan,parking garage,a massive exhaust fan heard through a concrete wall
+Processing,filtered,Environmental,rain,forest floor,heavy rain falling on a dense leafy canopy
+Processing,filtered,Environmental,thunder,valley,the distant roll of thunder behind heavy clouds
+Processing,filtered,Environmental,wind,pine forest,the muffled roar of wind through a dense pine stand
+Processing,filtered,Environmental,water,swamp,a heavy stone being dropped into thick stagnant mud
+Processing,filtered,Environmental,snow,tundra,the muffled crunch of a boot on soft powder snow
+Processing,filtered,Environmental,earthquake,valley,a low-frequency vibration felt through silty soil
+Processing,filtered,Environmental,avalanche,mountain,the distant muffled roar of a snow slide through trees
+Processing,filtered,Environmental,fire,campsite,the soft hissing of damp wood smoldering in a fire
+Processing,filtered,Environmental,hail,orchard,hail falling into a thick mulch of leaves and fruit
+Processing,filtered,Environmental,sand,desert,the soft thud of an object falling onto a sand dune
+Processing,filtered,Environmental,ice,lake,a muffled crack of thick ice under a layer of snow
+Processing,filtered,Environmental,leaves,garden,the soft rustle of wet autumn leaves being stepped on
+Processing,filtered,Environmental,stream,mountain,water flowing slowly over a bed of soft silt
+Processing,filtered,Environmental,echo,woods,a muffled shout echoing in a foggy dense forest
+Processing,filtered,Environmental,geyser,park,the internal bubbling of water deep underground
+Processing,filtered,Environmental,tide,estuary,the heavy roar of a tidal bore heard from a distance
+Processing,filtered,Environmental,bubbles,pond,air bubbles popping under a layer of thick moss
+Processing,filtered,Organic,heartbeat,clinic,a heartbeat heard through a thick wool sweater
+Processing,filtered,Organic,footsteps,hallway,the tread of wool socks on a thick shag carpet
+Processing,filtered,Organic,voice,bedroom,a person speaking with their face pressed into a pillow
+Processing,filtered,Organic,stomp,savanna,an elephant stepping in deep soft mud
+Processing,filtered,Organic,thud,gym,a heavy leather medicine ball hitting a foam mat
+Processing,filtered,Organic,purr,living room,the purr of a cat under a heavy winter blanket
+Processing,filtered,Organic,breathing,stable,the heavy breath of a horse in a hay-filled stall
+Processing,filtered,Organic,movement,undergrowth,a large animal pushing through a thicket of ferns
+Processing,filtered,Organic,cough,church,a muffled cough in a large resonant empty hall
+Processing,filtered,Organic,bark,street,a distant bark of a dog behind a thick brick wall
+Processing,filtered,Organic,snore,bedroom,the low resonant vibration of a sleeper snoring
+Processing,filtered,Organic,laughter,theater,the muffled laughter of a crowd through a closed door
+Processing,filtered,Organic,stomach,bedroom,the internal gurgling of a person's digestion
+Processing,filtered,Organic,wings,attic,the muffled flapping of an owl's wings in the dark
+Processing,filtered,Organic,gulp,quiet room,a muffled swallow of a thick liquid
+Processing,filtered,Organic,scratching,garden,a dog digging a hole in damp heavy earth
+Processing,filtered,Organic,howl,valley,a distant wolf howl heard through heavy fog
+Processing,filtered,Domestic,washing machine,laundry room,the vibration of a wash cycle through a wooden floor
+Processing,filtered,Domestic,door,mansion,a heavy door closing against a thick rubber seal
+Processing,filtered,Domestic,curtains,theater,the sliding of heavy velvet stage curtains
+Processing,filtered,Domestic,carpet,living room,a heavy rug being dropped onto a padded floor
+Processing,filtered,Domestic,pillow,bedroom,a large feather pillow hitting a mattress
+Processing,filtered,Domestic,safe,office,the soft thud of a heavy safe door closing
+Processing,filtered,Domestic,bath,bathroom,the resonance of water filling a cast iron tub
+Processing,filtered,Domestic,vacuum,hallway,a vacuum cleaner heard through a thick closed door
+Processing,filtered,Domestic,furnace,basement,the muffled roar of a gas furnace igniting
+Processing,filtered,Domestic,pipes,basement,the thumping of water in old iron pipes
+Processing,filtered,Domestic,trunk,attic,a heavy wooden lid falling shut on a pile of clothes
+Processing,filtered,Domestic,bed,bedroom,the groan of a wooden bed frame shifting
+Processing,filtered,Domestic,dishwasher,kitchen,the rushing of water inside a closed machine
+Processing,filtered,Domestic,drawer,kitchen,a wooden drawer closing against a rubber stop
+Processing,filtered,Domestic,shoes,foyer,leather boots being dropped onto a thick rug
+Processing,filtered,Domestic,bin,alleyway,a heavy plastic trash can lid falling closed
+Processing,filtered,Domestic,towel,bathroom,a wet heavy towel hitting a bath mat
+Processing,filtered,Electronic,speaker,living room,music heard through a thick apartment wall
+Processing,filtered,Electronic,hum,basement,the distant low-frequency hum of a water heater
+Processing,filtered,Electronic,beeper,bedroom,an alarm clock beeping under a heavy duvet
+Processing,filtered,Electronic,motor,kitchen,a blender whirring inside a sound-dampening cover
+Processing,filtered,Electronic,synthesizer,studio,a sine wave passing through a low-pass gate
+Processing,filtered,Electronic,buzzer,factory,a buzzer sounding through a layer of foam
+Processing,filtered,Electronic,relay,server room,the click of a relay inside a plastic housing
+Processing,filtered,Electronic,fan,office,the drone of a computer fan under a wooden desk
+Processing,filtered,Electronic,monitor,studio,white noise from a speaker with the tweeter off
+Processing,filtered,Electronic,transformer,street,a transformer hum behind a concrete wall
+Processing,filtered,Electronic,pulse,medical lab,the muffled thud of an mri machine
+Processing,filtered,Electronic,modem,office,the distant screech of a modem through a door
+Processing,filtered,Electronic,switch,workshop,the thud of a rubber-coated toggle switch
+Processing,filtered,Electronic,solenoid,car,the click of a starter solenoid under a hood
+Processing,filtered,Electronic,static,radio,the hiss of a radio with the treble cut
+Processing,filtered,Electronic,alarm,factory,a fire alarm heard from another wing
+Processing,filtered,Electronic,drive,server room,a hard drive whirring inside a padded enclosure
+Processing,effected,Musical,guitar,recording studio,an electric guitar signal passing through a spring reverb tank
+Processing,effected,Musical,flute,canyon,a silver flute melody reflecting off granite walls
+Processing,effected,Musical,drums,hangar,a snare drum hit in a vast empty metal hangar
+Processing,effected,Musical,piano,ballroom,a grand piano note played with the sustain pedal held
+Processing,effected,Musical,violin,chapel,a violin played in a highly reverberant stone room
+Processing,effected,Musical,trumpet,tunnel,a trumpet fanfare echoing through a tiled passage
+Processing,effected,Musical,cello,warehouse,a cello note in a massive industrial storage space
+Processing,effected,Musical,harp,conservatory,a harp glissando in a large glass-walled garden
+Processing,effected,Musical,organ,abbey,a pipe organ chord in a domed stone monastery
+Processing,effected,Musical,timpani,stadium,a timpani strike in an open-air sports field
+Processing,effected,Musical,gong,temple,the long resonance of a gong in a large hall
+Processing,effected,Musical,bells,town square,a set of tubular bells ringing in an open plaza
+Processing,effected,Musical,synthesizer,studio,a synth pad with a long artificial decay phase
+Processing,effected,Musical,tambourine,park,a tambourine shake echoing in a small gazebo
+Processing,effected,Musical,xylophone,theater,a wooden xylophone run in a large auditorium
+Processing,effected,Musical,harmonica,telephone booth,a harmonica played in a glass phone booth
+Processing,effected,Musical,kazoo,tin can,a kazoo buzzing into a small metal container
+Processing,effected,Mechanical,gears,clock tower,the mechanical assembly of a clock tower during the chime
+Processing,effected,Mechanical,winch,dockside,the ratcheting of a winch on a hollow pier
+Processing,effected,Mechanical,engine,ship hull,the throb of an engine deep in a cargo vessel
+Processing,effected,Mechanical,boiler,foundry,the roar of a boiler in a massive metalworks
+Processing,effected,Mechanical,shutter,warehouse,the boom of a metal shutter in a large hall
+Processing,effected,Mechanical,hammer,shipyard,a hammer hitting a resonant steel plate
+Processing,effected,Mechanical,mixer,construction site,the thud of a cement mixer in a foundation
+Processing,effected,Mechanical,turbine,dam,the vibration of a turbine deep in a stone dam
+Processing,effected,Mechanical,press,factory,the thud of a press in a large industrial unit
+Processing,effected,Mechanical,elevator,skyscraper,the mechanical groan of cables in stone
+Processing,effected,Mechanical,winch,dock,the groan of a crane moving a resonant load
+Processing,effected,Mechanical,shutter,shop,a security latch clicking in a metal box
+Processing,effected,Mechanical,relay,junction box,a relay snapping in a metal enclosure
+Processing,effected,Mechanical,buzzer,intercom,a buzzer in a plastic wall unit
+Processing,effected,Mechanical,projector,cinema,a projector whirring in a tight booth
+Processing,effected,Mechanical,drill,mining shaft,a rock drill boring deep into a granite wall
+Processing,effected,Mechanical,pump,oil field,the thumping of a pumpjack on resonant earth
+Processing,effected,Environmental,echo,limestone cave,a voice echoing in a deep subterranean hall
+Processing,effected,Environmental,thunder,valley,the rolling boom of thunder in a mountain basin
+Processing,effected,Environmental,ocean,cave,a wave crashing deep inside a sea cavern
+Processing,effected,Environmental,wind,canyon,the moan of wind through a deep stone gorge
+Processing,effected,Environmental,waterfall,jungle,the thud of water in a deep forest pool
+Processing,effected,Environmental,avalanche,alpine peak,the roar of snow in a deep mountain valley
+Processing,effected,Environmental,geyser,thermal park,the thumping of water deep in a hot spring
+Processing,effected,Environmental,ice,arctic,the groan of an ice sheet shifting in deep water
+Processing,effected,Environmental,landslide,mountain,the rumble of earth in a deep ravine
+Processing,effected,Environmental,river,gorge,the rushing of water through a deep rock canyon
+Processing,effected,Environmental,rain,forest floor,the roar of rain on a thick forest canopy
+Processing,effected,Environmental,storm,open sea,the thud of a ship's hull in deep ocean swells
+Processing,effected,Environmental,steam,vent,the roar of steam from a deep rock fissure
+Processing,effected,Environmental,mud,swamp,the gloop of a mud pot in a geothermal area
+Processing,effected,Environmental,rock,well,a stone hitting the water at the bottom of a deep well
+Processing,effected,Environmental,twigs,pine grove,the snapping of branches in a forest clearing
+Processing,effected,Environmental,leaves,garden,the rustle of maple leaves on pavement
+Processing,effected,Organic,shout,tunnel,a person yelling in a deep subway passage
+Processing,effected,Organic,laughter,theater,the resonant laughter of an audience in a hall
+Processing,effected,Organic,vocalization,canyon,a person singing in a deep stone gorge
+Processing,effected,Organic,bark,kennel,the resonant bark of a dog in a stone hallway
+Processing,effected,Organic,cough,cathedral,a resonant cough in a large empty church
+Processing,effected,Organic,roar,zoo,the resonant roar of a lion in a stone enclosure
+Processing,effected,Organic,growl,forest,the guttural growl of a bear in a deep thicket
+Processing,effected,Organic,heartbeat,clinic,a heartbeat heard through a stethoscope
+Processing,effected,Organic,stomp,savanna,an elephant foot hitting the dry resonant earth
+Processing,effected,Organic,snore,bedroom,the resonant vibration of a person snoring
+Processing,effected,Organic,breathing,stable,the deep breath of a horse in a wooden barn
+Processing,effected,Organic,grunt,gym,the guttural grunt of a person lifting a heavy weight
+Processing,effected,Organic,chest,jungle,a gorilla drumming its chest in a resonant forest
+Processing,effected,Organic,movement,undergrowth,a large animal crashing through a deep thicket
+Processing,effected,Organic,howl,valley,the resonant howl of a wolf in a mountain basin
+Processing,effected,Organic,hooves,dirt track,the thundering of a horse gallop on soft ground
+Processing,effected,Organic,purr,living room,the deep vibration of a large cat purring
+Processing,effected,Domestic,door,mansion,the boom of a heavy oak door in a stone hall
+Processing,effected,Domestic,bath,bathroom,water filling a tub in a resonant tiled room
+Processing,effected,Domestic,fireplace,den,the roar of a fire in a deep stone hearth
+Processing,effected,Domestic,carpet,stairwell,the thud of a heavy rug being beaten
+Processing,effected,Domestic,safe,office,the clunk of a heavy safe door in a resonant room
+Processing,effected,Domestic,vacuum,hallway,the roar of a vacuum in a large empty house
+Processing,effected,Domestic,furnace,basement,the roar of a gas furnace igniting
+Processing,effected,Domestic,trunk,attic,the thud of a heavy lid in a resonant attic
+Processing,effected,Domestic,bed,bedroom,the groan of a wooden bed frame in a large room
+Processing,effected,Domestic,curtains,theater,the sliding of curtains in a large auditorium
+Processing,effected,Domestic,sofa,living room,the thud of a person sitting on a velvet couch
+Processing,effected,Domestic,fridge,kitchen,the hum of a fridge in a resonant kitchen
+Processing,effected,Domestic,counter,kitchen,a pot hitting a thick marble countertop
+Processing,effected,Domestic,staircase,foyer,the creak of a grand wooden staircase
+Processing,effected,Domestic,wardrobe,bedroom,the thud of a wooden door closing
+Processing,effected,Domestic,bin,alleyway,the boom of a plastic lid in a resonant alley
+Processing,effected,Electronic,subwoofer,home theater,a 40hz tone vibrating a large resonant room
+Processing,effected,Electronic,synthesizer,studio,a sub-bass note from an analog synthesizer
+Processing,effected,Electronic,transformer,substation,the hum of a transformer in a resonant yard
+Processing,effected,Electronic,amplifier,concert stage,the hum of a bass amp cabinet
+Processing,effected,Electronic,buzzer,prison,the rasp of a buzzer in a stone corridor
+Processing,effected,Electronic,motor,elevator room,the drone of a motor on a machine floor
+Processing,effected,Electronic,server,data center,the roar of fans in a large server hall
+Processing,effected,Electronic,oscillator,lab,a sine wave in a resonant laboratory
+Processing,effected,Electronic,feedback,stage,the roar of bass feedback in a music venue
+Processing,effected,Electronic,alarm,factory,a siren in a large industrial building
+Processing,effected,Electronic,static,radio,the hum of a radio in a resonant attic
+Processing,effected,Electronic,pulse,medical lab,the thud of an mri machine in a clinic
+Processing,effected,Electronic,solenoid,factory,the clunk of a large industrial solenoid
+Processing,effected,Electronic,relay,power plant,the thud of a high-voltage relay
+Processing,effected,Electronic,cable,utility tunnel,the vibration of a power cable in a vault
+Processing,effected,Electronic,drive,computer room,the whir of a drive in a large server room
+Processing,effected,Electronic,monitor,studio,the internal hum of a large monitor speaker
+Processing,chorused,Musical,guitar,recording studio,a 12-string acoustic guitar being strummed vigorously
+Processing,chorused,Musical,choir,cathedral,the combined voices of a large professional chorus
+Processing,chorused,Musical,strings,conservatory,the dense texture of twenty cellos playing in unison
+Processing,chorused,Musical,piano,ballroom,every key on a grand piano struck simultaneously with sustain
+Processing,chorused,Musical,handbells,church,the combined ringing of a full set of brass handbells
+Processing,chorused,Musical,tambura,shrine,a wall of harmonic drones from several tamburas
+Processing,chorused,Musical,orchestra,theater,the climax of a symphony with full brass and percussion
+Processing,chorused,Musical,bagpipes,parade,a dozen bagpipes playing at once in a narrow alley
+Processing,chorused,Musical,synthesizer,studio,a layered patch of six analog oscillators detuned together
+Processing,chorused,Musical,harp,theater,a rapid wash of notes from three harps playing together
+Processing,chorused,Musical,brass,bandstand,a dense fanfare from a full section of trombones
+Processing,chorused,Musical,cymbals,rehearsal space,a sustained roll on two large suspended crash cymbals
+Processing,chorused,Musical,accordion,plaza,a full-register chord on a large button accordion
+Processing,chorused,Musical,marimba,conservatory,a rapid four-mallet roll on a marimba with resonant tubes
+Processing,chorused,Musical,bells,tower,the overlapping ringing of five huge church bells
+Processing,chorused,Musical,sitar,temple,the dense harmonic wash of multiple sitars playing together
+Processing,chorused,Musical,glockenspiel,museum,a rapid roll using brass mallets on metal bars
+Processing,chorused,Mechanical,shutter,press conference,the rapid-fire clicking of multiple camera shutters
+Processing,chorused,Mechanical,relay,server room,the rapid chatter of a bank of electrical relays
+Processing,chorused,Mechanical,looms,factory,the dense rhythmic clatter of fifty industrial looms
+Processing,chorused,Mechanical,sewing machine,factory,the complex rhythmic clicking of many machines
+Processing,chorused,Mechanical,gears,clock tower,the overlapping mechanical roar of ancient clockwork
+Processing,chorused,Mechanical,pump,station,multiple large water pumps running at full power
+Processing,chorused,Mechanical,generator,data center,the dense combined hum of a dozen large generators
+Processing,chorused,Mechanical,mill,quarry,heavy stones grinding together in a rotating metal drum
+Processing,chorused,Mechanical,winch,dockside,multiple steel cables straining and creaking at once
+Processing,chorused,Mechanical,drill,mining shaft,the deep layered vibration of multiple rock drills
+Processing,chorused,Mechanical,piston,factory,the rhythmic thudding of a bank of pneumatic pistons
+Processing,chorused,Mechanical,fan,server room,the combined whir of a thousand server cooling fans
+Processing,chorused,Mechanical,conveyor,warehouse,multiple metal belts carrying heavy scrap at once
+Processing,chorused,Mechanical,typewriter,office,multiple people typing rapidly and erratically
+Processing,chorused,Mechanical,shutter,factory,a row of automatic metal shutters closing together
+Processing,chorused,Mechanical,lathe,machine shop,multiple lathes shaving metal rods simultaneously
+Processing,chorused,Mechanical,press,industrial plant,the combined thud of several hydraulic presses
+Processing,chorused,Environmental,cricket,meadow,hundreds of crickets chirping at different tempos
+Processing,chorused,Environmental,cicada,orchard,the rhythmic high-pitched buzzing of a cicada swarm
+Processing,chorused,Environmental,rain,tropical forest,the sound of heavy rain hitting multiple layers of foliage
+Processing,chorused,Environmental,wind,pine forest,wind whistling through thousands of pine needles
+Processing,chorused,Environmental,waves,beach,the wash of several waves receding over pebbles
+Processing,chorused,Environmental,echo,cavern,multiple overlapping echoes of several shouts
+Processing,chorused,Environmental,geyser,thermal park,the bubbling and hissing of several small vents
+Processing,chorused,Environmental,fire,campsite,the crackle of a pile of mixed dry brush burning
+Processing,chorused,Environmental,bees,meadow,a large swarm of honeybees hovering near a hive
+Processing,chorused,Environmental,birds,forest,a chaotic morning chorus of twenty bird species
+Processing,chorused,Environmental,ice,lake,the combined splintering of frost on many surfaces
+Processing,chorused,Environmental,sand,desert,the combined singing sound of multiple sand dunes
+Processing,chorused,Environmental,reeds,marsh,dry hollow reed stalks rattling together in a breeze
+Processing,chorused,Environmental,twigs,pine grove,a chaotic snapping of many dry branches
+Processing,chorused,Environmental,thunder,plains,a rhythmic series of distant thunderclaps
+Processing,chorused,Environmental,bubbles,pond,a series of small air bubbles popping on water
+Processing,chorused,Environmental,lightning,peak,the combined static crackle of an electrical storm
+Processing,chorused,Organic,crowd,stadium,the roar of a hundred thousand people cheering
+Processing,chorused,Organic,wings,cave,the combined flapping of a million bats exiting
+Processing,chorused,Organic,howl,forest,the layered harmonized howling of a large wolf pack
+Processing,chorused,Organic,bark,kennel,the dense overlapping barking of fifty dogs
+Processing,chorused,Organic,footsteps,hallway,the combined tread of a group of people walking
+Processing,chorused,Organic,shout,stadium,a chaotic mixture of individual voices in a crowd
+Processing,chorused,Organic,gulp,dining room,multiple people drinking and swallowing at once
+Processing,chorused,Organic,snore,barracks,the overlapping snores of several sleeping people
+Processing,chorused,Organic,cough,waiting room,multiple people coughing in a resonant hall
+Processing,chorused,Organic,breathing,stable,the overlapping breaths of several sleeping animals
+Processing,chorused,Organic,sneeze,nursery,a chaotic sequence of small rapid sneezes
+Processing,chorused,Organic,hooves,dirt track,a horse herd galloping in a wide field
+Processing,chorused,Organic,wings,garden,multiple insects buzzing around a flowering bush
+Processing,chorused,Organic,chest,jungle,a group of gorillas drumming their chests together
+Processing,chorused,Organic,movement,undergrowth,several animals pushing through dry foliage
+Processing,chorused,Organic,heartbeat,medical lab,the combined pulse of multiple patients on monitors
+Processing,chorused,Domestic,keys,foyer,a large ring of metal keys being shaken vigorously
+Processing,chorused,Domestic,beads,craft room,a messy spill of glass beads onto a hard floor
+Processing,chorused,Domestic,coins,pantry,a jar of loose change being poured into a bowl
+Processing,chorused,Domestic,toys,playroom,a box of plastic blocks being dumped onto a floor
+Processing,chorused,Domestic,curtain,bedroom,a messy rattling of metal rings on a curtain rod
+Processing,chorused,Domestic,shoes,mudroom,a messy pile of boots being kicked around
+Processing,chorused,Domestic,can,pantry,the rhythmic rattling of empty soda cans in a box
+Processing,chorused,Domestic,cutlery,kitchen,a messy spilling of forks and spoons onto a counter
+Processing,chorused,Domestic,drawer,kitchen,a drawer full of loose metal junk being shaken
+Processing,chorused,Domestic,bottle,recycling center,a large bin of glass bottles being shifted
+Processing,chorused,Domestic,pot,kitchen,a messy clinking of metal lids in a drawer
+Processing,chorused,Domestic,floor,hallway,the creaking of multiple old wooden floorboards
+Processing,chorused,Domestic,washing machine,laundry room,the combined noise of several machines spinning
+Processing,chorused,Domestic,remote,living room,multiple people clicking buttons on different devices
+Processing,chorused,Domestic,stapler,office,several people stapling papers in a busy office
+Processing,chorused,Domestic,iron,laundry room,multiple steam irons releasing bursts at once
+Processing,chorused,Domestic,vacuum,hotel,several vacuum cleaners running in a hallway
+Processing,chorused,Electronic,server,data center,the overwhelming roar of thousands of cooling fans
+Processing,chorused,Electronic,alarms,shop,multiple different digital watches beeping at once
+Processing,chorused,Electronic,beeper,hospital,a messy overlap of several different medical monitors
+Processing,chorused,Electronic,static,radio,a messy mixture of white and pink noise
+Processing,chorused,Electronic,feedback,stage,a mixture of different feedback frequencies from several amps
+Processing,chorused,Electronic,interference,office,the combined whine of several digital devices
+Processing,chorused,Electronic,oscillator,lab,multiple oscillators playing slightly detuned frequencies
+Processing,chorused,Electronic,modem,office,a handshake signal from multiple modems in a room
+Processing,chorused,Electronic,beeper,kitchen,multiple digital timers beeping at different intervals
+Processing,chorused,Electronic,scanner,market,multiple scanners beeping at several checkouts
+Processing,chorused,Electronic,flash,studio,multiple electronic flash units charging together
+Processing,chorused,Electronic,relay,server room,the rapid chatter of multiple mechanical relays
+Processing,chorused,Electronic,radio,attic,a radio being tuned between overlapping stations
+Processing,chorused,Electronic,glitch,studio,a sequence of digital audio pops and clicks
+Processing,chorused,Electronic,static,basement,the combined hiss of several detuned receivers
+Processing,chorused,Electronic,drone,control room,the combined hum of multiple server racks
+Processing,chorused,Electronic,synthesizer,workshop,a multi-oscillator patch from a modular system
+Processing,quantized,Musical,metronome,music room,a mechanical metronome ticking in a steady rhythm
+Processing,quantized,Musical,drum machine,club,a rhythmic pattern of electronic kicks and snares
+Processing,quantized,Musical,piano,playroom,a player piano roll triggering notes on a grand piano
+Processing,quantized,Musical,synthesizer,studio,a rhythmic sequence of digital square wave pulses
+Processing,quantized,Musical,sequencer,bedroom,a rapid arpeggio from a digital synthesizer
+Processing,quantized,Musical,woodblock,music room,a rhythmic pattern of strikes on a maple block
+Processing,quantized,Musical,triangle,studio,a rhythmic sequence of hits on a steel triangle
+Processing,quantized,Musical,recorder,classroom,a rhythmic sequence of short notes on a recorder
+Processing,quantized,Musical,tambourine,festival,a steady beat hit on a tambourine rim
+Processing,quantized,Musical,handbell,chapel,a rhythmic ringing of a small silver bell
+Processing,quantized,Musical,glockenspiel,primary school,a rhythmic melody on metal glockenspiel bars
+Processing,quantized,Musical,music box,nursery,the mechanical tinkling of a metal comb in a box
+Processing,quantized,Musical,keyboard,office,the rhythmic clacking of mechanical computer keys
+Processing,quantized,Musical,sampler,recording booth,a percussive sample triggered on a rubber pad
+Processing,quantized,Musical,oscillator,lab,a rhythmic pulsing of a digital sine wave generator
+Processing,quantized,Musical,shaker,recording booth,a rhythmic shaking of beads in a plastic box
+Processing,quantized,Musical,drums,basement,a rhythmic drum roll played on a electronic pad
+Processing,quantized,Mechanical,clock,library,the steady rhythmic ticking of a mechanical wall clock
+Processing,quantized,Mechanical,timer,kitchen,the rhythmic ticking of a plastic egg timer
+Processing,quantized,Mechanical,sewing machine,tailor shop,the steady rhythm of a machine needle in motion
+Processing,quantized,Mechanical,metronome,conservatory,the rhythmic clicking of an electronic unit
+Processing,quantized,Mechanical,projector,home,the steady rhythmic whir of a film projector
+Processing,quantized,Mechanical,printer,office,the rhythmic mechanical cycle of a dot matrix printer
+Processing,quantized,Mechanical,shutter,photography studio,the rhythmic clicking of a camera in burst mode
+Processing,quantized,Mechanical,relay,server room,the rhythmic chatter of a mechanical relay bank
+Processing,quantized,Mechanical,piston,factory,the rhythmic movement of a pneumatic piston system
+Processing,quantized,Mechanical,winch,dockside,the rhythmic ratcheting of a metal winch
+Processing,quantized,Mechanical,typewriter,study,the rhythmic clatter of a manual typewriter carriage
+Processing,quantized,Mechanical,gears,watchmaker,the rhythmic ticking of a small watch escapement
+Processing,quantized,Mechanical,pump,basement,the rhythmic thumping of a water pump in a pipe
+Processing,quantized,Mechanical,fan,office,the steady rhythmic whir of a small cooling fan
+Processing,quantized,Mechanical,lathe,machine shop,the rhythmic shaving of a metal rod on a lathe
+Processing,quantized,Mechanical,stapler,mailroom,the rhythmic firing of a high-speed industrial stapler
+Processing,quantized,Mechanical,solenoid,workshop,the rhythmic fire of a small industrial solenoid
+Processing,quantized,Environmental,woodpecker,forest,the rhythmic tapping of a beak on a hollow tree
+Processing,quantized,Environmental,cricket,meadow,the rhythmic high-pitched chirping of a field cricket
+Processing,quantized,Environmental,drip,cave,a rhythmic dripping of water into a resonant pool
+Processing,quantized,Environmental,rain,tin roof,a rhythmic pitter-patter of raindrops on metal
+Processing,quantized,Environmental,waves,beach,a rhythmic sequence of waves hitting the shore
+Processing,quantized,Environmental,geyser,thermal park,a rhythmic bubbling of a geothermal hot spring
+Processing,quantized,Environmental,wind,window,a rhythmic whistling of wind through a narrow crack
+Processing,quantized,Environmental,fire,campsite,a rhythmic popping of sap in a burning cedar log
+Processing,quantized,Environmental,leaves,garden,a rhythmic rustling of dry leaves in a breeze
+Processing,quantized,Environmental,echo,canyon,a rhythmic series of handclaps echoing off walls
+Processing,quantized,Environmental,pebbles,shore,a rhythmic clinking of stones in the receding surf
+Processing,quantized,Environmental,hail,greenhouse,a rhythmic hitting of ice pellets on a glass roof
+Processing,quantized,Environmental,bubbles,pond,a rhythmic popping of air bubbles on a water surface
+Processing,quantized,Environmental,reeds,marsh,a rhythmic rattling of dry reed stalks in wind
+Processing,quantized,Environmental,seeds,field,a rhythmic popping of dry seed pods in the sun
+Processing,quantized,Environmental,pulse,lab,a rhythmic tick of a geiger counter in a room
+Processing,quantized,Organic,heartbeat,clinic,the rhythmic thumping of a human heart on a monitor
+Processing,quantized,Organic,footsteps,hallway,the rhythmic tread of leather shoes on hardwood
+Processing,quantized,Organic,clap,theater,a rhythmic applause from a small group in a hall
+Processing,quantized,Organic,teeth,bathroom,the rhythmic clicking of chattering teeth from cold
+Processing,quantized,Organic,nails,desk,the rhythmic tapping of fingernails on a plastic surface
+Processing,quantized,Organic,hooves,stable,the rhythmic thudding of a horse's gallop on wood
+Processing,quantized,Organic,wings,garden,the rhythmic buzzing of a hummingbird's wings
+Processing,quantized,Organic,beak,barn,the rhythmic tapping of a chicken pecking a floor
+Processing,quantized,Organic,tongue,quiet room,a rhythmic sequence of clicks from a human tongue
+Processing,quantized,Organic,breathing,bedroom,the rhythmic heavy breathing of a sleeper in the dark
+Processing,quantized,Organic,gulp,kitchen,the rhythmic sound of a person swallowing water
+Processing,quantized,Organic,snore,bedroom,the rhythmic resonant vibration of a sleeper's throat
+Processing,quantized,Organic,sneeze,office,a rhythmic sequence of small rapid sneezes
+Processing,quantized,Organic,cough,waiting room,a rhythmic coughing of a person in a resonant hall
+Processing,quantized,Organic,shout,canyon,a rhythmic series of yodels echoing off stone walls
+Processing,quantized,Organic,blink,quiet room,a rhythmic wet snap of an eyelid closing
+Processing,quantized,Organic,scratching,attic,a rhythmic scratching of a rodent's claw on wood
+Processing,quantized,Domestic,clock,bedroom,the rhythmic ticking of a plastic alarm clock
+Processing,quantized,Domestic,washing machine,laundry room,the rhythmic thudding of a spin cycle
+Processing,quantized,Domestic,knife,kitchen,a rhythmic chopping of vegetables on a wooden board
+Processing,quantized,Domestic,keys,foyer,the rhythmic jingling of a bunch of metal keys
+Processing,quantized,Domestic,hammer,workshop,a rhythmic hammering of nails into a wooden frame
+Processing,quantized,Domestic,scissors,sewing room,the rhythmic snip of shears cutting through fabric
+Processing,quantized,Domestic,beads,craft room,the rhythmic spilling of glass beads into a tray
+Processing,quantized,Domestic,floor,hallway,a rhythmic creaking of an old wooden floorboard
+Processing,quantized,Domestic,pot,kitchen,the rhythmic clinking of a spoon against a metal rim
+Processing,quantized,Domestic,remote,living room,the rhythmic clicking of a remote control button
+Processing,quantized,Domestic,stapler,office,a rhythmic firing of a desktop stapler into paper
+Processing,quantized,Domestic,shoes,mudroom,the rhythmic thud of a person walking in heavy boots
+Processing,quantized,Domestic,drawer,kitchen,the rhythmic sliding of a wooden drawer closing
+Processing,quantized,Domestic,bell,front desk,a rhythmic ringing of a service bell in a lobby
+Processing,quantized,Domestic,curtain,bedroom,a rhythmic rattling of wooden blinds in the wind
+Processing,quantized,Domestic,carpet,stairwell,the rhythmic thudding of a heavy rug being beaten
+Processing,quantized,Electronic,beeper,hospital,a rhythmic electronic beep from a medical monitor
+Processing,quantized,Electronic,metronome,music room,the rhythmic electronic tick of a digital unit
+Processing,quantized,Electronic,alarm,watch,the rhythmic electronic chime of a digital watch
+Processing,quantized,Electronic,scanner,market,the rhythmic beeping of a barcode scanner at a till
+Processing,quantized,Electronic,modem,office,the rhythmic handshake tones of a 56k modem
+Processing,quantized,Electronic,sequencer,studio,a rhythmic sequence of digital percussive clicks
+Processing,quantized,Electronic,oscillator,workshop,a rhythmic sequence of gated square wave pulses
+Processing,quantized,Electronic,buzzer,apartment,a rhythmic pulsing of an analog door buzzer
+Processing,quantized,Electronic,relay,server room,the rhythmic chatter of a bank of electronic relays
+Processing,quantized,Electronic,glitch,studio,a rhythmic sequence of digital audio pops and clicks
+Processing,quantized,Electronic,sampler,bedroom,a rhythmic pattern of triggered drum samples
+Processing,quantized,Electronic,beeper,kitchen,the rhythmic electronic beep of a microwave oven
+Processing,quantized,Electronic,switch,control room,a rhythmic flipping of several toggle switches
+Processing,quantized,Electronic,noise,studio,a rhythmic sequence of gated white noise bursts
+Processing,quantized,Electronic,pulse,laboratory,a rhythmic sequence of high-voltage electrical sparks
+Processing,quantized,Electronic,computer,data center,the rhythmic whirring of a hard drive head shifting
+Processing,quantized,Electronic,radio,attic,a rhythmic sequence of signal pips on a radio receiver

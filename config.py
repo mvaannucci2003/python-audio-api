@@ -1,6 +1,6 @@
 MODEL_NAME = "gemini-3-flash-preview"
 OUTPUT_DIR = "output/scenarios"
-SCENARIOS_PER_TAG_PER_DOMAIN = 17
+SCENARIOS_PER_TAG_PER_DOMAIN = 18
 # Environmential Definitions
 DOMAINS = [
     "Musical",

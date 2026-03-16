@@ -1,0 +1,616 @@
+category,tag,domain,source,environment,scenario
+Space/Dimension,wide,Musical,pipe organ,cathedral,a massive pipe organ chord in a stone cathedral
+Space/Dimension,wide,Musical,timpani,stadium,a timpani strike on an open-air sports field
+Space/Dimension,wide,Musical,trumpet,canyon,a brass trumpet fanfare in a granite gorge
+Space/Dimension,wide,Musical,choir,abbey,a full choir singing in a domed monastery
+Space/Dimension,wide,Musical,gong,ballroom,a large bronze gong struck in a high-ceilinged hall
+Space/Dimension,wide,Musical,piano,museum,a grand piano note in a marble-lined gallery
+Space/Dimension,wide,Musical,harp,conservatory,a harp glissando in a large glass-walled garden
+Space/Dimension,wide,Musical,cello,warehouse,a cello note in a massive industrial storage space
+Space/Dimension,wide,Musical,bells,town square,a set of tubular bells ringing in an open plaza
+Space/Dimension,wide,Musical,flute,tiled terminal,a silver flute melody in a large airport concourse
+Space/Dimension,wide,Musical,drums,hangar,a taiko drum hit in a vast airplane hangar
+Space/Dimension,wide,Musical,marching band,parade route,a marching band playing in a wide city boulevard
+Space/Dimension,wide,Musical,double bass,subway station,a double bass note in a wide underground terminal
+Space/Dimension,wide,Musical,saxophone,park,a saxophone solo in a wide park amphitheater
+Space/Dimension,wide,Musical,bagpipes,highlands,a set of bagpipes on a wide mountain ridge
+Space/Dimension,wide,Musical,handbells,meadow,the ringing of handbells across an open field
+Space/Dimension,wide,Musical,xylophone,theater,a wooden xylophone run in a large auditorium
+Space/Dimension,wide,Mechanical,foghorn,harbor,a foghorn blast across a wide misty bay
+Space/Dimension,wide,Mechanical,train,valley,a locomotive whistle in a wide mountain valley
+Space/Dimension,wide,Mechanical,siren,city,an emergency siren echoing through a wide metropolitan area
+Space/Dimension,wide,Mechanical,engine,airfield,a jet engine idling on a wide tarmac
+Space/Dimension,wide,Mechanical,boiler,foundry,the roar of a boiler in a massive metalworks
+Space/Dimension,wide,Mechanical,hammer,shipyard,a steam hammer hitting steel in a wide dry dock
+Space/Dimension,wide,Mechanical,winch,dockside,a large winch ratcheting in a wide cargo port
+Space/Dimension,wide,Mechanical,conveyor,factory,a long conveyor belt in a vast distribution center
+Space/Dimension,wide,Mechanical,generator,power plant,the hum of a generator in a wide turbine hall
+Space/Dimension,wide,Mechanical,crane,construction site,a gantry crane moving across a wide excavation
+Space/Dimension,wide,Mechanical,ventilation,parking garage,a massive exhaust fan in a wide underground deck
+Space/Dimension,wide,Mechanical,press,industrial site,a hydraulic press in a wide manufacturing plant
+Space/Dimension,wide,Mechanical,elevator,skyscraper,the mechanical groan of a lift in a wide lobby shaft
+Space/Dimension,wide,Mechanical,shutter,warehouse,a massive metal shutter closing in a wide loading bay
+Space/Dimension,wide,Mechanical,mixer,cement plant,a rotating cement drum in a wide industrial yard
+Space/Dimension,wide,Mechanical,roller,highway,a steamroller working on a wide stretch of asphalt
+Space/Dimension,wide,Mechanical,turbine,dam,the roar of a turbine in a wide hydroelectric hall
+Space/Dimension,wide,Environmental,thunder,plains,a thunderclap across a wide flat prairie
+Space/Dimension,wide,Environmental,wind,desert,wind howling across a wide sand dune landscape
+Space/Dimension,wide,Environmental,ocean,coast,waves crashing on a wide sandy beach
+Space/Dimension,wide,Environmental,waterfall,jungle,the roar of a waterfall in a wide rainforest basin
+Space/Dimension,wide,Environmental,rain,farmland,heavy rain falling over a wide cornfield
+Space/Dimension,wide,Environmental,volcano,crater,the bubbling of lava in a wide volcanic vent
+Space/Dimension,wide,Environmental,ice,arctic,the cracking of a glacier in a wide frozen bay
+Space/Dimension,wide,Environmental,avalanche,mountain,the roar of snow sliding down a wide alpine slope
+Space/Dimension,wide,Environmental,geyser,thermal park,a steam eruption in a wide geothermal field
+Space/Dimension,wide,Environmental,landslide,canyon,the rumble of rocks falling into a wide gorge
+Space/Dimension,wide,Environmental,storm,open sea,the roar of wind and waves in the open ocean
+Space/Dimension,wide,Environmental,forest,valley,the morning chorus of birds in a wide woodland valley
+Space/Dimension,wide,Environmental,echo,limestone cave,a handclap in a wide subterranean chamber
+Space/Dimension,wide,Environmental,river,floodplain,the rushing of a river through a wide delta
+Space/Dimension,wide,Environmental,sand,dunes,the singing sound of sand in a wide desert
+Space/Dimension,wide,Environmental,reeds,marsh,the rustling of reeds in a wide swamp area
+Space/Dimension,wide,Environmental,twigs,pine grove,the snapping of branches in a wide forest clearing
+Space/Dimension,wide,Organic,crowd,stadium,the roar of a crowd in a massive stadium
+Space/Dimension,wide,Organic,howl,forest,a wolf howling in a wide wooded valley
+Space/Dimension,wide,Organic,vocalization,ocean,the song of a whale in the open sea
+Space/Dimension,wide,Organic,laughter,theater,the sound of an audience laughing in a large hall
+Space/Dimension,wide,Organic,shout,canyon,a person yelling in a wide sandstone gorge
+Space/Dimension,wide,Organic,stomp,savanna,an elephant walking across a wide dry plain
+Space/Dimension,wide,Organic,wings,belfry,the flapping of a colony of bats in a wide tower
+Space/Dimension,wide,Organic,hooves,dirt track,a horse herd galloping in a wide field
+Space/Dimension,wide,Organic,breathing,stable,the deep breath of a horse in a wide barn
+Space/Dimension,wide,Organic,chest,jungle,a gorilla drumming its chest in a wide forest clearing
+Space/Dimension,wide,Organic,movement,undergrowth,a large animal crashing through a wide thicket
+Space/Dimension,wide,Organic,bark,farm,a dog barking in a wide rural valley
+Space/Dimension,wide,Organic,snore,barracks,the sound of a person snoring in a wide room
+Space/Dimension,wide,Organic,clapping,plaza,a group of people clapping in a wide square
+Space/Dimension,wide,Organic,grunt,gym,a weightlifter exhaling in a wide training hall
+Space/Dimension,wide,Organic,howl,tundra,a coyote howling across a wide frozen plain
+Space/Dimension,wide,Organic,bird,canopy,a hawk screeching over a wide forest canopy
+Space/Dimension,wide,Domestic,grandfather clock,foyer,a clock ticking in a wide marble hallway
+Space/Dimension,wide,Domestic,door,mansion,a heavy door slamming in a wide empty house
+Space/Dimension,wide,Domestic,shout,stairwell,a voice echoing in a wide stone staircase
+Space/Dimension,wide,Domestic,vacuum,ballroom,a vacuum cleaner in a wide carpeted hall
+Space/Dimension,wide,Domestic,fireplace,den,the roar of a fire in a wide stone hearth
+Space/Dimension,wide,Domestic,curtains,theater,the sliding of curtains across a wide stage
+Space/Dimension,wide,Domestic,safe,office,the clink of a safe in a wide wood-paneled room
+Space/Dimension,wide,Domestic,bath,bathroom,water filling a tub in a wide tiled room
+Space/Dimension,wide,Domestic,washing machine,laundry room,a spin cycle in a wide basement area
+Space/Dimension,wide,Domestic,fridge,kitchen,the hum of a fridge in a wide open-plan kitchen
+Space/Dimension,wide,Domestic,trunk,attic,a lid closing in a wide dusty attic
+Space/Dimension,wide,Domestic,pipes,basement,water thumping in pipes in a wide crawlspace
+Space/Dimension,wide,Domestic,bed,bedroom,a bed frame creaking in a wide guest room
+Space/Dimension,wide,Domestic,counter,kitchen,a pot set on a wide granite counter
+Space/Dimension,wide,Domestic,wardrobe,bedroom,a door closing in a wide walk-in closet
+Space/Dimension,wide,Domestic,mat,gym,a mat hitting the floor in a wide exercise room
+Space/Dimension,wide,Domestic,bin,alleyway,a trash lid slamming in a wide brick alley
+Space/Dimension,wide,Electronic,pa system,plaza,an announcement over speakers in a wide public square
+Space/Dimension,wide,Electronic,synthesizer,studio,a wide stereo pad from an analog synth
+Space/Dimension,wide,Electronic,transformer,substation,the hum of a transformer in a wide electrical yard
+Space/Dimension,wide,Electronic,speaker,club,music playing in a wide dance hall
+Space/Dimension,wide,Electronic,interference,radio station,static in a wide broadcast studio
+Space/Dimension,wide,Electronic,alarm,factory,a siren sounding in a wide industrial floor
+Space/Dimension,wide,Electronic,buzzer,prison,a buzzer in a wide stone corridor
+Space/Dimension,wide,Electronic,beeper,hospital,a monitor beeping in a wide ward
+Space/Dimension,wide,Electronic,motor,elevator room,a motor hum in a wide machine floor
+Space/Dimension,wide,Electronic,server,data center,fan noise in a wide server room
+Space/Dimension,wide,Electronic,oscillator,lab,a sine wave in a wide resonant laboratory
+Space/Dimension,wide,Electronic,feedback,stage,guitar feedback in a wide music venue
+Space/Dimension,wide,Electronic,modem,office,the screech of a modem in a wide workspace
+Space/Dimension,wide,Electronic,switch,control room,a toggle switch in a wide operations center
+Space/Dimension,wide,Electronic,relay,power plant,a relay click in a wide control hall
+Space/Dimension,wide,Electronic,static,radio,white noise in a wide attic space
+Space/Dimension,wide,Electronic,flash,studio,a strobe light charging in a wide photo studio
+Space/Dimension,narrow,Musical,recorder,plastic pipe,a recorder playing inside a narrow pvc tube
+Space/Dimension,narrow,Musical,harmonica,telephone booth,a harmonica played in a glass phone booth
+Space/Dimension,narrow,Musical,violin,closet,a violin note in a small walk-in closet
+Space/Dimension,narrow,Musical,flute,narrow hallway,a flute melody in a tight corridor
+Space/Dimension,narrow,Musical,guitar,cardboard box,a guitar strumming inside a large box
+Space/Dimension,narrow,Musical,woodblock,wooden crate,a woodblock struck in a small shipping box
+Space/Dimension,narrow,Musical,tambourine,car interior,a tambourine shaken inside a small vehicle
+Space/Dimension,narrow,Musical,kazoo,tin can,a kazoo buzzing into a metal soup can
+Space/Dimension,narrow,Musical,bell,jar,a small bell ringing inside a glass jar
+Space/Dimension,narrow,Musical,drum,closet,a snare drum hit in a small pantry
+Space/Dimension,narrow,Musical,piano,upright,the internal mechanical clatter of an upright piano
+Space/Dimension,narrow,Musical,metronome,wooden box,a metronome ticking in a small cigar box
+Space/Dimension,narrow,Musical,synthesizer,small studio,a synth note in a cramped recording booth
+Space/Dimension,narrow,Musical,triangle,kitchenette,a triangle strike in a small galley kitchen
+Space/Dimension,narrow,Musical,ukulele,tent,a ukulele strummed in a small nylon tent
+Space/Dimension,narrow,Musical,music box,tin,a music box playing in a metal container
+Space/Dimension,narrow,Musical,shaker,small room,a plastic shaker in a tiled bathroom stall
+Space/Dimension,narrow,Mechanical,motor,ventilation duct,a motor whirring inside a metal air duct
+Space/Dimension,narrow,Mechanical,clock,wooden case,a watch ticking inside a small jewelry box
+Space/Dimension,narrow,Mechanical,fan,computer case,a cooling fan inside a desktop chassis
+Space/Dimension,narrow,Mechanical,gears,brass tube,gears turning inside a narrow telescope body
+Space/Dimension,narrow,Mechanical,pump,pipes,a water pump vibrating in a narrow copper pipe
+Space/Dimension,narrow,Mechanical,drill,wall cavity,a drill boring into a narrow gap between studs
+Space/Dimension,narrow,Mechanical,shutter,camera housing,a shutter firing inside a tight camera body
+Space/Dimension,narrow,Mechanical,latch,small box,a metal latch snapping on a small tin
+Space/Dimension,narrow,Mechanical,winch,narrow shaft,a small winch in a tight elevator shaft
+Space/Dimension,narrow,Mechanical,piston,engine cylinder,a piston moving in a narrow metal sleeve
+Space/Dimension,narrow,Mechanical,typewriter,booth,a typewriter clacking in a small study carrel
+Space/Dimension,narrow,Mechanical,sewing machine,closet,a sewing machine in a small sewing room
+Space/Dimension,narrow,Mechanical,lock,narrow slot,a key turning in a narrow door lock
+Space/Dimension,narrow,Mechanical,timer,plastic shell,a timer ticking inside a small appliance
+Space/Dimension,narrow,Mechanical,valve,narrow pipe,a valve clicking in a thin water line
+Space/Dimension,narrow,Mechanical,relay,junction box,a relay snapping in a small metal enclosure
+Space/Dimension,narrow,Mechanical,buzzer,intercom,a buzzer in a small plastic wall unit
+Space/Dimension,narrow,Mechanical,projector,small booth,a projector whirring in a tight cinema box
+Space/Dimension,narrow,Environmental,water,rock crevice,water dripping in a narrow rock crack
+Space/Dimension,narrow,Environmental,wind,narrow pipe,wind whistling through a narrow metal tube
+Space/Dimension,narrow,Environmental,rain,narrow gutter,rain rushing through a tight metal downspout
+Space/Dimension,narrow,Environmental,leaves,narrow alley,leaves rustling in a tight brick passage
+Space/Dimension,narrow,Environmental,echo,narrow well,a shout echoing down a narrow stone shaft
+Space/Dimension,narrow,Environmental,cricket,narrow hole,a cricket chirping inside a wall cavity
+Space/Dimension,narrow,Environmental,stream,narrow gully,water flowing through a tight rocky ditch
+Space/Dimension,narrow,Environmental,steam,narrow vent,steam hissing through a tight rock fissure
+Space/Dimension,narrow,Environmental,pebble,narrow pipe,a stone rattling down a narrow drainage pipe
+Space/Dimension,narrow,Environmental,hail,narrow tube,ice pellets falling through a metal pipe
+Space/Dimension,narrow,Environmental,twigs,narrow thicket,branches snapping in a dense narrow hedge
+Space/Dimension,narrow,Environmental,bubbles,narrow jar,air bubbles rising in a thin glass tube
+Space/Dimension,narrow,Environmental,sand,narrow funnel,sand pouring through a tight glass neck
+Space/Dimension,narrow,Environmental,fire,narrow flue,the roar of a fire in a tight chimney pipe
+Space/Dimension,narrow,Environmental,ice,narrow crack,a thin ice sheet snapping in a small puddle
+Space/Dimension,narrow,Environmental,bird,narrow chimney,a bird chirping in a tight metal flue
+Space/Dimension,narrow,Environmental,electricity,narrow conduit,the buzz of wires in a narrow metal pipe
+Space/Dimension,narrow,Organic,voice,narrow booth,a person speaking in a small isolation booth
+Space/Dimension,narrow,Organic,scratching,narrow crawlspace,a rodent scratching in a tight wall gap
+Space/Dimension,narrow,Organic,breathing,narrow tent,the breath of a sleeper in a tight bivy sack
+Space/Dimension,narrow,Organic,bark,narrow kennel,a dog barking in a small metal crate
+Space/Dimension,narrow,Organic,teeth,narrow room,teeth chattering in a small tiled bathroom
+Space/Dimension,narrow,Organic,gulp,narrow throat,the sound of a person swallowing in a quiet room
+Space/Dimension,narrow,Organic,wings,narrow box,an insect buzzing inside a small cardboard container
+Space/Dimension,narrow,Organic,movement,narrow tunnel,an animal crawling through a tight burrow
+Space/Dimension,narrow,Organic,laughter,narrow hall,a person giggling in a tight corridor
+Space/Dimension,narrow,Organic,shout,narrow pipe,a voice yelling into a narrow metal tube
+Space/Dimension,narrow,Organic,scuttle,narrow duct,a rat moving through a tight air vent
+Space/Dimension,narrow,Organic,grunt,narrow space,a person grunting in a tight attic crawlspace
+Space/Dimension,narrow,Organic,heartbeat,narrow chest,a heartbeat heard through a tight stethoscope
+Space/Dimension,narrow,Organic,cough,narrow elevator,a person coughing in a small lift car
+Space/Dimension,narrow,Organic,tongue,narrow mouth,a tongue click in a small resonant space
+Space/Dimension,narrow,Organic,snap,narrow hallway,a finger snap in a tight brick passage
+Space/Dimension,narrow,Organic,laughter,telephone booth,a giggle inside a glass phone box
+Space/Dimension,narrow,Domestic,radio,cupboard,a radio playing inside a small kitchen cabinet
+Space/Dimension,narrow,Domestic,keys,glass jar,keys jingling inside a small glass container
+Space/Dimension,narrow,Domestic,clock,wooden drawer,a clock ticking in a small bedside drawer
+Space/Dimension,narrow,Domestic,door,narrow closet,a door closing in a tight storage space
+Space/Dimension,narrow,Domestic,vacuum,narrow hall,a vacuum in a tight apartment corridor
+Space/Dimension,narrow,Domestic,can,narrow pantry,a tin can falling in a tight storage shelf
+Space/Dimension,narrow,Domestic,kettle,narrow kitchen,a kettle whistling in a small galley space
+Space/Dimension,narrow,Domestic,shoes,narrow box,boots being dropped into a tight wooden bin
+Space/Dimension,narrow,Domestic,foil,narrow tube,foil crinkling inside a small cardboard roll
+Space/Dimension,narrow,Domestic,pot,narrow sink,a pot clinking in a small metal basin
+Space/Dimension,narrow,Domestic,drawer,narrow desk,a drawer sliding in a tight workspace
+Space/Dimension,narrow,Domestic,scissors,narrow box,scissors cutting inside a small craft tin
+Space/Dimension,narrow,Domestic,beads,narrow jar,beads spilling into a tight glass vial
+Space/Dimension,narrow,Domestic,switch,narrow hall,a light switch clicking in a tight passage
+Space/Dimension,narrow,Domestic,mirror,narrow bathroom,a mirror being set on a tight shelf
+Space/Dimension,narrow,Domestic,stapler,narrow desk,a stapler firing in a small study carrel
+Space/Dimension,narrow,Domestic,jewelry,narrow box,a chain sliding into a tight velvet tray
+Space/Dimension,narrow,Electronic,speaker,plastic case,a small speaker playing inside a tin can
+Space/Dimension,narrow,Electronic,buzzer,small tin,a buzzer sounding inside a metal container
+Space/Dimension,narrow,Electronic,beeper,narrow unit,a digital beep inside a small handheld device
+Space/Dimension,narrow,Electronic,interference,narrow box,static inside a small metal shielded unit
+Space/Dimension,narrow,Electronic,oscillator,narrow lab,a synth note in a small equipment room
+Space/Dimension,narrow,Electronic,alarm,narrow locker,a watch alarm beeping in a metal locker
+Space/Dimension,narrow,Electronic,motor,narrow housing,a small motor whirring in a plastic shell
+Space/Dimension,narrow,Electronic,modem,narrow office,a modem screeching in a tight cubicle
+Space/Dimension,narrow,Electronic,switch,narrow panel,a toggle switch in a small control box
+Space/Dimension,narrow,Electronic,relay,narrow enclosure,a relay clicking in a tight junction case
+Space/Dimension,narrow,Electronic,static,narrow radio,hiss from a small transistor radio
+Space/Dimension,narrow,Electronic,feedback,narrow booth,mic feedback in a small vocal booth
+Space/Dimension,narrow,Electronic,fan,narrow vent,a fan whirring in a tight metal duct
+Space/Dimension,narrow,Electronic,flash,narrow camera,a flash unit recycling in a tight housing
+Space/Dimension,narrow,Electronic,buzzer,intercom box,a buzzer in a tight plastic wall unit
+Space/Dimension,narrow,Electronic,transformer,narrow wall,hum from a transformer in a tight gap
+Space/Dimension,narrow,Electronic,beeper,narrow microwave,a beep from a small countertop oven
+Space/Dimension,deep,Musical,tuba,cellar,a low tuba note played in a stone basement
+Space/Dimension,deep,Musical,double bass,theater,a double bass note in a resonant orchestra pit
+Space/Dimension,deep,Musical,timpani,underground hall,a timpani hit in a subterranean chamber
+Space/Dimension,deep,Musical,organ,crypt,a low organ pipe vibration in a stone vault
+Space/Dimension,deep,Musical,gong,temple,the long resonance of a gong in a large hall
+Space/Dimension,deep,Musical,piano,ballroom,a low grand piano note sustaining in a large room
+Space/Dimension,deep,Musical,cello,basement,a cello being bowed in a damp underground room
+Space/Dimension,deep,Musical,bassoon,concert hall,a low bassoon note in a resonant auditorium
+Space/Dimension,deep,Musical,marimba,conservatory,a low marimba bar hit with a soft mallet
+Space/Dimension,deep,Musical,drum,warehouse,a kick drum strike in a large empty storage hall
+Space/Dimension,deep,Musical,harp,sunroom,the low string of a harp plucked in a resonant room
+Space/Dimension,deep,Musical,bowls,meditation room,the vibration of a large singing bowl
+Space/Dimension,deep,Musical,synthesizer,studio,a sub-bass note from a large modular system
+Space/Dimension,deep,Musical,bell,clock tower,the boom of a massive bell inside a stone tower
+Space/Dimension,deep,Musical,djembe,park,a deep bass hit on the center of a large drum
+Space/Dimension,deep,Musical,didgeridoo,cave,the drone of a didgeridoo in a stone cavern
+Space/Dimension,deep,Musical,bagpipes,cathedral,the low drone of pipes in a large church
+Space/Dimension,deep,Mechanical,engine,ship hull,the throb of an engine deep in a cargo vessel
+Space/Dimension,deep,Mechanical,furnace,basement,the roar of a furnace in a large boiler room
+Space/Dimension,deep,Mechanical,press,factory,the thud of a hydraulic press on a concrete floor
+Space/Dimension,deep,Mechanical,turbine,dam,the vibration of a turbine deep in a stone dam
+Space/Dimension,deep,Mechanical,generator,vault,the hum of a generator in an underground bunker
+Space/Dimension,deep,Mechanical,boiler,foundry,the internal roar of a massive steam boiler
+Space/Dimension,deep,Mechanical,drill,mining shaft,a rock drill boring deep into a granite wall
+Space/Dimension,deep,Mechanical,pump,oil field,the thumping of a pumpjack on resonant earth
+Space/Dimension,deep,Mechanical,elevator,skyscraper,the groan of cables in a deep elevator shaft
+Space/Dimension,deep,Mechanical,winch,dockside,the ratcheting of a winch on a hollow pier
+Space/Dimension,deep,Mechanical,shutter,warehouse,the boom of a metal shutter in a large hall
+Space/Dimension,deep,Mechanical,conveyor,quarry,the clatter of a belt in a deep stone pit
+Space/Dimension,deep,Mechanical,hammer,shipyard,a hammer hitting a resonant steel plate
+Space/Dimension,deep,Mechanical,mixer,construction site,the thud of a cement mixer in a foundation
+Space/Dimension,deep,Mechanical,roller,highway,the vibration of a roller on a deep road bed
+Space/Dimension,deep,Mechanical,ventilation,tunnel,the roar of a fan deep in a subway passage
+Space/Dimension,deep,Mechanical,piston,factory,the thud of a piston in a large industrial unit
+Space/Dimension,deep,Mechanical,crane,dock,the groan of a crane moving a heavy resonant load
+Space/Dimension,deep,Environmental,ocean,cave,a wave crashing deep inside a sea cavern
+Space/Dimension,deep,Environmental,thunder,valley,the rolling boom of thunder in a mountain basin
+Space/Dimension,deep,Environmental,volcano,crater,the internal rumble of a volcanic vent
+Space/Dimension,deep,Environmental,earthquake,fault line,the grinding of earth deep underground
+Space/Dimension,deep,Environmental,wind,canyon,the moan of wind through a deep stone gorge
+Space/Dimension,deep,Environmental,waterfall,jungle,the thud of water in a deep forest pool
+Space/Dimension,deep,Environmental,echo,limestone cave,a voice echoing in a deep subterranean hall
+Space/Dimension,deep,Environmental,avalanche,alpine peak,the roar of snow in a deep mountain valley
+Space/Dimension,deep,Environmental,geyser,thermal park,the thumping of water deep in a hot spring
+Space/Dimension,deep,Environmental,ice,arctic,the groan of an ice sheet shifting in deep water
+Space/Dimension,deep,Environmental,landslide,mountain,the rumble of earth in a deep ravine
+Space/Dimension,deep,Environmental,river,gorge,the rushing of water through a deep rock canyon
+Space/Dimension,deep,Environmental,rain,forest floor,the roar of rain on a thick forest canopy
+Space/Dimension,deep,Environmental,storm,open sea,the thud of a ship's hull in deep ocean swells
+Space/Dimension,deep,Environmental,steam,vent,the roar of steam from a deep rock fissure
+Space/Dimension,deep,Environmental,mud,swamp,the gloop of a mud pot in a deep geothermal area
+Space/Dimension,deep,Environmental,rock,well,a stone hitting the water at the bottom of a deep well
+Space/Dimension,deep,Organic,whale,ocean,the song of a blue whale in the deep sea
+Space/Dimension,deep,Organic,roar,zoo,the resonant roar of a lion in a stone enclosure
+Space/Dimension,deep,Organic,growl,forest,the guttural growl of a bear in a deep thicket
+Space/Dimension,deep,Organic,heartbeat,clinic,the thud of a heart heard through a stethoscope
+Space/Dimension,deep,Organic,stomp,savanna,an elephant foot hitting the dry resonant earth
+Space/Dimension,deep,Organic,snore,bedroom,the resonant vibration of a person snoring
+Space/Dimension,deep,Organic,vocalization,canyon,a person singing in a deep stone gorge
+Space/Dimension,deep,Organic,cough,cathedral,a resonant cough in a large empty church
+Space/Dimension,deep,Organic,shout,tunnel,a voice yelling in a deep subway passage
+Space/Dimension,deep,Organic,laughter,theater,the resonant laughter of an audience in a hall
+Space/Dimension,deep,Organic,breathing,stable,the deep breath of a horse in a wooden barn
+Space/Dimension,deep,Organic,grunt,gym,the guttural grunt of a person lifting a heavy weight
+Space/Dimension,deep,Organic,chest,jungle,a gorilla drumming its chest in a resonant forest
+Space/Dimension,deep,Organic,movement,undergrowth,a large animal crashing through a deep thicket
+Space/Dimension,deep,Organic,howl,valley,the resonant howl of a wolf in a mountain basin
+Space/Dimension,deep,Organic,hooves,dirt track,the thundering of a horse gallop on soft ground
+Space/Dimension,deep,Organic,bark,kennel,the resonant bark of a dog in a stone hallway
+Space/Dimension,deep,Organic,purr,living room,the deep vibration of a large cat purring
+Space/Dimension,deep,Domestic,door,mansion,the boom of a heavy oak door in a stone hall
+Space/Dimension,deep,Domestic,bath,bathroom,water filling a tub in a resonant tiled room
+Space/Dimension,deep,Domestic,fireplace,den,the roar of a fire in a deep stone hearth
+Space/Dimension,deep,Domestic,carpet,stairwell,the thud of a heavy rug being beaten
+Space/Dimension,deep,Domestic,safe,office,the clunk of a heavy safe door in a resonant room
+Space/Dimension,deep,Domestic,vacuum,hallway,the roar of a vacuum in a large empty house
+Space/Dimension,deep,Domestic,furnace,basement,the roar of a gas furnace igniting
+Space/Dimension,deep,Domestic,pipes,basement,the thumping of water in old iron pipes
+Space/Dimension,deep,Domestic,trunk,attic,the thud of a heavy lid in a resonant attic
+Space/Dimension,deep,Domestic,bed,bedroom,the groan of a wooden bed frame in a large room
+Space/Dimension,deep,Domestic,curtains,theater,the sliding of curtains in a large auditorium
+Space/Dimension,deep,Domestic,sofa,living room,the thud of a person sitting on a velvet couch
+Space/Dimension,deep,Domestic,fridge,kitchen,the hum of a fridge in a resonant kitchen
+Space/Dimension,deep,Domestic,counter,kitchen,a pot hitting a thick marble countertop
+Space/Dimension,deep,Domestic,staircase,foyer,the creak of a grand wooden staircase
+Space/Dimension,deep,Domestic,wardrobe,bedroom,the thud of a wooden door closing
+Space/Dimension,deep,Domestic,bin,alleyway,the boom of a plastic lid in a resonant alley
+Space/Dimension,deep,Electronic,subwoofer,home theater,a 40hz tone vibrating a large resonant room
+Space/Dimension,deep,Electronic,synthesizer,studio,a sub-bass note from an analog synthesizer
+Space/Dimension,deep,Electronic,transformer,substation,the hum of a transformer in a resonant yard
+Space/Dimension,deep,Electronic,amplifier,concert stage,the hum of a bass amp cabinet
+Space/Dimension,deep,Electronic,buzzer,prison,the rasp of a buzzer in a stone corridor
+Space/Dimension,deep,Electronic,motor,elevator room,the drone of a motor in a machine floor
+Space/Dimension,deep,Electronic,server,data center,the roar of fans in a large server hall
+Space/Dimension,deep,Electronic,oscillator,lab,a sine wave in a resonant laboratory
+Space/Dimension,deep,Electronic,feedback,stage,the roar of bass feedback in a music venue
+Space/Dimension,deep,Electronic,alarm,factory,a siren in a large industrial building
+Space/Dimension,deep,Electronic,static,radio,the hum of a radio in a resonant attic
+Space/Dimension,deep,Electronic,pulse,medical lab,the thud of an mri machine in a clinic
+Space/Dimension,deep,Electronic,solenoid,factory,the clunk of a large industrial solenoid
+Space/Dimension,deep,Electronic,relay,power plant,the thud of a high-voltage relay
+Space/Dimension,deep,Electronic,cable,utility tunnel,the vibration of a power cable in a vault
+Space/Dimension,deep,Electronic,drive,computer room,the whir of a drive in a large server room
+Space/Dimension,deep,Electronic,monitor,studio,the internal hum of a large monitor speaker
+Space/Dimension,shallow,Musical,toy piano,wooden table,a toy piano note played on a flat table
+Space/Dimension,shallow,Musical,triangle,small room,a triangle struck in a small carpeted space
+Space/Dimension,shallow,Musical,glockenspiel,studio,a high metal bar hit with a plastic mallet
+Space/Dimension,shallow,Musical,ukulele,porch,a plastic-stringed ukulele strummed lightly
+Space/Dimension,shallow,Musical,recorder,classroom,a high note played on a plastic recorder
+Space/Dimension,shallow,Musical,tambourine,festival,a light shake of a small plastic tambourine
+Space/Dimension,shallow,Musical,woodblock,music room,a strike on a small flat woodblock
+Space/Dimension,shallow,Musical,kazoo,parade,a kazoo buzzing in the open air
+Space/Dimension,shallow,Musical,shaker,recording booth,a small plastic shaker filled with sand
+Space/Dimension,shallow,Musical,violin,gallery,a high note on a thin violin string
+Space/Dimension,shallow,Musical,harp,sunroom,a high string pluck on a small lap harp
+Space/Dimension,shallow,Musical,bell,entryway,a small brass bell ringing once
+Space/Dimension,shallow,Musical,drum,basement,a light tap on a small snare drum head
+Space/Dimension,shallow,Musical,banjo,riverbank,a sharp pluck on a thin banjo string
+Space/Dimension,shallow,Musical,kalimba,bedroom,a flick of a metal tine on a small box
+Space/Dimension,shallow,Musical,music box,nursery,a small music box playing on a dresser
+Space/Dimension,shallow,Musical,synthesizer,lab,a high-frequency sine wave from a digital synth
+Space/Dimension,shallow,Mechanical,watch,tray,a wristwatch ticking on a metal bedside tray
+Space/Dimension,shallow,Mechanical,fan,desk,a small plastic fan on an office desk
+Space/Dimension,shallow,Mechanical,sewing machine,table,a needle punching through thin silk
+Space/Dimension,shallow,Mechanical,shutter,hand,a camera shutter click in a quiet room
+Space/Dimension,shallow,Mechanical,gears,watchmaker,tiny gears spinning in a pocket watch
+Space/Dimension,shallow,Mechanical,latch,small box,a metal latch snapping on a tin box
+Space/Dimension,shallow,Mechanical,stapler,desk,a small stapler clicking through one sheet
+Space/Dimension,shallow,Mechanical,timer,kitchen,a plastic timer ticking on a counter
+Space/Dimension,shallow,Mechanical,pen,study,a retractable pen clicking in a hand
+Space/Dimension,shallow,Mechanical,lock,jewelry box,a small key turning in a lock
+Space/Dimension,shallow,Mechanical,winch,boathouse,the ratcheting of a small fishing reel
+Space/Dimension,shallow,Mechanical,drill,workshop,a hobby drill spinning at high speed
+Space/Dimension,shallow,Mechanical,typewriter,library,the light clack of a portable typewriter
+Space/Dimension,shallow,Mechanical,bell,bicycle,the light ring of a small bicycle bell
+Space/Dimension,shallow,Mechanical,valve,kitchen,a faucet handle clicking shut
+Space/Dimension,shallow,Mechanical,relay,office,a small relay clicking in a desktop unit
+Space/Dimension,shallow,Mechanical,piston,laboratory,a small air pump puffing on a bench
+Space/Dimension,shallow,Mechanical,projector,home,an 8mm projector whirring on a table
+Space/Dimension,shallow,Environmental,rain,thin leaf,a raindrop hitting a flat green leaf
+Space/Dimension,shallow,Environmental,pebble,flat rock,a small stone falling on a flat ledge
+Space/Dimension,shallow,Environmental,twig,garden,a tiny dry branch snapping on pavement
+Space/Dimension,shallow,Environmental,drip,sink,a water drop hitting a plastic basin
+Space/Dimension,shallow,Environmental,leaves,sidewalk,a dry leaf skittering across concrete
+Space/Dimension,shallow,Environmental,wind,window,wind whistling through a thin glass pane
+Space/Dimension,shallow,Environmental,hail,greenhouse,ice pellets hitting a glass roof
+Space/Dimension,shallow,Environmental,bubbles,pond,air bubbles popping on a water surface
+Space/Dimension,shallow,Environmental,sand,desert,sand grains hitting a plastic bottle
+Space/Dimension,shallow,Environmental,cricket,meadow,a single chirp from a field cricket
+Space/Dimension,shallow,Environmental,ice,puddle,a thin layer of frost splintering
+Space/Dimension,shallow,Environmental,steam,kettle,hissing from a small tea kettle spout
+Space/Dimension,shallow,Environmental,frost,window,frost being scraped from a glass pane
+Space/Dimension,shallow,Environmental,shells,beach,tiny shell fragments clinking in the surf
+Space/Dimension,shallow,Environmental,reeds,marsh,thin dry reeds rattling in the wind
+Space/Dimension,shallow,Environmental,thistle,field,a dry thistle scratching a rock
+Space/Dimension,shallow,Environmental,twigs,pine grove,small pine needles rustling
+Space/Dimension,shallow,Organic,snap,hand,a sharp snap of the fingers
+Space/Dimension,shallow,Organic,nails,desk,fingernails tapping on a plastic surface
+Space/Dimension,shallow,Organic,whisper,ear,a soft whisper in a quiet room
+Space/Dimension,shallow,Organic,teeth,bathroom,teeth clicking together once
+Space/Dimension,shallow,Organic,tongue,quiet room,a tongue click in the mouth
+Space/Dimension,shallow,Organic,voice,nursery,a baby babbling in a small room
+Space/Dimension,shallow,Shallow,Organic,wings,garden
+Space/Dimension,shallow,Organic,scuttle,attic,a small insect crawling on paper
+Space/Dimension,shallow,Organic,laughter,playground,a child giggling in the open air
+Space/Dimension,shallow,Organic,shout,canyon,a short yelp echoing once
+Space/Dimension,shallow,Organic,bark,alley,a high yap from a small terrier
+Space/Dimension,shallow,Organic,hair,salon,scissors cutting a single strand of hair
+Space/Dimension,shallow,Organic,peck,garden,a bird tapping on a plastic feeder
+Space/Dimension,shallow,Organic,breathing,bedroom,the light breath of a sleeper
+Space/Dimension,shallow,Organic,gulp,kitchen,a small swallow of water
+Space/Dimension,shallow,Organic,skin,gym,a hand slap on a bare arm
+Space/Dimension,shallow,Organic,blink,quiet room,a wet snap of an eyelid
+Space/Dimension,shallow,Domestic,paper,desk,a sheet of paper being slid across a table
+Space/Dimension,shallow,Domestic,plastic cup,counter,a cup being set on a laminate surface
+Space/Dimension,shallow,Domestic,keys,entryway,a single key jingling in a hand
+Space/Dimension,shallow,Domestic,foil,kitchen,a small piece of foil crinkling
+Space/Dimension,shallow,Domestic,jewelry,bedroom,a gold chain on a wooden dresser
+Space/Dimension,shallow,Domestic,glass,dining room,a spoon clinking a glass rim
+Space/Dimension,shallow,Domestic,coin,pantry,a dime spinning on a linoleum floor
+Space/Dimension,shallow,Domestic,can,pantry,a soda can tab being snapped open
+Space/Dimension,shallow,Domestic,scissors,sewing room,shears cutting through thin silk
+Space/Dimension,shallow,Domestic,switch,hallway,a light switch clicking once
+Space/Dimension,shallow,Domestic,remote,living room,a remote button being pressed
+Space/Dimension,shallow,Domestic,bottle,bathroom,a plastic cap clicking shut
+Space/Dimension,shallow,Domestic,stapler,office,a small stapler firing once
+Space/Dimension,shallow,Domestic,knife,kitchen,a blade hitting a thin plastic board
+Space/Dimension,shallow,Domestic,pillow,bedroom,a pillow hitting a mattress
+Space/Dimension,shallow,Domestic,beads,craft room,beads falling into a plastic tray
+Space/Dimension,shallow,Domestic,lighter,balcony,a lighter lid flipping open
+Space/Dimension,shallow,Electronic,earbuds,table,music from earbuds on a hard surface
+Space/Dimension,shallow,Electronic,phone,panel,a phone vibrating on a plastic desk
+Space/Dimension,shallow,Electronic,beeper,watch,a digital watch alarm beeping
+Space/Dimension,shallow,Electronic,buzzer,toy,a buzzer in a small plastic game
+Space/Dimension,shallow,Electronic,interference,office,a high whine from a laptop
+Space/Dimension,shallow,Electronic,oscillator,lab,a high sine wave in a small room
+Space/Dimension,shallow,Electronic,beeper,microwave,a beep from a small oven
+Space/Dimension,shallow,Electronic,scanner,market,a beep as a barcode is read
+Space/Dimension,shallow,Electronic,switch,car,a button click on a dashboard
+Space/Dimension,shallow,Electronic,flash,studio,a small flash unit charging
+Space/Dimension,shallow,Electronic,relay,office,a click in a desktop pc
+Space/Dimension,shallow,Electronic,fan,laptop,a whir from a computer fan
+Space/Dimension,shallow,Electronic,noise,studio,white noise from a small speaker
+Space/Dimension,shallow,Electronic,alarm,bedroom,a chime from a travel clock
+Space/Dimension,shallow,Electronic,transformer,desk,a hum from a wall charger
+Space/Dimension,shallow,Electronic,glitch,studio,a digital pop in a recording
+Space/Dimension,distant,Musical,bells,valley,church bells ringing across a wide valley
+Space/Dimension,distant,Musical,trumpet,mountain,a trumpet fanfare from a far ridge
+Space/Dimension,distant,Musical,drum,forest,a drum beat from deep in the woods
+Space/Dimension,distant,Musical,marching band,street,a band playing two blocks away
+Space/Dimension,distant,Musical,organ,abbey,organ music heard from outside the church
+Space/Dimension,distant,Musical,piano,mansion,piano notes from a far upstairs room
+Space/Dimension,distant,Musical,harp,meadow,harp music from across a wide field
+Space/Dimension,distant,Musical,flute,canyon,a flute melody from a far rock ledge
+Space/Dimension,distant,Musical,bagpipes,highlands,pipes playing on a far mountain side
+Space/Dimension,distant,Musical,choir,cathedral,singing heard from the back of a square
+Space/Dimension,distant,Musical,cello,art gallery,a cello note from a far wing
+Space/Dimension,distant,Musical,tambourine,festival,jingles heard from the edge of a park
+Space/Dimension,distant,Musical,guitar,porch,guitar strumming from a far neighbor
+Space/Dimension,distant,Musical,violin,conservatory,a violin solo from a far corridor
+Space/Dimension,distant,Musical,handbell,chapel,a bell ring from across a courtyard
+Space/Dimension,distant,Musical,xylophone,theater,notes from the back of an auditorium
+Space/Dimension,distant,Musical,synthesizer,studio,synth sounds from behind a closed door
+Space/Dimension,distant,Mechanical,train,valley,a locomotive whistle across a wide basin
+Space/Dimension,distant,Mechanical,siren,city,an emergency siren blocks away in traffic
+Space/Dimension,distant,Mechanical,engine,airfield,a jet engine idling on a far runway
+Space/Dimension,distant,Mechanical,foghorn,harbor,a foghorn blast from across a bay
+Space/Dimension,distant,Mechanical,hammer,shipyard,hammering from the far end of a dock
+Space/Dimension,distant,Mechanical,generator,campsite,a hum from a far away generator
+Space/Dimension,distant,Mechanical,winch,dockside,ratcheting from across a harbor
+Space/Dimension,distant,Mechanical,shutter,factory,metal shutters closing across a floor
+Space/Dimension,distant,Mechanical,conveyor,quarry,clattering from the bottom of a pit
+Space/Dimension,distant,Mechanical,press,industrial site,a thud from another workshop
+Space/Dimension,distant,Mechanical,mixer,construction site,a mixer thudding across a lot
+Space/Dimension,distant,Mechanical,roller,highway,vibration from a far road crew
+Space/Dimension,distant,Mechanical,turbine,dam,a roar from the far end of a hall
+Space/Dimension,distant,Mechanical,crane,dock,a groan from a gantry crane blocks away
+Space/Dimension,distant,Mechanical,boiler,foundry,a roar from a far boiler room
+Space/Dimension,distant,Mechanical,drill,mining shaft,drilling from deep in a tunnel
+Space/Dimension,distant,Mechanical,clock,tower,a clock chime from across a square
+Space/Dimension,distant,Environmental,thunder,plains,thunder rolling across a far horizon
+Space/Dimension,distant,Environmental,wind,ridge,wind howling through far off trees
+Space/Dimension,distant,Environmental,ocean,coast,waves crashing from over a sand dune
+Space/Dimension,distant,Environmental,waterfall,jungle,a roar from a far forest falls
+Space/Dimension,distant,Environmental,avalanche,mountain,the roar of snow on a far peak
+Space/Dimension,distant,Environmental,geyser,thermal park,a hiss from a far steam vent
+Space/Dimension,distant,Environmental,landslide,canyon,rocks falling across a gorge
+Space/Dimension,distant,Environmental,storm,open sea,wind and waves from a far squall
+Space/Dimension,distant,Environmental,river,valley,water rushing from a far bend
+Space/Dimension,distant,Environmental,volcano,crater,a rumble from a far volcanic vent
+Space/Dimension,distant,Environmental,rain,farmland,rain falling on a far cornfield
+Space/Dimension,distant,Environmental,ice,arctic,a glacier cracking across a bay
+Space/Dimension,distant,Environmental,cricket,meadow,chirping from the far edge of a field
+Space/Dimension,distant,Environmental,echo,cavern,a shout from the back of a cave
+Space/Dimension,distant,Environmental,birds,forest,a hawk cry from a far canopy
+Space/Dimension,distant,Environmental,sand,desert,sand singing from a far dune
+Space/Dimension,distant,Environmental,fire,wildfire,the roar of a far forest fire
+Space/Dimension,distant,Organic,shout,canyon,a person yelling across a stone gorge
+Space/Dimension,distant,Organic,howl,valley,a wolf howling from a far mountain
+Space/Dimension,distant,Organic,crowd,stadium,cheering heard from outside a stadium
+Space/Dimension,distant,Organic,bark,farm,a dog barking from a far hillside
+Space/Dimension,distant,Organic,laughter,park,kids giggling from a far playground
+Space/Dimension,distant,Organic,vocalization,ocean,whale song from deep in the sea
+Space/Dimension,distant,Organic,stomp,savanna,an elephant walking across a far plain
+Space/Dimension,distant,Organic,hooves,dirt track,a horse gallop from a far field
+Space/Dimension,distant,Organic,cough,cathedral,a cough from the back of a church
+Space/Dimension,distant,Organic,shout,tunnel,a voice from the far end of a passage
+Space/Dimension,distant,Organic,breathing,stable,breath from a far horse stall
+Space/Dimension,distant,Organic,grunt,gym,a grunt from the far end of a hall
+Space/Dimension,distant,Organic,chest,jungle,drumming from deep in the forest
+Space/Dimension,distant,Organic,movement,undergrowth,crashing from a far thicket
+Space/Dimension,distant,Organic,purr,living room,a cat purring in another room
+Space/Dimension,distant,Organic,snore,barracks,snoring from across a large room
+Space/Dimension,distant,Organic,howl,tundra,coyotes from a far frozen plain
+Space/Dimension,distant,Domestic,radio,mansion,music playing in a far downstairs room
+Space/Dimension,distant,Domestic,door,hallway,a door closing at the far end of a hall
+Space/Dimension,distant,Domestic,vacuum,ballroom,vacuuming from a far corridor
+Space/Dimension,distant,Domestic,fireplace,den,fire roar from another room
+Space/Dimension,distant,Domestic,bath,bathroom,water running from down the hall
+Space/Dimension,distant,Domestic,safe,office,a clink from a far study room
+Space/Dimension,distant,Domestic,pipes,basement,thumping from the far cellar
+Space/Dimension,distant,Domestic,fridge,kitchen,fridge hum from the next room
+Space/Dimension,distant,Domestic,trunk,attic,a lid closing in a far attic space
+Space/Dimension,distant,Domestic,bed,bedroom,a creak from a far guest room
+Space/Dimension,distant,Domestic,curtains,theater,sliding drapes from the back of a hall
+Space/Dimension,distant,Domestic,sofa,living room,a thud from the far lounge
+Space/Dimension,distant,Domestic,counter,kitchen,a pot set down in a far pantry
+Space/Dimension,distant,Domestic,wardrobe,bedroom,a door from a far walk-in closet
+Space/Dimension,distant,Domestic,bin,alleyway,a lid slamming from down a street
+Space/Dimension,distant,Domestic,staircase,foyer,a creak from the top of a grand stair
+Space/Dimension,distant,Domestic,mat,gym,a mat hit from a far studio room
+Space/Dimension,distant,Electronic,pa system,airport,an announcement at a far gate
+Space/Dimension,distant,Electronic,siren,city,a police siren blocks away
+Space/Dimension,distant,Electronic,speaker,plaza,music from a far public square
+Space/Dimension,distant,Electronic,alarm,factory,a siren from a far factory wing
+Space/Dimension,distant,Electronic,buzzer,prison,a buzzer from a far corridor
+Space/Dimension,distant,Electronic,beeper,hospital,a monitor beep from down a hall
+Space/Dimension,distant,Electronic,motor,elevator room,a motor hum from a far roof
+Space/Dimension,distant,Electronic,server,data center,fan roar from a far server row
+Space/Dimension,distant,Electronic,feedback,stage,mic feedback from a far venue
+Space/Dimension,distant,Electronic,modem,office,modem screech from a far cubicle
+Space/Dimension,distant,Electronic,transformer,substation,hum from a far electrical yard
+Space/Dimension,distant,Electronic,static,radio,white noise from a far room
+Space/Dimension,distant,Electronic,switch,control room,a click from a far panel
+Space/Dimension,distant,Electronic,relay,power plant,a thud from a far relay bank
+Space/Dimension,distant,Electronic,cable,utility tunnel,vibration from a far vault
+Space/Dimension,distant,Electronic,drive,computer room,whirring from a far tape drive
+Space/Dimension,distant,Electronic,flash,studio,a strobe beep from a far studio
+Space/Dimension,present,Musical,guitar,lap,an acoustic guitar string plucked in front of the face
+Space/Dimension,present,Musical,violin,ear,a violin bow crossing the string near the ear
+Space/Dimension,present,Musical,flute,mouth,breath hitting the embouchure of a silver flute
+Space/Dimension,present,Musical,recorder,mouth,fingers lifting off a plastic recorder
+Space/Dimension,present,Musical,harmonica,face,a harmonica note played close to the nose
+Space/Dimension,present,Musical,ukulele,chest,a ukulele strummed in the lap
+Space/Dimension,present,Musical,triangle,hand,a triangle strike right in front of the ear
+Space/Dimension,present,Musical,tambourine,lap,a tambourine jingle in the hand
+Space/Dimension,present,Musical,woodblock,chest,a woodblock struck at chest height
+Space/Dimension,present,Musical,kalimba,hands,a metal tine flicked right at the face
+Space/Dimension,present,Musical,kazoo,mouth,a kazoo buzzing against the lips
+Space/Dimension,present,Musical,music box,ear,a music box mechanism right at the ear
+Space/Dimension,present,Musical,shaker,face,a plastic shaker moving near the cheek
+Space/Dimension,present,Musical,shaker,hands,beads hitting the inside of a hand shaker
+Space/Dimension,present,Musical,piano,bench,the mechanical click of a piano key under a finger
+Space/Dimension,present,Musical,bell,hand,a small handbell rung right at the ear
+Space/Dimension,present,Musical,synthesizer,desk,the click of a synthesizer button in hand
+Space/Dimension,present,Mechanical,shutter,eye,a camera shutter firing right at the face
+Space/Dimension,present,Mechanical,watch,wrist,a mechanical watch ticking at the ear
+Space/Dimension,present,Mechanical,sewing machine,chest,a needle clicking right in front of the eyes
+Space/Dimension,present,Mechanical,fan,desk,air whirring from a small fan on a table
+Space/Dimension,present,Mechanical,gears,hands,tiny gears spinning in a pocket watch in hand
+Space/Dimension,present,Mechanical,latch,face,a metal latch snapping shut in front of the face
+Space/Dimension,present,Mechanical,stapler,hands,a stapler clicking in the hand
+Space/Dimension,present,Mechanical,timer,chest,a plastic timer ticking in the lap
+Space/Dimension,present,Mechanical,pen,fingers,a pen clicking right at the ear
+Space/Dimension,present,Mechanical,lock,hands,a key turning in a lock in front of the face
+Space/Dimension,present,Mechanical,winch,chest,a small reel ratcheting in the hand
+Space/Dimension,present,Mechanical,drill,hands,a hobby drill whirring at the workbench
+Space/Dimension,present,Mechanical,typewriter,chest,the clack of keys right in front of the face
+Space/Dimension,present,Mechanical,bell,hands,a bicycle bell rung in the hand
+Space/Dimension,present,Mechanical,valve,hands,a faucet handle clicking in the hand
+Space/Dimension,present,Mechanical,relay,face,a relay clicking in a handheld device
+Space/Dimension,present,Mechanical,piston,chest,a small air pump puffing in the hand
+Space/Dimension,present,Mechanical,projector,ear,an 8mm projector whirring on a nearby table
+Space/Dimension,present,Environmental,mosquito,ear,an insect buzzing right at the ear
+Space/Dimension,present,Environmental,rain,hood,raindrops hitting a rain jacket hood on the head
+Space/Dimension,present,Environmental,drip,face,a water drop hitting a cheek
+Space/Dimension,present,Environmental,wind,ear,wind whistling past a person's ear
+Space/Dimension,present,Environmental,leaves,feet,dry leaves rustling under a person's boot
+Space/Dimension,present,Environmental,sand,face,sand grains hitting a pair of goggles
+Space/Dimension,present,Environmental,twig,feet,a dry twig snapping under a person's heel
+Space/Dimension,present,Environmental,bubbles,face,air bubbles popping near the nose
+Space/Dimension,present,Environmental,pebble,hands,two stones clinking in the palm
+Space/Dimension,present,Environmental,hail,hat,ice pellets hitting a hard hat on the head
+Space/Dimension,present,Environmental,frost,face,frost being scraped near the eyes
+Space/Dimension,present,Environmental,cricket,feet,a cricket chirping right at the boots
+Space/Dimension,present,Environmental,steam,face,steam hissing from a kettle near the face
+Space/Dimension,present,Environmental,shells,hands,shell fragments clinking in the fingers
+Space/Dimension,present,Environmental,thistle,hands,a dry thistle scratching a palm
+Space/Dimension,present,Environmental,fire,face,the crackle of a match right in front of the face
+Space/Dimension,present,Environmental,snow,feet,the crunch of snow under the person's boot
+Space/Dimension,present,Organic,whisper,ear,a soft whisper right at the ear
+Space/Dimension,present,Organic,breathing,nose,breath from a person's own nose
+Space/Dimension,present,Organic,snap,ear,a finger snap right at the ear
+Space/Dimension,present,Organic,heartbeat,chest,a heart thumping in a person's own chest
+Space/Dimension,present,Organic,teeth,mouth,teeth clicking together in the head
+Space/Dimension,present,Organic,laughter,face,a person giggling right in front of the face
+Space/Dimension,present,Organic,cough,mouth,a dry cough from a person's own throat
+Space/Dimension,present,Organic,gulp,throat,the sound of swallowing water in the neck
+Space/Dimension,present,Organic,nails,fingers,fingernails tapping on a person's own palm
+Space/Dimension,present,Organic,blink,eye,a wet snap of an eyelid right at the eye
+Space/Dimension,present,Organic,sneeze,nose,a sneeze from a person's own face
+Space/Dimension,present,Organic,scratch,skin,fingernails scratching the person's own arm
+Space/Dimension,present,Organic,hair,head,scissors cutting hair near the ear
+Space/Dimension,present,Organic,peck,hand,a bird tapping on the person's own palm
+Space/Dimension,present,Organic,skin,hand,a palm slap on the person's own thigh
+Space/Dimension,present,Organic,scuttle,feet,an insect crawling over the person's own boot
+Space/Dimension,present,Domestic,phone,face,a phone vibrating in the person's own hand
+Space/Dimension,present,Domestic,keys,hands,keys jingling in the person's own hand
+Space/Dimension,present,Domestic,paper,hands,a sheet of paper rustling in the fingers
+Space/Dimension,present,Domestic,foil,hands,a piece of foil crinkling in the palm
+Space/Dimension,present,Domestic,jewelry,neck,a chain sliding against the person's own neck
+Space/Dimension,present,Domestic,glass,hand,a spoon clinking a glass in the person's own hand
+Space/Dimension,present,Domestic,coin,fingers,a quarter spinning in the person's own palm
+Space/Dimension,present,Domestic,can,hands,a soda can opening right at the face
+Space/Dimension,present,Domestic,scissors,hands,shears cutting paper in the person's own hand
+Space/Dimension,present,Domestic,switch,hands,a light switch clicking under the finger
+Space/Dimension,present,Domestic,remote,fingers,a button clicking in the person's own hand
+Space/Dimension,present,Domestic,bottle,hands,a plastic cap clicking shut in the fingers
+Space/Dimension,present,Domestic,stapler,hands,a stapler firing in the person's own palm
+Space/Dimension,present,Domestic,knife,hands,a blade hitting a board in front of the face
+Space/Dimension,present,Domestic,pillow,face,a pillow hitting the person's own head
+Space/Dimension,present,Domestic,beads,hands,beads spilling into the person's own palm
+Space/Dimension,present,Domestic,lighter,face,a lighter lid flipping open in the hand
+Space/Dimension,present,Electronic,earbuds,ears,music playing from buds inside the ears
+Space/Dimension,present,Electronic,phone,ear,a voice speaking through a phone at the ear
+Space/Dimension,present,Electronic,beeper,wrist,a digital watch beeping at the ear
+Space/Dimension,present,Electronic,buzzer,hand,a buzzer in a handheld game in hand
+Space/Dimension,present,Electronic,static,ear,hiss from a radio held at the ear
+Space/Dimension,present,Electronic,interference,face,a whine from a phone near the face
+Space/Dimension,present,Electronic,oscillator,ear,a synth note from a handheld unit
+Space/Dimension,present,Electronic,beeper,chest,a beep from a pager clipped to the belt
+Space/Dimension,present,Electronic,scanner,hands,a beep as a barcode is read in hand
+Space/Dimension,present,Electronic,switch,fingers,a button click on a handheld device
+Space/Dimension,present,Electronic,flash,face,a flash unit charging near the eyes
+Space/Dimension,present,Electronic,relay,hand,a click in a handheld multimeter
+Space/Dimension,present,Electronic,fan,face,a whir from a handheld plastic fan
+Space/Dimension,present,Electronic,noise,ear,white noise from a pair of headphones
+Space/Dimension,present,Electronic,alarm,chest,a travel clock chime in the lap
+Space/Dimension,present,Electronic,transformer,hand,a hum from a wall charger in hand
+Space/Dimension,present,Electronic,glitch,ear,a digital pop in the headphones

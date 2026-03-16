@@ -44,8 +44,23 @@ def run():
 
         # Write to file - one CSV per category
         # Think about filename '/' breaks file paths
+        # Also check here for files with the 'batch' in the filename
         safe_name = category.replace("/", "_").replace(" ", "_").lower()
-        filepath = os.path.join(OUTPUT_DIR, f"{safe_name}.csv")
+        existing = [
+            f
+            for f in os.listdir(OUTPUT_DIR)
+            if f.startswith(safe_name) and "batch" in f and f.endswith(".csv")
+        ]
+        batch_num = 1
+
+        if existing:
+            for f in existing:
+                name = f.replace(".csv", "")
+                num = int(name.split("batch_")[-1])
+                if num >= batch_num:
+                    batch_num = num + 1
+
+        filepath = os.path.join(OUTPUT_DIR, f"{safe_name}_batch_{batch_num}.csv")
 
         write_csv(rows, filepath)
         print(f"  Saved to {filepath}")
