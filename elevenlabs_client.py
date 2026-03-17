@@ -87,7 +87,7 @@ def generate_batch(client, csv_filepath, audio_output_dir):
         time.sleep(2)
 
         if (
-            i >= 2
+            i >= 100
         ):  # placeholder to make sure we don't use all the free credits available
             break
     print(f"\nBatch complete: {len(rows)} files generated")
@@ -99,12 +99,12 @@ if __name__ == "__main__":
     client = init_elevenlabs()
     generate_batch(
         client,
-        "output/scenarios/brightness_spectral.csv",
-        "output/audio/brightness_spectral",
+        "output/scenarios/attack_transient.csv",
+        "output/audio/attack_transient",
     )
 
     # Read one row from generated CSV
-    with open("output/scenarios/brightness_spectral.csv", "r") as f:
+    with open("output/scenarios/attack_transient.csv", "r") as f:
         reader = csv.DictReader(f)
         row = next(reader)
 

@@ -17,7 +17,7 @@ def init_chat():
         raise ValueError("GEMINI_API_KEY environment variable is not set")
 
     client = genai.Client(
-        api_key=api_key, http_options=types.HttpOptions(timeout=400000)
+        api_key=api_key, http_options=types.HttpOptions(timeout=800000)
     )
 
     chat = client.chats.create(model=MODEL_NAME)

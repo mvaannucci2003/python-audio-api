@@ -1,0 +1,864 @@
+category,tag,domain,source,environment,scenario
+Energy/Dynamics,powerful,Musical,pipe organ,cathedral,a pipe organ playing a full fortissimo chord in a stone cathedral
+Energy/Dynamics,powerful,Musical,taiko drum,open field,a massive taiko drum being struck with heavy wooden bachi in a field
+Energy/Dynamics,powerful,Musical,grand piano,ballroom,the lowest keys of a grand piano being struck with great force in a ballroom
+Energy/Dynamics,powerful,Musical,gong,monastery,a large bronze gong being struck with a heavy padded mallet in a monastery
+Energy/Dynamics,powerful,Musical,tuba,empty theater,a tuba sustaining a loud low-register note in an empty theater
+Energy/Dynamics,powerful,Musical,brass section,concert hall,a full brass section playing a triumphant fanfare in a concert hall
+Energy/Dynamics,powerful,Musical,kettledrum,orchestra pit,a large kettledrum being struck for a single accented note in an orchestra pit
+Energy/Dynamics,powerful,Musical,double bass,jazz cellar,a double bass string being plucked forcefully in a basement jazz club
+Energy/Dynamics,powerful,Musical,bagpipes,highland ridge,bagpipes playing a loud melody on a windy highland ridge
+Energy/Dynamics,powerful,Musical,conch shell,coastal cliff,a conch shell being blown with maximum effort on a coastal cliff
+Energy/Dynamics,powerful,Musical,choir,abbey,a hundred-voice choir singing a sustained chord in a stone abbey
+Energy/Dynamics,powerful,Musical,handbells,chapel,a large handbell being swung vigorously in a stone chapel
+Energy/Dynamics,powerful,Musical,cello,underground cellar,a cello playing a heavy resonant melody on its lowest string
+Energy/Dynamics,powerful,Musical,harp,music room,a rapid lush glissando across all harp strings in a music room
+Energy/Dynamics,powerful,Musical,12-string guitar,studio,a 12-string guitar being strummed with a heavy plectrum in a studio
+Energy/Dynamics,powerful,Musical,synthesizer,recording room,a multi-oscillator analog synthesizer playing a loud bass note
+Energy/Dynamics,powerful,Musical,bassoon,rehearsal hall,a bassoon playing a loud staccato note in a rehearsal hall
+Energy/Dynamics,powerful,Musical,timpani,stage,a timpani drum roll reaching a loud climax on a concert stage
+Energy/Dynamics,powerful,Mechanical,jet engine,runway,the roaring air of a jet engine at full throttle on a runway
+Energy/Dynamics,powerful,Mechanical,locomotive,railway station,a massive diesel locomotive idling with a deep thrum at a station
+Energy/Dynamics,powerful,Mechanical,bulldozer,construction site,the deep growling of a large bulldozer pushing earth at a site
+Energy/Dynamics,powerful,Mechanical,steam hammer,industrial forge,a heavy steam hammer striking a hot metal ingot in a forge
+Energy/Dynamics,powerful,Mechanical,crane,shipyard,the mechanical groaning of a massive crane lifting a shipping container
+Energy/Dynamics,powerful,Mechanical,industrial fan,warehouse,the deep whir of a giant industrial fan in a warehouse
+Energy/Dynamics,powerful,Mechanical,printing press,factory,the rhythmic heavy thud of an industrial printing press in a factory
+Energy/Dynamics,powerful,Mechanical,cement mixer,street,the heavy tumbling of wet concrete in a cement mixer on a street
+Energy/Dynamics,powerful,Mechanical,oil pump,desert,the rhythmic low creak of an oil pump in a desert field
+Energy/Dynamics,powerful,Mechanical,elevator motor,high-rise,the hum of a heavy elevator motor in a high-rise building
+Energy/Dynamics,powerful,Mechanical,turbine,power plant,the high-pitched whine of a steam turbine in a power plant
+Energy/Dynamics,powerful,Mechanical,generator,remote camp,the steady loud roar of a large diesel generator at a camp
+Energy/Dynamics,powerful,Mechanical,air compressor,garage,the heavy rhythmic throb of an industrial air compressor in a garage
+Energy/Dynamics,powerful,Mechanical,hydraulic lift,car shop,the low groan of a hydraulic lift raising a heavy truck
+Energy/Dynamics,powerful,Mechanical,wrecking ball,demolition site,the impact of a wrecking ball hitting a brick wall at a site
+Energy/Dynamics,powerful,Mechanical,piledriver,harbor,the massive impact of a piledriver in a harbor
+Energy/Dynamics,powerful,Mechanical,grain elevator,farmland,the deep drone of a grain elevator in operation on a farm
+Energy/Dynamics,powerful,Mechanical,boiler,basement,the powerful roar of an industrial gas boiler in a basement
+Energy/Dynamics,powerful,Environmental,thunder,canyon,a massive roll of thunder traveling through a mountain canyon
+Energy/Dynamics,powerful,Environmental,waterfall,tropical jungle,the powerful roar of a massive waterfall hitting a rocky basin
+Energy/Dynamics,powerful,Environmental,ocean wave,sea wall,a massive ocean wave slamming against a concrete sea wall
+Energy/Dynamics,powerful,Environmental,landslide,ravine,the deep roar of a landslide descending into a ravine
+Energy/Dynamics,powerful,Environmental,volcano,active crater,the deep guttural grumble of an active volcano crater
+Energy/Dynamics,powerful,Environmental,hurricane wind,coastline,the overwhelming roar of hurricane-force winds hitting a coast
+Energy/Dynamics,powerful,Environmental,avalanche,mountain peak,the muffled roar of a massive snow avalanche on a peak
+Energy/Dynamics,powerful,Environmental,geyser eruption,volcanic field,the explosive burst of a geyser eruption in a volcanic field
+Energy/Dynamics,powerful,Environmental,forest fire,wilderness,the expansive roaring and crackling of a large forest fire
+Energy/Dynamics,powerful,Environmental,earthquake,tectonic fault,the deep subterranean vibration of the earth during a tremor
+Energy/Dynamics,powerful,Environmental,storm surge,coast,the heavy thrum of a storm surge hitting a coastline
+Energy/Dynamics,powerful,Environmental,river rapids,gorge,the continuous powerful rushing of class-five river rapids
+Energy/Dynamics,powerful,Environmental,glacier calving,arctic bay,the deep boom of a glacier calving into the ocean
+Energy/Dynamics,powerful,Environmental,mudslide,valley,the heavy wet roar of a mudslide down a mountain valley
+Energy/Dynamics,powerful,Environmental,rockfall,canyon,a large boulder impacting a canyon floor after a fall
+Energy/Dynamics,powerful,Environmental,geyser steam,field,the loud constant hiss of high-pressure steam from a vent
+Energy/Dynamics,powerful,Environmental,sandstorm,desert,the deep roar of a sandstorm moving across a desert expanse
+Energy/Dynamics,powerful,Environmental,storm wind,pine forest,the deep roar of wind through a dense forest canopy
+Energy/Dynamics,powerful,Organic,elephant trumpet,savanna,the loud resonant trumpet of an elephant on the savanna
+Energy/Dynamics,powerful,Organic,lion roar,safari park,the powerful chest-heavy roar of a lion in a park
+Energy/Dynamics,powerful,Organic,blue whale,ocean,the powerful low-pitched song of a blue whale in the ocean
+Energy/Dynamics,powerful,Organic,grizzly growl,mountain cave,the deep guttural growl of a grizzly bear in a cave
+Energy/Dynamics,powerful,Organic,gorilla thump,rainforest,a gorilla thumping its chest in a dense jungle
+Energy/Dynamics,powerful,Organic,bison grumble,prairie,the deep low-register grumble of a bison herd on the prairie
+Energy/Dynamics,powerful,Organic,moose grunt,northern marsh,the deep resonant grunt of a moose in a marsh
+Energy/Dynamics,powerful,Organic,hippo honk,river bank,the deep guttural honk of a hippopotamus by a river
+Energy/Dynamics,powerful,Organic,rhinoceros huff,scrubland,the heavy huffing of a rhinoceros in the scrubland
+Energy/Dynamics,powerful,Organic,wolf howl,winter ridge,the powerful resonant howl of a wolf on a snowy ridge
+Energy/Dynamics,powerful,Organic,alligator bellow,cypress swamp,the deep vibration of an alligator bellowing in a swamp
+Energy/Dynamics,powerful,Organic,horse gallop,meadow,the powerful rhythmic thud of a horse galloping on soft grass
+Energy/Dynamics,powerful,Organic,whale tail slap,ocean surface,a massive whale's tail slapping the ocean surface
+Energy/Dynamics,powerful,Organic,human shout,empty stadium,a powerful human shout echoing in an empty stadium
+Energy/Dynamics,powerful,Organic,bird colony,cliffside,the collective roar of thousands of gulls on a cliffside
+Energy/Dynamics,powerful,Organic,cicada swarm,orchard,the deafening collective hum of cicadas in an orchard
+Energy/Dynamics,powerful,Organic,heartbeat,stethoscope,the loud rhythmic thump of a heartbeat through a stethoscope
+Energy/Dynamics,powerful,Organic,bear roar,wilderness,the powerful roar of a bear echoing through a forest
+Energy/Dynamics,powerful,Domestic,door slam,manor house,a heavy oak door being slammed shut in a manor house
+Energy/Dynamics,powerful,Domestic,fireplace roar,cabin,the deep roar and crackle of a large log fireplace in a cabin
+Energy/Dynamics,powerful,Domestic,vacuum cleaner,hallway,the loud steady roar of an industrial vacuum cleaner in a hall
+Energy/Dynamics,powerful,Domestic,washing machine,laundry room,the powerful thrum of a washing machine on the spin cycle
+Energy/Dynamics,powerful,Domestic,bathtub drain,bathroom,the powerful roar of water draining from a full bathtub
+Energy/Dynamics,powerful,Domestic,wardrobe slide,bedroom,a heavy wooden wardrobe being pushed across a floor
+Energy/Dynamics,powerful,Domestic,grandfather clock chime,hallway,the deep resonant chime of a grandfather clock in a hall
+Energy/Dynamics,powerful,Domestic,sofa thud,living room,the deep thud of someone jumping onto a heavy leather sofa
+Energy/Dynamics,powerful,Domestic,garbage truck,alleyway,the powerful mechanical roar of a garbage truck compressor
+Energy/Dynamics,powerful,Domestic,boiler,basement,the deep steady roar of a gas boiler in a basement
+Energy/Dynamics,powerful,Domestic,trunk drop,attic,a heavy steamer trunk being dropped onto a wooden attic floor
+Energy/Dynamics,powerful,Domestic,refrigerator hum,kitchen,the deep steady hum of an old refrigerator in a kitchen
+Energy/Dynamics,powerful,Domestic,rug beat,backyard,the deep thud of a heavy rug being beaten with a wooden stick
+Energy/Dynamics,powerful,Domestic,pantry door creak,kitchen,the deep creak of a heavy wooden pantry door in a kitchen
+Energy/Dynamics,powerful,Domestic,armchair creak,den,the deep creak of a large leather armchair in a den
+Energy/Dynamics,powerful,Domestic,book slam,library,a massive leather-bound book being slammed shut in a library
+Energy/Dynamics,powerful,Domestic,curtains swish,theater,the deep swish of heavy velvet curtains being drawn in a theater
+Energy/Dynamics,powerful,Domestic,boiling pot,kitchen,the deep rhythmic bubbling of a large boiling stew pot
+Energy/Dynamics,powerful,Electronic,subwoofer pulse,home theater,a powerful low-frequency pulse from a subwoofer in a room
+Energy/Dynamics,powerful,Electronic,transformer hum,substation,the deep powerful hum of a massive power transformer
+Energy/Dynamics,powerful,Electronic,bass amp,concert stage,the deep resonant hum of a bass amplifier on stage
+Energy/Dynamics,powerful,Electronic,industrial motor,plant,the powerful steady hum of a large electric motor in a plant
+Energy/Dynamics,powerful,Electronic,server rack whir,data center,the collective deep whir of a full server rack in a center
+Energy/Dynamics,powerful,Electronic,mri machine,hospital,the powerful rhythmic thumping of an mri machine in a hospital
+Energy/Dynamics,powerful,Electronic,radar array,coastal cliff,the deep mechanical hum of a rotating radar dish on a cliff
+Energy/Dynamics,powerful,Electronic,power lines,misty field,the deep steady buzzing of high-voltage lines in a field
+Energy/Dynamics,powerful,Electronic,arc welder,shipyard,the powerful crackling roar of an industrial arc welder
+Energy/Dynamics,powerful,Electronic,synth drone,studio,a deep multi-layered analog synthesizer drone in a studio
+Energy/Dynamics,powerful,Electronic,industrial vacuum,warehouse,the powerful roar of an industrial vacuum cleaner motor
+Energy/Dynamics,powerful,Electronic,generator,construction site,the deep steady roar of a large portable generator at a site
+Energy/Dynamics,powerful,Electronic,electric heater,basement,the deep steady whir of a large electric heater in a basement
+Energy/Dynamics,powerful,Electronic,pa system,stadium,the deep resonant hum of a large stadium sound system
+Energy/Dynamics,powerful,Electronic,solenoid,factory,the powerful mechanical thunk of a large industrial solenoid
+Energy/Dynamics,powerful,Electronic,hydrophone wash,ocean floor,the deep low-frequency wash recorded by an underwater hydrophone
+Energy/Dynamics,powerful,Electronic,radio tower,ridge,the deep steady hum of a radio transmission tower on a ridge
+Energy/Dynamics,powerful,Electronic,computer bank,server room,the powerful steady whir of multiple computer fans
+Energy/Dynamics,aggressive,Musical,electric guitar,rehearsal room,an electric guitar playing a fast palm-muted thrash riff
+Energy/Dynamics,aggressive,Musical,snare drum,studio,a snare drum being struck with a hard rimshot in a studio
+Energy/Dynamics,aggressive,Musical,saxophone,jazz club,a tenor saxophone playing a loud growling note in a jazz club
+Energy/Dynamics,aggressive,Musical,violin,chamber hall,a violin bow being dug into the strings for a harsh staccato
+Energy/Dynamics,aggressive,Musical,tambourine,stage,a tambourine being struck sharply with the edge of the hand
+Energy/Dynamics,aggressive,Musical,cello,cellar,a cello string being snapped against the fretboard in a cellar
+Energy/Dynamics,aggressive,Musical,drum kit,garage,a rapid aggressive drum fill across all toms and cymbals
+Energy/Dynamics,aggressive,Musical,banjo,barn,a banjo being played with fast aggressive fingerpicking in a barn
+Energy/Dynamics,aggressive,Musical,trumpet,courtyard,a trumpet playing a loud piercing note in an open courtyard
+Energy/Dynamics,aggressive,Musical,double bass,jazz cellar,a double bass string being slapped against the neck in a club
+Energy/Dynamics,aggressive,Musical,kazoo,parade,the loud aggressive buzzing of a kazoo in a street parade
+Energy/Dynamics,aggressive,Musical,cymbals,stage,a pair of orchestral cymbals clashing together with great force
+Energy/Dynamics,aggressive,Musical,synthesizer,studio,a synthesizer playing a distorted aggressive bass patch
+Energy/Dynamics,aggressive,Musical,vibraslap,booth,the rattling clatter of a vibraslap being struck in a studio
+Energy/Dynamics,aggressive,Musical,timpani,hall,a timpani drum being struck for a fast aggressive roll
+Energy/Dynamics,aggressive,Musical,hard plectrum,guitar,a guitar string being struck with a hard metal plectrum
+Energy/Dynamics,aggressive,Musical,harmonica,porch,a harmonica being played with a loud growling tone on a porch
+Energy/Dynamics,aggressive,Musical,cowbell,club,a metal cowbell being struck rapidly with a drumstick in a club
+Energy/Dynamics,aggressive,Mechanical,jackhammer,city street,the rapid aggressive hammering of a jackhammer on concrete
+Energy/Dynamics,aggressive,Mechanical,circular saw,lumber mill,the high-pitched scream of a circular saw cutting hardwood
+Energy/Dynamics,aggressive,Mechanical,metal lathe,machine shop,the harsh grinding of a metal lathe cutting into steel
+Energy/Dynamics,aggressive,Mechanical,impact wrench,auto shop,the rapid aggressive hammering of a pneumatic impact wrench
+Energy/Dynamics,aggressive,Mechanical,chainsaw,forest,the loud aggressive roar of a chainsaw cutting a tree trunk
+Energy/Dynamics,aggressive,Mechanical,grinder,workshop,the harsh rasping of a metal grinder on a steel plate
+Energy/Dynamics,aggressive,Mechanical,pneumatic drill,tunnel,the loud rattling of a pneumatic drill in a stone tunnel
+Energy/Dynamics,aggressive,Mechanical,stamping press,factory,the loud aggressive thud of a metal stamping press
+Energy/Dynamics,aggressive,Mechanical,sandblaster,shipyard,the harsh abrasive roar of a sandblaster against a metal hull
+Energy/Dynamics,aggressive,Mechanical,manual typewriter,library,the loud aggressive clicking of keys being struck on a typewriter
+Energy/Dynamics,aggressive,Mechanical,staple gun,upholstery shop,a heavy-duty staple gun firing rapidly into a wooden frame
+Energy/Dynamics,aggressive,Mechanical,centrifuge,lab,the high-pitched aggressive whine of a centrifuge at max speed
+Energy/Dynamics,aggressive,Mechanical,milling machine,shop,the harsh grinding of a milling machine through iron
+Energy/Dynamics,aggressive,Mechanical,fan,engine room,the loud aggressive whir of a high-speed cooling fan
+Energy/Dynamics,aggressive,Mechanical,boiler,ship,the loud aggressive roar of a ship's steam boiler in a room
+Energy/Dynamics,aggressive,Mechanical,conveyor,factory,the loud clattering of metal parts on a conveyor belt
+Energy/Dynamics,aggressive,Mechanical,wrecking ball,demolition site,the loud impact of a wrecking ball hitting a wall
+Energy/Dynamics,aggressive,Mechanical,jackhammer,alley,the loud aggressive rattling of a jackhammer in a narrow space
+Energy/Dynamics,aggressive,Environmental,ocean wave,rocky shore,a massive wave crashing aggressively against a jagged shore
+Energy/Dynamics,aggressive,Environmental,forest fire,wilderness,the loud aggressive crackling and roaring of a forest fire
+Energy/Dynamics,aggressive,Environmental,thunder,valley,the sharp aggressive crack of nearby thunder in a valley
+Energy/Dynamics,aggressive,Environmental,wind,canyon,the loud aggressive howling of wind through a rock canyon
+Energy/Dynamics,aggressive,Environmental,hail,tin shed,the loud aggressive drumming of hail on a corrugated roof
+Energy/Dynamics,aggressive,Environmental,sandstorm,desert,the harsh aggressive hiss of sand hitting a metal pipe
+Energy/Dynamics,aggressive,Environmental,river rapids,gorge,the loud aggressive rushing of water through narrow rapids
+Energy/Dynamics,aggressive,Environmental,ice cracking,frozen lake,the sharp aggressive boom of ice cracking on a lake
+Energy/Dynamics,aggressive,Environmental,geyser,field,the loud aggressive hiss and pop of a steam vent in a field
+Energy/Dynamics,aggressive,Environmental,mudslide,ravine,the loud aggressive roar of mud and rock sliding down a slope
+Energy/Dynamics,aggressive,Environmental,landslide,mountain,the loud aggressive roar of falling rock on a mountain
+Energy/Dynamics,aggressive,Environmental,waterfall,basin,the loud aggressive impact of water hitting a rocky basin
+Energy/Dynamics,aggressive,Environmental,lightning,meadow,the sharp aggressive crack of a nearby lightning strike
+Energy/Dynamics,aggressive,Environmental,storm surge,coast,the loud aggressive thrum of waves hitting a pier
+Energy/Dynamics,aggressive,Environmental,volcano,crater,the loud aggressive grumble of an active volcanic crater
+Energy/Dynamics,aggressive,Environmental,avalanche,slope,the loud aggressive roar of a snow avalanche on a slope
+Energy/Dynamics,aggressive,Environmental,obsidian,lava field,the harsh aggressive clink of obsidian shards sliding down a hill
+Energy/Dynamics,aggressive,Environmental,bamboo grove,jungle,the loud aggressive knocking of bamboo stalks in a storm
+Energy/Dynamics,aggressive,Organic,snarling wolf,winter forest,the aggressive snarling of a wolf in a winter forest
+Energy/Dynamics,aggressive,Organic,alligator hiss,swamp,the loud aggressive hiss of an alligator in a swamp
+Energy/Dynamics,aggressive,Organic,gorilla thump,jungle,the aggressive thumping of a gorilla on its chest
+Energy/Dynamics,aggressive,Organic,lion roar,savanna,the loud aggressive roar of a lion on the savanna
+Energy/Dynamics,aggressive,Organic,bear growl,cave,the loud aggressive growl of a bear in a mountain cave
+Energy/Dynamics,aggressive,Organic,fist,gym,the loud aggressive thud of a boxer hitting a heavy bag
+Energy/Dynamics,aggressive,Organic,hooves,road,the loud aggressive thud of horse hooves on a paved road
+Energy/Dynamics,aggressive,Organic,beak,farm,the aggressive tapping of a chicken's beak on a metal feeder
+Energy/Dynamics,aggressive,Organic,claws,tile,the loud aggressive clicking of a dog's claws on a tile floor
+Energy/Dynamics,aggressive,Organic,wasp,window,the loud aggressive buzzing of a wasp against a glass pane
+Energy/Dynamics,aggressive,Organic,scales,rock,the harsh aggressive rustle of snake scales over a rock
+Energy/Dynamics,aggressive,Organic,teeth,room,the aggressive clicking of teeth chattering in the cold
+Energy/Dynamics,aggressive,Organic,shrimp,reef,the loud aggressive snap of a pistol shrimp in a reef
+Energy/Dynamics,aggressive,Organic,bat,cave,the aggressive high-pitched clicking of a bat in a cavern
+Energy/Dynamics,aggressive,Organic,human shout,stadium,a loud aggressive human shout echoing in a stadium
+Energy/Dynamics,aggressive,Organic,dog,alleyway,the loud aggressive barking of a dog in a narrow alley
+Energy/Dynamics,aggressive,Organic,monkey,jungle,the loud aggressive screeching of a monkey in a tree
+Energy/Dynamics,aggressive,Organic,bull,pasture,the aggressive huffing and pawing of a bull on the ground
+Energy/Dynamics,aggressive,Domestic,glass shatter,kitchen,the loud aggressive sound of a glass bottle breaking on a floor
+Energy/Dynamics,aggressive,Domestic,blender,kitchen,the loud aggressive grinding roar of a blender at max speed
+Energy/Dynamics,aggressive,Domestic,door slam,hallway,the loud aggressive thud of a heavy door being slammed
+Energy/Dynamics,aggressive,Domestic,fireplace,cabin,the loud aggressive crackling and popping of a wood fire
+Energy/Dynamics,aggressive,Domestic,vacuum,hallway,the loud aggressive roar of an industrial vacuum cleaner
+Energy/Dynamics,aggressive,Domestic,hair dryer,bathroom,the loud aggressive whir of a hair dryer at full power
+Energy/Dynamics,aggressive,Domestic,faucet,kitchen,the loud aggressive roar of water running at full pressure
+Energy/Dynamics,aggressive,Domestic,kettle,kitchen,the loud aggressive hiss of a boiling tea kettle
+Energy/Dynamics,aggressive,Domestic,garbage truck,alley,the loud aggressive roar of a trash compactor
+Energy/Dynamics,aggressive,Domestic,shredder,office,the loud aggressive grinding of a paper shredder
+Energy/Dynamics,aggressive,Domestic,rug beat,backyard,the loud aggressive thud of a rug being beaten with a stick
+Energy/Dynamics,aggressive,Domestic,cabinet,pantry,the loud aggressive thud of a cabinet door being slammed
+Energy/Dynamics,aggressive,Domestic,frying,kitchen,the loud aggressive sizzling of food in a hot deep fryer
+Energy/Dynamics,aggressive,Domestic,lawnmower,yard,the loud aggressive drone of a lawnmower outside a window
+Energy/Dynamics,aggressive,Domestic,iron,laundry,the loud aggressive hiss of a steam iron on a wet garment
+Energy/Dynamics,aggressive,Domestic,radio,den,the loud aggressive white noise of a radio at max volume
+Energy/Dynamics,aggressive,Domestic,dryer,utility room,the loud aggressive tumbling of heavy towels in a dryer
+Energy/Dynamics,aggressive,Domestic,staircase,house,the loud aggressive thudding of someone running up stairs
+Energy/Dynamics,aggressive,Electronic,feedback,stage,the loud aggressive high-frequency scream of audio feedback
+Energy/Dynamics,aggressive,Electronic,taser arc,security,the loud aggressive rapid arcing of a high-voltage taser
+Energy/Dynamics,aggressive,Electronic,buzzer,factory,the loud aggressive steady sound of an industrial buzzer
+Energy/Dynamics,aggressive,Electronic,static,radio,the loud aggressive white noise of a radio between stations
+Energy/Dynamics,aggressive,Electronic,high-gain amp,studio,the loud aggressive harmonic roar of a guitar amp
+Energy/Dynamics,aggressive,Electronic,arc welder,shipyard,the loud aggressive crackling of an industrial arc welder
+Energy/Dynamics,aggressive,Electronic,transformer,pole,the loud aggressive buzzing of a faulty power transformer
+Energy/Dynamics,aggressive,Electronic,synth bass,room,a loud aggressive distorted bass patch on a synthesizer
+Energy/Dynamics,aggressive,Electronic,plasma torch,lab,the loud aggressive high-pitched hiss of a plasma torch
+Energy/Dynamics,aggressive,Electronic,mri machine,hospital,the loud aggressive rhythmic thumping of an mri scanner
+Energy/Dynamics,aggressive,Electronic,radar,station,the loud aggressive mechanical hum of a radar array
+Energy/Dynamics,aggressive,Electronic,bitcrusher,studio,the loud aggressive harmonic distortion of a bitcrusher effect
+Energy/Dynamics,aggressive,Electronic,microwave,kitchen,the loud aggressive heavy buzz of a microwave in use
+Energy/Dynamics,aggressive,Electronic,computer fan,closet,the loud aggressive high-speed whir of a server fan
+Energy/Dynamics,aggressive,Electronic,vacuum tube,radio,the loud aggressive warm hum of a saturated vacuum tube
+Energy/Dynamics,aggressive,Electronic,geiger counter,site,the loud aggressive rapid clicking of a geiger counter
+Energy/Dynamics,aggressive,Electronic,alarm,warehouse,the loud aggressive beeping of a warehouse security alarm
+Energy/Dynamics,aggressive,Electronic,sequencer,studio,a loud aggressive rhythmic pulse from an analog sequencer
+Energy/Dynamics,intense,Musical,violin,concert hall,a violin playing a rapid intense tremolo in a concert hall
+Energy/Dynamics,intense,Musical,snare drum,parade,a snare drum being played for a loud intense roll on a parade ground
+Energy/Dynamics,intense,Musical,bagpipes,small room,the loud intense harmonic density of bagpipes in a room
+Energy/Dynamics,intense,Musical,gong,monastery,a gong being struck for a loud intense shimmering wash of sound
+Energy/Dynamics,intense,Musical,saxophone,jazz club,a tenor saxophone playing a loud intense solo in a club
+Energy/Dynamics,intense,Musical,synthesizer,studio,a synthesizer playing a loud intense multi-layered lead patch
+Energy/Dynamics,intense,Musical,harpsichord,gallery,a harpsichord being played for a loud intense rapid arpeggio
+Energy/Dynamics,intense,Musical,tambourine,stage,a tambourine being shaken with maximum force and speed
+Energy/Dynamics,intense,Musical,12-string guitar,booth,a 12-string guitar being strummed with an intense rapid rhythm
+Energy/Dynamics,intense,Musical,choir,cathedral,a large choir singing a loud intense harmonic chord in a cathedral
+Energy/Dynamics,intense,Musical,trumpet,courtyard,a trumpet playing a loud intense fanfare in a stone courtyard
+Energy/Dynamics,intense,Musical,drum kit,garage,a loud intense rhythmic drum beat in a concrete garage
+Energy/Dynamics,intense,Musical,cello,cellar,a cello being bowed with intense pressure on the strings
+Energy/Dynamics,intense,Musical,handpan,tunnel,the loud intense overlapping resonance of a handpan in a tunnel
+Energy/Dynamics,intense,Musical,didgeridoo,cave,the loud intense vibrating drone of a didgeridoo in a cavern
+Energy/Dynamics,intense,Musical,kazoo,parade,the loud intense collective buzzing of multiple kazoos
+Energy/Dynamics,intense,Musical,claves,studio,two wooden claves being struck together in an intense rhythm
+Energy/Dynamics,intense,Musical,timpani,stage,a timpani drum roll reaching a loud intense climax on stage
+Energy/Dynamics,intense,Mechanical,industrial saw,mill,the loud intense high-pitched scream of a large saw
+Energy/Dynamics,intense,Mechanical,jet engine,hangar,the loud intense roar of a jet engine at full power
+Energy/Dynamics,intense,Mechanical,jackhammer,street,the loud intense rapid hammering of a jackhammer on asphalt
+Energy/Dynamics,intense,Mechanical,printing press,factory,the loud intense rhythmic roar of a printing line
+Energy/Dynamics,intense,Mechanical,pneumatic drill,tunnel,the loud intense rattling of a drill in a stone tunnel
+Energy/Dynamics,intense,Mechanical,vacuum,warehouse,the loud intense steady roar of a dust extractor
+Energy/Dynamics,intense,Mechanical,fan,engine room,the loud intense whir of a high-speed cooling fan
+Energy/Dynamics,intense,Mechanical,grinder,workshop,the loud intense rasping of a metal grinder on steel
+Energy/Dynamics,intense,Mechanical,motor,substation,the loud intense electrical hum of a motor under load
+Energy/Dynamics,intense,Mechanical,conveyor,factory,the loud intense constant roar of a conveyor system
+Energy/Dynamics,intense,Mechanical,boiler,ship,the loud intense roar of a ship's steam boiler in a room
+Energy/Dynamics,intense,Mechanical,pump,station,the loud intense rhythmic thrum of a high-pressure pump
+Energy/Dynamics,intense,Mechanical,lathe,factory,the loud intense steady scream of a metal lathe at speed
+Energy/Dynamics,intense,Mechanical,milling machine,shop,the loud intense grinding of a machine through iron
+Energy/Dynamics,intense,Mechanical,centrifuge,lab,the loud intense high-pitched whine of a centrifuge at max rpm
+Energy/Dynamics,intense,Mechanical,chainsaw,forest,the loud intense roar of a chainsaw cutting through a tree
+Energy/Dynamics,intense,Mechanical,steam hammer,forge,the loud intense rhythmic thud of a steam hammer
+Energy/Dynamics,intense,Mechanical,impact wrench,auto shop,the loud intense rattling of a pneumatic impact wrench
+Energy/Dynamics,intense,Environmental,waterfall,cliff,the loud intense white noise of a waterfall hitting rocks
+Energy/Dynamics,intense,Environmental,hurricane,coast,the loud intense roar of hurricane-force winds on a coast
+Energy/Dynamics,intense,Environmental,rain,tin roof,the loud intense drumming of a torrential downpour on metal
+Energy/Dynamics,intense,Environmental,thunder,canyon,the loud intense continuous rumble of a close thunderstorm
+Energy/Dynamics,intense,Environmental,ocean,storm,the loud intense wash of massive waves in a winter storm
+Energy/Dynamics,intense,Environmental,fire,forest,the loud intense roaring and crackling of a crown fire
+Energy/Dynamics,intense,Environmental,volcano,crater,the loud intense guttural roar of a volcanic eruption
+Energy/Dynamics,intense,Environmental,avalanche,slope,the loud intense muffled roar of a massive snow slide
+Energy/Dynamics,intense,Environmental,sandstorm,desert,the loud intense hiss and roar of a desert sandstorm
+Energy/Dynamics,intense,Environmental,river,rapids,the loud intense constant rushing of class-five rapids
+Energy/Dynamics,intense,Environmental,geyser,field,the loud intense explosive hiss of a high-pressure geyser
+Energy/Dynamics,intense,Environmental,landslide,mountain,the loud intense roar of falling earth and rock on a hill
+Energy/Dynamics,intense,Environmental,cicadas,woods,the loud intense collective hum of cicadas in the trees
+Energy/Dynamics,intense,Environmental,hail,greenhouse,the loud intense chaotic drumming of large hail on glass
+Energy/Dynamics,intense,Environmental,wind,glacier,the loud intense whistling roar of wind through an ice field
+Energy/Dynamics,intense,Environmental,mudslide,valley,the loud intense wet roar of a massive mudflow in a gorge
+Energy/Dynamics,intense,Environmental,surf,sea wall,the loud intense thrum of waves hitting a concrete sea wall
+Energy/Dynamics,intense,Environmental,storm surge,coast,the loud intense low-frequency wash of a rising storm surge
+Energy/Dynamics,intense,Organic,stadium crowd,arena,the loud intense roar of a crowd after a goal in a stadium
+Energy/Dynamics,intense,Organic,honeybees,hive,the loud intense vibrating hum of a large disturbed beehive
+Energy/Dynamics,intense,Organic,bird colony,cliffs,the loud intense chaotic calls of thousands of seabirds
+Energy/Dynamics,intense,Organic,wolf pack,ridge,the loud intense layered howling of a large pack of wolves
+Energy/Dynamics,intense,Organic,lion,safari,the loud intense chest-vibrating roar of a lion up close
+Energy/Dynamics,intense,Organic,whale song,ocean,the loud intense harmonic textures of multiple whales singing
+Energy/Dynamics,intense,Organic,elephant,jungle,the loud intense resonant trumpet of an elephant in the jungle
+Energy/Dynamics,intense,Organic,insect swarm,swamp,the loud intense high-pitched cloud of sound from a gnat swarm
+Energy/Dynamics,intense,Organic,frog chorus,marsh,the loud intense collective croaking of frogs in a swamp
+Energy/Dynamics,intense,Organic,horse stampede,plain,the loud intense rhythmic thundering of a horse herd
+Energy/Dynamics,intense,Organic,human screaming,fairground,the loud intense wall of sound from people on a roller coaster
+Energy/Dynamics,intense,Organic,tree canopy,storm,the loud intense roaring of wind through a dense forest
+Energy/Dynamics,intense,Organic,bison herd,prairie,the loud intense grumbling and thudding of a bison herd
+Energy/Dynamics,intense,Organic,laughter,party,the loud intense layered noise of a hundred people laughing
+Energy/Dynamics,intense,Organic,monkey troop,jungle,the loud intense chaotic screeching of a troop of monkeys
+Energy/Dynamics,intense,Organic,heartbeat,medical room,the loud intense thumping of a heart through an amplified monitor
+Energy/Dynamics,intense,Organic,breathing,closet,the loud intense rhythmic sound of heavy panicked breathing
+Energy/Dynamics,intense,Organic,cicada chorus,orchard,the loud intense buzzing of a cicada emergence in a field
+Energy/Dynamics,intense,Domestic,blender,kitchen,the loud intense grinding roar of a blender at max speed in a room
+Energy/Dynamics,intense,Domestic,vacuum,hallway,the loud intense steady roar of a powerful vacuum cleaner
+Energy/Dynamics,intense,Domestic,hair dryer,bathroom,the loud intense high-pitched whir of a hair dryer at full power
+Energy/Dynamics,intense,Domestic,fireplace,cabin,the loud intense roaring and popping of a large wood fire
+Energy/Dynamics,intense,Domestic,shower,bathroom,the loud intense wash of high-pressure water in a tiled stall
+Energy/Dynamics,intense,Domestic,washing machine,laundry,the loud intense thrumming of a machine on the spin cycle
+Energy/Dynamics,intense,Domestic,faucet,kitchen,the loud intense roar of water running at full pressure in a sink
+Energy/Dynamics,intense,Domestic,kettle,kitchen,the loud intense screaming hiss of a boiling tea kettle
+Energy/Dynamics,intense,Domestic,garbage truck,alley,the loud intense mechanical roar of a trash compactor
+Energy/Dynamics,intense,Domestic,shredder,office,the loud intense grinding of a paper shredder at work
+Energy/Dynamics,intense,Domestic,fan,bedroom,the loud intense steady whir of a large box fan at high speed
+Energy/Dynamics,intense,Domestic,door slam,manor,the loud intense thud and echo of a heavy oak door closing
+Energy/Dynamics,intense,Domestic,frying,kitchen,the loud intense constant sizzling of food in a deep fryer
+Energy/Dynamics,intense,Domestic,iron,laundry,the loud intense hiss of a steam iron on a wet garment
+Energy/Dynamics,intense,Domestic,radio,den,the loud intense white noise of a radio at max volume
+Energy/Dynamics,intense,Domestic,lawnmower,yard,the loud intense steady drone of a lawnmower outside
+Energy/Dynamics,intense,Domestic,dryer,utility room,the loud intense tumbling of heavy towels in a dryer
+Energy/Dynamics,intense,Domestic,staircase,house,the loud intense rhythmic thudding of someone running up stairs
+Energy/Dynamics,intense,Electronic,static,radio,the loud intense white noise of a radio at full volume
+Energy/Dynamics,intense,Electronic,high-gain amp,stage,the loud intense harmonic roar of a guitar amp at max gain
+Energy/Dynamics,intense,Electronic,feedback,stadium,the loud intense high-frequency scream of audio feedback
+Energy/Dynamics,intense,Electronic,transformer,substation,the loud intense powerful buzzing of a large transformer
+Energy/Dynamics,intense,Electronic,synth drone,studio,a loud intense multi-layered synthesizer at peak resonance
+Energy/Dynamics,intense,Electronic,server room,center,the loud intense collective whir of many server racks
+Energy/Dynamics,intense,Electronic,arc welder,shipyard,the loud intense crackling roar of an industrial arc welder
+Energy/Dynamics,intense,Electronic,mri machine,hospital,the loud intense rhythmic thumping of an mri scanner
+Energy/Dynamics,intense,Electronic,taser,security,the loud intense rapid arcing of a high-voltage taser
+Energy/Dynamics,intense,Electronic,pa system,arena,the loud intense resonant hum of a large arena sound system
+Energy/Dynamics,intense,Electronic,generator,site,the loud intense steady roar of a large diesel generator
+Energy/Dynamics,intense,Electronic,plasma,lab,the loud intense high-pitched hiss of a plasma torch
+Energy/Dynamics,intense,Electronic,radar,station,the loud intense mechanical and electronic hum of a radar array
+Energy/Dynamics,intense,Electronic,bitcrusher,studio,the loud intense harmonic distortion of a digital bitcrusher
+Energy/Dynamics,intense,Electronic,microwave,breakroom,the loud intense heavy buzz of a microwave oven in use
+Energy/Dynamics,intense,Electronic,computer fan,closet,the loud intense high-speed whir of a server fan
+Energy/Dynamics,intense,Electronic,vacuum tube,radio,the loud intense warm hum of a saturated vacuum tube
+Energy/Dynamics,intense,Electronic,buzzer,factory,the loud intense steady sound of an industrial emergency buzzer
+Energy/Dynamics,explosive,Musical,timpani,concert hall,a timpani drum being struck for a single explosive note
+Energy/Dynamics,explosive,Musical,bass drum,orchestra pit,a large orchestral bass drum being struck with an explosive thud
+Energy/Dynamics,explosive,Musical,gong,monastery,a large bronze gong being struck for a single explosive shimmer
+Energy/Dynamics,explosive,Musical,cymbals,stage,a pair of orchestral cymbals clashing together for an explosive crash
+Energy/Dynamics,explosive,Musical,snare drum,parade,a snare drum rimshot ringing out with an explosive snap
+Energy/Dynamics,explosive,Musical,trumpet,courtyard,a trumpet playing a single explosive high note in a courtyard
+Energy/Dynamics,explosive,Musical,handbells,chapel,a large handbell being struck once for an explosive ring
+Energy/Dynamics,explosive,Musical,taiko,stadium,a massive taiko drum being struck with an explosive boom
+Energy/Dynamics,explosive,Musical,wood block,studio,a wooden temple block being struck with an explosive crack
+Energy/Dynamics,explosive,Musical,piano,ballroom,a grand piano playing a single explosive fortissimo chord
+Energy/Dynamics,explosive,Musical,synthesizer,studio,a synthesizer playing an explosive electronic percussion sound
+Energy/Dynamics,explosive,Musical,cowbell,club,a metal cowbell being struck once for an explosive ring
+Energy/Dynamics,explosive,Musical,triangle,chamber,a steel triangle being struck once for an explosive tinkle
+Energy/Dynamics,explosive,Musical,drum kit,garage,a single explosive hit on a snare and crash cymbal
+Energy/Dynamics,explosive,Musical,xylophone,classroom,a xylophone bar being struck with an explosive tap
+Energy/Dynamics,explosive,Musical,chimes,tower,a tubular chime being struck once with an explosive ring
+Energy/Dynamics,explosive,Musical,harpsichord,gallery,a single harpsichord string being plucked with an explosive snap
+Energy/Dynamics,explosive,Musical,tambourine,stage,a tambourine being struck once for an explosive jingle
+Energy/Dynamics,explosive,Mechanical,pneumatic tool,garage,the explosive burst of air from a pneumatic tool being fired
+Energy/Dynamics,explosive,Mechanical,steam release,plant,the explosive roar of high-pressure steam being released
+Energy/Dynamics,explosive,Mechanical,staple gun,workshop,the explosive snap of a pneumatic staple gun firing
+Energy/Dynamics,explosive,Mechanical,impact wrench,auto shop,the explosive burst of a pneumatic impact wrench starting
+Energy/Dynamics,explosive,Mechanical,punch press,factory,the explosive thud of a heavy metal stamping press
+Energy/Dynamics,explosive,Mechanical,jackhammer,street,the initial explosive burst of a jackhammer hitting concrete
+Energy/Dynamics,explosive,Mechanical,wrecking ball,demolition site,the explosive crash of a wrecking ball hitting a wall
+Energy/Dynamics,explosive,Mechanical,stamping machine,plant,the explosive thud of a heavy industrial stamp on metal
+Energy/Dynamics,explosive,Mechanical,air compressor,garage,the explosive pop of a pressure relief valve on a tank
+Energy/Dynamics,explosive,Mechanical,engine,truck stop,the explosive roar of a large diesel engine starting up
+Energy/Dynamics,explosive,Mechanical,hydraulic press,shop,the explosive sound of a piece of wood shattering in a press
+Energy/Dynamics,explosive,Mechanical,hammer,forge,the explosive impact of a heavy hammer on a metal anvil
+Energy/Dynamics,explosive,Mechanical,sawmill,forest,the explosive whine of a circular saw hitting a hard knot in wood
+Energy/Dynamics,explosive,Mechanical,boiler,basement,the explosive roar of a gas burner igniting in a boiler
+Energy/Dynamics,explosive,Mechanical,crane,shipyard,the explosive metallic clunk of a crane hook engaging a load
+Energy/Dynamics,explosive,Mechanical,elevator,shaft,the explosive metallic thud of an elevator emergency brake engaging
+Energy/Dynamics,explosive,Mechanical,mill,riverside,the explosive splash of a waterwheel bucket hitting the river
+Energy/Dynamics,explosive,Mechanical,generator,camp,the explosive initial roar of a portable generator starting
+Energy/Dynamics,explosive,Environmental,lightning,meadow,the sharp explosive crack of a nearby lightning strike
+Energy/Dynamics,explosive,Environmental,thunder,canyon,the sudden explosive boom of a thunderclap echoing in a canyon
+Energy/Dynamics,explosive,Environmental,geyser,field,the explosive burst of a geyser eruption in a thermal field
+Energy/Dynamics,explosive,Environmental,ocean wave,sea wall,the explosive crash of a massive wave hitting a wall
+Energy/Dynamics,explosive,Environmental,ice,lake,the explosive boom of ice cracking on a frozen lake surface
+Energy/Dynamics,explosive,Environmental,rockfall,canyon,the explosive thud of a large boulder hitting a canyon floor
+Energy/Dynamics,explosive,Environmental,avalanche,slope,the initial explosive roar of a snow slab breaking loose
+Energy/Dynamics,explosive,Environmental,landslide,ravine,the explosive thud of earth hitting the bottom of a ravine
+Energy/Dynamics,explosive,Environmental,volcano,crater,the explosive guttural roar of a volcanic gas release
+Energy/Dynamics,explosive,Environmental,waterfall,basin,the explosive impact of water hitting a deep rocky pool
+Energy/Dynamics,explosive,Environmental,mudpot,field,the explosive pop of a large bubble in a geothermal mudpot
+Energy/Dynamics,explosive,Environmental,hail,car roof,the explosive drumming of large hail on a metal surface
+Energy/Dynamics,explosive,Environmental,branch,forest,the explosive snap of a large tree branch breaking in a storm
+Energy/Dynamics,explosive,Environmental,river,rapids,the explosive splash of a large wave in a class-five river
+Energy/Dynamics,explosive,Environmental,storm surge,coast,the explosive thrum of a storm surge hitting a pier
+Energy/Dynamics,explosive,Environmental,lava,volcano,the explosive hiss and pop of molten lava hitting water
+Energy/Dynamics,explosive,Environmental,bubble,sinkhole,the explosive thud of earth collapsing into a sinkhole
+Energy/Dynamics,explosive,Environmental,cave-in,cavern,the explosive crash of a section of cave ceiling falling
+Energy/Dynamics,explosive,Organic,lion,safari,the sudden explosive roar of a lion in a safari park
+Energy/Dynamics,explosive,Organic,elephant,jungle,the sudden explosive trumpet of an elephant in the jungle
+Energy/Dynamics,explosive,Organic,alligator,swamp,the explosive snap of an alligator's jaws in a swamp
+Energy/Dynamics,explosive,Organic,gorilla,rainforest,the sudden explosive thumping of a gorilla on its chest
+Energy/Dynamics,explosive,Organic,horse,meadow,the explosive thud of a horse's hoof on a wooden bridge
+Energy/Dynamics,explosive,Organic,bear,cave,the sudden explosive growl of a bear in a mountain cave
+Energy/Dynamics,explosive,Organic,human shout,hall,a single explosive human shout echoing in a stone hall
+Energy/Dynamics,explosive,Organic,bird,jungle,the sudden explosive call of a tropical bird in a rainforest
+Energy/Dynamics,explosive,Organic,whale,ocean,the explosive splash of a whale breaching the ocean surface
+Energy/Dynamics,explosive,Organic,fist,gym,the explosive thud of a heavy punch hitting a sandbag
+Energy/Dynamics,explosive,Organic,footstep,hallway,the explosive thud of a heavy boot step on a hollow floor
+Energy/Dynamics,explosive,Organic,eggshell,bowl,the explosive snap of an eggshell being crushed in a hand
+Energy/Dynamics,explosive,Organic,wasp,window,the explosive buzz and pop of a wasp hitting a glass pane
+Energy/Dynamics,explosive,Organic,shrimp,reef,the sharp explosive snap of a pistol shrimp's claw
+Energy/Dynamics,explosive,Organic,scales,rock,the explosive dry rustle of a large snake moving over stones
+Energy/Dynamics,explosive,Organic,bones,museum,the explosive clink of a large bone being dropped on a floor
+Energy/Dynamics,explosive,Organic,rhinocerous,scrubland,the explosive initial huff of a rhinoceros charging
+Energy/Dynamics,explosive,Organic,teeth,room,the explosive clicking of teeth chattering in the cold
+Energy/Dynamics,explosive,Domestic,door slam,manor,the explosive thud of a heavy oak door being slammed shut
+Energy/Dynamics,explosive,Domestic,glass,kitchen,the explosive sound of a glass jar shattering on a tile floor
+Energy/Dynamics,explosive,Domestic,lightbulb,garage,the explosive pop of a lightbulb burning out in a room
+Energy/Dynamics,explosive,Domestic,fireplace,cabin,the explosive pop of a large log in a cabin fireplace
+Energy/Dynamics,explosive,Domestic,kettle,kitchen,the sudden explosive whistle of a tea kettle boiling
+Energy/Dynamics,explosive,Domestic,cabinet,pantry,the explosive thud of a wooden cabinet door being slammed
+Energy/Dynamics,explosive,Domestic,rug,yard,the explosive thud of a heavy rug being hit with a wooden bat
+Energy/Dynamics,explosive,Domestic,book,library,the explosive thud of a massive book being slammed on a table
+Energy/Dynamics,explosive,Domestic,iron,laundry,the explosive hiss of steam from an iron being activated
+Energy/Dynamics,explosive,Domestic,suitcase,closet,the explosive thud of a heavy suitcase falling on a floor
+Energy/Dynamics,explosive,Domestic,trash can,alley,the explosive clang of a metal lid being slammed down
+Energy/Dynamics,explosive,Domestic,frying,kitchen,the explosive pop of water hitting a hot oily pan
+Energy/Dynamics,explosive,Domestic,match,campsite,the explosive strike and snap of a match igniting
+Energy/Dynamics,explosive,Domestic,can opener,kitchen,the explosive pierce of a manual opener on a tin lid
+Energy/Dynamics,explosive,Domestic,sofa,living room,the explosive thud of someone sitting down on a heavy sofa
+Energy/Dynamics,explosive,Domestic,balloon,nursery,the explosive pop of a balloon being pricked in a room
+Energy/Dynamics,explosive,Domestic,pantry door,kitchen,the explosive creak and thud of a heavy wooden door
+Energy/Dynamics,explosive,Domestic,curtains,theater,the explosive swish of heavy curtains being drawn rapidly
+Energy/Dynamics,explosive,Electronic,capacitor,lab,the explosive discharge snap of a high-voltage capacitor
+Energy/Dynamics,explosive,Electronic,taser,security,the explosive arcing and pop of an electronic taser
+Energy/Dynamics,explosive,Electronic,spark,workshop,the explosive snap of a large electrical spark on a bench
+Energy/Dynamics,explosive,Electronic,camera flash,studio,the explosive pop of a high-power studio flash light
+Energy/Dynamics,explosive,Electronic,buzzer,factory,the explosive initial burst of an industrial alarm buzzer
+Energy/Dynamics,explosive,Electronic,speaker,room,the explosive initial pop of a speaker being turned on
+Energy/Dynamics,explosive,Electronic,circuit breaker,panel,the explosive metallic thud of a large circuit breaker tripping
+Energy/Dynamics,explosive,Electronic,relay,server room,the explosive click of a high-power electronic relay
+Energy/Dynamics,explosive,Electronic,solenoid,factory,the explosive mechanical thunk of a large industrial solenoid
+Energy/Dynamics,explosive,Electronic,static,carpeted room,the explosive snap of a static spark hitting a metal handle
+Energy/Dynamics,explosive,Electronic,synthesizer,studio,a synthesizer playing an explosive electronic bass pulse
+Energy/Dynamics,explosive,Electronic,modem,office,the explosive initial handshake screech of a vintage modem
+Energy/Dynamics,explosive,Electronic,phone,table,the explosive vibration burst of a phone on a glass table
+Energy/Dynamics,explosive,Electronic,alarm,hospital,the explosive initial beep of a medical monitor alarm
+Energy/Dynamics,explosive,Electronic,geiger counter,site,the explosive rapid clicking of a geiger counter near a source
+Energy/Dynamics,explosive,Electronic,scanner,store,the explosive beep of a barcode scanner at a checkout
+Energy/Dynamics,explosive,Electronic,transformer,pole,the explosive buzz and pop of a failing power transformer
+Energy/Dynamics,explosive,Electronic,led,workshop,the explosive flicker and buzz of a faulty led fixture
+Energy/Dynamics,energetic,Musical,tambourine,festival,a tambourine being shaken vigorously during a lively folk dance
+Energy/Dynamics,energetic,Musical,bongo drums,beach party,a rapid sequence of energetic strikes on bongo drums
+Energy/Dynamics,energetic,Musical,violin,wedding hall,a violin playing a fast energetic fiddle tune in a hall
+Energy/Dynamics,energetic,Musical,xylophone,classroom,a lively energetic melody played on a xylophone in a school
+Energy/Dynamics,energetic,Musical,mandolin,porch,a mandolin being played with a fast energetic tremolo
+Energy/Dynamics,energetic,Musical,drum kit,club,a fast energetic rock beat on a full drum kit in a club
+Energy/Dynamics,energetic,Musical,cabasa,studio,the rhythmic energetic twisting of a metal cabasa in a booth
+Energy/Dynamics,energetic,Musical,handbells,chapel,a lively energetic sequence of handbell ringing in a chapel
+Energy/Dynamics,energetic,Musical,piano,ballroom,a grand piano playing a fast energetic ragtime piece
+Energy/Dynamics,energetic,Musical,kazoo,parade,the lively energetic buzzing of multiple kazoos in a street
+Energy/Dynamics,energetic,Musical,shaker,recording room,a bead-filled shaker being shaken with an energetic rhythm
+Energy/Dynamics,energetic,Musical,banjo,barn,a banjo being played with a fast energetic bluegrass roll
+Energy/Dynamics,energetic,Musical,claves,music room,two wooden claves being struck in a fast energetic rhythm
+Energy/Dynamics,energetic,Musical,harmonica,campsite,a lively energetic melody played on a harmonica
+Energy/Dynamics,energetic,Musical,triangle,orchestra,a triangle being struck for a series of energetic notes
+Energy/Dynamics,energetic,Musical,ukulele,beach,a ukulele being strummed with an energetic tropical rhythm
+Energy/Dynamics,energetic,Musical,accordion,piazza,an accordion playing a fast energetic polka in a square
+Energy/Dynamics,energetic,Musical,castanets,dance studio,wooden castanets being clicked with an energetic rhythm
+Energy/Dynamics,energetic,Mechanical,lawnmower,yard,the lively energetic drone of a lawnmower on a summer day
+Energy/Dynamics,energetic,Mechanical,sewing machine,factory,the rapid energetic clicking of an industrial sewing machine
+Energy/Dynamics,energetic,Mechanical,printing press,newspaper,the lively rhythmic thud and click of a printing press
+Energy/Dynamics,energetic,Mechanical,clockwork shop,workshop,the lively overlapping ticking of a hundred clocks
+Energy/Dynamics,energetic,Mechanical,spinning wheel,attic,the lively steady whir of a wooden spinning wheel
+Energy/Dynamics,energetic,Mechanical,vending machine,hall,the lively mechanical sounds of a machine dispensing a snack
+Energy/Dynamics,energetic,Mechanical,typewriter,newsroom,the lively rhythmic clicking of several manual typewriters
+Energy/Dynamics,energetic,Mechanical,socket wrench,garage,the lively metallic clicking of a ratchet wrench being turned
+Energy/Dynamics,energetic,Mechanical,staple gun,upholstery shop,a staple gun firing with an energetic rhythm
+Energy/Dynamics,energetic,Mechanical,conveyor,warehouse,the lively clatter of small items moving on a belt
+Energy/Dynamics,energetic,Mechanical,fan,laptop,the lively high-pitched whir of a small cooling fan
+Energy/Dynamics,energetic,Mechanical,lathe,woodshop,the lively rhythmic grind of a lathe turning wood
+Energy/Dynamics,energetic,Mechanical,engine,auto shop,the lively clicking of valves in a well-tuned idling engine
+Energy/Dynamics,energetic,Mechanical,telegraph,station,the lively rapid clicking of a telegraph key
+Energy/Dynamics,energetic,Mechanical,wind-up toy,playroom,the lively clicking of a mechanical toy moving across a floor
+Energy/Dynamics,energetic,Mechanical,mill,riverside,the lively splashing and clanking of a water-powered mill
+Energy/Dynamics,energetic,Mechanical,projector,cinema,the lively rhythmic clicking of a film projector shutter
+Energy/Dynamics,energetic,Mechanical,stapler,office,the lively clicking of a heavy-duty stapler being used
+Energy/Dynamics,energetic,Environmental,cicadas,orchard,the lively collective buzzing of cicadas in a summer grove
+Energy/Dynamics,energetic,Environmental,rain,tin roof,the lively rhythmic tapping of raindrops on a corrugated roof
+Energy/Dynamics,energetic,Environmental,waterfall,rocks,the lively splashing of a mountain stream over jagged rocks
+Energy/Dynamics,energetic,Environmental,crickets,meadow,the lively rhythmic chirping of crickets in a summer field
+Energy/Dynamics,energetic,Environmental,hail,car roof,the lively drumming of small hail on a metal surface
+Energy/Dynamics,energetic,Environmental,geyser,field,the lively bubbling and popping of a mud vent in a field
+Energy/Dynamics,energetic,Environmental,leaves,courtyard,the lively skittering of dry leaves in a gusty wind
+Energy/Dynamics,energetic,Environmental,reeds,marsh,the lively clattering of dry reeds in a brisk breeze
+Energy/Dynamics,energetic,Environmental,pebbles,shore,the lively clinking of pebbles in the receding surf
+Energy/Dynamics,energetic,Environmental,wind chimes,porch,the lively overlapping clinking of metal wind chimes
+Energy/Dynamics,energetic,Environmental,stalactite,cave,the lively rhythmic dripping of water into a pool
+Energy/Dynamics,energetic,Environmental,ice,river,the lively tinkling of ice shards floating in a stream
+Energy/Dynamics,energetic,Environmental,sand,desert,the lively tapping of sand grains against a metal pipe
+Energy/Dynamics,energetic,Environmental,twig,woods,the lively snapping of branches in a windstorm
+Energy/Dynamics,energetic,Environmental,thaw,mountain,the lively sound of melting snow dripping on rocks
+Energy/Dynamics,energetic,Environmental,insect swarm,meadow,the lively high-pitched hum of many insects
+Energy/Dynamics,energetic,Environmental,bamboo,grove,the lively knocking of many bamboo stalks together
+Energy/Dynamics,energetic,Environmental,geyser,vent,the lively hissing of several small steam vents in a field
+Energy/Dynamics,energetic,Organic,birdsong,jungle,the lively overlapping calls of various tropical birds
+Energy/Dynamics,energetic,Organic,chicken coop,farm,the lively clucking and scratching of many chickens
+Energy/Dynamics,energetic,Organic,puppies,kennel,the lively yapping and scratching of several puppies
+Energy/Dynamics,energetic,Organic,market,square,the lively sounds of many people talking and moving in a market
+Energy/Dynamics,energetic,Organic,monkey troop,canopy,the lively screeching and rustling of monkeys in the trees
+Energy/Dynamics,energetic,Organic,horse,meadow,the lively thud of a horse galloping across an open field
+Energy/Dynamics,energetic,Organic,laughter,party,the lively sound of a group of people laughing together
+Energy/Dynamics,energetic,Organic,bats,cavern,the lively clicking and fluttering of a large bat colony
+Energy/Dynamics,energetic,Organic,frog pond,marsh,the lively collective croaking of frogs at night
+Energy/Dynamics,energetic,Organic,hands,hall,the lively sound of many people clapping in a rhythm
+Energy/Dynamics,energetic,Organic,teeth,room,the lively clicking of a person's teeth in the cold
+Energy/Dynamics,energetic,Organic,claws,tile,the lively clicking of a dog's claws on a hardwood floor
+Energy/Dynamics,energetic,Organic,bees,hive,the lively constant hum of a large honeybee colony
+Energy/Dynamics,energetic,Organic,heartbeat,room,the lively rhythmic thumping of a person's heartbeat
+Energy/Dynamics,energetic,Organic,finger tapping,desk,the lively rhythmic tapping of fingers on a wooden table
+Energy/Dynamics,energetic,Organic,beak,farm,the lively tapping of a chicken's beak on a metal feeder
+Energy/Dynamics,energetic,Organic,wasp,window,the lively buzzing of a wasp against a glass pane
+Energy/Dynamics,energetic,Organic,chick,coop,the lively high-pitched peeping of baby chicks in a nest
+Energy/Dynamics,energetic,Domestic,toy box,playroom,the lively sound of plastic toys being moved in a box
+Energy/Dynamics,energetic,Domestic,chopping,kitchen,the lively rhythmic sound of a knife chopping vegetables
+Energy/Dynamics,energetic,Domestic,ball,court,the lively rhythmic bouncing of a basketball on concrete
+Energy/Dynamics,energetic,Domestic,knocks,door,the lively rhythmic knocking of a hand on a wooden door
+Energy/Dynamics,energetic,Domestic,silverware,dining room,the lively clinking of silverware on china plates
+Energy/Dynamics,energetic,Domestic,drawer,bedroom,the lively rattling of items in a drawer being opened
+Energy/Dynamics,energetic,Domestic,keys,entryway,the lively jingle of a large ring of keys being shaken
+Energy/Dynamics,energetic,Domestic,scissors,sewing room,the lively snipping of scissors through fabric
+Energy/Dynamics,energetic,Domestic,curtain,bedroom,the lively clinking of curtain rings on a metal rod
+Energy/Dynamics,energetic,Domestic,washing machine,laundry,the lively thumping of a washing machine cycle
+Energy/Dynamics,energetic,Domestic,egg timer,kitchen,the lively rhythmic ticking of a mechanical egg timer
+Energy/Dynamics,energetic,Domestic,flipping pages,library,the lively sound of someone flipping through a book
+Energy/Dynamics,energetic,Domestic,rocking chair,porch,the lively rhythmic creaking of a rocking chair
+Energy/Dynamics,energetic,Domestic,dice,game room,the lively sound of several dice being rolled on a table
+Energy/Dynamics,energetic,Domestic,dishes,sink,the lively clinking of many dishes being washed
+Energy/Dynamics,energetic,Domestic,shredder,office,the lively grinding of a paper shredder in operation
+Energy/Dynamics,energetic,Domestic,fan,bedroom,the lively rhythmic whir of a fan blade hitting a wire
+Energy/Dynamics,energetic,Domestic,laundry,room,the lively rustle of a large pile of fresh clothes
+Energy/Dynamics,energetic,Electronic,sequencer,studio,the lively electronic pulses of a hardware sequencer
+Energy/Dynamics,energetic,Electronic,arcade,game center,the lively electronic sounds of several different games
+Energy/Dynamics,energetic,Electronic,geiger counter,site,the lively rapid clicking of a geiger counter
+Energy/Dynamics,energetic,Electronic,metronome,digital,the lively steady rhythmic beep of a digital metronome
+Energy/Dynamics,energetic,Electronic,alarm,bedroom,the lively rhythmic beeping of a digital alarm clock
+Energy/Dynamics,energetic,Electronic,scanner,store,the lively beeping of several registers at a checkout
+Energy/Dynamics,energetic,Electronic,relay,server room,the lively clicking of a power relay cycling
+Energy/Dynamics,energetic,Electronic,heart monitor,hospital,the lively rhythmic beeping of a digital heart monitor
+Energy/Dynamics,energetic,Electronic,printer,office,the lively mechanical clicking of a dot-matrix printer
+Energy/Dynamics,energetic,Electronic,taser,security,the lively rapid arcing of a handheld taser being tested
+Energy/Dynamics,energetic,Electronic,camera,studio,the lively rhythmic clicking of a camera in burst mode
+Energy/Dynamics,energetic,Electronic,walkie-talkie,site,the lively static bursts of a walkie-talkie communication
+Energy/Dynamics,energetic,Electronic,modem,office,the lively electronic chirping of a dial-up modem
+Energy/Dynamics,energetic,Electronic,plasma globe,museum,the lively rhythmic crackling of a plasma globe
+Energy/Dynamics,energetic,Electronic,led,workshop,the lively flickering buzz of a faulty led fixture
+Energy/Dynamics,energetic,Electronic,phone,office,the lively ringing of several different desk phones
+Energy/Dynamics,energetic,Electronic,buzzer,factory,the lively rhythmic buzzing of an industrial alarm
+Energy/Dynamics,energetic,Electronic,glitch,computer,a lively series of rapid digital pops and clicks
+Energy/Dynamics,compressed,Musical,trumpet,jazz club,a trumpet playing with a tight plunger mute in a club
+Energy/Dynamics,compressed,Musical,electric guitar,studio,an electric guitar string being squeezed behind a nut
+Energy/Dynamics,compressed,Musical,bass drum,garage,a kick drum stuffed with heavy blankets and struck
+Energy/Dynamics,compressed,Musical,snare drum,booth,a snare drum with a thick internal dampener being struck
+Energy/Dynamics,compressed,Musical,bagpipes,closet,the tight wheezing of bagpipes being squeezed in a closet
+Energy/Dynamics,compressed,Musical,clarinet,room,a clarinet reed being pressed tightly against a mouthpiece
+Energy/Dynamics,compressed,Musical,synthesizer,studio,a synthesizer patch with a tight high-resonance filter
+Energy/Dynamics,compressed,Musical,harmonium,chapel,the restricted wheeze of a harmonium with low bellows pressure
+Energy/Dynamics,compressed,Musical,violin,chamber,a violin playing a tight choked note near the bridge
+Energy/Dynamics,compressed,Musical,accordion,piazza,the tight breath of an accordion being squeezed shut
+Energy/Dynamics,compressed,Musical,jaw harp,porch,the tight metallic twang of a jaw harp in the mouth
+Energy/Dynamics,compressed,Musical,tambourine,stage,a tambourine being gripped tightly to choke the jingles
+Energy/Dynamics,compressed,Musical,cello,cellar,a cello string being pressed against the neck while bowed
+Energy/Dynamics,compressed,Musical,penny whistle,study,a penny whistle being blown with restricted airflow
+Energy/Dynamics,compressed,Musical,kazoo,basement,the tight buzzing of a kazoo with a finger over the hole
+Energy/Dynamics,compressed,Musical,djembe,beach,the tight high-pitched ring of a djembe edge slap
+Energy/Dynamics,compressed,Musical,harp,hall,a harp string being pinched and plucked in a stone hall
+Energy/Dynamics,compressed,Musical,marimba,studio,a marimba bar being struck while damped by the hand
+Energy/Dynamics,compressed,Mechanical,steam valve,factory,the tight hiss of steam escaping a narrow valve
+Energy/Dynamics,compressed,Mechanical,pneumatic piston,shop,the tight wheeze of a pneumatic piston moving
+Energy/Dynamics,compressed,Mechanical,spray can,alley,the tight hiss of paint from a nozzle on a metal can
+Energy/Dynamics,compressed,Mechanical,hydraulic cylinder,plant,the tight groan of a hydraulic cylinder under load
+Energy/Dynamics,compressed,Mechanical,air hose,garage,the tight high-pitched hiss of air from a small leak
+Energy/Dynamics,compressed,Mechanical,gears,clock tower,the tight clicking of gears under heavy spring tension
+Energy/Dynamics,compressed,Mechanical,vacuum pump,lab,the tight rhythmic thrum of a vacuum pump in a lab
+Energy/Dynamics,compressed,Mechanical,pulleys,warehouse,the tight squeal of a wire cable on a small pulley
+Energy/Dynamics,compressed,Mechanical,drill,woodshop,the tight laboring whir of a drill in a thick oak beam
+Energy/Dynamics,compressed,Mechanical,shutter,house,the tight rattling of a window shutter in a high wind
+Energy/Dynamics,compressed,Mechanical,bellows,forge,the tight huff of leather bellows being squeezed
+Energy/Dynamics,compressed,Mechanical,ratchet strap,truck,the tight clicking of a strap being winched taut
+Energy/Dynamics,compressed,Mechanical,sewing machine,factory,the tight rapid clicking of a needle in thick fabric
+Energy/Dynamics,compressed,Mechanical,stapler,office,the tight metallic snap of a stapler on a thick stack
+Energy/Dynamics,compressed,Mechanical,watch,study,the tight fine metallic ticking of a pocket watch
+Energy/Dynamics,compressed,Mechanical,elevator,shaft,the tight mechanical hum of a winch in a narrow shaft
+Energy/Dynamics,compressed,Mechanical,fan,laptop,the tight high-pitched whir of a fan through a dust filter
+Energy/Dynamics,compressed,Mechanical,typewriter,attic,the tight mechanical click of a key striking the platen
+Energy/Dynamics,compressed,Environmental,geyser,vent,the tight high-pitched hiss of steam from a narrow vent
+Energy/Dynamics,compressed,Environmental,wind,keyhole,the tight whistling of wind through a narrow keyhole
+Energy/Dynamics,compressed,Environmental,rain,tent,the tight drumming of rain on a taut canvas tent surface
+Energy/Dynamics,compressed,Environmental,ice,lake,the tight high-pitched crack of ice under extreme tension
+Energy/Dynamics,compressed,Environmental,sand,desert,the tight hiss of sand grains being blown through a gap
+Energy/Dynamics,compressed,Environmental,water,sink,the tight hiss of water through a partially blocked faucet
+Energy/Dynamics,compressed,Environmental,mist,forest,the tight high-pitched hiss of mist through pine needles
+Energy/Dynamics,compressed,Environmental,stalactite,cave,the tight drip of water into a narrow rocky crevice
+Energy/Dynamics,compressed,Environmental,snow,mountain,the tight squeak of frozen snow under a heavy boot
+Energy/Dynamics,compressed,Environmental,reeds,marsh,the tight clattering of dry reeds in a narrow thicket
+Energy/Dynamics,compressed,Environmental,thaw,river,the tight tinkling of ice crystals in a narrow stream
+Energy/Dynamics,compressed,Environmental,geyser,field,the tight subterranean thumping before a steam release
+Energy/Dynamics,compressed,Environmental,bubble,mudpot,the tight pop of a small bubble in thick geothermal mud
+Energy/Dynamics,compressed,Environmental,twigs,woods,the tight snap of a dry branch under a heavy weight
+Energy/Dynamics,compressed,Environmental,cavern wind,cave,the tight moaning of wind through a narrow passage
+Energy/Dynamics,compressed,Environmental,leaves,garden,the tight rustle of dry leaves in a narrow courtyard
+Energy/Dynamics,compressed,Environmental,hail,car roof,the tight drumming of sleet on a metal car roof
+Energy/Dynamics,compressed,Environmental,rock,quarry,the tight grinding of two heavy stones under pressure
+Energy/Dynamics,compressed,Organic,breathing,closet,the tight wheezing breath of a person in a small space
+Energy/Dynamics,compressed,Organic,teeth,cold room,the tight rapid clicking of teeth chattering in the cold
+Energy/Dynamics,compressed,Organic,heartbeat,room,the tight muffled thumping of a heart through a thick wall
+Energy/Dynamics,compressed,Organic,snake,rock,the tight dry hiss of a snake moving through a crevice
+Energy/Dynamics,compressed,Organic,wasp,window,the tight high-pitched buzz of a wasp against a glass pane
+Energy/Dynamics,compressed,Organic,bat,cave,the tight high-pitched clicking of a bat in a narrow cavern
+Energy/Dynamics,compressed,Organic,beetle,attic,the tight scuttling of a beetle on a wooden floorboard
+Energy/Dynamics,compressed,Organic,shrimp,reef,the tight high-pitched snap of a pistol shrimp underwater
+Energy/Dynamics,compressed,Organic,bird,cage,the tight chirping of a small bird in a wire cage
+Energy/Dynamics,compressed,Organic,claws,tile,the tight clicking of a cat's claws on a hard floor
+Energy/Dynamics,compressed,Organic,eggshell,bowl,the tight snap of an eggshell against a porcelain rim
+Energy/Dynamics,compressed,Organic,hair,brush,the tight static crackle of hair being pulled in a brush
+Energy/Dynamics,compressed,Organic,wasp,attic,the tight buzzing of a wasp in a small enclosed space
+Energy/Dynamics,compressed,Organic,chick,coop,the tight high-pitched peeping of a baby chick in a nest
+Energy/Dynamics,compressed,Organic,seed pod,hand,a dry seed pod being crushed in a closed palm
+Energy/Dynamics,compressed,Organic,shout,tunnel,a human shout echoing in a narrow stone tunnel
+Energy/Dynamics,compressed,Organic,fist,bag,the tight thud of a punch hitting a small speed bag
+Energy/Dynamics,compressed,Organic,tongue,mouth,a tight clicking of the tongue against the roof of the mouth
+Energy/Dynamics,compressed,Domestic,aluminum foil,kitchen,the tight crinkling of a small piece of aluminum foil
+Energy/Dynamics,compressed,Domestic,keys,pocket,the tight jingle of several keys in a denim pocket
+Energy/Dynamics,compressed,Domestic,zipper,closet,the tight zipping sound of a small nylon zipper
+Energy/Dynamics,compressed,Domestic,scissors,sewing room,the tight snip of small scissors through thick fabric
+Energy/Dynamics,compressed,Domestic,thimble,sewing basket,a tight tap of a thimble against a needle
+Energy/Dynamics,compressed,Domestic,measuring spoon,kitchen,a tight clink of a metal spoon in a bowl
+Energy/Dynamics,compressed,Domestic,safety pin,dressing room,the tight click of a safety pin being closed
+Energy/Dynamics,compressed,Domestic,spectacles,study,the tight click of a spectacle case being closed
+Energy/Dynamics,compressed,Domestic,lightbulb,garage,the tight rattle of a filament in a small lamp
+Energy/Dynamics,compressed,Domestic,envelope,office,the tight sound of paper being torn from a letter
+Energy/Dynamics,compressed,Domestic,thread,sewing room,the tight snap of a single thread being broken
+Energy/Dynamics,compressed,Domestic,beads,bedroom,the tight clink of two glass beads on a string
+Energy/Dynamics,compressed,Domestic,can opener,kitchen,the tight pierce of a manual opener on a tin lid
+Energy/Dynamics,compressed,Domestic,clock,bedroom,the tight rhythmic tick of a small travel clock
+Energy/Dynamics,compressed,Domestic,pills,bottle,the tight rattling of pills in a small plastic bottle
+Energy/Dynamics,compressed,Domestic,razor,bathroom,a safety razor being tapped against a sink
+Energy/Dynamics,compressed,Domestic,match,campsite,the tight strike of a match against a small box
+Energy/Dynamics,compressed,Domestic,pin,floor,the tight tinkle of a sewing pin dropping on a floor
+Energy/Dynamics,compressed,Electronic,earbuds,library,the tight tinny sound of music leaking from earbuds
+Energy/Dynamics,compressed,Electronic,buzzer,toy,the tight high-pitched buzz of a small electronic toy
+Energy/Dynamics,compressed,Electronic,glitch,computer,a tight high-frequency digital pop from a speaker
+Energy/Dynamics,compressed,Electronic,static,radio,the tight high-pitched white noise from a small radio
+Energy/Dynamics,compressed,Electronic,beep,hospital,the tight high-pitched beep of a digital heart monitor
+Energy/Dynamics,compressed,Electronic,watch alarm,bedroom,the tight high-pitched beep of a digital watch
+Energy/Dynamics,compressed,Electronic,camera flash,studio,the tight high-pitched whine of a charging flash
+Energy/Dynamics,compressed,Electronic,scanner,store,the tight high-pitched beep of a barcode scanner
+Energy/Dynamics,compressed,Electronic,taser,security,the tight high-pitched arcing of a handheld taser
+Energy/Dynamics,compressed,Electronic,piezo,alarm,the tight high-pitched chirp of a small piezo alarm
+Energy/Dynamics,compressed,Electronic,led driver,workshop,the tight high-pitched buzz of a faulty led light
+Energy/Dynamics,compressed,Electronic,microchip,lab,the tight high-frequency whine of a microchip
+Energy/Dynamics,compressed,Electronic,modem,office,the tight high-pitched screeching of a dial-up modem
+Energy/Dynamics,compressed,Electronic,capacitor,bench,the tight snap of a small capacitor discharging
+Energy/Dynamics,compressed,Electronic,neon sign,diner,the tight high-pitched flicker of a small neon sign
+Energy/Dynamics,compressed,Electronic,walkie-talkie,site,the tight static burst from a handheld radio
+Energy/Dynamics,compressed,Electronic,smartwatch,bedroom,the tight high-pitched chirp of a notification
+Energy/Dynamics,compressed,Electronic,fan,laptop,the tight high-speed whir of a small computer fan
+Energy/Dynamics,surging,Musical,orchestra,concert hall,a full orchestra performing a gradual volume swell
+Energy/Dynamics,surging,Musical,pipe organ,cathedral,the rising sound of multiple organ stops being added
+Energy/Dynamics,surging,Musical,choir,abbey,a choir performing a powerful crescendo in a stone abbey
+Energy/Dynamics,surging,Musical,gong,monastery,a gong being struck for a rising shimmering wash of sound
+Energy/Dynamics,surging,Musical,cello,cellar,a cello playing a long rising note with increasing pressure
+Energy/Dynamics,surging,Musical,trumpet,courtyard,a trumpet playing a loud rising fanfare in a courtyard
+Energy/Dynamics,surging,Musical,synthesizer,studio,a synthesizer playing a rising filtered lead patch
+Energy/Dynamics,surging,Musical,harmonium,chapel,the rising breath of a harmonium with increasing bellows
+Energy/Dynamics,surging,Musical,handpan,tunnel,the rising overlapping resonance of a handpan in a tunnel
+Energy/Dynamics,surging,Musical,bagpipes,field,the rising drone of bagpipes as they are being inflated
+Energy/Dynamics,surging,Musical,timpani,stage,a timpani drum roll performing a loud crescendo on stage
+Energy/Dynamics,surging,Musical,violin,chamber,a violin playing a rising trill with increasing speed
+Energy/Dynamics,surging,Musical,drum kit,garage,a drum roll on a snare drum increasing in volume
+Energy/Dynamics,surging,Musical,kazoo,parade,the rising collective buzzing of multiple kazoos
+Energy/Dynamics,surging,Musical,tambourine,stage,a tambourine being shaken with increasing intensity
+Energy/Dynamics,surging,Musical,harp,hall,a harp glissando increasing in speed and volume
+Energy/Dynamics,surging,Musical,didgeridoo,cave,the rising vibrating drone of a didgeridoo in a cavern
+Energy/Dynamics,surging,Musical,piano,ballroom,a grand piano playing a series of chords with increasing force
+Energy/Dynamics,surging,Mechanical,jet engine,runway,the rising roar of a jet engine as it reaches full throttle
+Energy/Dynamics,surging,Mechanical,turbine,power plant,the rising high-pitched whine of a turbine spinning up
+Energy/Dynamics,surging,Mechanical,locomotive,railway,the rising thrum of a diesel locomotive as it accelerates
+Energy/Dynamics,surging,Mechanical,industrial fan,warehouse,the rising whir of a giant fan as it starts up
+Energy/Dynamics,surging,Mechanical,generator,camp,the rising roar of a diesel generator as it takes a load
+Energy/Dynamics,surging,Mechanical,air compressor,garage,the rising throb of a compressor filling a tank
+Energy/Dynamics,surging,Mechanical,elevator,shaft,the rising hum of a winch as an elevator accelerates
+Energy/Dynamics,surging,Mechanical,vacuum,warehouse,the rising steady roar of an industrial vacuum cleaner
+Energy/Dynamics,surging,Mechanical,drill,woodshop,the rising whir of a hand drill reaching max speed
+Energy/Dynamics,surging,Mechanical,sawmill,forest,the rising whine of a circular saw hitting a thick beam
+Energy/Dynamics,surging,Mechanical,pump,station,the rising rhythmic thrum of a water pump starting
+Energy/Dynamics,surging,Mechanical,boiler,basement,the rising roar of a gas burner as it ignites and builds
+Energy/Dynamics,surging,Mechanical,crane,shipyard,the rising groan of a crane lifting a heavy container
+Energy/Dynamics,surging,Mechanical,hydraulic lift,garage,the rising groan of a lift raising a heavy truck
+Energy/Dynamics,surging,Mechanical,centrifuge,lab,the rising high-pitched whine of a centrifuge at max speed
+Energy/Dynamics,surging,Mechanical,spinning wheel,attic,the rising steady whir of a wooden spinning wheel
+Energy/Dynamics,surging,Mechanical,loom,textile mill,the rising clatter of an industrial loom starting up
+Energy/Dynamics,surging,Mechanical,engine,auto shop,the rising roar of a car engine being revved in a garage
+Energy/Dynamics,surging,Environmental,ocean wave,beach,the rising roar of a massive wave as it approaches a shore
+Energy/Dynamics,surging,Environmental,thunder,canyon,the rising roll of thunder echoing in a mountain valley
+Energy/Dynamics,surging,Environmental,waterfall,basin,the rising roar of water after a heavy rain upstream
+Energy/Dynamics,surging,Environmental,hurricane,coast,the rising roar of wind as a storm hits the coastline
+Energy/Dynamics,surging,Environmental,fire,forest,the rising roaring and crackling of a forest fire in the wind
+Energy/Dynamics,surging,Environmental,geyser,field,the rising explosive hiss of a geyser before eruption
+Energy/Dynamics,surging,Environmental,landslide,mountain,the rising roar of falling rock on a mountain slope
+Energy/Dynamics,surging,Environmental,avalanche,slope,the rising muffled roar of a snow avalanche on a hill
+Energy/Dynamics,surging,Environmental,wind,glacier,the rising whistling roar of wind through an ice field
+Energy/Dynamics,surging,Environmental,river,rapids,the rising constant rushing of class-five river rapids
+Energy/Dynamics,surging,Environmental,mudslide,valley,the rising wet roar of a massive mudflow in a gorge
+Energy/Dynamics,surging,Environmental,surf,sea wall,the rising thrum of waves hitting a concrete sea wall
+Energy/Dynamics,surging,Environmental,storm surge,coast,the rising low-frequency wash of a storm surge
+Energy/Dynamics,surging,Environmental,volcano,crater,the rising guttural roar of a volcanic gas release
+Energy/Dynamics,surging,Environmental,hail,tin shed,the rising drumming of hail on a corrugated metal roof
+Energy/Dynamics,surging,Environmental,rain,forest,the rising sound of heavy rain as a storm approaches
+Energy/Dynamics,surging,Environmental,sandstorm,desert,the rising roar of a sandstorm moving across a field
+Energy/Dynamics,surging,Environmental,mudpot,field,the rising bubbling and popping of a mud vent
+Energy/Dynamics,surging,Organic,stadium crowd,arena,the rising roar of a crowd after a goal in a stadium
+Energy/Dynamics,surging,Organic,honeybees,hive,the rising vibrating hum of a disturbed honeybee colony
+Energy/Dynamics,surging,Organic,wolf pack,ridge,the rising layered howling of a large pack of wolves
+Energy/Dynamics,surging,Organic,cicada chorus,orchard,the rising collective hum of cicadas in the trees
+Energy/Dynamics,surging,Organic,whale song,ocean,the rising harmonic textures of multiple whales singing
+Energy/Dynamics,surging,Organic,lion roar,savanna,the rising chest-vibrating roar of a lion in a park
+Energy/Dynamics,surging,Organic,elephant trumpet,jungle,the rising resonant trumpet of an elephant
+Energy/Dynamics,surging,Organic,insect swarm,swamp,the rising high-pitched cloud of sound from a gnat swarm
+Energy/Dynamics,surging,Organic,frog chorus,marsh,the rising collective croaking of frogs at night
+Energy/Dynamics,surging,Organic,horse stampede,plain,the rising rhythmic thundering of a horse herd
+Energy/Dynamics,surging,Organic,human screaming,fairground,the rising wall of sound from people on a ride
+Energy/Dynamics,surging,Organic,tree canopy,storm,the rising roar of wind through a dense leafy canopy
+Energy/Dynamics,surging,Organic,bison herd,prairie,the rising grumbling and thudding of a bison herd
+Energy/Dynamics,surging,Organic,laughter,party,the rising layered noise of a hundred people laughing
+Energy/Dynamics,surging,Organic,monkey troop,jungle,the rising chaotic screeching of a troop of monkeys
+Energy/Dynamics,surging,Organic,heartbeat,medical room,the rising thumping of a heart through a monitor
+Energy/Dynamics,surging,Organic,breathing,closet,the rising rhythmic sound of heavy panicked breathing
+Energy/Dynamics,surging,Organic,bird colony,cliffs,the rising chaotic calls of thousands of seabirds
+Energy/Dynamics,surging,Domestic,blender,kitchen,the rising grinding roar of a blender as it reaches max speed
+Energy/Dynamics,surging,Domestic,vacuum,hallway,the rising steady roar of a powerful vacuum cleaner
+Energy/Dynamics,surging,Domestic,hair dryer,bathroom,the rising high-pitched whir of a hair dryer
+Energy/Dynamics,surging,Domestic,fireplace,cabin,the rising roaring and popping of a large wood fire
+Energy/Dynamics,surging,Domestic,shower,bathroom,the rising wash of high-pressure water in a tiled stall
+Energy/Dynamics,surging,Domestic,washing machine,laundry,the rising thrumming of a machine on the spin cycle
+Energy/Dynamics,surging,Domestic,faucet,kitchen,the rising roar of water running at full pressure in a sink
+Energy/Dynamics,surging,Domestic,kettle,kitchen,the rising screaming hiss of a boiling tea kettle
+Energy/Dynamics,surging,Domestic,garbage truck,alley,the rising mechanical roar of a trash compactor
+Energy/Dynamics,surging,Domestic,shredder,office,the rising grinding of a paper shredder at work
+Energy/Dynamics,surging,Domestic,fan,bedroom,the rising steady whir of a large box fan at high speed
+Energy/Dynamics,surging,Domestic,door slam,manor,the rising thud and echo of a heavy oak door closing
+Energy/Dynamics,surging,Domestic,frying,kitchen,the rising constant sizzling of food in a deep fryer
+Energy/Dynamics,surging,Domestic,iron,laundry,the rising hiss of a steam iron on a wet garment
+Energy/Dynamics,surging,Domestic,radio,den,the rising white noise of a radio at max volume
+Energy/Dynamics,surging,Domestic,lawnmower,yard,the rising steady drone of a lawnmower outside
+Energy/Dynamics,surging,Domestic,dryer,utility room,the rising tumbling of heavy towels in a dryer
+Energy/Dynamics,surging,Domestic,staircase,house,the rising rhythmic thudding of someone running up stairs
+Energy/Dynamics,surging,Electronic,feedback,stage,the rising high-frequency scream of audio feedback
+Energy/Dynamics,surging,Electronic,transformer,substation,the rising powerful buzzing of a large transformer
+Energy/Dynamics,surging,Electronic,synth drone,studio,a rising multi-layered synthesizer at peak resonance
+Energy/Dynamics,surging,Electronic,server room,center,the rising collective whir of many server racks
+Energy/Dynamics,surging,Electronic,arc welder,shipyard,the rising crackling roar of an industrial arc welder
+Energy/Dynamics,surging,Electronic,mri machine,hospital,the rising rhythmic thumping of an mri scanner
+Energy/Dynamics,surging,Electronic,taser,security,the rising rapid arcing of a high-voltage taser
+Energy/Dynamics,surging,Electronic,pa system,arena,the rising resonant hum of a large arena sound system
+Energy/Dynamics,surging,Electronic,generator,site,the rising steady roar of a large diesel generator
+Energy/Dynamics,surging,Electronic,plasma,lab,the rising high-pitched hiss of a plasma torch
+Energy/Dynamics,surging,Electronic,radar,station,the rising mechanical and electronic hum of a radar array
+Energy/Dynamics,surging,Electronic,bitcrusher,studio,the rising harmonic distortion of a digital bitcrusher
+Energy/Dynamics,surging,Electronic,microwave,breakroom,the rising heavy buzz of a microwave oven in use
+Energy/Dynamics,surging,Electronic,computer fan,closet,the rising high-speed whir of a server fan
+Energy/Dynamics,surging,Electronic,vacuum tube,radio,the rising warm hum of a saturated vacuum tube
+Energy/Dynamics,surging,Electronic,buzzer,factory,the rising steady sound of an industrial emergency buzzer
+Energy/Dynamics,surging,Electronic,static,radio,the rising white noise of a radio at full volume
+Energy/Dynamics,surging,Electronic,high-gain amp,stage,the rising harmonic roar of a guitar amp at max gain
+Energy/Dynamics,pulsing,Musical,kick drum,basement club,a kick drum being struck for a steady rhythmic pulse
+Energy/Dynamics,pulsing,Musical,timpani,orchestra pit,a timpani drum roll performed for a steady rhythmic throb
+Energy/Dynamics,pulsing,Musical,didgeridoo,outback,the steady rhythmic vibrating pulse of a didgeridoo
+Energy/Dynamics,pulsing,Musical,cello,cellar,a cello playing a steady rhythmic pulse on its lowest string
+Energy/Dynamics,pulsing,Musical,double bass,jazz club,a double bass being plucked for a steady walking line
+Energy/Dynamics,pulsing,Musical,metronome,music room,the steady rhythmic click of a mechanical metronome
+Energy/Dynamics,pulsing,Musical,handbells,chapel,a steady rhythmic sequence of handbell ringing in a chapel
+Energy/Dynamics,pulsing,Musical,shaker,recording room,a bead-filled shaker being shaken for a steady pulse
+Energy/Dynamics,pulsing,Musical,banjo,barn,a banjo being played for a steady rhythmic bluegrass roll
+Energy/Dynamics,pulsing,Musical,claves,music room,two wooden claves being struck for a steady pulse
+Energy/Dynamics,pulsing,Musical,cowbell,club,a metal cowbell being struck for a steady rhythmic pulse
+Energy/Dynamics,pulsing,Musical,harmonica,campsite,a steady rhythmic melody played on a harmonica
+Energy/Dynamics,pulsing,Musical,tambourine,stage,a tambourine being shaken for a steady rhythmic pulse
+Energy/Dynamics,pulsing,Musical,ukulele,beach,a ukulele being strummed for a steady tropical pulse
+Energy/Dynamics,pulsing,Musical,accordion,piazza,an accordion playing a steady rhythmic polka in a square
+Energy/Dynamics,pulsing,Musical,castanets,dance studio,wooden castanets being clicked for a steady pulse
+Energy/Dynamics,pulsing,Musical,marimba,rehearsal,a marimba being played for a steady rhythmic pattern
+Energy/Dynamics,pulsing,Musical,synthesizer,studio,a synthesizer playing a steady rhythmic electronic pulse
+Energy/Dynamics,pulsing,Mechanical,clock,library,the steady rhythmic ticking of a large mechanical clock
+Energy/Dynamics,pulsing,Mechanical,engine,auto shop,the steady rhythmic clicking of valves in an idling engine
+Energy/Dynamics,pulsing,Mechanical,printing press,newspaper,the steady rhythmic thud and click of a printing press
+Energy/Dynamics,pulsing,Mechanical,washing machine,laundry,the steady rhythmic thumping of a machine cycle
+Energy/Dynamics,pulsing,Mechanical,sewing machine,factory,the steady rhythmic clicking of an industrial machine
+Energy/Dynamics,pulsing,Mechanical,conveyor,warehouse,the steady rhythmic thumping of a conveyor belt splice
+Energy/Dynamics,pulsing,Mechanical,oil pump,oil field,the steady rhythmic mechanical thud of a pumpjack
+Energy/Dynamics,pulsing,Mechanical,telegraph,station,the steady rhythmic clicking of a telegraph key
+Energy/Dynamics,pulsing,Mechanical,staple gun,upholstery shop,a staple gun firing for a steady rhythmic pulse
+Energy/Dynamics,pulsing,Mechanical,watch,quiet study,the steady rhythmic ticking of a small desk clock
+Energy/Dynamics,pulsing,Mechanical,loom,textile mill,the steady rhythmic mechanical clatter of an industrial loom
+Energy/Dynamics,pulsing,Mechanical,pump,well,the steady rhythmic clanking of a manual water pump handle
+Energy/Dynamics,pulsing,Mechanical,ratchet,auto shop,the steady rhythmic clicking of a socket wrench
+Energy/Dynamics,pulsing,Mechanical,wind-up toy,playroom,the steady rhythmic clicking of a toy's internal gears
+Energy/Dynamics,pulsing,Mechanical,projector,cinema,the steady rhythmic clicking of a film projector shutter
+Energy/Dynamics,pulsing,Mechanical,stapler,office,the steady rhythmic clicking of a heavy-duty stapler
+Energy/Dynamics,pulsing,Mechanical,elevator,shaft,the steady rhythmic thumping of an elevator moving
+Energy/Dynamics,pulsing,Mechanical,fan,laptop,the steady rhythmic whir of a fan blade hitting a wire
+Energy/Dynamics,pulsing,Environmental,cricket,meadow,the steady rhythmic chirping of a cricket in a field
+Energy/Dynamics,pulsing,Environmental,rain,tin roof,the steady rhythmic tapping of raindrops on a metal roof
+Energy/Dynamics,pulsing,Environmental,waterfall,basin,the steady rhythmic thud of water hitting a rocky pool
+Energy/Dynamics,pulsing,Environmental,hail,car roof,the steady rhythmic drumming of hail on a metal surface
+Energy/Dynamics,pulsing,Environmental,geyser,field,the steady rhythmic bubbling and popping of a mud vent
+Energy/Dynamics,pulsing,Environmental,stalactite,cave,the steady rhythmic dripping of water into a pool
+Energy/Dynamics,pulsing,Environmental,pebbles,shore,the steady rhythmic clinking of pebbles in the surf
+Energy/Dynamics,pulsing,Environmental,reeds,marsh,the steady rhythmic clattering of dry reeds in the wind
+Energy/Dynamics,pulsing,Environmental,ice,lake,the steady rhythmic cracking of ice on a frozen lake
+Energy/Dynamics,pulsing,Environmental,sand,desert,the steady rhythmic tapping of sand against a metal pipe
+Energy/Dynamics,pulsing,Environmental,branch,window,the steady rhythmic tapping of a branch against a glass pane
+Energy/Dynamics,pulsing,Environmental,sleet,glass,the steady rhythmic tapping of sleet on a greenhouse
+Energy/Dynamics,pulsing,Environmental,cicada,orchard,the steady rhythmic buzzing call of a cicada in a tree
+Energy/Dynamics,pulsing,Environmental,thunder,valley,the steady rhythmic rolling of thunder echoing in a gorge
+Energy/Dynamics,pulsing,Environmental,obsidian,slope,the steady rhythmic clinking of obsidian shards on a hill
+Energy/Dynamics,pulsing,Environmental,leaves,courtyard,the steady rhythmic skittering of dry leaves in the wind
+Energy/Dynamics,pulsing,Environmental,wind chimes,porch,the steady rhythmic clinking of metal wind chimes
+Energy/Dynamics,pulsing,Environmental,thaw,mountain,the steady rhythmic sound of melting snow dripping
+Energy/Dynamics,pulsing,Organic,heartbeat,room,the steady rhythmic thumping of a person's heartbeat
+Energy/Dynamics,pulsing,Organic,teeth,cold room,the steady rhythmic chattering of a person's teeth
+Energy/Dynamics,pulsing,Organic,breathing,bedroom,the steady rhythmic heavy breathing of a person sleeping
+Energy/Dynamics,pulsing,Organic,alligator,swamp,the steady rhythmic vibration of an alligator's bellows
+Energy/Dynamics,pulsing,Organic,frog pond,marsh,the steady rhythmic collective croaking of frogs at night
+Energy/Dynamics,pulsing,Organic,grasshopper,field,the steady rhythmic stridulation of a grasshopper
+Energy/Dynamics,pulsing,Organic,bat,cave,the steady rhythmic echolocation clicks of a bat in a cavern
+Energy/Dynamics,pulsing,Organic,fist,bag,the steady rhythmic thumping of a boxer hitting a speed bag
+Energy/Dynamics,pulsing,Organic,tail,floor,the steady rhythmic thumping of a dog's tail on a floor
+Energy/Dynamics,pulsing,Organic,hooves,road,the steady rhythmic thud of a horse's hooves on a paved road
+Energy/Dynamics,pulsing,Organic,beak,farm,the steady rhythmic tapping of a chicken's beak on a feeder
+Energy/Dynamics,pulsing,Organic,claws,tile,the steady rhythmic clicking of a dog's claws on a floor
+Energy/Dynamics,pulsing,Organic,bees,hive,the steady rhythmic hum of a large honeybee colony
+Energy/Dynamics,pulsing,Organic,finger tapping,desk,the steady rhythmic tapping of fingers on a wooden table
+Energy/Dynamics,pulsing,Organic,wasp,window,the steady rhythmic buzzing of a wasp against a glass pane
+Energy/Dynamics,pulsing,Organic,chick,coop,the steady rhythmic high-pitched peeping of baby chicks
+Energy/Dynamics,pulsing,Organic,tongue,mouth,the steady rhythmic clicking of the tongue against the roof
+Energy/Dynamics,pulsing,Organic,scales,rock,the steady rhythmic dry rustle of a snake moving over stones
+Energy/Dynamics,pulsing,Domestic,knocks,door,the steady rhythmic knocking of a hand on a wooden door
+Energy/Dynamics,pulsing,Domestic,keyboard,office,the steady rhythmic clicking of a person typing on a keyboard
+Energy/Dynamics,pulsing,Domestic,chopping,kitchen,the steady rhythmic sound of a knife chopping vegetables
+Energy/Dynamics,pulsing,Domestic,silverware,dining room,the steady rhythmic clinking of silverware on plates
+Energy/Dynamics,pulsing,Domestic,drawer,bedroom,the steady rhythmic rattling of items in a drawer
+Energy/Dynamics,pulsing,Domestic,ball,court,the steady rhythmic bouncing of a basketball on concrete
+Energy/Dynamics,pulsing,Domestic,hammer,workshop,the steady rhythmic striking of a hammer on a nail
+Energy/Dynamics,pulsing,Domestic,scissors,sewing room,the steady rhythmic snipping of scissors through fabric
+Energy/Dynamics,pulsing,Domestic,curtain,bedroom,the steady rhythmic clinking of curtain rings on a rod
+Energy/Dynamics,pulsing,Domestic,washing machine,laundry,the steady rhythmic thumping of a washing machine cycle
+Energy/Dynamics,pulsing,Domestic,shredder,office,the steady rhythmic grinding of a paper shredder
+Energy/Dynamics,pulsing,Domestic,egg timer,kitchen,the steady rhythmic ticking of a mechanical egg timer
+Energy/Dynamics,pulsing,Domestic,keys,entryway,the steady rhythmic jingle of keys on a ring being shaken
+Energy/Dynamics,pulsing,Domestic,measuring spoons,kitchen,the steady rhythmic clinking of metal measuring spoons
+Energy/Dynamics,pulsing,Domestic,flipping pages,library,the steady rhythmic sound of someone flipping through a book
+Energy/Dynamics,pulsing,Domestic,rocking chair,porch,the steady rhythmic creaking of a rocking chair
+Energy/Dynamics,pulsing,Domestic,dice,game room,the steady rhythmic sound of several dice being rolled
+Energy/Dynamics,pulsing,Electronic,sequencer,studio,the steady rhythmic electronic pulses of a hardware sequencer
+Energy/Dynamics,pulsing,Electronic,geiger counter,site,the steady rhythmic rapid clicking of a geiger counter
+Energy/Dynamics,pulsing,Electronic,metronome,digital,the steady rhythmic beep of a digital metronome
+Energy/Dynamics,pulsing,Electronic,alarm,bedroom,the steady rhythmic beeping of a digital alarm clock
+Energy/Dynamics,pulsing,Electronic,scanner,store,the steady rhythmic beeping of a scanner at a checkout
+Energy/Dynamics,pulsing,Electronic,relay,server room,the steady rhythmic clicking of a power relay cycling
+Energy/Dynamics,pulsing,Electronic,heart monitor,hospital,the steady rhythmic beeping of a digital heart monitor
+Energy/Dynamics,pulsing,Electronic,printer,office,the steady rhythmic mechanical clicking of a dot-matrix printer
+Energy/Dynamics,pulsing,Electronic,taser,security,the steady rhythmic arcing of a handheld taser being tested
+Energy/Dynamics,pulsing,Electronic,camera,studio,the steady rhythmic clicking of a camera in burst mode
+Energy/Dynamics,pulsing,Electronic,walkie-talkie,site,the steady rhythmic static bursts of a walkie-talkie
+Energy/Dynamics,pulsing,Electronic,synthesizer,studio,a steady rhythmic sequence of short electronic notes
+Energy/Dynamics,pulsing,Electronic,modem,office,the steady rhythmic electronic chirping of a dial-up modem
+Energy/Dynamics,pulsing,Electronic,plasma globe,museum,the steady rhythmic crackling of a plasma globe
+Energy/Dynamics,pulsing,Electronic,led,workshop,the steady rhythmic flickering buzz of a faulty led fixture
+Energy/Dynamics,pulsing,Electronic,phone,office,the steady rhythmic ringing of several different desk phones
+Energy/Dynamics,pulsing,Electronic,buzzer,factory,the steady rhythmic buzzing of an industrial alarm
+Energy/Dynamics,pulsing,Electronic,glitch,computer,a steady rhythmic series of digital pops and clicks

@@ -1,0 +1,541 @@
+category,tag,domain,source,environment,scenario
+Attack/Transient,punchy,Musical,kick drum,concrete garage,a felt beater striking a kick drum in a concrete garage
+Attack/Transient,punchy,Musical,slap bass,tiled subway station,a thumb striking a thick steel string on an electric bass in a tiled subway station
+Attack/Transient,punchy,Musical,timpani,open-air theater,a hard mallet hitting a large timpani drum in an open-air theater
+Attack/Transient,punchy,Musical,woodblock,dense forest,a maple woodblock being struck with a hard stick in a dense forest
+Attack/Transient,punchy,Musical,marching snare,high-school stadium,a tight snare drum being hit with a heavy wooden stick in a high-school stadium
+Attack/Transient,punchy,Musical,conga,tropical beach,a sharp open palm strike on a conga drum on a tropical beach
+Attack/Transient,punchy,Musical,cello,stone cathedral,a cello string being plucked with high tension in a stone cathedral
+Attack/Transient,punchy,Musical,piano,shuttered ballroom,a low-octave staccato chord played on a grand piano in a shuttered ballroom
+Attack/Transient,punchy,Musical,taiko drum,misty mountain,a massive taiko drum being struck with thick bachi sticks on a misty mountain
+Attack/Transient,punchy,Musical,electric guitar,rehearsal space,a heavy palm-muted power chord on an electric guitar in a rehearsal space
+Attack/Transient,punchy,Musical,cowbell,mountain pasture,a metal cowbell being struck with a drumstick in a mountain pasture
+Attack/Transient,punchy,Musical,djembe,busy marketplace,a sharp slap on the edge of a djembe in a busy marketplace
+Attack/Transient,punchy,Musical,xylophone,botanical garden,a hard rubber mallet hitting a rosewood xylophone bar in a botanical garden
+Attack/Transient,punchy,Musical,banjo,dusty barn,a steel banjo string being snapped against the fretboard in a dusty barn
+Attack/Transient,punchy,Musical,brass section,grand hall,a sudden staccato burst from a brass section in a grand hall
+Attack/Transient,punchy,Musical,gong,monastery,a small thick gong being hit with a hard mallet in a monastery
+Attack/Transient,punchy,Musical,bassoon,rainy courtyard,a sudden low-pitched staccato note on a bassoon in a rainy courtyard
+Attack/Transient,punchy,Musical,tambourine,canyon,a tambourine being hit against the palm in a rocky canyon
+Attack/Transient,punchy,Mechanical,nail gun,construction site,a pneumatic nail gun firing a steel nail into a wooden stud at a construction site
+Attack/Transient,punchy,Mechanical,piston,engine room,a heavy steel piston firing in a large diesel engine in an engine room
+Attack/Transient,punchy,Mechanical,air compressor,auto garage,the sudden release of a high-pressure air valve in an auto garage
+Attack/Transient,punchy,Mechanical,punch press,industrial factory,a heavy industrial punch press stamping a hole through a metal sheet
+Attack/Transient,punchy,Mechanical,staple gun,upholstery shop,a heavy-duty staple gun firing into a wooden frame in an upholstery shop
+Attack/Transient,punchy,Mechanical,jackhammer,city street,the rapid impactful striking of a jackhammer on asphalt on a city street
+Attack/Transient,punchy,Mechanical,car door,parking garage,a heavy car door being slammed shut in a concrete parking garage
+Attack/Transient,punchy,Mechanical,hydraulic ram,shipyard,a hydraulic ram engaging with a powerful thrust in a shipyard
+Attack/Transient,punchy,Mechanical,printing press,newspaper basement,the rhythmic forceful impact of a printing press hammer in a newspaper basement
+Attack/Transient,punchy,Mechanical,hammer,blacksmith forge,a heavy sledgehammer striking an iron anvil in a blacksmith forge
+Attack/Transient,punchy,Mechanical,ballista,open field,the sudden release of a wooden ballista arm in an open field
+Attack/Transient,punchy,Mechanical,shutter,abandoned house,a heavy wooden window shutter slamming against a frame in an abandoned house
+Attack/Transient,punchy,Mechanical,typewriter,quiet library,the forceful strike of a metal typewriter key against a platen in a quiet library
+Attack/Transient,punchy,Mechanical,rivet gun,airplane hangar,a pneumatic rivet gun firing into an aluminum wing in an airplane hangar
+Attack/Transient,punchy,Mechanical,slot machine,vibrant casino,the mechanical lever of an old slot machine snapping into place in a vibrant casino
+Attack/Transient,punchy,Mechanical,relay,utility closet,a high-voltage mechanical relay snapping shut in a utility closet
+Attack/Transient,punchy,Mechanical,well pump,isolated farm,the rhythmic forceful thud of a mechanical well pump on an isolated farm
+Attack/Transient,punchy,Mechanical,gate,prison yard,a heavy steel prison gate slamming into a metal latch in a prison yard
+Attack/Transient,punchy,Environmental,hail,corrugated roof,large hail stones striking a corrugated metal roof during a storm
+Attack/Transient,punchy,Environmental,coconut,sandy beach,a ripe coconut falling and hitting the hard ground on a sandy beach
+Attack/Transient,punchy,Environmental,thunder,open plains,a sudden sharp crack of thunder directly overhead on the open plains
+Attack/Transient,punchy,Environmental,ice,glacier,a large chunk of ice falling and impacting a frozen ledge on a glacier
+Attack/Transient,punchy,Environmental,rain,greenhouse,heavy raindrops hitting the plastic roof of a greenhouse
+Attack/Transient,punchy,Environmental,boulder,riverbed,a large boulder being shifted by a current and hitting another rock in a riverbed
+Attack/Transient,punchy,Environmental,geyser,volcanic field,the sudden eruption of a steam vent in a volcanic field
+Attack/Transient,punchy,Environmental,tree,thick forest,a massive tree trunk snapping and hitting the forest floor
+Attack/Transient,punchy,Environmental,wave,rocky cliff,a large ocean wave slamming into a hollow sea cave on a rocky cliff
+Attack/Transient,punchy,Environmental,mud,geothermal pool,a large bubble of thick mud popping in a geothermal pool
+Attack/Transient,punchy,Environmental,limestone,quarry,a heavy limestone rock falling onto a pile of gravel in a quarry
+Attack/Transient,punchy,Environmental,avalanche,snowy peak,the sudden impact of a snow slab hitting a rocky outcrop in an avalanche
+Attack/Transient,punchy,Environmental,branch,winter woods,a thick frozen branch snapping under the weight of snow in the winter woods
+Attack/Transient,punchy,Environmental,lava,ocean shore,a pocket of gas exploding within a lava flow on the ocean shore
+Attack/Transient,punchy,Environmental,wind,desert canyon,a sudden gust of wind slamming against a flat rock face in a desert canyon
+Attack/Transient,punchy,Environmental,fruit,orchard,a heavy durian fruit falling onto a wooden crate in an orchard
+Attack/Transient,punchy,Environmental,stalactite,limestone cave,a stalactite breaking and hitting the floor of a limestone cave
+Attack/Transient,punchy,Environmental,sleet,glass window,heavy sleet hitting a thick glass window during a winter storm
+Attack/Transient,punchy,Organic,gorilla,jungle,a gorilla beating its chest with closed fists in a dense jungle
+Attack/Transient,punchy,Organic,footsteps,wooden hallway,heavy footsteps on a hollow wooden floor in a long hallway
+Attack/Transient,punchy,Organic,heartbeat,quiet bedroom,the rhythmic forceful thumping of a human heartbeat in a quiet bedroom
+Attack/Transient,punchy,Organic,alligator,swamp,an alligator snapping its jaws shut in a murky swamp
+Attack/Transient,punchy,Organic,hoofbeats,muddy field,the powerful impact of horse hoofbeats on a muddy field
+Attack/Transient,punchy,Organic,human,gym,a boxer’s glove striking a heavy sand-filled bag in a gym
+Attack/Transient,punchy,Organic,beaver,riverbank,a beaver slapping its wide tail against the surface of a river
+Attack/Transient,punchy,Organic,walrus,ice shelf,a walrus slamming its weight onto a frozen ice shelf
+Attack/Transient,punchy,Organic,elephant,savanna,an elephant stamping its foot on the dry savanna floor
+Attack/Transient,punchy,Organic,hands,empty stadium,a single loud rhythmic clap from a person in an empty stadium
+Attack/Transient,punchy,Organic,ostrich,scrubland,the powerful kick of an ostrich hitting a wooden post in the scrubland
+Attack/Transient,punchy,Organic,kangaroo,outback,the impact of a kangaroo landing a jump on hard earth in the outback
+Attack/Transient,punchy,Organic,woodpecker,oak forest,a woodpecker’s beak striking a hollow tree trunk in an oak forest
+Attack/Transient,punchy,Organic,crab,tide pool,a large crab snapping its heavy claw shut in a rocky tide pool
+Attack/Transient,punchy,Organic,headbutt,mountain slope,two rams clashing their horns together on a mountain slope
+Attack/Transient,punchy,Organic,tail,den,a large dog's tail hitting a hollow wooden door in a den
+Attack/Transient,punchy,Organic,teeth,cold porch,a person’s teeth chattering with forceful impacts on a cold porch
+Attack/Transient,punchy,Organic,body,meadow,a person performing a belly flop into a deep pond in a meadow
+Attack/Transient,punchy,Domestic,door,foyer,a heavy solid oak door being slammed shut in a marble foyer
+Attack/Transient,punchy,Domestic,book,library,a thick encyclopedia being slammed shut on a wooden table in a library
+Attack/Transient,punchy,Domestic,meat tenderizer,kitchen,a metal meat tenderizer striking a steak on a wooden board in a kitchen
+Attack/Transient,punchy,Domestic,rug,backyard,a heavy rug being hit with a wooden beater in a backyard
+Attack/Transient,punchy,Domestic,pillow,bedroom,a heavy down pillow being slammed onto a wooden headboard
+Attack/Transient,punchy,Domestic,cabinet,kitchen,a heavy wooden cabinet door being slammed without bumpers in a kitchen
+Attack/Transient,punchy,Domestic,hammer,garage,a rubber mallet striking a wooden crate in a garage
+Attack/Transient,punchy,Domestic,iron,laundry room,a heavy steam iron being set down firmly on a metal board
+Attack/Transient,punchy,Domestic,box,attic,a heavy cardboard box being dropped onto a wooden attic floor
+Attack/Transient,punchy,Domestic,bottle,pantry,a glass bottle being set down forcefully on a marble countertop
+Attack/Transient,punchy,Domestic,frying pan,kitchen,a cast iron frying pan being dropped onto a tiled kitchen floor
+Attack/Transient,punchy,Domestic,drawer,bedroom,a heavy wooden dresser drawer being slammed shut
+Attack/Transient,punchy,Domestic,suitcase,hallway,a heavy leather suitcase being dropped onto a hardwood floor
+Attack/Transient,punchy,Domestic,trash can,alley,a metal trash can lid being slammed onto the bin in an alley
+Attack/Transient,punchy,Domestic,stairs,basement,heavy boots walking forcefully down wooden basement stairs
+Attack/Transient,punchy,Domestic,curtain,theater,a heavy velvet theater curtain hitting the stage floor
+Attack/Transient,punchy,Domestic,stapler,office,a heavy-duty metal stapler being slammed down on a desk
+Attack/Transient,punchy,Domestic,soap,bathroom,a bar of soap falling and hitting a porcelain bathtub
+Attack/Transient,punchy,Electronic,capacitor,physics lab,a high-voltage capacitor discharging with a powerful snap in a physics lab
+Attack/Transient,punchy,Electronic,subwoofer,living room,a deep impactful pulse from a large subwoofer in a living room
+Attack/Transient,punchy,Electronic,solenoid,factory,the forceful engagement of a large industrial solenoid in a factory
+Attack/Transient,punchy,Electronic,relay,server room,a bank of mechanical relays clicking simultaneously in a server room
+Attack/Transient,punchy,Electronic,synthesizer,studio,a percussion patch with a fast envelope on an analog synthesizer
+Attack/Transient,punchy,Electronic,speaker,basement,a large speaker cone vibrating with a sudden low-frequency burst
+Attack/Transient,punchy,Electronic,taser,training center,an electrical taser firing a pulse in a training center
+Attack/Transient,punchy,Electronic,circuit breaker,utility room,a main circuit breaker being flipped with a heavy metallic snap
+Attack/Transient,punchy,Electronic,drum machine,club,a low-frequency kick drum trigger from a vintage drum machine
+Attack/Transient,punchy,Electronic,arcade game,lively arcade,a synthesized explosion sound effect in a lively arcade
+Attack/Transient,punchy,Electronic,transformer,substation,a sudden electrical surge in a power transformer at a substation
+Attack/Transient,punchy,Electronic,gate,secure facility,an electronic gate lock snapping open in a secure facility
+Attack/Transient,punchy,Electronic,microwave,kitchen,the heavy mechanical latch of a microwave being closed
+Attack/Transient,punchy,Electronic,monitor,office,the degaussing pulse of an old CRT monitor in an office
+Attack/Transient,punchy,Electronic,camera,studio,the powerful mechanical cycle of a medium-format camera in a studio
+Attack/Transient,punchy,Electronic,printer,office,the forceful impact of a dot-matrix printer head in an office
+Attack/Transient,punchy,Electronic,radio,attic,a sharp burst of static from a high-gain radio receiver
+Attack/Transient,punchy,Electronic,sequencer,bedroom,a rhythmic square-wave pulse from an electronic sequencer
+Attack/Transient,snappy,Musical,castanets,dance studio,a pair of wooden castanets being snapped together in a dance studio
+Attack/Transient,snappy,Musical,snare rimshot,rehearsal hall,a drumstick striking the rim and head of a snare drum simultaneously
+Attack/Transient,snappy,Musical,violin,art gallery,a sharp pizzicato pluck on a violin string in an art gallery
+Attack/Transient,snappy,Musical,whip,open field,a bullwhip being cracked in an open field
+Attack/Transient,snappy,Musical,harpsichord,cedar library,a single key being pressed on a harpsichord in a cedar library
+Attack/Transient,snappy,Musical,finger cymbal,temple,two small brass finger cymbals being tapped together in a temple
+Attack/Transient,snappy,Musical,slap-top box,park,a thin wooden slap-top cajon being struck in a park
+Attack/Transient,snappy,Musical,guitar,recording booth,a high E-string on an acoustic guitar being snapped against the fretboard
+Attack/Transient,snappy,Musical,tambourine,tiled hall,a sharp shake and stop of a tambourine in a tiled hall
+Attack/Transient,snappy,Musical,claves,stone courtyard,two rosewood claves being struck together in a stone courtyard
+Attack/Transient,snappy,Musical,ukulele,sunny beach,a quick percussive strum on a ukulele on a sunny beach
+Attack/Transient,snappy,Musical,triangle,concert hall,a sharp strike on a small steel triangle in a concert hall
+Attack/Transient,snappy,Musical,mandolin,meadow,a steel mandolin string being plucked with a hard plectrum
+Attack/Transient,snappy,Musical,hi-hat,jazz club,a pair of hi-hat cymbals being snapped shut with a foot pedal
+Attack/Transient,snappy,Musical,marimba,conservatory,a hard mallet striking a high-register marimba bar
+Attack/Transient,snappy,Musical,lute,castle ruin,a lute string being snapped in a stone castle ruin
+Attack/Transient,snappy,Musical,kalimba,attic,a metal tine on a kalimba being flicked in a cozy attic
+Attack/Transient,snappy,Musical,piccolo,museum,a short staccato note played on a piccolo in a museum
+Attack/Transient,snappy,Mechanical,camera shutter,summit,the sharp mechanical click of a vintage camera shutter on a summit
+Attack/Transient,snappy,Mechanical,typewriter,study,the crisp metallic snap of a typewriter hammer hitting paper
+Attack/Transient,snappy,Mechanical,stapler,office,a small metal stapler being pressed quickly on an office desk
+Attack/Transient,snappy,Mechanical,lighter,windy pier,the sharp flick and click of a zippo lighter on a windy pier
+Attack/Transient,snappy,Mechanical,switch,dark room,a plastic light switch being flipped rapidly in a dark room
+Attack/Transient,snappy,Mechanical,gears,watchmaker shop,a small brass spring snapping into place in a watchmaker shop
+Attack/Transient,snappy,Mechanical,shears,garden,metal garden shears snipping through a dry branch in a garden
+Attack/Transient,snappy,Mechanical,latch,vault,the sharp metallic click of a spring-loaded latch on a vault
+Attack/Transient,snappy,Mechanical,metronome,parlor,the crisp mechanical ticking of a wooden metronome in a parlor
+Attack/Transient,snappy,Mechanical,can opener,kitchen,the sharp click of a manual can opener piercing a metal lid
+Attack/Transient,snappy,Mechanical,ratchet,garage,a metal ratchet wrench clicking rapidly in an auto garage
+Attack/Transient,snappy,Mechanical,staple gun,warehouse,a small staple gun firing into a cardboard box in a warehouse
+Attack/Transient,snappy,Mechanical,clippers,barber shop,the sharp mechanical snap of hair clippers being turned on
+Attack/Transient,snappy,Mechanical,timer,kitchen,the sharp mechanical ding of a vintage kitchen timer
+Attack/Transient,snappy,Mechanical,projector,cinema,the sharp rhythmic clicking of a film projector shutter
+Attack/Transient,snappy,Mechanical,lock,doorway,the sharp click of a key turning in a deadbolt lock
+Attack/Transient,snappy,Mechanical,fishing reel,boat,the sharp clicking of a fishing reel being wound on a boat
+Attack/Transient,snappy,Mechanical,tongs,kitchen,metal kitchen tongs being snapped together in a kitchen
+Attack/Transient,snappy,Environmental,twig,forest floor,a small dry twig snapping underfoot on a forest floor
+Attack/Transient,snappy,Environmental,ice,winter pond,the sharp crack of a thin layer of ice on a winter pond
+Attack/Transient,snappy,Environmental,lightning,mountaintop,the sharp static crackle before a lightning strike on a mountaintop
+Attack/Transient,snappy,Environmental,hail,glass roof,a single hail stone hitting a glass greenhouse roof
+Attack/Transient,snappy,Environmental,pine cone,woods,a dry pine cone scale snapping off in the woods
+Attack/Transient,snappy,Environmental,sand,desert,the sharp clicking of wind-blown sand against a plastic bottle
+Attack/Transient,snappy,Environmental,reeds,marsh,dry marsh reeds snapping in a sudden gust of wind
+Attack/Transient,snappy,Environmental,icicle,granite ledge,an icicle snapping off a frozen granite ledge
+Attack/Transient,snappy,Environmental,rock,quarry,a small flint rock being struck against another in a quarry
+Attack/Transient,snappy,Environmental,leaves,autumn path,the sharp crunch of a dry maple leaf being stepped on
+Attack/Transient,snappy,Environmental,bubbles,swamp,the sharp pop of a gas bubble on the surface of a swamp
+Attack/Transient,snappy,Environmental,bamboo,garden,a dry bamboo stalk snapping in a tropical garden
+Attack/Transient,snappy,Environmental,thaw,spring forest,the sharp crack of a frozen tree limb in a spring forest
+Attack/Transient,snappy,Environmental,pebbles,shoreline,two small pebbles clicking together in a gentle wave
+Attack/Transient,snappy,Environmental,shell,beach,a sea shell snapping in half on a rocky beach
+Attack/Transient,snappy,Environmental,grass,prairie,the sharp rustle of dry grass snapping in a prairie breeze
+Attack/Transient,snappy,Environmental,bark,forest,a piece of dry bark snapping off an old cedar tree
+Attack/Transient,snappy,Environmental,mist,frozen valley,the sharp ping of freezing mist hitting a metal sign
+Attack/Transient,snappy,Organic,fingers,hallway,a person snapping their fingers in a tiled hallway
+Attack/Transient,snappy,Organic,joint,quiet room,a person cracking their knuckles in a quiet room
+Attack/Transient,snappy,Organic,beak,birdhouse,a parrot snapping its beak shut in a birdhouse
+Attack/Transient,snappy,Organic,fingernail,desk,a fingernail being flicked against a wooden desk
+Attack/Transient,snappy,Organic,teeth,cold air,a single sharp click of teeth in the cold air
+Attack/Transient,snappy,Organic,shrimp,coral reef,the sharp snap of a pistol shrimp’s claw in a coral reef
+Attack/Transient,snappy,Organic,bone,museum,the sharp click of a small dry bone hitting a glass shelf
+Attack/Transient,snappy,Organic,shell,tide pool,a small crab’s shell snapping in a tide pool
+Attack/Transient,snappy,Organic,beetle,log,a click beetle snapping its body to jump on a log
+Attack/Transient,snappy,Organic,bat,cavern,the sharp high-pitched echolocation click of a bat in a cavern
+Attack/Transient,snappy,Organic,wings,garden,the sharp snap of a pigeon’s wings as it takes flight
+Attack/Transient,snappy,Organic,grasshopper,meadow,the sharp click of a grasshopper’s legs in a meadow
+Attack/Transient,snappy,Organic,paws,hardwood,the sharp click of a dog's claws on a hardwood floor
+Attack/Transient,snappy,Organic,egg,kitchen,a dry eggshell snapping under pressure on a counter
+Attack/Transient,snappy,Organic,rattle,desert,a single sharp rattle from a snake in the desert
+Attack/Transient,snappy,Organic,hair,bathroom,the sharp snap of a hair tie being pulled and released
+Attack/Transient,snappy,Organic,tongue,room,a person making a sharp clicking sound with their tongue
+Attack/Transient,snappy,Organic,skin,bedroom,the sharp snap of a rubber band against skin
+Attack/Transient,snappy,Domestic,rubber band,office,a rubber band being stretched and snapped in an office
+Attack/Transient,snappy,Domestic,plastic lid,kitchen,a plastic container lid being snapped into place
+Attack/Transient,snappy,Domestic,light switch,bedroom,a plastic toggle light switch being flipped
+Attack/Transient,snappy,Domestic,keys,foyer,a single small key hitting a marble tabletop
+Attack/Transient,snappy,Domestic,scissors,sewing room,the sharp snap of metal scissors closing on a thread
+Attack/Transient,snappy,Domestic,foil,pantry,the sharp crinkle of a small piece of aluminum foil
+Attack/Transient,snappy,Domestic,pen,study,the sharp click of a retractable ballpoint pen
+Attack/Transient,snappy,Domestic,tongs,kitchen,metal serving tongs being snapped together
+Attack/Transient,snappy,Domestic,clothespin,backyard,a wooden clothespin snapping onto a line
+Attack/Transient,snappy,Domestic,remote,living room,the sharp click of a button on a television remote
+Attack/Transient,snappy,Domestic,thimble,sewing room,a metal thimble hitting a glass tabletop
+Attack/Transient,snappy,Domestic,zipper,closet,the sharp mechanical snap of a metal zipper being closed
+Attack/Transient,snappy,Domestic,pill bottle,bathroom,a child-proof plastic cap being snapped onto a bottle
+Attack/Transient,snappy,Domestic,beads,craft room,two glass beads clicking together in a tin
+Attack/Transient,snappy,Domestic,wallet,hallway,the sharp snap of a leather wallet being closed
+Attack/Transient,snappy,Domestic,spoon,cup,the sharp clink of a metal spoon against a porcelain rim
+Attack/Transient,snappy,Domestic,mirror,bedroom,a small handheld mirror snapping in its frame
+Attack/Transient,snappy,Domestic,tape,office,the sharp snap of a piece of clear tape being torn
+Attack/Transient,snappy,Electronic,spark,physics lab,a sharp electrical spark jumping between two electrodes
+Attack/Transient,snappy,Electronic,piezo igniter,kitchen,the sharp mechanical snap of a piezo igniter on a stove
+Attack/Transient,snappy,Electronic,capacitor,workshop,a small capacitor discharging with a sharp pop
+Attack/Transient,snappy,Electronic,relay,server farm,the sharp click of a high-speed telecommunications relay
+Attack/Transient,snappy,Electronic,error tone,office,a sharp short digital beep from a computer
+Attack/Transient,snappy,Electronic,watch,bedroom,the sharp sterile beep of a digital watch alarm
+Attack/Transient,snappy,Electronic,buzzer,control room,a sharp short burst from a piezoelectric buzzer
+Attack/Transient,snappy,Electronic,taser,training hall,the sharp rhythmic crackle of a taser discharge
+Attack/Transient,snappy,Electronic,switch,utility closet,a small electronic toggle switch being flipped
+Attack/Transient,snappy,Electronic,gate,secure entry,the sharp electronic click of a card reader unlocking a door
+Attack/Transient,snappy,Electronic,camera,studio,the sharp electronic beep of a camera focusing
+Attack/Transient,snappy,Electronic,phone,train station,a sharp short notification ping on a smartphone
+Attack/Transient,snappy,Electronic,synthesizer,booth,a short white-noise burst from an analog synthesizer
+Attack/Transient,snappy,Electronic,static,radio room,a single sharp pop of static on a shortwave radio
+Attack/Transient,snappy,Electronic,led,garage,the sharp click of an led driver engaging
+Attack/Transient,snappy,Electronic,circuit breaker,basement,the sharp metallic snap of a small circuit breaker
+Attack/Transient,snappy,Electronic,game console,den,the sharp digital click of a menu selection in a game
+Attack/Transient,snappy,Electronic,laser,lab,the sharp pop of a pulsed laser hitting a target
+Attack/Transient,thumping,Musical,bass drum,parade ground,a large muffled bass drum being struck on a parade ground
+Attack/Transient,thumping,Musical,double bass,jazz cellar,the heavy thumping of a double bass string being plucked
+Attack/Transient,thumping,Musical,taiko,temple,the deep rhythmic thumping of a taiko drum in a stone temple
+Attack/Transient,thumping,Musical,floor tom,garage,a floor tom being hit with a soft felt mallet in a garage
+Attack/Transient,thumping,Musical,piano,shuttered room,the muffled thumping of piano keys being hit with the lid closed
+Attack/Transient,thumping,Musical,log drum,jungle,a hollow log drum being struck with a heavy mallet in a jungle
+Attack/Transient,thumping,Musical,djembe,beach,the deep rhythmic thumb-strike on the center of a djembe
+Attack/Transient,thumping,Musical,organ pedal,cathedral,the deep rhythmic thumping of a pipe organ pedal note
+Attack/Transient,thumping,Musical,gong,monastery,the deep muffled thumping of a large gong hit with a felt mallet
+Attack/Transient,thumping,Musical,snare,closet,a snare drum being hit while covered with a thick towel
+Attack/Transient,thumping,Musical,harp,library,the deep thumping of the lowest harp strings being plucked
+Attack/Transient,thumping,Musical,didgeridoo,cave,the rhythmic thumping of a didgeridoo being blown in a cave
+Attack/Transient,thumping,Musical,cello,basement,a cello playing a deep rhythmic pizzicato in a basement
+Attack/Transient,thumping,Musical,tuba,mountain,the rhythmic thumping of a tuba playing a low-frequency march
+Attack/Transient,thumping,Musical,marimba,studio,a deep marimba bar being struck with a very soft mallet
+Attack/Transient,thumping,Musical,tambourine,padded booth,a tambourine being struck while wrapped in a cloth
+Attack/Transient,thumping,Musical,banjo,barn,the rhythmic thumping of a banjo player’s thumb on the bridge
+Attack/Transient,thumping,Musical,violin,attic,the muffled thumping of a violin body being tapped in an attic
+Attack/Transient,thumping,Mechanical,diesel engine,shipyard,the deep rhythmic thumping of a large diesel engine in a shipyard
+Attack/Transient,thumping,Mechanical,well pump,farm,the steady rhythmic thumping of an old mechanical well pump
+Attack/Transient,thumping,Mechanical,printing press,basement,the deep rhythmic thumping of a large industrial printing press
+Attack/Transient,thumping,Mechanical,conveyor belt,warehouse,the rhythmic thumping of a heavy belt joint passing a roller
+Attack/Transient,thumping,Mechanical,pile driver,dockside,the massive rhythmic thumping of a pile driver at a dockside
+Attack/Transient,thumping,Mechanical,trash compactor,alley,the slow rhythmic thumping of a trash compactor engaging
+Attack/Transient,thumping,Mechanical,boiler,apartment,the muffled rhythmic thumping of a steam boiler in a basement
+Attack/Transient,thumping,Mechanical,ventilator,garage,the rhythmic thumping of a wobbly ventilation fan blade
+Attack/Transient,thumping,Mechanical,elevator,shaft,the muffled thumping of an elevator motor in a high-rise shaft
+Attack/Transient,thumping,Mechanical,washing machine,laundry,the rhythmic thumping of an unbalanced washing machine
+Attack/Transient,thumping,Mechanical,spinning wheel,farmhouse,the rhythmic thumping of a wooden treadle on a spinning wheel
+Attack/Transient,thumping,Mechanical,loom,textile mill,the rhythmic thumping of a wooden loom in a textile mill
+Attack/Transient,thumping,Mechanical,oil derrick,prairie,the slow rhythmic thumping of an oil derrick in a prairie
+Attack/Transient,thumping,Mechanical,crane,yard,the rhythmic thumping of a crane’s cable winch in a shipyard
+Attack/Transient,thumping,Mechanical,fan,attic,the muffled thumping of a heavy ceiling fan on a low setting
+Attack/Transient,thumping,Mechanical,lathe,workshop,the rhythmic thumping of a lathe turning an off-center piece of wood
+Attack/Transient,thumping,Mechanical,pump,station,the deep rhythmic thumping of a water pumping station
+Attack/Transient,thumping,Mechanical,gate,factory,the rhythmic thumping of a heavy automatic gate closing
+Attack/Transient,thumping,Environmental,thunder,distant valley,the muffled rhythmic thumping of distant thunder in a valley
+Attack/Transient,thumping,Environmental,wave,sandy beach,the deep rhythmic thumping of heavy surf on a sandy beach
+Attack/Transient,thumping,Environmental,wind,forest,the rhythmic thumping of a heavy branch hitting a hollow tree
+Attack/Transient,thumping,Environmental,earthquake,seismic zone,the deep rhythmic thumping of the earth shifting in a zone
+Attack/Transient,thumping,Environmental,landslide,mountain,the muffled thumping of rocks falling down a snowy slope
+Attack/Transient,thumping,Environmental,waterfall,basin,the deep rhythmic thumping of a waterfall hitting a rock pool
+Attack/Transient,thumping,Environmental,mud,marsh,the rhythmic thumping of gas bubbles rising in a thick marsh
+Attack/Transient,thumping,Environmental,ice,glacier,the deep rhythmic thumping of a glacier shifting in a bay
+Attack/Transient,thumping,Environmental,avalanche,peak,the distant rhythmic thumping of an avalanche on a peak
+Attack/Transient,thumping,Environmental,volcano,island,the deep rhythmic thumping of subterranean lava moving
+Attack/Transient,thumping,Environmental,sandstorm,desert,the rhythmic thumping of wind gusts against a desert dune
+Attack/Transient,thumping,Environmental,river,canyon,the deep rhythmic thumping of a boulder rolling in a riverbed
+Attack/Transient,thumping,Environmental,snow,tundra,the rhythmic thumping of heavy snowfall falling from a ledge
+Attack/Transient,thumping,Environmental,geological,mine,the deep rhythmic thumping of a rock layer settling in a mine
+Attack/Transient,thumping,Environmental,tree fall,woods,the muffled thumping of a tree falling on soft ground
+Attack/Transient,thumping,Environmental,mist,valley,the rhythmic thumping of a distant foghorn through heavy mist
+Attack/Transient,thumping,Environmental,hail,meadow,the rhythmic thumping of hail hitting a grassy field
+Attack/Transient,thumping,Environmental,stream,woods,the rhythmic thumping of a log trapped in a fast stream
+Attack/Transient,thumping,Organic,heartbeat,bedroom,the deep rhythmic thumping of a human heartbeat in a bedroom
+Attack/Transient,thumping,Organic,footsteps,carpeted hall,the rhythmic thumping of heavy footsteps on a carpeted hall
+Attack/Transient,thumping,Organic,tail,sofa,the rhythmic thumping of a large dog's tail against a fabric sofa
+Attack/Transient,thumping,Organic,chest,jungle,the rhythmic thumping of a gorilla beating its chest in the jungle
+Attack/Transient,thumping,Organic,breathing,den,the rhythmic thumping of a bear’s heavy breathing in a den
+Attack/Transient,thumping,Organic,hoofbeats,pasture,the rhythmic thumping of a horse galloping on a soft pasture
+Attack/Transient,thumping,Organic,wings,loft,the rhythmic thumping of large wings flapping in a pigeon loft
+Attack/Transient,thumping,Organic,stomach,room,the rhythmic thumping of a hungry stomach gurgling in a room
+Attack/Transient,thumping,Organic,elephant,savanna,the rhythmic thumping of an elephant’s walking on the savanna
+Attack/Transient,thumping,Organic,whale,ocean,the rhythmic thumping of a whale’s tail hitting the water surface
+Attack/Transient,thumping,Organic,bison,prairie,the rhythmic thumping of a bison herd running on the prairie
+Attack/Transient,thumping,Organic,toad,pond,the rhythmic thumping of a bullfrog’s deep croak in a pond
+Attack/Transient,thumping,Organic,human,gym,the rhythmic thumping of a person skipping rope on a wooden floor
+Attack/Transient,thumping,Organic,gorilla,mountain,the rhythmic thumping of a gorilla’s knuckles on the ground
+Attack/Transient,thumping,Organic,bear,cave,the rhythmic thumping of a bear scratching its back on a cave wall
+Attack/Transient,thumping,Organic,moose,lake,the rhythmic thumping of a moose walking through a shallow lake
+Attack/Transient,thumping,Organic,walrus,ice,the rhythmic thumping of a walrus moving its body on the ice
+Attack/Transient,thumping,Organic,ostrich,scrubland,the rhythmic thumping of an ostrich’s booming call
+Attack/Transient,thumping,Domestic,rug,yard,the rhythmic thumping of a heavy rug being beaten in a yard
+Attack/Transient,thumping,Domestic,pillow,bedroom,the rhythmic thumping of a pillow being fluffed in a bedroom
+Attack/Transient,thumping,Domestic,sofa,living room,the rhythmic thumping of someone jumping on a fabric sofa
+Attack/Transient,thumping,Domestic,washing machine,laundry,the rhythmic thumping of a washing machine spin cycle
+Attack/Transient,thumping,Domestic,door,basement,the rhythmic thumping of a loose door in a windy basement
+Attack/Transient,thumping,Domestic,cabinet,kitchen,the rhythmic thumping of a wooden cabinet door closing
+Attack/Transient,thumping,Domestic,mattress,bedroom,the rhythmic thumping of a mattress being flipped on a frame
+Attack/Transient,thumping,Domestic,curtains,theater,the rhythmic thumping of heavy curtains closing in a theater
+Attack/Transient,thumping,Domestic,trunk,attic,the rhythmic thumping of a heavy trunk being dragged on a floor
+Attack/Transient,thumping,Domestic,ceiling fan,bedroom,the rhythmic thumping of a ceiling fan on a high setting
+Attack/Transient,thumping,Domestic,books,library,the rhythmic thumping of a heavy book hitting a carpeted floor
+Attack/Transient,thumping,Domestic,bathtub,bathroom,the rhythmic thumping of a heavy object hitting a porcelain tub
+Attack/Transient,thumping,Domestic,wardrobe,attic,the rhythmic thumping of a heavy wardrobe door being closed
+Attack/Transient,thumping,Domestic,water pipes,basement,the rhythmic thumping of water hammer in basement pipes
+Attack/Transient,thumping,Domestic,broom,porch,the rhythmic thumping of a broom hitting a wooden floor
+Attack/Transient,thumping,Domestic,box,pantry,the rhythmic thumping of a cardboard box being set down
+Attack/Transient,thumping,Domestic,shoe,closet,the rhythmic thumping of a heavy boot hitting a wooden floor
+Attack/Transient,thumping,Domestic,pot,kitchen,the rhythmic thumping of a heavy pot being set on a wooden table
+Attack/Transient,thumping,Electronic,subwoofer,room,the rhythmic thumping of a low-frequency pulse from a subwoofer
+Attack/Transient,thumping,Electronic,transformer,substation,the rhythmic thumping of an electrical hum in a substation
+Attack/Transient,thumping,Electronic,motor,garage,the rhythmic thumping of a large electric motor starting up
+Attack/Transient,thumping,Electronic,speaker,basement,the rhythmic thumping of a speaker cone vibrating with a pulse
+Attack/Transient,thumping,Electronic,solenoid,factory,the rhythmic thumping of a large industrial solenoid engaging
+Attack/Transient,thumping,Electronic,relay,closet,the rhythmic thumping of a bank of mechanical relays closing
+Attack/Transient,thumping,Electronic,reactor,plant,the rhythmic thumping of a reactor cooling system in a plant
+Attack/Transient,thumping,Electronic,fan,office,the rhythmic thumping of a large server cooling fan in an office
+Attack/Transient,thumping,Electronic,buzzer,ward,the rhythmic thumping of a low-frequency electronic buzzer
+Attack/Transient,thumping,Electronic,radio,attic,the rhythmic thumping of a low-frequency signal on a radio
+Attack/Transient,thumping,Electronic,microwave,kitchen,the rhythmic thumping of a microwave turntable engaging
+Attack/Transient,thumping,Electronic,scanner,library,the rhythmic thumping of a document scanner head moving
+Attack/Transient,thumping,Electronic,phone,bedroom,the rhythmic thumping of a smartphone vibrating on a mattress
+Attack/Transient,thumping,Electronic,circuit breaker,utility,the rhythmic thumping of a circuit breaker tripping
+Attack/Transient,thumping,Electronic,tesla coil,museum,the rhythmic thumping of a low-frequency tesla coil pulse
+Attack/Transient,thumping,Electronic,fence,pasture,the rhythmic thumping of an electric fence pulse on a wire
+Attack/Transient,thumping,Electronic,soldering iron,bench,the rhythmic thumping of an iron hitting a metal stand
+Attack/Transient,thumping,Electronic,vibration,table,the rhythmic thumping of a vibration motor on a table
+Attack/Transient,smacking,Musical,conga,studio,a wet palm smack on the center of a conga drum in a studio
+Attack/Transient,smacking,Musical,tambourine,hall,a wet palm smack on the head of a dampened tambourine
+Attack/Transient,smacking,Musical,drum,garage,a wet palm smack on a large plastic drum head in a garage
+Attack/Transient,smacking,Musical,bongo,beach,a wet palm smack on a pair of bongo drums on a beach
+Attack/Transient,smacking,Musical,djembe,park,a wet palm smack on the edge of a djembe drum in a park
+Attack/Transient,smacking,Musical,tabla,temple,a wet finger smack on the center of a tabla drum in a temple
+Attack/Transient,smacking,Musical,uadu drum,shed,a wet palm smack on the side of a clay udu drum in a shed
+Attack/Transient,smacking,Musical,piano,room,a wet palm smack on the wooden body of a grand piano in a room
+Attack/Transient,smacking,Musical,guitar,attic,a wet palm smack on the hollow body of an acoustic guitar
+Attack/Transient,smacking,Musical,violin,basement,a wet finger smack on the wooden body of a violin in a basement
+Attack/Transient,smacking,Musical,harp,library,a wet palm smack on the wooden frame of a large harp
+Attack/Transient,smacking,Musical,xylophone,garden,a wet palm smack on a rosewood xylophone bar in a garden
+Attack/Transient,smacking,Musical,marimba,conservatory,a wet palm smack on a mahogany marimba bar in a hall
+Attack/Transient,smacking,Musical,banjo,barn,a wet palm smack on the skin head of a banjo in a barn
+Attack/Transient,smacking,Musical,snare,closet,a wet palm smack on the head of a snare drum in a closet
+Attack/Transient,smacking,Musical,bells,hallway,a wet palm smack on a large metal bell in a tiled hallway
+Attack/Transient,smacking,Musical,flute,meadow,a wet palm smack on the end of a hollow bamboo flute
+Attack/Transient,smacking,Musical,organ,church,a wet palm smack on a large wooden organ pipe in a church
+Attack/Transient,smacking,Mechanical,belt,factory,a wet rubber drive belt smacking against a metal pulley in a factory
+Attack/Transient,smacking,Mechanical,piston,engine room,a wet piston head smacking against a cylinder in an engine room
+Attack/Transient,smacking,Mechanical,pump,basement,a wet mechanical pump diaphragm smacking against a housing
+Attack/Transient,smacking,Mechanical,gears,mill,wet wooden gears smacking together in an old water mill
+Attack/Transient,smacking,Mechanical,press,industrial site,a wet industrial press smacking a piece of rubber in a factory
+Attack/Transient,smacking,Mechanical,conveyor,warehouse,a wet rubber conveyor belt smacking against a roller in a warehouse
+Attack/Transient,smacking,Mechanical,fan,attic,a wet fan blade smacking against a piece of plastic in a dusty attic
+Attack/Transient,smacking,Mechanical,typewriter,office,a wet typewriter key smacking against a platen in an office
+Attack/Transient,smacking,Mechanical,stapler,desk,a wet hand smacking a stapler onto a thick stack of paper
+Attack/Transient,smacking,Mechanical,grinder,garage,a wet grinding wheel smacking against a piece of heavy metal
+Attack/Transient,smacking,Mechanical,vent,building,a wet vent flap smacking against a metal housing in a wind
+Attack/Transient,smacking,Mechanical,shutter,house,a wet wooden shutter smacking against a stone wall in a storm
+Attack/Transient,smacking,Mechanical,lathe,workshop,a wet piece of wood smacking against a lathe tool in a shop
+Attack/Transient,smacking,Mechanical,hammer,site,a wet rubber mallet smacking against a wooden beam on a site
+Attack/Transient,smacking,Mechanical,drill,shipyard,a wet hand drill smacking against a piece of damp lumber
+Attack/Transient,smacking,Mechanical,bellows,forge,wet leather bellows smacking together in a blacksmith forge
+Attack/Transient,smacking,Mechanical,gate,yard,a wet iron gate smacking against a stone wall in a yard
+Attack/Transient,smacking,Mechanical,shuttle,mill,a wet wooden shuttle smacking against a loom frame in a mill
+Attack/Transient,smacking,Environmental,mud,swamp,a wet foot smacking into deep thick mud in a murky swamp
+Attack/Transient,smacking,Environmental,wave,cliff,a wet ocean wave smacking against a flat rock face on a cliff
+Attack/Transient,smacking,Environmental,rain,marsh,wet rain smacking against a large muddy puddle in a marsh
+Attack/Transient,smacking,Environmental,leaves,woods,wet leaves smacking together in a heavy wind in the woods
+Attack/Transient,smacking,Environmental,sand,beach,wet sand smacking against a plastic shovel on a beach
+Attack/Transient,smacking,Environmental,ice,pond,wet ice smacking against a wooden dock on a winter pond
+Attack/Transient,smacking,Environmental,wind,canyon,wet wind smacking against a flat cliff face in a canyon
+Attack/Transient,smacking,Environmental,water,lake,a wet log smacking the surface of a stagnant lake
+Attack/Transient,smacking,Environmental,earth,field,wet earth smacking against a metal shovel in a field
+Attack/Transient,smacking,Environmental,rock,quarry,a wet rock smacking into a pile of mud in a quarry
+Attack/Transient,smacking,Environmental,wood,forest,a wet tree trunk smacking against another tree in a forest
+Attack/Transient,smacking,Environmental,mist,valley,wet mist smacking against a cold metal fence in a valley
+Attack/Transient,smacking,Environmental,hail,meadow,wet hail stones smacking against a grassy field in a storm
+Attack/Transient,smacking,Environmental,avalanche,mountain,wet snow smacking against a rocky ledge in an avalanche
+Attack/Transient,smacking,Environmental,stream,woods,wet water smacking against a hollow log in a stream
+Attack/Transient,smacking,Environmental,grass,prairie,wet grass smacking against a wooden post in a prairie wind
+Attack/Transient,smacking,Environmental,cave,cavern,wet water drops smacking into a mud pit in a dark cave
+Attack/Transient,smacking,Environmental,thaw,forest,wet melting ice smacking against a frozen pond in a forest
+Attack/Transient,smacking,Organic,lips,quiet room,wet lips smacking together in a quiet room
+Attack/Transient,smacking,Organic,paws,tile floor,wet dog paws smacking against a tiled kitchen floor
+Attack/Transient,smacking,Organic,tongue,room,a wet tongue smacking against the roof of the mouth in a room
+Attack/Transient,smacking,Organic,hands,gym,wet hands smacking together in a padded gym
+Attack/Transient,smacking,Organic,footsteps,hallway,wet footsteps smacking against a marble hallway floor
+Attack/Transient,smacking,Organic,breath,alley,a wet shaky breath smacking in a cold dark alleyway
+Attack/Transient,smacking,Organic,tail,water,a wet beaver tail smacking the surface of a riverbank
+Attack/Transient,smacking,Organic,wings,loft,wet wings smacking together in a pigeon loft
+Attack/Transient,smacking,Organic,heartbeat,bedroom,a wet heartbeat sound smacking in a quiet room
+Attack/Transient,smacking,Organic,stomach,den,a wet hungry stomach smacking and gurgling in a den
+Attack/Transient,smacking,Organic,chest,jungle,a wet palm smack on a gorilla’s chest in the jungle
+Attack/Transient,smacking,Organic,moose,lake,wet moose hooves smacking against a shallow muddy lake
+Attack/Transient,smacking,Organic,walrus,ice,a wet walrus body smacking against a frozen ice shelf
+Attack/Transient,smacking,Organic,toad,pond,a wet bullfrog body smacking into a stagnant pond
+Attack/Transient,smacking,Organic,scales,swamp,wet snake scales smacking against a large waxy leaf
+Attack/Transient,smacking,Organic,teeth,mountain,wet teeth smacking together in the cold air
+Attack/Transient,smacking,Organic,beak,woods,a wet bird beak smacking against a piece of rotting wood
+Attack/Transient,smacking,Organic,skin,room,wet skin smacking against a flat wooden surface in a room
+Attack/Transient,smacking,Domestic,towel,bathroom,a wet towel smacking against a tiled bathroom floor
+Attack/Transient,smacking,Domestic,pillow,bedroom,a wet pillow smacking against a wooden headboard
+Attack/Transient,smacking,Domestic,rug,yard,a wet rug smacking against a wooden fence in a yard
+Attack/Transient,smacking,Domestic,sofa,den,a wet hand smacking a leather sofa in a den
+Attack/Transient,smacking,Domestic,curtains,theater,wet velvet curtains smacking against a stage floor
+Attack/Transient,smacking,Domestic,box,attic,a wet cardboard box smacking against a wooden floor
+Attack/Transient,smacking,Domestic,blanket,bedroom,a wet blanket smacking against a wooden bed frame
+Attack/Transient,smacking,Domestic,book,library,a wet book smacking shut on a wooden table in a library
+Attack/Transient,smacking,Domestic,cabinet,kitchen,a wet cabinet door smacking against a wooden frame
+Attack/Transient,smacking,Domestic,drawer,bedroom,a wet wooden drawer smacking shut in a bedroom
+Attack/Transient,smacking,Domestic,mattress,bedroom,a wet mattress smacking against a metal bed frame
+Attack/Transient,smacking,Domestic,sponge,kitchen,a wet sponge smacking against a tiled countertop
+Attack/Transient,smacking,Domestic,broom,porch,a wet broom head smacking against a wooden porch floor
+Attack/Transient,smacking,Domestic,door,house,a wet solid wood door smacking shut in a hallway
+Attack/Transient,smacking,Domestic,bag,grocery store,a wet paper bag smacking against a wooden shelf
+Attack/Transient,smacking,Domestic,shoe,closet,a wet leather boot smacking against a wooden floor
+Attack/Transient,smacking,Domestic,pot,pantry,a wet cast iron pot smacking against a wooden shelf
+Attack/Transient,smacking,Domestic,chair,dining room,a wet wooden chair smacking against a hardwood floor
+Attack/Transient,smacking,Electronic,speaker,basement,a wet hand smacking a speaker cone in a basement
+Attack/Transient,smacking,Electronic,motor,garage,a wet fan belt smacking against an electric motor
+Attack/Transient,smacking,Electronic,fan,office,a wet fan blade smacking against a metal computer housing
+Attack/Transient,smacking,Electronic,transformer,closet,a wet hand smacking a transformer in a utility closet
+Attack/Transient,smacking,Electronic,battery,workshop,a wet hand smacking a large lead-acid battery
+Attack/Transient,smacking,Electronic,wire,studio,a wet electrical cable smacking against a carpeted floor
+Attack/Transient,smacking,Electronic,switch,control room,a wet finger smacking a large electronic switch
+Attack/Transient,smacking,Electronic,buzzer,factory,a wet hand smacking an industrial buzzer in a factory
+Attack/Transient,smacking,Electronic,radio,attic,a wet hand smacking a vintage radio in an attic
+Attack/Transient,smacking,Electronic,monitor,office,a wet hand smacking an old CRT monitor in an office
+Attack/Transient,smacking,Electronic,keyboard,library,a wet hand smacking a computer keyboard in a library
+Attack/Transient,smacking,Electronic,phone,bedroom,a wet hand smacking a smartphone on a mattress
+Attack/Transient,smacking,Electronic,heater,room,a wet hand smacking an electric space heater in a room
+Attack/Transient,smacking,Electronic,lamp,study,a wet hand smacking a desk lamp in a quiet study
+Attack/Transient,smacking,Electronic,charger,cabinet,a wet hand smacking a phone charger in a cabinet
+Attack/Transient,smacking,Electronic,server,room,a wet hand smacking a server rack in a data center
+Attack/Transient,smacking,Electronic,remote,den,a wet hand smacking a remote control on a wooden table
+Attack/Transient,smacking,Electronic,tv,living room,a wet hand smacking a television in a living room
+Attack/Transient,percussive,Musical,drum kit,rehearsal room,a rhythmic percussive pattern on a full drum kit
+Attack/Transient,percussive,Musical,shakers,dance hall,rhythmic percussive shakers being moved in a dance hall
+Attack/Transient,percussive,Musical,cowbell,studio,a rhythmic percussive cowbell pattern in a recording studio
+Attack/Transient,percussive,Musical,claves,courtyard,rhythmic percussive claves being struck in a stone courtyard
+Attack/Transient,percussive,Musical,maracas,beach,rhythmic percussive maracas being shaken on a sandy beach
+Attack/Transient,percussive,Musical,guiro,park,a rhythmic percussive scratching on a wooden guiro in a park
+Attack/Transient,percussive,Musical,xylophone,garden,a rhythmic percussive melody on a rosewood xylophone
+Attack/Transient,percussive,Musical,tambourine,marketplace,a rhythmic percussive jingle from a tambourine
+Attack/Transient,percussive,Musical,piano,ballroom,a rhythmic percussive staccato on a grand piano
+Attack/Transient,percussive,Musical,guitar,attic,a rhythmic percussive tapping on an acoustic guitar body
+Attack/Transient,percussive,Musical,violin,basement,a rhythmic percussive pizzicato on a violin in a basement
+Attack/Transient,percussive,Musical,harp,library,a rhythmic percussive plucking of harp strings in a library
+Attack/Transient,percussive,Musical,bells,hallway,a rhythmic percussive pealing of carillon bells in a hall
+Attack/Transient,percussive,Musical,flute,meadow,a rhythmic percussive tonguing on a bamboo flute
+Attack/Transient,percussive,Musical,organ,church,a rhythmic percussive staccato on a pipe organ in a church
+Attack/Transient,percussive,Musical,zither,hut,a rhythmic percussive plucking of a zither in a mountain hut
+Attack/Transient,percussive,Musical,banjo,barn,a rhythmic percussive strumming on a banjo in a dusty barn
+Attack/Transient,percussive,Musical,lute,ruin,a rhythmic percussive plucking of a lute in a stone ruin
+Attack/Transient,percussive,Mechanical,ticking clock,study,the rhythmic percussive ticking of a mechanical clock
+Attack/Transient,percussive,Mechanical,engine,garage,the rhythmic percussive idling of a small gasoline engine
+Attack/Transient,percussive,Mechanical,typewriter,office,the rhythmic percussive clacking of a typewriter in an office
+Attack/Transient,percussive,Mechanical,gears,mill,the rhythmic percussive clicking of wooden gears in a mill
+Attack/Transient,percussive,Mechanical,jackhammer,street,the rhythmic percussive striking of a jackhammer on a street
+Attack/Transient,percussive,Mechanical,fan,attic,the rhythmic percussive thumping of a wobbly fan blade
+Attack/Transient,percussive,Mechanical,pump,basement,the rhythmic percussive pulsing of a water pump in a basement
+Attack/Transient,percussive,Mechanical,conveyor,warehouse,the rhythmic percussive clicking of a conveyor belt roller
+Attack/Transient,percussive,Mechanical,press,factory,the rhythmic percussive stamping of an industrial press
+Attack/Transient,percussive,Mechanical,loom,mill,the rhythmic percussive thumping of a wooden loom in a mill
+Attack/Transient,percussive,Mechanical,spinning wheel,farm,the rhythmic percussive whirring of a spinning wheel
+Attack/Transient,percussive,Mechanical,shutter,house,the rhythmic percussive slamming of a shutter in a wind
+Attack/Transient,percussive,Mechanical,lathe,workshop,the rhythmic percussive clicking of a lathe turning wood
+Attack/Transient,percussive,Mechanical,hammer,site,the rhythmic percussive striking of a hammer on a wooden beam
+Attack/Transient,percussive,Mechanical,drill,shipyard,the rhythmic percussive clicking of a hand-cranked drill
+Attack/Transient,percussive,Mechanical,bellows,forge,the rhythmic percussive pumping of leather bellows in a forge
+Attack/Transient,percussive,Mechanical,gate,yard,the rhythmic percussive smacking of an iron gate in a yard
+Attack/Transient,percussive,Mechanical,winch,dock,the rhythmic percussive clicking of a wooden winch at a dock
+Attack/Transient,percussive,Environmental,rain,roof,the rhythmic percussive tapping of rain on a tin roof
+Attack/Transient,percussive,Environmental,woodpecker,woods,the rhythmic percussive drumming of a woodpecker in the woods
+Attack/Transient,percussive,Environmental,stream,canyon,the rhythmic percussive splashing of a stream over rocks
+Attack/Transient,percussive,Environmental,wind,forest,the rhythmic percussive rustling of leaves in a heavy wind
+Attack/Transient,percussive,Environmental,thunder,plains,the rhythmic percussive rolling of thunder across the plains
+Attack/Transient,percussive,Environmental,wave,shore,the rhythmic percussive washing of waves on a pebbled beach
+Attack/Transient,percussive,Environmental,ice,pond,the rhythmic percussive cracking of ice on a winter pond
+Attack/Transient,percussive,Environmental,hail,meadow,the rhythmic percussive thumping of hail on a grassy field
+Attack/Transient,percussive,Environmental,sand,desert,the rhythmic percussive clicking of sand against a metal post
+Attack/Transient,percussive,Environmental,mist,valley,the rhythmic percussive dripping of mist from a rocky ledge
+Attack/Transient,percussive,Environmental,thaw,forest,the rhythmic percussive tinkling of melting ice in a forest
+Attack/Transient,percussive,Environmental,fire,campsite,the rhythmic percussive snapping of dry pine needles
+Attack/Transient,percussive,Environmental,reeds,marsh,the rhythmic percussive clinking of ice-covered reeds
+Attack/Transient,percussive,Environmental,grass,prairie,the rhythmic percussive rustle of grass in a prairie wind
+Attack/Transient,percussive,Environmental,cave,cavern,the rhythmic percussive dripping of water into a pool
+Attack/Transient,percussive,Environmental,volcano,island,the rhythmic percussive rumbling of subterranean lava
+Attack/Transient,percussive,Environmental,avalanche,peak,the rhythmic percussive roar of a distant snow-slide
+Attack/Transient,percussive,Environmental,landslide,mountain,the rhythmic percussive thumping of rocks on a slope
+Attack/Transient,percussive,Organic,hoofbeats,field,the rhythmic percussive thud of horse hooves on a field
+Attack/Transient,percussive,Organic,heartbeat,room,the rhythmic percussive thumping of a human heartbeat
+Attack/Transient,percussive,Organic,wings,loft,the rhythmic percussive flapping of wings in a pigeon loft
+Attack/Transient,percussive,Organic,tongue,room,the rhythmic percussive clicking of a tongue in a quiet room
+Attack/Transient,percussive,Organic,hands,gym,the rhythmic percussive clapping of hands in a padded gym
+Attack/Transient,percussive,Organic,footsteps,hall,the rhythmic percussive tapping of feet on a hardwood floor
+Attack/Transient,percussive,Organic,teeth,mountain,the rhythmic percussive chattering of teeth in the cold
+Attack/Transient,percussive,Organic,beaver,river,the rhythmic percussive slapping of a beaver tail on water
+Attack/Transient,percussive,Organic,cicada,orchard,the rhythmic percussive buzzing of a cicada in an orchard
+Attack/Transient,percussive,Organic,cricket,meadow,the rhythmic percussive chirping of a cricket in a meadow
+Attack/Transient,percussive,Organic,paws,floor,the rhythmic percussive clicking of dog claws on a floor
+Attack/Transient,percussive,Organic,bird,nest,the rhythmic percussive pecking of a bird on a wooden house
+Attack/Transient,percussive,Organic,scales,swamp,the rhythmic percussive rustling of a snake in dry grass
+Attack/Transient,percussive,Organic,stomach,den,the rhythmic percussive gurgling of a hungry stomach
+Attack/Transient,percussive,Organic,chest,jungle,the rhythmic percussive beating of a gorilla’s chest
+Attack/Transient,percussive,Organic,moose,lake,the rhythmic percussive splashing of a moose in a lake
+Attack/Transient,percussive,Organic,walrus,ice,the rhythmic percussive grunting of a walrus on the ice
+Attack/Transient,percussive,Organic,toad,pond,the rhythmic percussive croaking of a bullfrog in a pond
+Attack/Transient,percussive,Domestic,rug,yard,the rhythmic percussive beating of a heavy rug in a yard
+Attack/Transient,percussive,Domestic,pillow,bedroom,the rhythmic percussive fluffing of a pillow in a bedroom
+Attack/Transient,percussive,Domestic,washing machine,laundry,the rhythmic percussive thumping of a spin cycle
+Attack/Transient,percussive,Domestic,cabinet,kitchen,the rhythmic percussive closing of wooden cabinet doors
+Attack/Transient,percussive,Domestic,drawer,bedroom,the rhythmic percussive sliding of a wooden drawer
+Attack/Transient,percussive,Domestic,broom,porch,the rhythmic percussive sweeping of a broom on a porch
+Attack/Transient,percussive,Domestic,door,house,the rhythmic percussive closing of a heavy solid wood door
+Attack/Transient,percussive,Domestic,curtains,theater,the rhythmic percussive rustle of heavy velvet curtains
+Attack/Transient,percussive,Domestic,trunk,attic,the rhythmic percussive dragging of a heavy trunk on a floor
+Attack/Transient,percussive,Domestic,ceiling fan,bedroom,the rhythmic percussive thrum of a ceiling fan
+Attack/Transient,percussive,Domestic,books,library,the rhythmic percussive closing of a large book
+Attack/Transient,percussive,Domestic,bathtub,bathroom,the rhythmic percussive hitting of a heavy object on a tub
+Attack/Transient,percussive,Domestic,wardrobe,attic,the rhythmic percussive closing of a wardrobe door
+Attack/Transient,percussive,Domestic,water pipes,basement,the rhythmic percussive thumping of water hammer
+Attack/Transient,percussive,Domestic,box,pantry,the rhythmic percussive setting down of a cardboard box
+Attack/Transient,percussive,Domestic,shoe,closet,the rhythmic percussive hitting of a boot on a floor
+Attack/Transient,percussive,Domestic,pot,kitchen,the rhythmic percussive setting down of a heavy pot
+Attack/Transient,percussive,Domestic,chair,dining room,the rhythmic percussive dragging of a chair on a floor
+Attack/Transient,percussive,Electronic,synthesizer,studio,a rhythmic percussive square-wave sequence from a synth
+Attack/Transient,percussive,Electronic,drum machine,club,a rhythmic percussive beat from a vintage drum machine
+Attack/Transient,percussive,Electronic,sequencer,booth,a rhythmic percussive pulse from an analog sequencer
+Attack/Transient,percussive,Electronic,subwoofer,room,a rhythmic percussive pulse from a low-frequency speaker
+Attack/Transient,percussive,Electronic,relay,server room,a rhythmic percussive clicking of mechanical relays
+Attack/Transient,percussive,Electronic,buzzer,factory,a rhythmic percussive signal from an industrial buzzer
+Attack/Transient,percussive,Electronic,transformer,substation,a rhythmic percussive thrum from a transformer
+Attack/Transient,percussive,Electronic,motor,garage,a rhythmic percussive idling of an electric motor
+Attack/Transient,percussive,Electronic,radio,attic,a rhythmic percussive static pulse from a radio receiver
+Attack/Transient,percussive,Electronic,microwave,kitchen,a rhythmic percussive rotation of a microwave turntable
+Attack/Transient,percussive,Electronic,scanner,library,a rhythmic percussive movement of a document scanner
+Attack/Transient,percussive,Electronic,phone,bedroom,a rhythmic percussive vibration of a phone on a mattress
+Attack/Transient,percussive,Electronic,circuit breaker,closet,a rhythmic percussive snapping of a circuit breaker
+Attack/Transient,percussive,Electronic,tesla coil,museum,a rhythmic percussive pulse from a small tesla coil
+Attack/Transient,percussive,Electronic,fence,pasture,a rhythmic percussive snap of an electric fence pulse
+Attack/Transient,percussive,Electronic,soldering iron,bench,a rhythmic percussive hitting of an iron on a stand
+Attack/Transient,percussive,Electronic,vibration,table,a rhythmic percussive buzzing of a motor on a table
+Attack/Transient,percussive,Electronic,game console,den,a rhythmic percussive digital sound from a video game

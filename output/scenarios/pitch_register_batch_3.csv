@@ -1,0 +1,599 @@
+category,tag,domain,source,environment,scenario
+Pitch/Register,tinny,Musical,toy piano,nursery,a toy piano playing a single high note in a carpeted nursery
+Pitch/Register,tinny,Musical,jaw harp,wooden porch,a metal jaw harp being plucked between the teeth on a porch
+Pitch/Register,tinny,Musical,kazoo,parade,a plastic kazoo being hummed into during a street parade
+Pitch/Register,tinny,Musical,music box,attic,a small music box mechanism playing a melody in a dusty attic
+Pitch/Register,tinny,Musical,tin whistle,rocky cliff,a tin whistle playing a fast high-pitched tune on a cliff
+Pitch/Register,tinny,Musical,cheap ukulele,beach,a thin-bodied ukulele being strummed with a plastic pick
+Pitch/Register,tinny,Musical,finger cymbals,dance studio,two small metal finger cymbals clinking together
+Pitch/Register,tinny,Musical,toy tambourine,playroom,a small plastic tambourine being shaken by a child
+Pitch/Register,tinny,Musical,mouth organ,campsite,a small harmonica playing a single high note near a fire
+Pitch/Register,tinny,Musical,metal castanets,tiled hall,metal castanets clicking rapidly in a tiled hallway
+Pitch/Register,tinny,Musical,egg shaker,recording booth,a plastic egg shaker being moved in a dry booth
+Pitch/Register,tinny,Musical,kalimba,garden,a small metal-tined kalimba being flicked in a courtyard
+Pitch/Register,tinny,Musical,slide whistle,carnival,a slide whistle moving from low to high in a fairground
+Pitch/Register,tinny,Musical,wire strings,basement,wire-stringed instrument being plucked with a metal plectrum
+Pitch/Register,tinny,Musical,toy glockenspiel,classroom,a metal bar on a toy glockenspiel being struck with a plastic mallet
+Pitch/Register,tinny,Musical,harmonium,attic,the thin wheeze of a small harmonium with a leaking bellows
+Pitch/Register,tinny,Musical,small triangle,chamber,a thin steel triangle being tapped with a metal rod
+Pitch/Register,tinny,Musical,zither,tea house,the high strings of a zither being plucked in a tea house
+Pitch/Register,tinny,Mechanical,pocket watch,library,the fine metallic ticking of a pocket watch on a wooden table
+Pitch/Register,tinny,Mechanical,bicycle bell,city park,a small bicycle bell ringing twice in a park
+Pitch/Register,tinny,Mechanical,manual typewriter,office,the metallic strike of a typewriter key against a thin platen
+Pitch/Register,tinny,Mechanical,socket wrench,garage,the thin metallic clicking of a small ratchet wrench
+Pitch/Register,tinny,Mechanical,film projector,cinema,the rhythmic clicking of a vintage 8mm film projector
+Pitch/Register,tinny,Mechanical,sewing machine,tailor shop,the rapid clicking of a sewing machine needle in a shop
+Pitch/Register,tinny,Mechanical,wind-up toy,playroom,the internal gears of a metal wind-up toy spinning on a floor
+Pitch/Register,tinny,Mechanical,handcuffs,police station,the metallic ratcheting of steel handcuffs closing
+Pitch/Register,tinny,Mechanical,zipper,dressing room,a metal zipper being pulled up quickly on a light jacket
+Pitch/Register,tinny,Mechanical,key duplicator,hardware store,the thin metallic grind of a key being cut
+Pitch/Register,tinny,Mechanical,vending machine,hallway,the sound of a coin rattling through a metal vending machine
+Pitch/Register,tinny,Mechanical,stapler,office,the thin metallic snap of a small stapler joining paper
+Pitch/Register,tinny,Mechanical,clockwork gears,workshop,the overlapping clicking of small brass gears in a workshop
+Pitch/Register,tinny,Mechanical,tweezers,bathroom,the metallic snap of a pair of tweezers closing together
+Pitch/Register,tinny,Mechanical,manual drill,woodshop,a hand-powered drill boring into a thin sheet of metal
+Pitch/Register,tinny,Mechanical,camera shutter,studio,the fast mechanical click of a small 35mm camera shutter
+Pitch/Register,tinny,Mechanical,ticker tape,office,the rhythmic clicking of a vintage ticker tape machine
+Pitch/Register,tinny,Mechanical,fishing reel,lakeside,the thin metallic click of a fishing reel bail closing
+Pitch/Register,tinny,Environmental,icicles,winter forest,small icicles clinking against each other in a light breeze
+Pitch/Register,tinny,Environmental,sand,desert,sand grains hitting a metal sign during a desert windstorm
+Pitch/Register,tinny,Environmental,thin ice,pond,the high-pitched crack of thin ice on a winter pond
+Pitch/Register,tinny,Environmental,dripping water,sink,a water drop hitting a thin metal sink basin
+Pitch/Register,tinny,Environmental,pebbles,shoreline,small pebbles clinking together in the receding surf
+Pitch/Register,tinny,Environmental,wind,keyhole,the high-pitched whistle of wind through a metal keyhole
+Pitch/Register,tinny,Environmental,frost,arctic tundra,the brittle crunch of frost-covered grass under a boot
+Pitch/Register,tinny,Environmental,hail,tin shed,small hailstones hitting a corrugated metal roof
+Pitch/Register,tinny,Environmental,pine needles,ridge,wind whistling through dry pine needles on a mountain ridge
+Pitch/Register,tinny,Environmental,stalactite,cave,a water drop hitting a crystal formation in a cavern
+Pitch/Register,tinny,Environmental,thawing ice,river,the thin tinkling of ice crystals floating in a stream
+Pitch/Register,tinny,Environmental,obsidian,lava field,shards of volcanic glass clinking together on a slope
+Pitch/Register,tinny,Environmental,reeds,marsh,dry reeds tapping together in a light autumn breeze
+Pitch/Register,tinny,Environmental,bubble,glass,a single bubble popping at the surface of a glass of water
+Pitch/Register,tinny,Environmental,mist,forest,the faint high-pitched hiss of mist through pine needles
+Pitch/Register,tinny,Environmental,geyser,vent,the high-pitched hiss of steam from a tiny volcanic vent
+Pitch/Register,tinny,Environmental,dry twig,thicket,a thin dry twig snapping in a dense thicket
+Pitch/Register,tinny,Environmental,snow,window,the soft tap of a single snowflake against a window pane
+Pitch/Register,tinny,Organic,grasshopper,summer field,the high-pitched stridulation of a grasshopper in a field
+Pitch/Register,tinny,Organic,mouse,pantry,the high-pitched squeak of a mouse behind a cardboard box
+Pitch/Register,tinny,Organic,beetle,attic,a hard-shelled beetle scuttling across a metal pipe in an attic
+Pitch/Register,tinny,Organic,cricket,night meadow,the thin high-pitched chirp of a single cricket in a field
+Pitch/Register,tinny,Organic,teeth,basement,human teeth chattering rapidly in a cold room
+Pitch/Register,tinny,Organic,claws,tile floor,the sharp click of a kitten's claws on a tile floor
+Pitch/Register,tinny,Organic,eggshell,kitchen,the sharp crack of an eggshell against a porcelain bowl
+Pitch/Register,tinny,Organic,tongue,mouth,a sharp click of the tongue against the roof of the mouth
+Pitch/Register,tinny,Organic,bat,cave,the high-pitched echolocation click of a bat in a cavern
+Pitch/Register,tinny,Organic,wasp,attic window,a wasp buzzing its wings against a glass window pane
+Pitch/Register,tinny,Organic,hair,dressing room,the static crackle of hair being pulled through a brush
+Pitch/Register,tinny,Organic,chick,coop,the high-pitched peep of a single baby chick in a nest
+Pitch/Register,tinny,Organic,seed pod,desert,a dry seed pod being rattled in a closed hand
+Pitch/Register,tinny,Organic,bones,museum,the clink of two small bird bones in a display case
+Pitch/Register,tinny,Organic,scales,rock,the dry thin hiss of a small snake over a stone
+Pitch/Register,tinny,Organic,fingernails,desk,fingernails tapping rapidly on a wooden table
+Pitch/Register,tinny,Organic,mosquito,bedroom,the high-pitched buzz of a mosquito near a person's head
+Pitch/Register,tinny,Organic,straw,stable,the thin rustle of dry straw in a horse stable
+Pitch/Register,tinny,Domestic,aluminum foil,kitchen,aluminum foil being crinkled into a ball in a kitchen
+Pitch/Register,tinny,Domestic,keys,entryway,a bunch of small keys jingling on a metal ring
+Pitch/Register,tinny,Domestic,pin,hardwood floor,a sewing pin dropping onto a hardwood floor
+Pitch/Register,tinny,Domestic,measuring spoons,kitchen,metal measuring spoons clinking together in a drawer
+Pitch/Register,tinny,Domestic,thimble,sewing basket,a metal thimble tapping against a needle
+Pitch/Register,tinny,Domestic,safety pin,dressing room,the click of a small safety pin being closed
+Pitch/Register,tinny,Domestic,spectacles,study,the click of spectacles being folded and placed on a desk
+Pitch/Register,tinny,Domestic,lightbulb,garage,a lightbulb filament rattling in its glass envelope
+Pitch/Register,tinny,Domestic,envelope,office,the sound of a letter opener slicing through thin paper
+Pitch/Register,tinny,Domestic,thread,sewing room,the snap of a single cotton thread being broken
+Pitch/Register,tinny,Domestic,beads,bedroom,two glass beads clinking together on a string
+Pitch/Register,tinny,Domestic,can opener,kitchen,the sharp pierce of a manual can opener on a tin lid
+Pitch/Register,tinny,Domestic,pills,bottle,a single pill rattling inside a small plastic bottle
+Pitch/Register,tinny,Domestic,razor,bathroom,a safety razor being tapped against a porcelain sink
+Pitch/Register,tinny,Domestic,scissors,office,the thin snip of metal scissors cutting paper
+Pitch/Register,tinny,Domestic,tin can,pantry,the sound of a tin can being slid across a metal shelf
+Pitch/Register,tinny,Domestic,tea strainer,kitchen,a metal tea strainer tapping against the rim of a cup
+Pitch/Register,tinny,Domestic,beaded curtain,doorway,glass beads clattering together in a doorway
+Pitch/Register,tinny,Electronic,earbuds,library,the tinny sound of music leaking from a pair of earbuds
+Pitch/Register,tinny,Electronic,buzzer,toy,the thin high-pitched buzz of a small electronic toy
+Pitch/Register,tinny,Electronic,glitch,computer lab,a sharp high-frequency digital pop from a small speaker
+Pitch/Register,tinny,Electronic,static,radio,the thin high-pitched white noise from a small radio
+Pitch/Register,tinny,Electronic,watch alarm,bedroom,the high-pitched beep of a digital watch alarm
+Pitch/Register,tinny,Electronic,camera flash,studio,the high-pitched whine of a portable flash charging
+Pitch/Register,tinny,Electronic,scanner,store,the sharp beep of a handheld barcode scanner
+Pitch/Register,tinny,Electronic,led driver,workshop,the high-pitched buzz of a single faulty led light
+Pitch/Register,tinny,Electronic,taser,security,the sharp arcing of a handheld taser being tested
+Pitch/Register,tinny,Electronic,piezo,alarm,the high-pitched chirp of a small piezo alarm
+Pitch/Register,tinny,Electronic,logic probe,lab,the sharp beep of a logic probe testing a circuit
+Pitch/Register,tinny,Electronic,modem,office,the high-pitched screeching of a dial-up modem
+Pitch/Register,tinny,Electronic,audio jack,stage,the pop of a cable being plugged into a guitar
+Pitch/Register,tinny,Electronic,fan,laptop,the high-speed whir of a small laptop cooling fan
+Pitch/Register,tinny,Electronic,phone,table,the vibration of a smartphone on a wooden table
+Pitch/Register,tinny,Electronic,microchip,lab,the ultrasonic whine of a microchip in operation
+Pitch/Register,tinny,Electronic,switch,cockpit,the sharp click of a small toggle switch
+Pitch/Register,tinny,Electronic,capacitor,bench,the snap of a small capacitor discharging
+Pitch/Register,hissing,Musical,ride cymbal,jazz club,a wire brush being swirled on a ride cymbal in a club
+Pitch/Register,hissing,Musical,maraca,beach,a maraca being shaken slowly in a tropical hut
+Pitch/Register,hissing,Musical,flute,meadow,the breathy hiss of a flute player blowing across the embouchure
+Pitch/Register,hissing,Musical,pipe organ,cathedral,the air hiss from a leaking bellows in a large cathedral
+Pitch/Register,hissing,Musical,cabasa,studio,the rhythmic sliding of metal beads on a wooden cabasa
+Pitch/Register,hissing,Musical,sand shaker,garden,a sand-filled shaker being rotated in a recording booth
+Pitch/Register,hissing,Musical,bellows,abbey,the air intake hiss of a harmonium in a stone chapel
+Pitch/Register,hissing,Musical,hi-hat,jazz club,a hi-hat cymbal being closed slowly with a foot pedal
+Pitch/Register,hissing,Musical,rainstick,conservatory,the falling of seeds inside a long wooden rainstick
+Pitch/Register,hissing,Musical,synthesizer,studio,a synthesizer playing a pure noise-based percussion sound
+Pitch/Register,hissing,Musical,guiro,porch,a wooden guiro being scraped slowly with a metal stick
+Pitch/Register,hissing,Musical,violin,chamber,a violin bow being drawn slowly across the bridge
+Pitch/Register,hissing,Musical,snare drum,rehearsal,a wire brush being dragged across a snare drum head
+Pitch/Register,hissing,Musical,cymbals,stage,two orchestral cymbals being rubbed together slowly
+Pitch/Register,hissing,Musical,accordion,piazza,the hiss of air escaping a silent accordion bellows
+Pitch/Register,hissing,Musical,kazoo,nursery,the buzzing hiss of a kazoo being blown without a tone
+Pitch/Register,hissing,Musical,flute,hallway,the air noise from a person blowing through a silver flute
+Pitch/Register,hissing,Musical,tambourine,stage,the jingles of a tambourine being shaken very lightly
+Pitch/Register,hissing,Mechanical,steam valve,factory,the constant hiss of high-pressure steam escaping a valve
+Pitch/Register,hissing,Mechanical,spray paint,alleyway,the hiss of paint being sprayed from an aerosol can
+Pitch/Register,hissing,Mechanical,air hose,garage,the hiss of compressed air leaking from a rubber hose
+Pitch/Register,hissing,Mechanical,pneumatic piston,shop,the air release hiss of a pneumatic cylinder cycling
+Pitch/Register,hissing,Mechanical,radiator,bedroom,the hiss of steam from a vintage radiator valve
+Pitch/Register,hissing,Mechanical,fire extinguisher,hallway,the roar and hiss of a co2 fire extinguisher
+Pitch/Register,hissing,Mechanical,sandblaster,shipyard,the abrasive hiss of a sandblaster against a metal hull
+Pitch/Register,hissing,Mechanical,soldering iron,workshop,a soldering iron hissing against a damp sponge
+Pitch/Register,hissing,Mechanical,pressure cooker,kitchen,the steady hiss of steam from a pressure cooker weight
+Pitch/Register,hissing,Mechanical,oxygen tank,hospital,the steady hiss of oxygen through a flow meter
+Pitch/Register,hissing,Mechanical,steam iron,laundry,the hiss of a steam iron being pressed onto a garment
+Pitch/Register,hissing,Mechanical,airbrush,studio,the hiss of an airbrush spraying ink onto a canvas
+Pitch/Register,hissing,Mechanical,vacuum pump,lab,the high-pitched hiss of a vacuum pump in operation
+Pitch/Register,hissing,Mechanical,brake line,truck stop,the air hiss from a truck's pneumatic brake release
+Pitch/Register,hissing,Mechanical,carbonator,soda shop,the hiss of co2 being injected into a water tank
+Pitch/Register,hissing,Mechanical,dryer,utility room,the air hiss from a dryer vent in a laundry room
+Pitch/Register,hissing,Mechanical,gas burner,kitchen,the hiss of unignited gas from a stovetop burner
+Pitch/Register,hissing,Mechanical,humidifier,bedroom,the steady hiss of mist from an ultrasonic humidifier
+Pitch/Register,hissing,Environmental,geyser vent,volcanic field,the constant hiss of steam from a volcanic vent
+Pitch/Register,hissing,Environmental,wind,pine forest,the steady hiss of wind through a dense pine forest
+Pitch/Register,hissing,Environmental,mist,gorge,the faint hiss of mist passing through a narrow rocky gorge
+Pitch/Register,hissing,Environmental,ocean foam,beach,the fizzing hiss of ocean foam receding on a sandy beach
+Pitch/Register,hissing,Environmental,rain,forest,the steady hiss of a light drizzle on a leafy canopy
+Pitch/Register,hissing,Environmental,steam,hot spring,the hiss of steam rising from a natural hot spring
+Pitch/Register,hissing,Environmental,dry leaves,courtyard,dry leaves skittering across a stone floor in the wind
+Pitch/Register,hissing,Environmental,waterfall,basin,the high-pitched spray and hiss of a waterfall hitting rocks
+Pitch/Register,hissing,Environmental,sand,desert,sand grains being blown across the surface of a dune
+Pitch/Register,hissing,Environmental,snow,tundra,the hiss of wind-blown snow across a flat arctic plain
+Pitch/Register,hissing,Environmental,marsh,wetland,the hiss of wind through a thick bed of marsh reeds
+Pitch/Register,hissing,Environmental,fire,wilderness,the hiss of green wood burning in a forest fire
+Pitch/Register,hissing,Environmental,waves,shingle beach,the hiss of water receding through small pebbles
+Pitch/Register,hissing,Environmental,glacier,arctic,the hiss of air escaping from melting glacial ice
+Pitch/Register,hissing,Environmental,storm surge,coast,the hiss of salt spray hitting a wooden pier
+Pitch/Register,hissing,Environmental,icicles,winter woods,the faint hiss of melting icicles dripping on snow
+Pitch/Register,hissing,Environmental,grass,prairie,the hiss of a summer breeze through a field of dry grass
+Pitch/Register,hissing,Environmental,geyser,field,the gurgling hiss of a mud vent in a geothermal field
+Pitch/Register,hissing,Organic,rattlesnake,desert,the rapid dry hiss of a snake's tail rattle in the scrub
+Pitch/Register,hissing,Organic,human whisper,library,"a long sustained ""shhh"" sound in a quiet library"
+Pitch/Register,hissing,Organic,insect wings,attic,the high-pitched hiss of a thousand flies in a room
+Pitch/Register,hissing,Organic,alligator,swamp,the loud aggressive hiss of an alligator in a swamp
+Pitch/Register,hissing,Organic,cat,living room,the sharp defensive hiss of a cat on a rug
+Pitch/Register,hissing,Organic,breathing,bedroom,the steady high-pitched hiss of a person's nasal breath
+Pitch/Register,hissing,Organic,wasp,window,the frantic buzzing hiss of a wasp against glass
+Pitch/Register,hissing,Organic,locusts,farmland,the collective hiss of a locust swarm in a field
+Pitch/Register,hissing,Organic,goose,farmyard,the loud territorial hiss of a goose near a gate
+Pitch/Register,hissing,Organic,scales,rock,the dry hiss of a large snake moving over stones
+Pitch/Register,hissing,Organic,wasps,hive,the collective high-pitched hiss of a disturbed wasp nest
+Pitch/Register,hissing,Organic,lungs,clinic,the wheezing hiss of a deep exhaled breath
+Pitch/Register,hissing,Organic,beetle,attic,the faint hiss of a beetle scuttling through dry insulation
+Pitch/Register,hissing,Organic,bat,cave,the high-pitched hissing click of a bat in a cavern
+Pitch/Register,hissing,Organic,cicadas,orchard,the rising and falling hiss of cicadas in the trees
+Pitch/Register,hissing,Organic,shrimp,reef,the constant hissing crackle of pistol shrimp in a reef
+Pitch/Register,hissing,Organic,straw,stable,the dry hiss of straw being moved in a horse stable
+Pitch/Register,hissing,Organic,lizard,desert,the hiss of a monitor lizard puffing out its throat
+Pitch/Register,hissing,Domestic,frying bacon,kitchen,the loud steady hiss and pop of bacon in a hot skillet
+Pitch/Register,hissing,Domestic,steam iron,laundry,the hiss of a steam iron being pressed onto a damp towel
+Pitch/Register,hissing,Domestic,cleaning spray,bathroom,the hiss of a cleaning liquid from a spray bottle
+Pitch/Register,hissing,Domestic,kettle,kitchen,the steady hiss of steam from a boiling tea kettle
+Pitch/Register,hissing,Domestic,aerosol,bedroom,the hiss of hairspray from an aerosol can in a room
+Pitch/Register,hissing,Domestic,faucet,bathroom,the hiss of high-pressure water through a narrow tap
+Pitch/Register,hissing,Domestic,fireplace,cabin,the hiss of sap boiling out of a burning log
+Pitch/Register,hissing,Domestic,sparkling water,glass,the fizzing hiss of carbonation in a glass of water
+Pitch/Register,hissing,Domestic,vacuum,hallway,the air intake hiss of a vacuum cleaner nozzle
+Pitch/Register,hissing,Domestic,shower,bathroom,the hiss of fine water spray from a shower head
+Pitch/Register,hissing,Domestic,humidifier,nursery,the steady hiss of mist from a bedroom humidifier
+Pitch/Register,hissing,Domestic,pantry,kitchen,the hiss of a flour bag being squeezed of air
+Pitch/Register,hissing,Domestic,curtains,living room,the soft hiss of silk curtains sliding on a metal rod
+Pitch/Register,hissing,Domestic,rug,yard,the hiss of a stiff brush being used on a carpet
+Pitch/Register,hissing,Domestic,ironing board,laundry,the hiss of a damp garment being laid on a hot board
+Pitch/Register,hissing,Domestic,radiator,hallway,the steady hiss of air from a heating system valve
+Pitch/Register,hissing,Domestic,can,pantry,the hiss of air entering a vacuum-sealed jar being opened
+Pitch/Register,hissing,Electronic,high-gain amp,studio,the steady high-frequency hiss of a cranked guitar amplifier
+Pitch/Register,hissing,Electronic,static,radio,the constant white noise hiss from a radio between stations
+Pitch/Register,hissing,Electronic,vacuum tube,radio lab,the warm steady hiss of a vintage vacuum tube circuit
+Pitch/Register,hissing,Electronic,electrical arc,physics lab,the crackling hiss of a high-voltage arc between electrodes
+Pitch/Register,hissing,Electronic,television,living room,the static hiss from a vintage TV on an empty channel
+Pitch/Register,hissing,Electronic,led driver,workshop,the high-pitched flickering hiss of a faulty power supply
+Pitch/Register,hissing,Electronic,plasma globe,museum,the constant high-frequency hiss of a plasma globe
+Pitch/Register,hissing,Electronic,capacitor,bench,the prolonged hiss of a high-capacity capacitor discharging
+Pitch/Register,hissing,Electronic,monitor,office,the high-pitched hiss of a CRT monitor power supply
+Pitch/Register,hissing,Electronic,intercom,hallway,the static hiss of an active but silent intercom system
+Pitch/Register,hissing,Electronic,walkie-talkie,site,the burst of static hiss after a transmission ends
+Pitch/Register,hissing,Electronic,microchip,lab,the ultrasonic hiss of a microchip under heavy load
+Pitch/Register,hissing,Electronic,fan,laptop,the steady air hiss from a high-speed computer fan
+Pitch/Register,hissing,Electronic,welder,shipyard,the intense crackling hiss of an arc welder on steel
+Pitch/Register,hissing,Electronic,transformer,pole,the high-pitched buzzing hiss of a leaking transformer
+Pitch/Register,hissing,Electronic,synthesizer,studio,a synthesizer playing a long noise-based filter sweep
+Pitch/Register,hissing,Electronic,power line,field,the constant hiss of high-voltage lines in the rain
+Pitch/Register,hissing,Electronic,buzzer,factory,the steady high-pitched hiss of an old industrial buzzer
+Pitch/Register,thunderous,Musical,pipe organ,cathedral,the lowest pedal notes of a pipe organ vibrating in a cathedral
+Pitch/Register,thunderous,Musical,taiko drum,shinto shrine,a massive taiko drum being struck with heavy bachi
+Pitch/Register,thunderous,Musical,gong,monastery,a large bronze gong being struck with a heavy padded mallet
+Pitch/Register,thunderous,Musical,bass drum,orchestra hall,a large concert bass drum being struck with a felt beater
+Pitch/Register,thunderous,Musical,timpani,stage,a timpani drum roll reaching a powerful climax on stage
+Pitch/Register,thunderous,Musical,grand piano,ballroom,the lowest keys of a grand piano being struck fortissimo
+Pitch/Register,thunderous,Musical,didgeridoo,cave,the deep vibrating resonance of a didgeridoo in a cavern
+Pitch/Register,thunderous,Musical,double bass,jazz cellar,a double bass string being bowed with extreme pressure
+Pitch/Register,thunderous,Musical,tuba,empty theater,a tuba sustaining a loud low-register note in a theater
+Pitch/Register,thunderous,Musical,baritone saxophone,dockside,a baritone saxophone wailing on a foggy dockside
+Pitch/Register,thunderous,Musical,kettledrum,parade ground,a large kettledrum being struck for a single accented note
+Pitch/Register,thunderous,Musical,handbells,chapel,a massive handbell being swung vigorously in a stone chapel
+Pitch/Register,thunderous,Musical,cello,underground cellar,a cello playing a heavy resonant melody on its lowest string
+Pitch/Register,thunderous,Musical,harp,music room,a rapid lush glissando across all harp strings in a hall
+Pitch/Register,thunderous,Musical,choir,abbey,a hundred-voice choir singing a sustained low chord in an abbey
+Pitch/Register,thunderous,Musical,synthesizer,studio,a multi-oscillator analog synthesizer playing a loud bass note
+Pitch/Register,thunderous,Musical,conch shell,coastal cliff,a conch shell being blown with maximum effort on a cliff
+Pitch/Register,thunderous,Musical,bassoon,rehearsal hall,a bassoon playing a loud staccato note in its lowest register
+Pitch/Register,thunderous,Mechanical,jet engine,runway,the roaring air of a jet engine at full throttle on a runway
+Pitch/Register,thunderous,Mechanical,locomotive,railway station,a massive diesel locomotive idling with a deep thrum
+Pitch/Register,thunderous,Mechanical,bulldozer,construction site,the deep growling of a large bulldozer pushing earth
+Pitch/Register,thunderous,Mechanical,steam hammer,industrial forge,a heavy steam hammer striking a hot metal ingot
+Pitch/Register,thunderous,Mechanical,crane,shipyard,the mechanical groaning of a massive crane lifting a container
+Pitch/Register,thunderous,Mechanical,industrial fan,warehouse,the deep whir of a giant industrial fan on a floor
+Pitch/Register,thunderous,Mechanical,printing press,factory,the rhythmic heavy thud of an industrial printing press
+Pitch/Register,thunderous,Mechanical,cement mixer,street,the heavy tumbling of wet concrete in a cement mixer
+Pitch/Register,thunderous,Mechanical,oil pump,desert,the rhythmic low creak of an oil pump in a desert field
+Pitch/Register,thunderous,Mechanical,elevator motor,high-rise,the hum of a heavy elevator motor in a building
+Pitch/Register,thunderous,Mechanical,turbine,power plant,the high-pitched whine of a steam turbine in a plant
+Pitch/Register,thunderous,Mechanical,generator,remote camp,the steady loud roar of a large diesel generator
+Pitch/Register,thunderous,Mechanical,air compressor,garage,the heavy rhythmic throb of an industrial air compressor
+Pitch/Register,thunderous,Mechanical,hydraulic lift,car shop,the low groan of a hydraulic lift raising a heavy truck
+Pitch/Register,thunderous,Mechanical,wrecking ball,demolition site,the impact of a wrecking ball hitting a brick wall
+Pitch/Register,thunderous,Mechanical,piledriver,harbor,the massive impact of a piledriver in a harbor
+Pitch/Register,thunderous,Mechanical,grain elevator,farmland,the deep drone of a grain elevator in operation
+Pitch/Register,thunderous,Mechanical,boiler,basement,the powerful roar of an industrial gas boiler in a basement
+Pitch/Register,thunderous,Environmental,thunder,canyon,a massive roll of thunder traveling through a mountain canyon
+Pitch/Register,thunderous,Environmental,waterfall,tropical jungle,the powerful roar of a massive waterfall hitting a basin
+Pitch/Register,thunderous,Environmental,ocean wave,sea wall,a massive ocean wave slamming against a concrete sea wall
+Pitch/Register,thunderous,Environmental,landslide,ravine,the deep roar of a landslide descending into a ravine
+Pitch/Register,thunderous,Environmental,volcano,active crater,the deep guttural grumble of an active volcano crater
+Pitch/Register,thunderous,Environmental,hurricane wind,coastline,the overwhelming roar of hurricane-force winds on a coast
+Pitch/Register,thunderous,Environmental,avalanche,mountain peak,the muffled roar of a massive snow avalanche on a peak
+Pitch/Register,thunderous,Environmental,geyser eruption,volcanic field,the explosive burst of a geyser eruption
+Pitch/Register,thunderous,Environmental,forest fire,wilderness,the expansive roaring and crackling of a large forest fire
+Pitch/Register,thunderous,Environmental,earthquake,tectonic fault,the deep subterranean vibration of the earth in a tremor
+Pitch/Register,thunderous,Environmental,storm surge,coast,the heavy thrum of a storm surge hitting a coastline
+Pitch/Register,thunderous,Environmental,river rapids,gorge,the continuous powerful rushing of class-five river rapids
+Pitch/Register,thunderous,Environmental,glacier calving,arctic bay,the deep boom of a glacier calving into the ocean
+Pitch/Register,thunderous,Environmental,mudslide,valley,the heavy wet roar of a mudslide down a mountain valley
+Pitch/Register,thunderous,Environmental,rockfall,canyon,a large boulder impacting a canyon floor after a fall
+Pitch/Register,thunderous,Environmental,geyser steam,field,the loud constant hiss of high-pressure steam from a vent
+Pitch/Register,thunderous,Environmental,sandstorm,desert,the deep roar of a sandstorm moving across a desert expanse
+Pitch/Register,thunderous,Environmental,storm wind,pine forest,the deep roar of wind through a dense forest canopy
+Pitch/Register,thunderous,Organic,elephant trumpet,savanna,the loud resonant trumpet of an elephant on the savanna
+Pitch/Register,thunderous,Organic,lion roar,safari park,the powerful chest-heavy roar of a lion in a park
+Pitch/Register,thunderous,Organic,blue whale,ocean,the powerful low-pitched song of a blue whale in the ocean
+Pitch/Register,thunderous,Organic,grizzly growl,mountain cave,the deep guttural growl of a grizzly bear in a cave
+Pitch/Register,thunderous,Organic,gorilla thump,rainforest,a gorilla thumping its chest in a dense jungle
+Pitch/Register,thunderous,Organic,bison grumble,prairie,the deep low-register grumble of a bison herd on the prairie
+Pitch/Register,thunderous,Organic,moose grunt,northern marsh,the deep resonant grunt of a moose in a marsh
+Pitch/Register,thunderous,Organic,hippo honk,river bank,the deep guttural honk of a hippopotamus by a river
+Pitch/Register,thunderous,Organic,rhinoceros huff,scrubland,the heavy huffing of a rhinoceros in the scrubland
+Pitch/Register,thunderous,Organic,wolf howl,winter ridge,the powerful resonant howl of a wolf on a snowy ridge
+Pitch/Register,thunderous,Organic,alligator bellow,cypress swamp,the deep vibration of an alligator bellowing in a swamp
+Pitch/Register,thunderous,Organic,horse gallop,meadow,the powerful rhythmic thud of a horse galloping on soft grass
+Pitch/Register,thunderous,Organic,whale tail slap,ocean surface,a massive whale's tail slapping the ocean surface
+Pitch/Register,thunderous,Organic,human shout,empty stadium,a powerful human shout echoing in an empty stadium
+Pitch/Register,thunderous,Organic,bird colony,cliffside,the collective roar of thousands of gulls on a cliffside
+Pitch/Register,thunderous,Organic,cicada swarm,orchard,the deafening collective hum of cicadas in an orchard
+Pitch/Register,thunderous,Organic,heartbeat,stethoscope,the loud rhythmic thump of a heartbeat through a stethoscope
+Pitch/Register,thunderous,Organic,bear roar,wilderness,the powerful roar of a bear echoing through a forest
+Pitch/Register,thunderous,Domestic,door slam,manor house,a heavy oak door being slammed shut in a manor house
+Pitch/Register,thunderous,Domestic,fireplace roar,cabin,the deep roar and crackle of a large log fireplace in a cabin
+Pitch/Register,thunderous,Domestic,vacuum cleaner,hallway,the loud steady roar of an industrial vacuum cleaner
+Pitch/Register,thunderous,Domestic,washing machine,laundry room,the powerful thrum of a washing machine on the spin cycle
+Pitch/Register,thunderous,Domestic,bathtub drain,bathroom,the powerful roar of water draining from a full bathtub
+Pitch/Register,thunderous,Domestic,wardrobe slide,bedroom,a heavy wooden wardrobe being pushed across a floor
+Pitch/Register,thunderous,Domestic,grandfather clock chime,hallway,the deep resonant chime of a grandfather clock
+Pitch/Register,thunderous,Domestic,sofa thud,living room,the deep thud of someone jumping onto a heavy leather sofa
+Pitch/Register,thunderous,Domestic,garbage truck,alleyway,the powerful mechanical roar of a garbage truck compactor
+Pitch/Register,thunderous,Domestic,boiler,basement,the deep steady roar of a gas boiler in a basement
+Pitch/Register,thunderous,Domestic,trunk drop,attic,a heavy steamer trunk being dropped onto a wooden attic floor
+Pitch/Register,thunderous,Domestic,refrigerator hum,kitchen,the deep steady hum of an old refrigerator in a kitchen
+Pitch/Register,thunderous,Domestic,rug beat,backyard,the deep thud of a heavy rug being beaten with a wooden stick
+Pitch/Register,thunderous,Domestic,pantry door creak,kitchen,the deep creak of a heavy wooden pantry door
+Pitch/Register,thunderous,Domestic,armchair creak,den,the deep creak of a large leather armchair in a den
+Pitch/Register,thunderous,Domestic,book slam,library,a massive leather-bound book being slammed shut in a library
+Pitch/Register,thunderous,Domestic,curtains swish,theater,the deep swish of heavy velvet curtains being drawn
+Pitch/Register,thunderous,Domestic,boiling pot,kitchen,the deep rhythmic bubbling of a large boiling stew pot
+Pitch/Register,thunderous,Electronic,subwoofer pulse,home theater,a powerful low-frequency pulse from a subwoofer
+Pitch/Register,thunderous,Electronic,transformer hum,substation,the deep powerful hum of a massive power transformer
+Pitch/Register,thunderous,Electronic,bass amp,concert stage,the deep resonant hum of a bass amplifier on stage
+Pitch/Register,thunderous,Electronic,industrial motor,plant,the powerful steady hum of a large industrial motor
+Pitch/Register,thunderous,Electronic,server rack whir,data center,the collective deep whir of a full server rack
+Pitch/Register,thunderous,Electronic,mri machine,hospital,the powerful rhythmic thumping of an mri machine
+Pitch/Register,thunderous,Electronic,radar array,coastal cliff,the deep mechanical hum of a rotating radar dish
+Pitch/Register,thunderous,Electronic,power lines,misty field,the deep steady buzzing of high-voltage lines in a field
+Pitch/Register,thunderous,Electronic,arc welder,shipyard,the powerful crackling roar of an industrial arc welder
+Pitch/Register,thunderous,Electronic,synth drone,studio,a deep multi-layered analog synthesizer drone in a studio
+Pitch/Register,thunderous,Electronic,industrial vacuum,warehouse,the powerful roar of an industrial vacuum cleaner motor
+Pitch/Register,thunderous,Electronic,generator,construction site,the deep steady roar of a large portable generator
+Pitch/Register,thunderous,Electronic,electric heater,basement,the deep steady whir of a large electric heater
+Pitch/Register,thunderous,Electronic,pa system,stadium,the deep resonant hum of a large stadium sound system
+Pitch/Register,thunderous,Electronic,solenoid,factory,the powerful mechanical thunk of a large industrial solenoid
+Pitch/Register,thunderous,Electronic,hydrophone wash,ocean floor,the deep low-frequency wash recorded by an hydrophone
+Pitch/Register,thunderous,Electronic,radio tower,ridge,the deep steady hum of a radio transmission tower
+Pitch/Register,thunderous,Electronic,computer bank,server room,the powerful steady whir of multiple computer fans
+Pitch/Register,treble-heavy,Musical,piccolo,alpine ridge,a piccolo playing a sharp high-register trill in an alpine ridge
+Pitch/Register,treble-heavy,Musical,glockenspiel,quiet room,a glockenspiel being struck with a hard metal mallet
+Pitch/Register,treble-heavy,Musical,triangle,chamber,a steel triangle being struck once with a metal beater
+Pitch/Register,treble-heavy,Musical,harpsichord,gallery,a harpsichord playing a rapid high-register arpeggio
+Pitch/Register,treble-heavy,Musical,violin,chapel,a violin playing a high-pitched harmonic in a stone chapel
+Pitch/Register,treble-heavy,Musical,celesta,nursery,a celesta playing a tinkling high-register melody
+Pitch/Register,treble-heavy,Musical,handbells,sanctuary,a small silver handbell ringing in a church sanctuary
+Pitch/Register,treble-heavy,Musical,recorder,classroom,a soprano recorder playing a high note in a classroom
+Pitch/Register,treble-heavy,Musical,silver flute,meadow,a silver flute playing a high-register trill in a meadow
+Pitch/Register,treble-heavy,Musical,mandolin,porch,a mandolin string being plucked with a hard metal pick
+Pitch/Register,treble-heavy,Musical,ukulele,beach,a ukulele being strummed with a thin plastic plectrum
+Pitch/Register,treble-heavy,Musical,banjo,barn,a banjo being played with metal fingerpicks in an open barn
+Pitch/Register,treble-heavy,Musical,xylophone,studio,a xylophone bar being struck with a hard plastic mallet
+Pitch/Register,treble-heavy,Musical,kalimba,garden,a metal-tined kalimba being flicked and released in a garden
+Pitch/Register,treble-heavy,Musical,tambourine,stage,the high-pitched jingles of a tambourine being shaken
+Pitch/Register,treble-heavy,Musical,zither,tea house,a single high-register string of a zither being plucked
+Pitch/Register,treble-heavy,Musical,glass harmonica,observatory,a glass harmonica ringing in a quiet room
+Pitch/Register,treble-heavy,Musical,slide whistle,carnival,a slide whistle blowing a sharp high-pitched note
+Pitch/Register,treble-heavy,Mechanical,dental drill,office,the high-pitched whine of a dental drill in an office
+Pitch/Register,treble-heavy,Mechanical,camera shutter,studio,the sharp high-frequency click of a digital camera shutter
+Pitch/Register,treble-heavy,Mechanical,wristwatch,library,the fine metallic ticking of a wristwatch in a library
+Pitch/Register,treble-heavy,Mechanical,typewriter,attic,the sharp metallic strike of a typewriter key against a platen
+Pitch/Register,treble-heavy,Mechanical,sewing machine,shop,the sharp rapid clicking of a sewing machine needle
+Pitch/Register,treble-heavy,Mechanical,bicycle bell,park,a small bicycle bell ringing twice in a city park
+Pitch/Register,treble-heavy,Mechanical,socket wrench,garage,the sharp metallic click of a small ratchet wrench
+Pitch/Register,treble-heavy,Mechanical,metronome,room,the sharp rhythmic click of a mechanical metronome
+Pitch/Register,treble-heavy,Mechanical,zipper,dressing room,a metal zipper being pulled up quickly on a jacket
+Pitch/Register,treble-heavy,Mechanical,egg timer,kitchen,the rhythmic ticking of a mechanical egg timer
+Pitch/Register,treble-heavy,Mechanical,combination lock,gym,the internal clicking of a combination lock being turned
+Pitch/Register,treble-heavy,Mechanical,pencil sharpener,school,a manual sharpener grinding a pencil in a classroom
+Pitch/Register,treble-heavy,Mechanical,light switch,hallway,the sharp click of a plastic toggle switch in a hallway
+Pitch/Register,treble-heavy,Mechanical,stapler,office,the sharp metallic snap of a stapler joining paper
+Pitch/Register,treble-heavy,Mechanical,clock gears,shop,the tiny metallic click of a watch gear being moved
+Pitch/Register,treble-heavy,Mechanical,fan,laptop,the high-pitched whir of a small cooling fan in a laptop
+Pitch/Register,treble-heavy,Environmental,icicles,winter forest,thin icicles clinking against each other in a winter breeze
+Pitch/Register,treble-heavy,Environmental,water drop,sink,a single water drop hitting a thin metal sink drain
+Pitch/Register,treble-heavy,Environmental,twig snap,forest,a dry thin twig snapping underfoot in a pine forest
+Pitch/Register,treble-heavy,Environmental,pebble,pond,a small pebble hitting the surface of a still pond
+Pitch/Register,treble-heavy,Environmental,hail,glass roof,a single hailstone hitting a greenhouse glass roof
+Pitch/Register,treble-heavy,Environmental,steam,kettle,a thin stream of steam hissing from a tea kettle spout
+Pitch/Register,treble-heavy,Environmental,cracking ice,lake,the sharp high-pitched crack of thin ice on a lake
+Pitch/Register,treble-heavy,Environmental,sand,metal,sand grains hitting a metal plate in a desert windstorm
+Pitch/Register,treble-heavy,Environmental,thawing branch,river,a frozen branch snapping in a winter forest
+Pitch/Register,treble-heavy,Environmental,reeds,marsh,two thin dry reeds tapping together in a light breeze
+Pitch/Register,treble-heavy,Environmental,snow,mountain,the sharp crunch of frozen snow under a light footstep
+Pitch/Register,treble-heavy,Environmental,geyser vent,field,the high-pitched hiss of a tiny steam vent in a field
+Pitch/Register,treble-heavy,Environmental,obsidian,field,thin shards of obsidian clinking together in a lava field
+Pitch/Register,treble-heavy,Environmental,rain,leaf,a single raindrop hitting a broad tropical leaf in a garden
+Pitch/Register,treble-heavy,Environmental,flame,candle,the faint high-pitched crackle of a candle flame
+Pitch/Register,treble-heavy,Organic,bird chirp,woods,the sharp high-pitched chirp of a small songbird in a tree
+Pitch/Register,treble-heavy,Organic,cricket,meadow,the high-pitched rhythmic chirp of a cricket in a field
+Pitch/Register,treble-heavy,Organic,finger snap,room,a sharp finger snap performed in a quiet room
+Pitch/Register,treble-heavy,Organic,tongue click,library,a single click of the tongue against the roof of the mouth
+Pitch/Register,treble-heavy,Organic,beetle,floor,a hard-shelled beetle scuttling across a wooden floor
+Pitch/Register,treble-heavy,Domestic,glass clink,dining room,a crystal glass being struck by a silver spoon
+Pitch/Register,treble-heavy,Domestic,scissors,room,scissors cutting through a sheet of crisp paper
+Pitch/Register,treble-heavy,Domestic,clock,bedroom,the rhythmic tick of a small travel alarm clock
+Pitch/Register,treble-heavy,Domestic,beaded curtain,doorway,glass beads clinking together in a doorway
+Pitch/Register,treble-heavy,Electronic,digital watch,room,a digital watch alarm beeping on the wrist
+Pitch/Register,treble-heavy,Electronic,capacitor,bench,the sharp snap of a small capacitor discharging
+Pitch/Register,treble-heavy,Electronic,piezo,alarm,the sharp chirp of a piezoelectric buzzer nearby
+Pitch/Register,treble-heavy,Electronic,relay,server room,the metallic click of a small electronic relay
+Pitch/Register,treble-heavy,Electronic,audio jack,stage,the pop of a cable being plugged into a guitar amp
+Pitch/Register,treble-heavy,Electronic,earbuds,library,the tinny sound of music leaking from earbuds
+Pitch/Register,treble-heavy,Electronic,radio static,den,a short high-pitched burst of static from a radio
+Pitch/Register,bassy,Musical,kick drum,basement club,a kick drum being struck with a felt beater in a basement club
+Pitch/Register,bassy,Musical,double bass,jazz cellar,a double bass being plucked for a deep walking line in a club
+Pitch/Register,bassy,Musical,timpani,orchestra pit,a timpani drum being struck with soft mallets for a low roll
+Pitch/Register,bassy,Musical,tuba,empty theater,a tuba sustaining a long low note in an empty theater
+Pitch/Register,bassy,Musical,didgeridoo,outback,the deep vibrating low-register drone of a didgeridoo
+Pitch/Register,bassy,Musical,bass drum,parade,a large concert bass drum being struck in a town square
+Pitch/Register,bassy,Musical,cello,cellar,a cello playing a long low note on its lowest string in a cellar
+Pitch/Register,bassy,Musical,djembe,beach party,the deep center-strike of a djembe drum on a beach
+Pitch/Register,bassy,Musical,frame drum,canyon,a large frame drum being struck in a desert canyon
+Pitch/Register,bassy,Musical,bass marimba,hall,a bass marimba bar being struck with soft mallets in a hall
+Pitch/Register,bassy,Musical,pipe organ,cathedral,the lowest pedal notes of an organ vibrating in a cathedral
+Pitch/Register,bassy,Musical,bassoon,rehearsal,a bassoon playing a low staccato note in a rehearsal hall
+Pitch/Register,bassy,Musical,gamelan,temple,the deep resonance of a large gong in a stone temple
+Pitch/Register,bassy,Musical,conch shell,cave,a conch shell being blown into a deep coastal cave
+Pitch/Register,bassy,Musical,handpan,tunnel,the deep resonance of a handpan in a subway tunnel
+Pitch/Register,bassy,Mechanical,ship engine,engine room,the deep low-frequency throb of a massive ship engine
+Pitch/Register,bassy,Mechanical,bulldozer,construction site,the deep low-register rumble of a bulldozer idling
+Pitch/Register,bassy,Mechanical,piledriver,harbor,the massive low-register thud of a piledriver in a harbor
+Pitch/Register,bassy,Mechanical,printing press,basement,the rhythmic heavy thud of a printing press in a cellar
+Pitch/Register,bassy,Mechanical,locomotive,railway,the deep idling thrum of a diesel locomotive at a station
+Pitch/Register,bassy,Mechanical,hydraulic lift,garage,the low-register groan of a lift raising a heavy truck
+Pitch/Register,bassy,Mechanical,cement mixer,street,the heavy low-register tumbling of concrete in a mixer
+Pitch/Register,bassy,Mechanical,wind turbine,field,the low-frequency woosh of a turbine blade in a field
+Pitch/Register,bassy,Mechanical,grain elevator,farm,the deep low-register drone of a grain elevator
+Pitch/Register,bassy,Mechanical,ball mill,mining site,the heavy low-register tumbling of steel balls in a mill
+Pitch/Register,bassy,Mechanical,furnace,basement,the deep low-register roar of a coal furnace in a basement
+Pitch/Register,bassy,Mechanical,elevator motor,high-rise,the deep hum of an elevator motor in a building core
+Pitch/Register,bassy,Mechanical,crane,shipyard,the heavy low-register groan of a crane lifting a load
+Pitch/Register,bassy,Mechanical,oil pump,oil field,the rhythmic low-register creak of an oil pumpjack
+Pitch/Register,bassy,Mechanical,air compressor,garage,the heavy rhythmic throb of a large air compressor
+Pitch/Register,bassy,Mechanical,wrecking ball,demolition,the massive low-register impact of a wrecking ball
+Pitch/Register,bassy,Mechanical,steam hammer,forge,the heavy low-register thud of a steam hammer in a forge
+Pitch/Register,bassy,Environmental,thunder,canyon,the deep resonant rumble of thunder in a mountain canyon
+Pitch/Register,bassy,Environmental,waterfall,jungle,the powerful low-register roar of a massive waterfall
+Pitch/Register,bassy,Environmental,ocean wave,sea wall,a massive ocean wave crashing with a deep thrum
+Pitch/Register,bassy,Environmental,landslide,ravine,the deep low-register roar of a landslide in a valley
+Pitch/Register,bassy,Environmental,earthquake,fault,the deep subterranean vibration of an earthquake
+Pitch/Register,bassy,Environmental,wind,gorge,the low-pitched resonant moan of wind through a deep gorge
+Pitch/Register,bassy,Environmental,volcano,crater,the deep low-register grumble of an active volcano crater
+Pitch/Register,bassy,Environmental,glacier calving,bay,the deep low-register boom of a glacier in an arctic bay
+Pitch/Register,bassy,Environmental,mudpot,field,the heavy low-register gloop of a bubbling mudpot
+Pitch/Register,bassy,Environmental,river,flooded valley,the deep powerful rushing of a flooded river in a gorge
+Pitch/Register,bassy,Environmental,avalanche,slope,the deep muffled roar of a snow avalanche on a peak
+Pitch/Register,bassy,Environmental,cavern wind,cave,the deep resonant moaning of wind through a large cave
+Pitch/Register,bassy,Environmental,sinkhole,field,the deep low-register thud of earth collapsing in a field
+Pitch/Register,bassy,Environmental,storm surge,coast,the heavy low-register thrum of a surge hitting a coast
+Pitch/Register,bassy,Environmental,boulder,slope,a massive boulder tumbling with a deep thud down a hill
+Pitch/Register,bassy,Environmental,geological shift,cave,the deep low-register groan of rocks shifting underground
+Pitch/Register,bassy,Environmental,lava flow,volcano,the deep low-frequency crunch of a slow lava flow
+Pitch/Register,bassy,Environmental,ocean current,ocean,the deep low-frequency wash of a deep ocean current
+Pitch/Register,bassy,Organic,elephant,savanna,the low-frequency resonant rumble of an elephant on a plain
+Pitch/Register,bassy,Organic,blue whale,ocean,the deep low-pitched song of a blue whale in the ocean
+Pitch/Register,bassy,Organic,lion roar,safari park,the deep chest-heavy low-register roar of a lion
+Pitch/Register,bassy,Organic,gorilla,rainforest,a gorilla thumping its chest for a deep resonant tone
+Pitch/Register,bassy,Organic,hippo,river bank,the deep guttural low-register honk of a hippopotamus
+Pitch/Register,bassy,Organic,alligator,swamp,the deep low-frequency vibration of an alligator bellowing
+Pitch/Register,bassy,Organic,tree trunk,forest,a massive tree trunk impacting the ground with a deep thud
+Pitch/Register,bassy,Organic,bear growl,cave,the deep guttural low-register growl of a grizzly bear
+Pitch/Register,bassy,Organic,human choir,cathedral,a large choir singing a powerful low chord in an abbey
+Pitch/Register,bassy,Organic,moose,marsh,the deep resonant low-register grunt of a moose in a marsh
+Pitch/Register,bassy,Organic,walrus,ice floe,the deep low-register bell-like groan of a walrus
+Pitch/Register,bassy,Organic,ostrich,dry plains,the deep low-register booming call of an ostrich
+Pitch/Register,bassy,Organic,rhinoceros,scrubland,the heavy low-register huffing of a rhinoceros
+Pitch/Register,bassy,Organic,wolf howl,ridge,the powerful resonant low-register howl of a wolf on a ridge
+Pitch/Register,bassy,Organic,heartbeat,room,the loud rhythmic low-register thumping of a heartbeat
+Pitch/Register,bassy,Organic,breathing,closet,the heavy rhythmic low-register sound of labored breathing
+Pitch/Register,bassy,Organic,footsteps,hall,the deep low-register thud of heavy footsteps on a floor
+Pitch/Register,bassy,Domestic,oak door,manor house,a heavy oak door slamming shut with a deep thud
+Pitch/Register,bassy,Domestic,fireplace,cabin,the deep low-register roar and crackle of a large log fire
+Pitch/Register,bassy,Domestic,washing machine,laundry,the powerful low-register thrum of a machine on spin cycle
+Pitch/Register,bassy,Domestic,bathtub,bathroom,the powerful low-register roar of water draining from a tub
+Pitch/Register,bassy,Domestic,wardrobe,bedroom,a heavy wooden wardrobe being pushed with a deep groan
+Pitch/Register,bassy,Domestic,grandfather clock,hallway,the deep resonant low-register chime of a clock
+Pitch/Register,bassy,Domestic,sofa thud,living room,the deep thud of someone sitting onto a heavy leather sofa
+Pitch/Register,bassy,Domestic,garbage truck,alley,the powerful low-register roar of a truck compressor
+Pitch/Register,bassy,Domestic,boiler,basement,the deep steady low-register roar of a gas boiler
+Pitch/Register,bassy,Domestic,trunk drop,attic,a heavy steamer trunk being dropped with a deep thud
+Pitch/Register,bassy,Domestic,refrigerator,kitchen,the deep steady low-register hum of an old refrigerator
+Pitch/Register,bassy,Domestic,rug beat,yard,the deep low-register thud of a heavy rug being beaten
+Pitch/Register,bassy,Domestic,pantry door,kitchen,the deep low-register creak of a heavy wooden door
+Pitch/Register,bassy,Domestic,armchair,den,the deep low-register creak of a large leather armchair
+Pitch/Register,bassy,Domestic,book slam,library,a massive leather-bound book being closed with a deep thud
+Pitch/Register,bassy,Domestic,curtains,theater,the deep low-register swish of heavy velvet curtains
+Pitch/Register,bassy,Domestic,stew pot,kitchen,the deep rhythmic low-register bubbling of a large pot
+Pitch/Register,bassy,Domestic,piano bench,room,a heavy piano bench being dragged with a deep groan
+Pitch/Register,bassy,Electronic,subwoofer,home theater,a powerful low-frequency pulse from an active subwoofer
+Pitch/Register,bassy,Electronic,transformer,substation,the deep powerful low-register hum of a transformer
+Pitch/Register,bassy,Electronic,bass amp,stage,the deep resonant low-register hum of a bass amplifier
+Pitch/Register,bassy,Electronic,industrial motor,plant,the powerful steady low-register hum of a motor
+Pitch/Register,bassy,Electronic,server rack,data center,the collective deep low-register whir of server fans
+Pitch/Register,bassy,Electronic,mri machine,hospital,the powerful rhythmic low-register thumping of an mri
+Pitch/Register,bassy,Electronic,radar array,cliff,the deep low-register mechanical hum of a radar dish
+Pitch/Register,bassy,Electronic,power lines,field,the deep steady low-register buzzing of high-voltage lines
+Pitch/Register,bassy,Electronic,arc welder,shipyard,the powerful low-register crackling roar of an arc welder
+Pitch/Register,bassy,Electronic,synth drone,studio,a deep multi-layered analog synthesizer low-frequency drone
+Pitch/Register,bassy,Electronic,vacuum,warehouse,the powerful low-register roar of an industrial vacuum
+Pitch/Register,bassy,Electronic,generator,site,the deep steady low-register roar of a large portable generator
+Pitch/Register,bassy,Electronic,electric heater,basement,the deep steady low-register whir of an electric heater
+Pitch/Register,bassy,Electronic,pa system,stadium,the deep resonant low-register hum of a large pa system
+Pitch/Register,bassy,Electronic,solenoid,factory,the powerful mechanical low-register thunk of a solenoid
+Pitch/Register,bassy,Electronic,hydrophone,ocean,the deep low-frequency wash recorded by an underwater hydrophone
+Pitch/Register,bassy,Electronic,radio tower,ridge,the deep steady low-register hum of a transmission tower
+Pitch/Register,bassy,Electronic,computer tower,room,the powerful steady low-register whir of multiple fans
+Pitch/Register,rumbling,Musical,timpani,concert hall,a timpani drum roll performed with soft mallets in a hall
+Pitch/Register,rumbling,Musical,pipe organ,cathedral,the sustained vibration of a low-register organ pedal note
+Pitch/Register,rumbling,Musical,didgeridoo,outback,the steady low-frequency vibrating drone of a didgeridoo
+Pitch/Register,rumbling,Musical,double bass,jazz cellar,a double bass string being bowed for a low sustained drone
+Pitch/Register,rumbling,Musical,taiko drum,shrine,the rhythmic low-register throb of a large taiko drum
+Pitch/Register,rumbling,Musical,tuba,empty theater,a tuba playing a long sustained low-register note in a theater
+Pitch/Register,rumbling,Musical,cello,underground,a cello playing a long low note with deep vibrato in a vault
+Pitch/Register,rumbling,Musical,bass drum,parade,the rhythmic low-register thumping of a large marching drum
+Pitch/Register,rumbling,Musical,kettledrum,orchestra,a kettledrum roll reaching a sustained low-register crescendo
+Pitch/Register,rumbling,Musical,bassoon,hallway,the low-register rattling of a bassoon in a stone corridor
+Pitch/Register,rumbling,Musical,baritone saxophone,dock,the low-register wailing of a baritone saxophone on a pier
+Pitch/Register,rumbling,Musical,frame drum,canyon,a large frame drum being struck for a sustained low resonance
+Pitch/Register,rumbling,Musical,harmonium,chapel,the low-register breathing of a harmonium with full bellows
+Pitch/Register,rumbling,Musical,gong,monastery,the sustained low-register shimmer of a large bronze gong
+Pitch/Register,rumbling,Musical,steel drum,beach,the sustained low-register resonance of a large steel pan drum
+Pitch/Register,rumbling,Musical,pan drum,garden,the low-register resonance of a steel pan drum in a garden
+Pitch/Register,rumbling,Musical,synthesizer,studio,a low-frequency oscillator producing a sustained analog drone
+Pitch/Register,rumbling,Musical,mellotron,attic,a mellotron playing a low-register string tape loop in a room
+Pitch/Register,rumbling,Mechanical,locomotive,railway,the sustained low-frequency idling of a diesel locomotive
+Pitch/Register,rumbling,Mechanical,ship engine,engine room,the continuous low-frequency throb of a ship's engine
+Pitch/Register,rumbling,Mechanical,bulldozer,site,the steady low-register growling of a bulldozer on a field
+Pitch/Register,rumbling,Mechanical,industrial fan,warehouse,the continuous low-register whir of a giant fan
+Pitch/Register,rumbling,Mechanical,printing press,factory,the rhythmic sustained thudding of a printing press
+Pitch/Register,rumbling,Mechanical,conveyor belt,distribution,the steady low-register rumble of a conveyor system
+Pitch/Register,rumbling,Mechanical,generator,camp,the constant low-register roar of a large diesel generator
+Pitch/Register,rumbling,Mechanical,boiler,basement,the steady low-register roar of a gas boiler in a cellar
+Pitch/Register,rumbling,Mechanical,air compressor,garage,the rhythmic low-register throb of a compressor
+Pitch/Register,rumbling,Mechanical,hydraulic lift,garage,the sustained low-register groan of a lift in operation
+Pitch/Register,rumbling,Mechanical,elevator motor,high-rise,the constant low-register hum of an elevator winch
+Pitch/Register,rumbling,Mechanical,spinning wheel,attic,the steady low-register whir of a wooden spinning wheel
+Pitch/Register,rumbling,Mechanical,grain elevator,farm,the constant low-register drone of a grain elevator
+Pitch/Register,rumbling,Mechanical,cement mixer,street,the heavy low-register tumbling of a concrete mixer
+Pitch/Register,rumbling,Mechanical,mill,riverside,the steady low-register clanking of a water-powered mill
+Pitch/Register,rumbling,Mechanical,wind turbine,field,the low-frequency sustained woosh of a turbine blade
+Pitch/Register,rumbling,Mechanical,lathe,woodshop,the steady low-register grind of a lathe turning wood
+Pitch/Register,rumbling,Environmental,thunder,valley,the sustained rolling rumble of distant thunder in a valley
+Pitch/Register,rumbling,Environmental,ocean surf,beach,the continuous low-frequency wash of waves on a shore
+Pitch/Register,rumbling,Environmental,waterfall,jungle,the sustained low-register roar of a massive waterfall
+Pitch/Register,rumbling,Environmental,earthquake,fault,the sustained low-frequency vibration of an earthquake
+Pitch/Register,rumbling,Environmental,landslide,mountain,the sustained low-register roar of falling rock on a slope
+Pitch/Register,rumbling,Environmental,volcano,crater,the constant low-register grumble of an active volcano
+Pitch/Register,rumbling,Environmental,wind,gorge,the sustained low-pitched resonant moan of wind in a gorge
+Pitch/Register,rumbling,Environmental,glacier,arctic,the continuous low-register groaning of shifting glacial ice
+Pitch/Register,rumbling,Environmental,mudpot,field,the rhythmic low-register bubbling of a geothermal mudpot
+Pitch/Register,rumbling,Environmental,river,flooded valley,the continuous powerful rushing of a flooded river
+Pitch/Register,rumbling,Environmental,avalanche,slope,the sustained low-register roar of a snow avalanche
+Pitch/Register,rumbling,Environmental,cavern wind,cave,the sustained resonant moaning of wind through a cavern
+Pitch/Register,rumbling,Environmental,sinkhole,field,the sustained low-register thud of earth collapsing
+Pitch/Register,rumbling,Environmental,storm surge,coast,the continuous low-register thrum of waves hitting a pier
+Pitch/Register,rumbling,Environmental,geological shift,cave,the sustained low-register groan of rocks shifting
+Pitch/Register,rumbling,Environmental,lava flow,volcano,the continuous low-frequency crunch of a slow lava flow
+Pitch/Register,rumbling,Environmental,ocean current,ocean,the continuous low-frequency wash of a deep current
+Pitch/Register,rumbling,Environmental,hurricane,coast,the sustained low-register roar of hurricane winds
+Pitch/Register,rumbling,Organic,elephant,savanna,the sustained low-frequency resonant rumble of an elephant
+Pitch/Register,rumbling,Organic,blue whale,ocean,the sustained low-pitched song of a blue whale in the ocean
+Pitch/Register,rumbling,Organic,lion,safari,the sustained chest-heavy low-register purr of a large lion
+Pitch/Register,rumbling,Organic,gorilla,jungle,the rhythmic low-register thumping of a gorilla on its chest
+Pitch/Register,rumbling,Organic,bison,prairie,the sustained low-register grumble of a bison herd
+Pitch/Register,rumbling,Organic,alligator,swamp,the sustained low-frequency vibration of a bellowing alligator
+Pitch/Register,rumbling,Organic,horse stampede,plain,the sustained rhythmic thundering of a horse herd
+Pitch/Register,rumbling,Organic,hippo,river,the sustained guttural low-register honk of a hippopotamus
+Pitch/Register,rumbling,Organic,bear growl,cave,the sustained guttural low-register growl of a bear
+Pitch/Register,rumbling,Organic,moose,marsh,the sustained resonant low-register grunt of a moose
+Pitch/Register,rumbling,Organic,walrus,ice floe,the sustained low-register bell-like groan of a walrus
+Pitch/Register,rumbling,Organic,ostrich,dry plains,the sustained low-register booming call of an ostrich
+Pitch/Register,rumbling,Organic,rhinoceros,scrubland,the sustained heavy low-register huffing of a rhinoceros
+Pitch/Register,rumbling,Organic,wolf howl,ridge,the sustained resonant low-register howl of a wolf pack
+Pitch/Register,rumbling,Organic,heartbeat,room,the sustained rhythmic low-register thumping of a heartbeat
+Pitch/Register,rumbling,Organic,breathing,bedroom,the sustained rhythmic low-register breathing of a sleeper
+Pitch/Register,rumbling,Organic,tree canopy,forest,the sustained low-register roar of wind through a forest
+Pitch/Register,rumbling,Organic,locusts,farmland,the sustained low-frequency hum of a locust swarm
+Pitch/Register,rumbling,Domestic,washing machine,laundry,the sustained low-register thrum of a machine on spin cycle
+Pitch/Register,rumbling,Domestic,fireplace,cabin,the sustained low-register roar and crackle of a log fire
+Pitch/Register,rumbling,Domestic,refrigerator,kitchen,the sustained steady low-register hum of an old fridge
+Pitch/Register,rumbling,Domestic,vacuum,hallway,the sustained low-register roar of an industrial vacuum
+Pitch/Register,rumbling,Domestic,boiler,basement,the sustained steady low-register roar of a gas boiler
+Pitch/Register,rumbling,Domestic,dishwasher,kitchen,the sustained low-register thrum and wash of a dishwasher
+Pitch/Register,rumbling,Domestic,garbage truck,alley,the sustained mechanical roar of a truck compressor
+Pitch/Register,rumbling,Domestic,wardrobe,bedroom,the sustained low-register groan of a wardrobe being moved
+Pitch/Register,rumbling,Domestic,staircase,manor,the sustained rhythmic low-register thud of someone running
+Pitch/Register,rumbling,Domestic,bathtub,bathroom,the sustained low-register roar of water draining from a tub
+Pitch/Register,rumbling,Domestic,sofa,living room,the sustained low-register thud of someone sitting down
+Pitch/Register,rumbling,Domestic,grandfather clock,hall,the sustained resonant low-register chime of a clock
+Pitch/Register,rumbling,Domestic,rug beat,yard,the sustained rhythmic low-register thud of a rug being hit
+Pitch/Register,rumbling,Domestic,pantry door,kitchen,the sustained low-register creak of a heavy wooden door
+Pitch/Register,rumbling,Domestic,armchair,den,the sustained low-register creak of a large leather armchair
+Pitch/Register,rumbling,Domestic,book,library,the sustained low-register thud of a book being slid on a shelf
+Pitch/Register,rumbling,Domestic,curtains,theater,the sustained low-register swish of heavy velvet curtains
+Pitch/Register,rumbling,Domestic,stew pot,kitchen,the sustained rhythmic low-register bubbling of a large pot
+Pitch/Register,rumbling,Electronic,transformer,substation,the sustained powerful low-register hum of a transformer
+Pitch/Register,rumbling,Electronic,subwoofer,home theater,a sustained low-frequency tone from a large subwoofer
+Pitch/Register,rumbling,Electronic,bass amp,stage,the sustained resonant low-register hum of a bass amplifier
+Pitch/Register,rumbling,Electronic,industrial motor,plant,the sustained steady low-register hum of a large motor
+Pitch/Register,rumbling,Electronic,server rack,data center,the sustained collective low-register whir of fans
+Pitch/Register,rumbling,Electronic,mri machine,hospital,the sustained rhythmic low-register thumping of an mri
+Pitch/Register,rumbling,Electronic,radar array,cliff,the sustained low-register mechanical hum of a radar dish
+Pitch/Register,rumbling,Electronic,power lines,field,the sustained steady low-register buzzing of high-voltage lines
+Pitch/Register,rumbling,Electronic,arc welder,shipyard,the sustained low-register crackling roar of an arc welder
+Pitch/Register,rumbling,Electronic,synth drone,studio,a sustained multi-layered analog synthesizer low-frequency drone
+Pitch/Register,rumbling,Electronic,generator,site,the sustained steady low-register roar of a large generator
+Pitch/Register,rumbling,Electronic,electric heater,basement,the sustained steady low-register whir of a large heater
+Pitch/Register,rumbling,Electronic,pa system,stadium,the sustained resonant low-register hum of a large pa system
+Pitch/Register,rumbling,Electronic,solenoid,factory,the sustained mechanical low-register thunk of a solenoid
+Pitch/Register,rumbling,Electronic,hydrophone,ocean,the sustained low-frequency wash recorded by a hydrophone
+Pitch/Register,rumbling,Electronic,radio tower,ridge,the sustained steady low-register hum of a transmission tower
+Pitch/Register,rumbling,Electronic,computer tower,room,the sustained steady low-register whir of multiple fans
+Pitch/Register,rumbling,Electronic,microwave,kitchen,the sustained heavy low-register buzz of a microwave oven

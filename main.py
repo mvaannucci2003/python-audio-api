@@ -66,7 +66,7 @@ def run():
         print(f"  Saved to {filepath}")
         # break
         # placeholder that stops at one category csv for testing
-    print("\n= Generation Complete =")
+    print("\n========== Generation Complete ==========")
 
 
 if __name__ == "__main__":

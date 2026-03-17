@@ -1,0 +1,551 @@
+category,tag,domain,source,environment,scenario
+Clarity/Definition,clear,Musical,triangle,orchestra hall,a steel triangle being struck once with a chrome beater
+Clarity/Definition,clear,Musical,glockenspiel,quiet room,a glockenspiel bar hit with a hard acrylic mallet
+Clarity/Definition,clear,Musical,piccolo,mountain peak,a piccolo playing a short staccato note in the morning air
+Clarity/Definition,clear,Musical,harp,conservatory,a single high harp string being plucked and released
+Clarity/Definition,clear,Musical,mandolin,courtyard,a mandolin string plucked with a stiff plectrum
+Clarity/Definition,clear,Musical,woodblock,rehearsal space,a hardwood block hit with a drumstick
+Clarity/Definition,clear,Musical,recorder,wooded glen,a wooden soprano recorder playing a sharp high note
+Clarity/Definition,clear,Musical,piano,ballroom,a grand piano key being pressed in the highest octave
+Clarity/Definition,clear,Musical,handbell,chapel,a polished brass handbell being rung once
+Clarity/Definition,clear,Musical,tambourine,meadow,a tambourine shaken once to sound the metal jingles
+Clarity/Definition,clear,Musical,sitar,shrine,a sitar sympathetic string vibrating after a precise pluck
+Clarity/Definition,clear,Musical,celesta,attic,a celesta key being struck for a bell-like note
+Clarity/Definition,clear,Musical,violin,stairwell,a violin string being plucked in a high pizzicato
+Clarity/Definition,clear,Musical,marimba,hall,a marimba bar hit with a hard yarn mallet
+Clarity/Definition,clear,Musical,banjo,porch,a banjo string snapping against a metal fret
+Clarity/Definition,clear,Musical,cowbell,pasture,a metal cowbell struck with a wooden stick
+Clarity/Definition,clear,Musical,ukulele,beach,a ukulele string plucked near the bridge
+Clarity/Definition,clear,Musical,clappers,temple,a pair of bamboo clappers struck together once
+Clarity/Definition,clear,Mechanical,watch,quiet office,the ticking of a mechanical pocket watch on a glass desk
+Clarity/Definition,clear,Mechanical,camera,art gallery,the shutter of a vintage camera clicking at high speed
+Clarity/Definition,clear,Mechanical,typewriter,study,a manual typewriter key striking the platen through paper
+Clarity/Definition,clear,Mechanical,latch,doorway,a metal door latch clicking into its strike plate
+Clarity/Definition,clear,Mechanical,metronome,music room,a mechanical metronome ticking with a sharp plastic sound
+Clarity/Definition,clear,Mechanical,gears,watchmaker shop,small stainless steel gears meshing together
+Clarity/Definition,clear,Mechanical,escapement,clock tower,the precise click of a watch escapement mechanism
+Clarity/Definition,clear,Mechanical,solenoid,factory,a small electronic solenoid pin firing against a metal plate
+Clarity/Definition,clear,Mechanical,stapler,warehouse,a desk stapler punching through a single sheet of paper
+Clarity/Definition,clear,Mechanical,lock,vault,a tumbler lock being turned with a distinct click
+Clarity/Definition,clear,Mechanical,timer,kitchen,a mechanical egg timer ticking down in a quiet room
+Clarity/Definition,clear,Mechanical,switch,cockpit,a metal toggle switch being flipped on a control panel
+Clarity/Definition,clear,Mechanical,tally counter,subway,a handheld tally counter clicking as the lever is pressed
+Clarity/Definition,clear,Mechanical,relay,server room,a miniature reed relay engaging on a circuit board
+Clarity/Definition,clear,Mechanical,sewing machine,tailor shop,a sewing machine needle piercing a piece of crisp silk
+Clarity/Definition,clear,Mechanical,pulleys,theater,a metal pulley wheel clicking once as it stops
+Clarity/Definition,clear,Mechanical,bicycle,path,a bicycle bell ringing twice in quick succession
+Clarity/Definition,clear,Mechanical,can,pantry,a soda can ring-pull being snapped back
+Clarity/Definition,clear,Environmental,ice,arctic tundra,a thin sheet of ice cracking under a light footfall
+Clarity/Definition,clear,Environmental,drop,limestone cave,a single drop of water hitting a still stone pool
+Clarity/Definition,clear,Environmental,twig,winter woods,a frozen pine twig snapping cleanly in half
+Clarity/Definition,clear,Environmental,hail,carport,a single hailstone hitting a glass pane
+Clarity/Definition,clear,Environmental,lightning,plains,the sharp crack of a nearby lightning strike
+Clarity/Definition,clear,Environmental,pebbles,shoreline,small quartz pebbles colliding in a receding wave
+Clarity/Definition,clear,Environmental,wind,canyon,a gust of wind whistling through a narrow rock crevice
+Clarity/Definition,clear,Environmental,thaw,glacier,an icicle breaking off and hitting a frozen lake
+Clarity/Definition,clear,Environmental,sand,desert,sand grains hitting a metal sign during a gust
+Clarity/Definition,clear,Environmental,grass,field,a dry stalk of wheat snapping in the wind
+Clarity/Definition,clear,Environmental,rain,tin roof,a single heavy raindrop hitting a metal sheet
+Clarity/Definition,clear,Environmental,fire,campsite,a dry pine needle popping in a small fire
+Clarity/Definition,clear,Environmental,geyser,volcanic field,a small geothermal vent hissing steam through a hole
+Clarity/Definition,clear,Environmental,stalactite,cavern,a mineral drop falling from a stalactite into a pool
+Clarity/Definition,clear,Environmental,reeds,marsh,a dry bamboo stalk cracking in a sudden breeze
+Clarity/Definition,clear,Environmental,rock,quarry,a piece of flint being struck by another stone
+Clarity/Definition,clear,Environmental,snow,slope,a thin crust of frozen snow breaking under a step
+Clarity/Definition,clear,Environmental,volcano,island,a volcanic glass fragment breaking on a rock
+Clarity/Definition,clear,Organic,insect,meadow,a cricket chirping rhythmically in the tall grass
+Clarity/Definition,clear,Organic,bird,canopy,a tropical bird emitting a short sharp whistle
+Clarity/Definition,clear,Organic,teeth,kitchen,a person biting into a very crisp apple
+Clarity/Definition,clear,Organic,finger,library,a person snapping their fingers once
+Clarity/Definition,clear,Organic,claws,tile floor,a dog's claws clicking on a ceramic surface
+Clarity/Definition,clear,Organic,bone,savanna,a small dry bone snapping on a flat rock
+Clarity/Definition,clear,Organic,shrimp,coral reef,a snapping shrimp closing its claw with a pop
+Clarity/Definition,clear,Organic,bat,cavern,a bat emitting a sharp echolocation click
+Clarity/Definition,clear,Organic,tongue,classroom,a person making a sharp cluck with their tongue
+Clarity/Definition,clear,Organic,beak,woodland,a woodpecker hitting a tree trunk once with force
+Clarity/Definition,clear,Organic,shell,beach,a crab's pincers clicking against a sea shell
+Clarity/Definition,clear,Organic,voice,hallway,a person making a sharp sibilant consonant sound
+Clarity/Definition,clear,Organic,knuckle,study,a person cracking their knuckle on a wooden desk
+Clarity/Definition,clear,Organic,wings,garden,a hummingbird's wings humming as it hovers
+Clarity/Definition,clear,Organic,scales,desert,a lizard scuttling over a dry mica flake
+Clarity/Definition,clear,Organic,chick,coop,a baby chick chirping for food
+Clarity/Definition,clear,Organic,frog,pond,a spring peeper frog making a sharp chirp
+Clarity/Definition,clear,Organic,seed pod,prairie,a dry seed pod rattling as it is shaken
+Clarity/Definition,clear,Domestic,cutlery,dining room,a silver spoon clinking against a china teacup
+Clarity/Definition,clear,Domestic,glassware,kitchen,a wine glass being tapped with a fingernail
+Clarity/Definition,clear,Domestic,keys,doorway,a brass key hitting a metal lock plate
+Clarity/Definition,clear,Domestic,beads,bedroom,a glass bead hitting a wooden jewelry box
+Clarity/Definition,clear,Domestic,ceramic,pantry,a porcelain plate being stacked on top of another
+Clarity/Definition,clear,Domestic,coins,laundry room,a nickel dropping onto a ceramic tile floor
+Clarity/Definition,clear,Domestic,foil,kitchen,a sheet of aluminum foil being snapped taut
+Clarity/Definition,clear,Domestic,whisk,bakery,a wire whisk striking a stainless steel bowl
+Clarity/Definition,clear,Domestic,lightbulb,garage,a lightbulb filament rattling inside the glass
+Clarity/Definition,clear,Domestic,zipper,closet,a metal zipper being pulled up quickly
+Clarity/Definition,clear,Domestic,tweezers,bathroom,a pair of metal tweezers dropping into a sink
+Clarity/Definition,clear,Domestic,scissors,sewing room,shears snipping through a piece of crisp paper
+Clarity/Definition,clear,Domestic,thimble,study,a metal thimble tapping against a glass desk
+Clarity/Definition,clear,Domestic,stapler,office,a small desk stapler clicking shut
+Clarity/Definition,clear,Domestic,needle,hobby room,a sewing needle falling on a hardwood floor
+Clarity/Definition,clear,Domestic,brush,vanity,a hairbrush being set on a wooden table
+Clarity/Definition,clear,Domestic,matches,campsite,a wooden matchstick snapping in half
+Clarity/Definition,clear,Domestic,pen,library,a retractable ballpoint pen being clicked
+Clarity/Definition,clear,Electronic,spark,laboratory,a small blue spark jumping between two electrodes
+Clarity/Definition,clear,Electronic,static,radio station,a short pop of white noise from a transceiver
+Clarity/Definition,clear,Electronic,capacitor,workshop,a ceramic capacitor discharging with a snap
+Clarity/Definition,clear,Electronic,buzzer,kitchen,a high-frequency piezo alarm on a digital timer
+Clarity/Definition,clear,Electronic,led,control room,a small indicator light clicking as it turns on
+Clarity/Definition,clear,Electronic,hard drive,office,the read-write head of a drive clicking once
+Clarity/Definition,clear,Electronic,relay,telephone exchange,a miniature reed relay clicking once
+Clarity/Definition,clear,Electronic,fuse,basement,a glass fuse blowing with a tiny metallic pop
+Clarity/Definition,clear,Electronic,connector,data center,a fiber optic cable clicking into a port
+Clarity/Definition,clear,Electronic,tester,garage,a continuity tester emitting a sharp beep
+Clarity/Definition,clear,Electronic,switch,cockpit,a small toggle switch being flipped
+Clarity/Definition,clear,Electronic,probe,physics lab,an oscilloscope probe touching a metal chassis
+Clarity/Definition,clear,Electronic,clock,control room,a digital master clock pulse ticking
+Clarity/Definition,clear,Electronic,monitor,bedroom,a high-pitched discharge from an old screen
+Clarity/Definition,clear,Electronic,interference,tower,a burst of digital noise in a signal
+Clarity/Definition,clear,Electronic,oscillator,studio,a square wave pulse with a short envelope
+Clarity/Definition,clear,Electronic,gate,booth,a noise gate snapping shut on a signal
+Clarity/Definition,clear,Electronic,stylus,living room,the initial pop of a needle hitting a record
+Clarity/Definition,muddy,Musical,double bass,jazz club,a double bass string being plucked with a heavy thumb in a boomy room
+Clarity/Definition,muddy,Musical,timpani,concert hall,a timpani hit with a large soft mallet and the pedal down
+Clarity/Definition,muddy,Musical,piano,ballroom,a grand piano playing a low-octave chord with the sustain pedal held
+Clarity/Definition,muddy,Musical,bass drum,stadium,a massive bass drum hit in the center with a loose head
+Clarity/Definition,muddy,Musical,gong,temple,a large gong struck and allowed to vibrate in a small stone room
+Clarity/Definition,muddy,Musical,cello,stone cellar,a cello bowing a low note with a heavy hand and no vibrato
+Clarity/Definition,muddy,Musical,organ,cathedral,a pipe organ playing a dense cluster of low-frequency notes
+Clarity/Definition,muddy,Musical,didgeridoo,cave,a didgeridoo vibrating with a deep rhythmic drone in a damp tunnel
+Clarity/Definition,muddy,Musical,guitar,garage,an electric guitar played through a thick low-pass filter
+Clarity/Definition,muddy,Musical,shaker,recording booth,a shaker filled with soft damp sand being moved slowly
+Clarity/Definition,muddy,Musical,snare drum,attic,a snare drum hit with a flat stick while the snares are loose
+Clarity/Definition,muddy,Musical,harmonica,campfire,a harmonica played into cupped hands with a lot of breath
+Clarity/Definition,muddy,Musical,accordion,plaza,an accordion playing a sustained low chord with a slow bellows
+Clarity/Definition,muddy,Musical,harp,parlor,a low harp string plucked and partially muted by a wool cloth
+Clarity/Definition,muddy,Musical,marimba,conservatory,a marimba played with extra-soft yarn mallets in the bass
+Clarity/Definition,muddy,Musical,tuba,rehearsal room,a tuba blowing a muffled low-pitched drone
+Clarity/Definition,muddy,Musical,violin,attic,a violin bowing a note while heavily muted by a lead clamp
+Clarity/Definition,muddy,Musical,synthesizer,studio,a sub-bass sine wave with a slow attack and long decay
+Clarity/Definition,muddy,Mechanical,engine,shipyard,the low-frequency thrum of an engine heard through a metal wall
+Clarity/Definition,muddy,Mechanical,pump,basement,a sump pump vibrating under a layer of water and silt
+Clarity/Definition,muddy,Mechanical,gears,old mill,large wooden gears turning slowly in a damp watermill
+Clarity/Definition,muddy,Mechanical,conveyor,coal mine,a heavy rubber belt groaning under a load of wet coal
+Clarity/Definition,muddy,Mechanical,piston,train,a steam piston moving through a thick layer of heavy oil
+Clarity/Definition,muddy,Mechanical,press,factory,a hydraulic press compressing a stack of industrial felt
+Clarity/Definition,muddy,Mechanical,hammer,forge,a rubber mallet hitting a thick piece of lead
+Clarity/Definition,muddy,Mechanical,ventilation,parking,a massive fan vibrating against a loose metal frame
+Clarity/Definition,muddy,Mechanical,excavator,quarry,the bucket of an excavator digging into wet clay
+Clarity/Definition,muddy,Mechanical,shutter,warehouse,a heavy door sliding in a track filled with grease
+Clarity/Definition,muddy,Mechanical,mill,kitchen,a manual mill grinding a mixture of soft oily nuts
+Clarity/Definition,muddy,Mechanical,generator,site,a generator hum heard through a thick soundproof blanket
+Clarity/Definition,muddy,Mechanical,mixer,plant,a large mixer drum rotating with a heavy load of wet concrete
+Clarity/Definition,muddy,Mechanical,drill,quarry,a core drill boring into a pocket of soft shale
+Clarity/Definition,muddy,Mechanical,boiler,hotel,the resonant clanking of a steam boiler in a basement
+Clarity/Definition,muddy,Mechanical,lathe,workshop,a wood lathe turning a piece of water-logged timber
+Clarity/Definition,muddy,Mechanical,winch,dock,a winch motor whirring under a heavy and uneven load
+Clarity/Definition,muddy,Mechanical,shaker,lab,a mechanical sieve shaking a load of damp soil
+Clarity/Definition,muddy,Environmental,mud,swamp,a heavy footstep sinking into a thick pool of wet mud
+Clarity/Definition,muddy,Environmental,snow,arctic tundra,a block of soft snow falling onto a deep drift
+Clarity/Definition,muddy,Environmental,thunder,desert,a distant rolling thunderclap muffled by a sandstorm
+Clarity/Definition,muddy,Environmental,water,lake,a large heavy stone hitting the surface of a silty pond
+Clarity/Definition,muddy,Environmental,ice,glacier,a muffled groan from deep within a shifting ice shelf
+Clarity/Definition,muddy,Environmental,thaw,riverbank,a chunk of wet earth sliding into a slow river
+Clarity/Definition,muddy,Environmental,waves,beach,the sound of surf heard through a thick stone sea wall
+Clarity/Definition,muddy,Environmental,leaves,forest floor,a footstep on a thick layer of damp decaying leaves
+Clarity/Definition,muddy,Environmental,volcano,island,the muffled thump of a distant subterranean explosion
+Clarity/Definition,muddy,Environmental,rain,meadow,rain falling onto a field of thick tall grass
+Clarity/Definition,muddy,Environmental,geyser,park,the subterranean gurgle of a vent preparing to erupt
+Clarity/Definition,muddy,Environmental,fire,campsite,the low-frequency roar of a fire under a layer of wet logs
+Clarity/Definition,muddy,Environmental,wind,canyon,the moan of wind through a deep cavern filled with mist
+Clarity/Definition,muddy,Environmental,avalanche,slope,the muffled rumble of a distant snow slide
+Clarity/Definition,muddy,Environmental,rockslide,quarry,a slide of dirt and small stones down a damp bank
+Clarity/Definition,muddy,Environmental,bubbles,swamp,a large gas bubble bursting in a thick peat bog
+Clarity/Definition,muddy,Environmental,tide,estuary,the sound of a rising tide filling a silt-heavy marsh
+Clarity/Definition,muddy,Environmental,mist,highlands,the muffled silence of a valley in a thick fog
+Clarity/Definition,muddy,Organic,elephant,savanna,an elephant emitting a low-frequency rumble through its chest
+Clarity/Definition,muddy,Organic,human,bedroom,a person speaking while their face is buried in a pillow
+Clarity/Definition,muddy,Organic,growl,safari,a lion letting out a very low and muffled growl
+Clarity/Definition,muddy,Organic,panting,track,a dog breathing heavily into a thick rug
+Clarity/Definition,muddy,Organic,heartbeat,clinic,a heartbeat heard through a thick winter coat
+Clarity/Definition,muddy,Organic,hooves,meadow,a team of horses trotting on very soft damp earth
+Clarity/Definition,muddy,Organic,stomach,bedroom,the muffled gurgle of a stomach after a heavy meal
+Clarity/Definition,muddy,Organic,throat,hallway,a person making a suppressed cough into a hand
+Clarity/Definition,muddy,Organic,whale,ocean,a whale's moan heard through the hull of a boat
+Clarity/Definition,muddy,Organic,bear,den,a bear shifting its weight on a bed of damp grass
+Clarity/Definition,muddy,Organic,wings,woods,the muffled flap of a large bird's wings in flight
+Clarity/Definition,muddy,Organic,monkeys,jungle,a troop of howlers vocalizing in a dense foggy canopy
+Clarity/Definition,muddy,Organic,alligator,swamp,a bull alligator vibrating the water in a muddy bank
+Clarity/Definition,muddy,Organic,fur,stable,a person brushing a horse's thick winter coat
+Clarity/Definition,muddy,Organic,skin,nursery,a hand gently patting a baby's back through a blanket
+Clarity/Definition,muddy,Organic,claws,rug,a dog scratching at a thick wool carpet
+Clarity/Definition,muddy,Organic,voice,theater,a crowd of people talking in a reverberant hallway
+Clarity/Definition,muddy,Organic,tongue,field,a person making a wet clicking sound with their mouth
+Clarity/Definition,muddy,Domestic,rug,hallway,a heavy rug being beaten with a stick while damp
+Clarity/Definition,muddy,Domestic,sofa,lounge,a person falling onto a stuffed fabric sofa
+Clarity/Definition,muddy,Domestic,door,hallway,a thick padded door closing in a carpeted room
+Clarity/Definition,muddy,Domestic,vacuum,hallway,a vacuum cleaner running with a clogged intake
+Clarity/Definition,muddy,Domestic,washing machine,laundry room,a washer spinning a load of heavy wet towels
+Clarity/Definition,muddy,Domestic,curtains,theater,heavy velvet stage drapes being pulled shut
+Clarity/Definition,muddy,Domestic,suitcase,bedroom,a fabric suitcase full of clothes being dropped
+Clarity/Definition,muddy,Domestic,bin,alley,a plastic bin full of wet laundry being set down
+Clarity/Definition,muddy,Domestic,carpet,stairwell,a footstep on a thick carpeted stair
+Clarity/Definition,muddy,Domestic,cushion,nursery,a soft foam cushion falling onto a rug
+Clarity/Definition,muddy,Domestic,stew,kitchen,a large pot of thick soup bubbling vigorously
+Clarity/Definition,muddy,Domestic,shaker,bar,a cocktail shaker filled with a thick cream liquid
+Clarity/Definition,muddy,Domestic,cabinet,pantry,a wooden drawer being slid slowly into place
+Clarity/Definition,muddy,Domestic,fountain,garden,a fountain splash heard through a thick hedge
+Clarity/Definition,muddy,Domestic,bathtub,bathroom,the low gurgle of water draining from a full tub
+Clarity/Definition,muddy,Domestic,pillow,bedroom,a person punching a down-filled pillow
+Clarity/Definition,muddy,Domestic,iron,laundry room,a steam iron releasing a burst onto thick wool
+Clarity/Definition,muddy,Domestic,trash,alleyway,a bag of clothes being thrown into a bin
+Clarity/Definition,muddy,Electronic,hum,basement,the muffled hum of a water heater through a wall
+Clarity/Definition,muddy,Electronic,speaker,club,the low-frequency thud of a kick drum heard from outside
+Clarity/Definition,muddy,Electronic,static,radio station,low-pass filtered white noise from a radio
+Clarity/Definition,muddy,Electronic,transformer,utility yard,the hum of a transformer in a sealed metal box
+Clarity/Definition,muddy,Electronic,distortion,garage,a synthesizer through a heavy low-gain fuzz pedal
+Clarity/Definition,muddy,Electronic,noise,laboratory,pink noise filtered through a narrow low-pass
+Clarity/Definition,muddy,Electronic,feedback,stage,a low-frequency guitar feedback loop through an amp
+Clarity/Definition,muddy,Electronic,buzzer,plant,a piezo buzzer sounding inside a thick plastic housing
+Clarity/Definition,muddy,Electronic,modulator,lab,an oscillator modulated by a slow random noise source
+Clarity/Definition,muddy,Electronic,sampler,bedroom,a drum sample with a very long and dark decay
+Clarity/Definition,muddy,Electronic,amplifier,garage,a bass guitar through an amp with the treble rolled off
+Clarity/Definition,muddy,Electronic,hard drive,office,the whir of a drive in a soundproof enclosure
+Clarity/Definition,muddy,Electronic,fan,laptop,a cooling fan whirring behind a layer of dust
+Clarity/Definition,muddy,Electronic,relay,server room,a reed relay clicking inside a vacuum tube
+Clarity/Definition,muddy,Electronic,inverter,basement,the steady whine of an inverter from another room
+Clarity/Definition,muddy,Electronic,keyboard,library,a keyboard with silent dampeners being typed on
+Clarity/Definition,muddy,Electronic,radio,attic,shortwave radio interference with a lot of static
+Clarity/Definition,muddy,Electronic,motor,factory,a large electric motor running behind a wall
+Clarity/Definition,focused,Musical,recorder,study,a wooden recorder playing a single sharp high note
+Clarity/Definition,focused,Musical,triangle,closet,a small steel triangle struck with a thin metal beater
+Clarity/Definition,focused,Musical,piccolo,hallway,a piccolo playing a sharp trill in a narrow corridor
+Clarity/Definition,focused,Musical,jaw harp,porch,a jaw harp vibrating against a person's teeth
+Clarity/Definition,focused,Musical,banjo,attic,a banjo string plucked near the bridge with a metal pick
+Clarity/Definition,focused,Musical,glockenspiel,quiet room,a glockenspiel note hit with a hard acrylic mallet
+Clarity/Definition,focused,Musical,mandolin,marketplace,a mandolin string plucked with a hard plectrum
+Clarity/Definition,focused,Musical,harpsichord,chamber,a harpsichord key being pressed to pluck a wire
+Clarity/Definition,focused,Musical,zither,garden,a zither string plucked with a fine wire pick
+Clarity/Definition,focused,Musical,pan flute,mountain,a small pan flute blowing a sharp breathy note
+Clarity/Definition,focused,Musical,cowbell,pasture,a cowbell hit with a metal stick
+Clarity/Definition,focused,Musical,xylophone,school,a small wooden xylophone bar being hit once
+Clarity/Definition,focused,Musical,harmonica,campfire,a harmonica playing a single high note
+Clarity/Definition,focused,Musical,tambourine,festival,a tambourine shaken with thin metal jingles
+Clarity/Definition,focused,Musical,chimes,porch,thin aluminum wind chimes colliding in a breeze
+Clarity/Definition,focused,Musical,sitar,shrine,a sitar string plucked with a wire plectrum
+Clarity/Definition,focused,Mechanical,watch,quiet room,the rapid ticking of a small mechanical wristwatch
+Clarity/Definition,focused,Mechanical,sewing machine,attic,a sewing machine needle piercing thin silk
+Clarity/Definition,focused,Mechanical,gears,watchmaker,small stainless steel gears meshing precisely
+Clarity/Definition,focused,Mechanical,typewriter,office,a manual typewriter key striking a metal platen
+Clarity/Definition,focused,Mechanical,lathe,workshop,a lathe shaving a thin strip of aluminum
+Clarity/Definition,focused,Mechanical,bicycle,path,a small bicycle bell ringing twice
+Clarity/Definition,focused,Mechanical,camera,gallery,a mechanical camera shutter clicking once
+Clarity/Definition,focused,Mechanical,tally counter,subway,a handheld tally counter being clicked
+Clarity/Definition,focused,Mechanical,escapement,clock,a watch escapement ticking near a microphone
+Clarity/Definition,focused,Mechanical,sprinkler,lawn,a sprinkler head hitting its stop during rotation
+Clarity/Definition,focused,Mechanical,drill,dentist,a high-speed turbine dental drill spinning up
+Clarity/Definition,focused,Mechanical,cash register,store,a vintage cash register bell ringing once
+Clarity/Definition,focused,Mechanical,lock,vault,a tumbler lock clicking into place once
+Clarity/Definition,focused,Mechanical,metronome,music room,a metronome ticking at a fast tempo
+Clarity/Definition,focused,Mechanical,solenoid,factory,a small solenoid pin firing against a plate
+Clarity/Definition,focused,Mechanical,fan,greenhouse,a small metal fan blades whirring
+Clarity/Definition,focused,Mechanical,hand-drill,woodshop,a manual drill spinning its gears
+Clarity/Definition,focused,Mechanical,timer,kitchen,a mechanical kitchen timer ticking down
+Clarity/Definition,focused,Environmental,ice,tundra,a thin sheet of ice cracking under a footfall
+Clarity/Definition,focused,Environmental,wind,canyon,wind whistling through a narrow rock crevice
+Clarity/Definition,focused,Environmental,pebbles,shoreline,small pebbles rolling in a wave
+Clarity/Definition,focused,Environmental,water,stream,a stream of water splashing on slate
+Clarity/Definition,focused,Environmental,twigs,woods,a frozen twig snapping in half
+Clarity/Definition,focused,Environmental,fire,campsite,a dry pine needle crackling in a fire
+Clarity/Definition,focused,Environmental,geyser,volcanic field,a vent hissing steam through a hole
+Clarity/Definition,focused,Environmental,thaw,glacier,water droplets dripping from an icicle
+Clarity/Definition,focused,Environmental,reeds,marsh,a dry bamboo stalk cracking in the wind
+Clarity/Definition,focused,Environmental,stalactite,cave,a drop of water hitting a crystal pool
+Clarity/Definition,focused,Environmental,crust,salt flat,a footstep breaking the salt crust
+Clarity/Definition,focused,Environmental,cicada,savanna,a single cicada buzzing in the heat
+Clarity/Definition,focused,Environmental,grass,field,dry stalks of wheat brushing together
+Clarity/Definition,focused,Environmental,shingle,beach,fine shingle being dragged back by a wave
+Clarity/Definition,focused,Environmental,volcano,island,a volcanic glass fragment breaking
+Clarity/Definition,focused,Organic,insect,meadow,a cricket chirping rhythmically in tall grass
+Clarity/Definition,focused,Organic,bird,canopy,a tropical bird emitting a short whistle
+Clarity/Definition,focused,Organic,teeth,kitchen,a person biting into a crisp apple
+Clarity/Definition,focused,Organic,claws,tile floor,a dog's claws clicking on ceramic
+Clarity/Definition,focused,Organic,bone,savanna,a small bird bone snapping in half
+Clarity/Definition,focused,Organic,bat,cavern,a bat emitting an echolocation click
+Clarity/Definition,focused,Organic,tongue,classroom,a person making a sharp tongue cluck
+Clarity/Definition,focused,Organic,beak,woodland,a woodpecker hitting a tree trunk once
+Clarity/Definition,focused,Organic,shell,beach,a crab's pincers clicking a sea shell
+Clarity/Definition,focused,Organic,voice,hallway,a person making a sharp sibilant sound
+Clarity/Definition,focused,Organic,knuckle,study,a person cracking their knuckle
+Clarity/Definition,focused,Organic,scales,desert,a lizard scuttling over mica flakes
+Clarity/Definition,focused,Organic,seed pod,prairie,a dry seed pod rattling in the wind
+Clarity/Definition,focused,Domestic,cutlery,dining room,a silver spoon clinking a china teacup
+Clarity/Definition,focused,Domestic,ceramic,pantry,a porcelain plate being stacked
+Clarity/Definition,focused,Domestic,coins,laundry room,a nickel dropping onto a tile floor
+Clarity/Definition,focused,Domestic,foil,kitchen,a sheet of foil being snapped taut
+Clarity/Definition,focused,Domestic,whisk,bakery,a wire whisk striking a metal bowl
+Clarity/Definition,focused,Domestic,lightbulb,garage,a bulb filament rattling inside glass
+Clarity/Definition,focused,Domestic,tweezers,bathroom,tweezers dropping into a ceramic sink
+Clarity/Definition,focused,Domestic,scissors,sewing room,shears snipping through paper
+Clarity/Definition,focused,Domestic,thimble,study,a metal thimble tapping a glass desk
+Clarity/Definition,focused,Domestic,stapler,office,a desk stapler clicking shut
+Clarity/Definition,focused,Domestic,needle,hobby room,a needle falling on a hardwood floor
+Clarity/Definition,focused,Domestic,matches,campsite,a wooden matchstick snapping
+Clarity/Definition,focused,Domestic,pen,library,a retractable pen being clicked
+Clarity/Definition,focused,Electronic,spark,laboratory,a small spark jumping between electrodes
+Clarity/Definition,focused,Electronic,static,radio,a burst of white noise from a transceiver
+Clarity/Definition,focused,Electronic,capacitor,workshop,a capacitor discharging with a snap
+Clarity/Definition,focused,Electronic,buzzer,kitchen,a piezo alarm on a digital timer
+Clarity/Definition,focused,Electronic,led,control room,an indicator light clicking on
+Clarity/Definition,focused,Electronic,hard drive,office,a hard drive head clicking once
+Clarity/Definition,focused,Electronic,relay,telephone,a miniature reed relay clicking
+Clarity/Definition,focused,Electronic,fuse,basement,a glass fuse blowing with a tiny pop
+Clarity/Definition,focused,Electronic,connector,data center,a cable clicking into a port
+Clarity/Definition,focused,Electronic,tester,garage,a continuity tester emitting a beep
+Clarity/Definition,focused,Electronic,probe,physics lab,a probe touching a metal chassis
+Clarity/Definition,focused,Electronic,stylus,living room,the pop of a needle hitting a record
+Clarity/Definition,transparent,Musical,crystal,dining room,a lead crystal glass being tapped with a silver spoon
+Clarity/Definition,transparent,Musical,glockenspiel,observatory,a glockenspiel note sustaining in a quiet room
+Clarity/Definition,transparent,Musical,silver flute,meadow,a silver flute playing a high-pitched melody
+Clarity/Definition,transparent,Musical,triangle,cathedral,a chrome triangle struck with a light beater
+Clarity/Definition,transparent,Musical,harp,conservatory,a concert harp playing a high arpeggio
+Clarity/Definition,transparent,Musical,celesta,attic,a celesta key being pressed and released
+Clarity/Definition,transparent,Musical,harpsichord,chamber,a harpsichord playing a fast baroque passage
+Clarity/Definition,transparent,Musical,handbells,chapel,a set of small brass handbells ringing
+Clarity/Definition,transparent,Musical,piccolo,parade,a piccolo trilling a high melody
+Clarity/Definition,transparent,Musical,sitar,shrine,a sitar sympathetic string vibrating after a pluck
+Clarity/Definition,transparent,Musical,chimes,clifftop,thin aluminum wind chimes colliding
+Clarity/Definition,transparent,Musical,xylophone,school,a synthetic xylophone bar hit with a plastic mallet
+Clarity/Definition,transparent,Musical,ukulele,beach,a ukulele being strummed with a light touch
+Clarity/Definition,transparent,Musical,zither,garden,a zither string plucked with a fine pick
+Clarity/Definition,transparent,Musical,marimba,hall,a marimba playing a fast run in the treble
+Clarity/Definition,transparent,Musical,violin,stairwell,a violin playing a high pizzicato note
+Clarity/Definition,transparent,Musical,tambourine,festival,a tambourine shaken with thin jingles
+Clarity/Definition,transparent,Musical,recorder,woods,a wooden recorder playing a light staccato
+Clarity/Definition,transparent,Mechanical,watch,quiet office,the rapid ticking of a precision wristwatch
+Clarity/Definition,transparent,Mechanical,gears,watchmaker,small stainless steel gears meshing
+Clarity/Definition,transparent,Mechanical,typewriter,study,a typewriter key striking a paper-thin ribbon
+Clarity/Definition,transparent,Mechanical,solenoid,factory,a small electronic solenoid pin firing
+Clarity/Definition,transparent,Mechanical,lock,vault,a tumbler lock clicking into place
+Clarity/Definition,transparent,Mechanical,sprinkler,lawn,a sprinkler head rotating and clicking
+Clarity/Definition,transparent,Mechanical,drill,dentist,a high-speed turbine dental drill spinning
+Clarity/Definition,transparent,Mechanical,sewing machine,attic,a sewing machine needle piercing silk
+Clarity/Definition,transparent,Mechanical,timer,kitchen,a mechanical kitchen timer ticking
+Clarity/Definition,transparent,Mechanical,scanner,office,the high-pitched whir of a scanner motor
+Clarity/Definition,transparent,Environmental,drop,limestone cave,a single water drop hitting a still pool
+Clarity/Definition,transparent,Environmental,pebbles,shoreline,small quartz pebbles rolling in a wave
+Clarity/Definition,transparent,Environmental,twig,winter woods,a frozen pine twig snapping in half
+Clarity/Definition,transparent,Environmental,stalactite,cavern,a mineral drop falling from a stalactite
+Clarity/Definition,transparent,Environmental,stalagmite,cave,a water drop hitting a resonant stone ledge
+Clarity/Definition,transparent,Environmental,crust,salt flat,a footstep breaking a salt crust
+Clarity/Definition,transparent,Environmental,shingle,beach,fine shingle being dragged by a wave
+Clarity/Definition,transparent,Organic,bone,savanna,a small dry bone snapping on a rock
+Clarity/Definition,intelligible,Musical,woodblock,hall,a woodblock struck in a steady rhythmic pattern
+Clarity/Definition,intelligible,Musical,recorder,woods,a recorder playing a slow articulate melody
+Clarity/Definition,intelligible,Musical,piano,ballroom,a grand piano playing a simple staccato scale
+Clarity/Definition,intelligible,Musical,drum kit,garage,a snare drum playing a basic marching cadence
+Clarity/Definition,intelligible,Musical,xylophone,school,a xylophone playing a clear rhythmic melody
+Clarity/Definition,intelligible,Musical,harp,parlor,a harp playing a rhythmic series of notes
+Clarity/Definition,intelligible,Musical,tambourine,festival,a tambourine hit in a steady 4/4 rhythm
+Clarity/Definition,intelligible,Musical,claves,plaza,a pair of claves struck in a rhythmic cycle
+Clarity/Definition,intelligible,Musical,triangle,studio,a triangle struck in a rhythmic sequence
+Clarity/Definition,intelligible,Musical,marimba,conservatory,a marimba playing a rhythmic ostinato
+Clarity/Definition,intelligible,Musical,accordion,plaza,an accordion playing a rhythmic series of chords
+Clarity/Definition,intelligible,Musical,banjo,porch,a banjo being strummed in a steady rhythm
+Clarity/Definition,intelligible,Musical,flute,meadow,a flute playing a series of articulate notes
+Clarity/Definition,intelligible,Musical,ukulele,beach,a ukulele playing a rhythmic strumming pattern
+Clarity/Definition,intelligible,Musical,sitar,shrine,a sitar playing a rhythmic melodic passage
+Clarity/Definition,intelligible,Musical,harmonica,campfire,a harmonica playing a rhythmic melody
+Clarity/Definition,intelligible,Musical,double bass,club,a double bass playing a rhythmic bass line
+Clarity/Definition,intelligible,Musical,glockenspiel,room,a glockenspiel playing a rhythmic arpeggio
+Clarity/Definition,intelligible,Mechanical,typewriter,newsroom,a typewriter being used at a steady speed
+Clarity/Definition,intelligible,Mechanical,metronome,room,a metronome ticking in a steady rhythm
+Clarity/Definition,intelligible,Mechanical,clock,museum,the rhythmic ticking of a mechanical clock
+Clarity/Definition,intelligible,Mechanical,sewing machine,attic,a sewing machine running in a steady cycle
+Clarity/Definition,intelligible,Mechanical,solenoid,factory,a solenoid firing in a steady rhythm
+Clarity/Definition,intelligible,Mechanical,piston,train,a steam piston moving in a rhythmic cycle
+Clarity/Definition,intelligible,Mechanical,pump,well,a water pump working in a steady rhythm
+Clarity/Definition,intelligible,Mechanical,mill,bakery,a grain mill grinding in a steady rhythm
+Clarity/Definition,intelligible,Mechanical,mixer,plant,a cement mixer drum rotating steadily
+Clarity/Definition,intelligible,Mechanical,conveyor,warehouse,a belt splice hitting a roller in a rhythm
+Clarity/Definition,intelligible,Mechanical,timer,kitchen,a mechanical timer ticking in a rhythm
+Clarity/Definition,intelligible,Mechanical,stapler,office,a stapler being used in a rhythmic pattern
+Clarity/Definition,intelligible,Mechanical,gears,mill,large gears meshing in a rhythmic cycle
+Clarity/Definition,intelligible,Mechanical,shutter,studio,a camera taking photos in a rhythm
+Clarity/Definition,intelligible,Mechanical,relay,station,relays clicking in a steady sequence
+Clarity/Definition,intelligible,Mechanical,lathe,workshop,a lathe cutting in a steady rhythm
+Clarity/Definition,intelligible,Mechanical,hammer,forge,a hammer hitting an anvil in a rhythm
+Clarity/Definition,intelligible,Environmental,rain,tin roof,rain hitting a metal roof in a rhythm
+Clarity/Definition,intelligible,Environmental,drop,cave,water drops hitting a pool in a rhythm
+Clarity/Definition,intelligible,Environmental,thaw,forest,water dripping from an icicle in a rhythm
+Clarity/Definition,intelligible,Environmental,pebbles,shore,pebbles rolling in a wave in a rhythm
+Clarity/Definition,intelligible,Environmental,geyser,park,steam hissing from a vent in a rhythm
+Clarity/Definition,intelligible,Environmental,mud,swamp,bubbles bursting in a mud pool in a rhythm
+Clarity/Definition,intelligible,Environmental,grass,field,wheat stalks hitting in the wind rhythm
+Clarity/Definition,intelligible,Environmental,reeds,marsh,bamboo stalks clattering in a rhythm
+Clarity/Definition,intelligible,Environmental,ice,tundra,ice fragments hitting a lake in a rhythm
+Clarity/Definition,intelligible,Environmental,seed pod,prairie,seed pods rattling in a rhythm
+Clarity/Definition,intelligible,Environmental,leaves,forest,leaves skittering in a rhythmic wind
+Clarity/Definition,intelligible,Environmental,wind,canyon,wind whistling in a rhythmic way
+Clarity/Definition,intelligible,Environmental,fire,campsite,a fire popping and crackling in a rhythm
+Clarity/Definition,intelligible,Environmental,water,pool,ripples hitting a wall in a rhythm
+Clarity/Definition,intelligible,Environmental,shingle,beach,stones being dragged in a rhythm
+Clarity/Definition,intelligible,Environmental,snow,slope,snow crust breaking in rhythmic steps
+Clarity/Definition,intelligible,Environmental,crust,salt flat,footsteps on a salt lake in a rhythm
+Clarity/Definition,intelligible,Environmental,hail,carport,hailstones hitting a roof in a rhythm
+Clarity/Definition,intelligible,Organic,woodpecker,woods,a woodpecker tapping in a rhythmic pattern
+Clarity/Definition,intelligible,Organic,heartbeat,clinic,a steady heartbeat through a monitor
+Clarity/Definition,intelligible,Organic,insect,meadow,a cricket chirping in a rhythmic pattern
+Clarity/Definition,intelligible,Organic,bird,canopy,a bird making a rhythmic clicking call
+Clarity/Definition,intelligible,Organic,wings,meadow,dragonfly wings buzzing in a rhythm
+Clarity/Definition,intelligible,Organic,hooves,track,a horse trotting in a rhythmic thud
+Clarity/Definition,intelligible,Organic,monkeys,jungle,a monkey hooting in a rhythmic pattern
+Clarity/Definition,intelligible,Organic,frog,pond,a frog croaking in a rhythmic chorus
+Clarity/Definition,intelligible,Organic,claws,floor,dog claws clicking in a rhythmic run
+Clarity/Definition,intelligible,Organic,finger,table,a person tapping their fingers in a rhythm
+Clarity/Definition,intelligible,Organic,tongue,field,a person making rhythmic clicks
+Clarity/Definition,intelligible,Organic,throat,hallway,a person making a rhythmic cough
+Clarity/Definition,intelligible,Organic,bees,orchard,bees buzzing in a rhythmic pattern
+Clarity/Definition,intelligible,Organic,shrimp,reef,shrimp clicking in a rhythmic colony
+Clarity/Definition,intelligible,Organic,teeth,room,teeth chattering in a rhythmic way
+Clarity/Definition,intelligible,Organic,whale,ocean,a whale making rhythmic clicks
+Clarity/Definition,intelligible,Organic,elephant,plain,an elephant rumbling in a rhythm
+Clarity/Definition,intelligible,Organic,hands,studio,a person clapping in a rhythm
+Clarity/Definition,intelligible,Domestic,chopping,kitchen,a knife hitting a board in a rhythm
+Clarity/Definition,intelligible,Domestic,clock,hallway,a grandfather clock ticking rhythmically
+Clarity/Definition,intelligible,Domestic,keys,doorway,keys jingling in a rhythmic way
+Clarity/Definition,intelligible,Domestic,stapler,office,a stapler being used in a rhythm
+Clarity/Definition,intelligible,Domestic,shaker,bar,a cocktail shaker being moved in a rhythm
+Clarity/Definition,intelligible,Domestic,coins,laundry,coins being shaken in a rhythm
+Clarity/Definition,intelligible,Domestic,beads,bedroom,beads hitting a surface in a rhythm
+Clarity/Definition,intelligible,Domestic,zipper,closet,a zipper being moved in a rhythm
+Clarity/Definition,intelligible,Domestic,whisk,bakery,a whisk hitting a bowl in a rhythm
+Clarity/Definition,intelligible,Domestic,lightbulb,garage,a filament rattling in a rhythm
+Clarity/Definition,intelligible,Domestic,can,pantry,cans hitting each other in a rhythm
+Clarity/Definition,intelligible,Domestic,bin,alley,a bin lid opening and closing in a rhythm
+Clarity/Definition,intelligible,Domestic,gate,garden,a latch clicking in a rhythmic way
+Clarity/Definition,intelligible,Domestic,brush,vanity,a hairbrush hitting a table in a rhythm
+Clarity/Definition,intelligible,Domestic,pot,kitchen,a spoon hitting a pot in a rhythm
+Clarity/Definition,intelligible,Domestic,drip,bathroom,a faucet dripping in a rhythm
+Clarity/Definition,intelligible,Domestic,sprinkler,garden,a sprinkler clicking in a rhythm
+Clarity/Definition,intelligible,Domestic,rug,yard,a rug beater hitting a carpet in a rhythm
+Clarity/Definition,intelligible,Electronic,radar,station,a radar system emitting a rhythmic pulse
+Clarity/Definition,intelligible,Electronic,alarm,hospital,a monitor beeping in a rhythmic way
+Clarity/Definition,intelligible,Electronic,sequencer,studio,a rhythmic electronic beat playing
+Clarity/Definition,intelligible,Electronic,noise,booth,rhythmic white noise bursts
+Clarity/Definition,intelligible,Electronic,relay,station,relays clicking in a rhythmic pattern
+Clarity/Definition,intelligible,Electronic,buzzer,plant,a rhythmic industrial alarm
+Clarity/Definition,intelligible,Electronic,static,radio,rhythmic pops on a radio signal
+Clarity/Definition,intelligible,Electronic,hard drive,office,a drive head clicking in a rhythm
+Clarity/Definition,intelligible,Electronic,oscillator,studio,a percussive synth patch in a rhythm
+Clarity/Definition,intelligible,Electronic,sampler,bedroom,a rhythmic sample being triggered
+Clarity/Definition,intelligible,Electronic,flash,studio,flashes firing in a rhythmic sequence
+Clarity/Definition,intelligible,Electronic,clock,control room,a digital clock pulse ticking
+Clarity/Definition,intelligible,Electronic,interference,tower,rhythmic interference in a signal
+Clarity/Definition,intelligible,Electronic,gate,booth,a gate opening and closing on a beat
+Clarity/Definition,intelligible,Electronic,spark,lab,sparks jumping in a rhythmic pattern
+Clarity/Definition,intelligible,Electronic,modulator,lab,a rhythmic FM sound playing
+Clarity/Definition,intelligible,Electronic,switch,cockpit,switches flipped in a sequence
+Clarity/Definition,intelligible,Electronic,buzzer,kitchen,a rhythmic timer beep
+Clarity/Definition,distinct,Musical,woodblock,hall,a woodblock struck once in a quiet room
+Clarity/Definition,distinct,Musical,triangle,studio,a triangle struck once with a clear decay
+Clarity/Definition,distinct,Musical,piano,ballroom,a single piano key hit in the mid register
+Clarity/Definition,distinct,Musical,drum,garage,a snare drum hit once in a dry space
+Clarity/Definition,distinct,Musical,harp,parlor,a single harp string plucked and released
+Clarity/Definition,distinct,Musical,claves,plaza,a pair of claves struck together once
+Clarity/Definition,distinct,Musical,glockenspiel,room,a glockenspiel note hit with a hard mallet
+Clarity/Definition,distinct,Musical,mandolin,market,a mandolin string plucked once
+Clarity/Definition,distinct,Musical,xylophone,school,a wooden xylophone bar struck once
+Clarity/Definition,distinct,Musical,harmonica,campfire,a harmonica playing a single short note
+Clarity/Definition,distinct,Musical,tambourine,festival,a tambourine shaken once clearly
+Clarity/Definition,distinct,Musical,maraca,courtyard,a single shake of a maraca
+Clarity/Definition,distinct,Musical,flute,meadow,a flute playing a short staccato note
+Clarity/Definition,distinct,Musical,banjo,porch,a banjo string plucked once
+Clarity/Definition,distinct,Musical,cello,cellar,a cello string plucked pizzicato
+Clarity/Definition,distinct,Musical,gong,temple,a gong struck once with a firm mallet
+Clarity/Definition,distinct,Musical,sitar,shrine,a sitar string plucked with a wire pick
+Clarity/Definition,distinct,Mechanical,typewriter,office,a typewriter key striking once
+Clarity/Definition,distinct,Mechanical,metronome,room,a metronome ticking once in a quiet space
+Clarity/Definition,distinct,Mechanical,watch,office,the tick of a mechanical watch
+Clarity/Definition,distinct,Mechanical,camera,gallery,a camera shutter clicking once
+Clarity/Definition,distinct,Mechanical,lock,vault,a tumbler lock clicking once
+Clarity/Definition,distinct,Mechanical,switch,cockpit,a toggle switch flipped once
+Clarity/Definition,distinct,Mechanical,stapler,warehouse,a stapler clicking once
+Clarity/Definition,distinct,Mechanical,latch,doorway,a door latch clicking into place
+Clarity/Definition,distinct,Mechanical,solenoid,factory,a solenoid firing once
+Clarity/Definition,distinct,Mechanical,relay,station,a reed relay engaging once
+Clarity/Definition,distinct,Mechanical,timer,kitchen,a kitchen timer ticking once
+Clarity/Definition,distinct,Mechanical,shutter,studio,a camera taking one photo
+Clarity/Definition,distinct,Mechanical,gears,mill,a single gear tooth meshing
+Clarity/Definition,distinct,Mechanical,pulleys,theater,a pulley clicking once
+Clarity/Definition,distinct,Mechanical,can,pantry,a soda can ring-pull snapped open
+Clarity/Definition,distinct,Mechanical,hammer,forge,a hammer hitting an anvil once
+Clarity/Definition,distinct,Mechanical,sewing machine,attic,a needle piercing fabric once
+Clarity/Definition,distinct,Mechanical,tally counter,subway,a counter clicking once
+Clarity/Definition,distinct,Environmental,drop,cave,a water drop hitting a pool once
+Clarity/Definition,distinct,Environmental,crack,tundra,a sheet of ice cracking once
+Clarity/Definition,distinct,Environmental,snap,woods,a twig snapping in half once
+Clarity/Definition,distinct,Environmental,thunder,desert,a single sharp thunderclap
+Clarity/Definition,distinct,Environmental,hail,carport,a hailstone hitting a roof once
+Clarity/Definition,distinct,Environmental,rain,tin roof,a raindrop hitting metal once
+Clarity/Definition,distinct,Environmental,lightning,plains,a sharp crack of lightning
+Clarity/Definition,distinct,Environmental,fire,campsite,a pine needle popping once
+Clarity/Definition,distinct,Environmental,geyser,park,a puff of steam from a vent
+Clarity/Definition,distinct,Environmental,mud,swamp,a bubble bursting once
+Clarity/Definition,distinct,Environmental,thaw,forest,an icicle hitting a rock once
+Clarity/Definition,distinct,Environmental,pebbles,shore,two pebbles colliding once
+Clarity/Definition,distinct,Environmental,reeds,marsh,a reed stalk cracking once
+Clarity/Definition,distinct,Environmental,grass,field,a wheat stalk snapping once
+Clarity/Definition,distinct,Environmental,snow,slope,a snow crust breaking once
+Clarity/Definition,distinct,Environmental,volcano,island,a glass fragment breaking once
+Clarity/Definition,distinct,Environmental,rock,quarry,a stone hitting a ledge once
+Clarity/Definition,distinct,Environmental,wind,canyon,a gust of wind whistling once
+Clarity/Definition,distinct,Organic,knuckle,study,a person cracking their knuckle once
+Clarity/Definition,distinct,Organic,claws,floor,a dog's claw clicking once
+Clarity/Definition,distinct,Organic,teeth,kitchen,a person biting an apple once
+Clarity/Definition,distinct,Organic,beak,woods,a woodpecker tapping once
+Clarity/Definition,distinct,Organic,insect,meadow,a cricket chirping once
+Clarity/Definition,distinct,Organic,shrimp,reef,a shrimp clicking once
+Clarity/Definition,distinct,Organic,bat,cavern,a bat emitting a click once
+Clarity/Definition,distinct,Organic,tongue,classroom,a tongue cluck once
+Clarity/Definition,distinct,Organic,voice,hallway,a sharp sibilant sound once
+Clarity/Definition,distinct,Organic,hands,studio,a person clapping once
+Clarity/Definition,distinct,Organic,wings,garden,a bird flapping once
+Clarity/Definition,distinct,Organic,lips,bedroom,a lip smack once
+Clarity/Definition,distinct,Organic,shell,beach,a shell clicking once
+Clarity/Definition,distinct,Organic,bone,savanna,a bone snapping once
+Clarity/Definition,distinct,Organic,throat,hallway,a person coughing once
+Clarity/Definition,distinct,Organic,alligator,swamp,a jaw snapping once
+Clarity/Definition,distinct,Organic,heartbeat,clinic,a heartbeat pulse once
+Clarity/Definition,distinct,Domestic,coin,laundry,a coin hitting a floor once
+Clarity/Definition,distinct,Domestic,key,doorway,a key hitting a lock plate
+Clarity/Definition,distinct,Domestic,spoon,kitchen,a spoon hitting a cup once
+Clarity/Definition,distinct,Domestic,bead,bedroom,a bead hitting a box once
+Clarity/Definition,distinct,Domestic,ceramic,pantry,a plate being set down once
+Clarity/Definition,distinct,Domestic,pen,library,a pen being clicked once
+Clarity/Definition,distinct,Domestic,scissors,sewing room,a pair of shears snipping once
+Clarity/Definition,distinct,Domestic,thimble,study,a thimble tapping a desk once
+Clarity/Definition,distinct,Domestic,match,campsite,a match snapping once
+Clarity/Definition,distinct,Domestic,zipper,closet,a zipper moving once
+Clarity/Definition,distinct,Domestic,foil,kitchen,a sheet of foil snapping once
+Clarity/Definition,distinct,Domestic,lightbulb,garage,a filament rattling once
+Clarity/Definition,distinct,Domestic,can,pantry,a can hitting a floor once
+Clarity/Definition,distinct,Domestic,bin,alley,a bin lid closing once
+Clarity/Definition,distinct,Domestic,gate,garden,a latch clicking once
+Clarity/Definition,distinct,Domestic,brush,vanity,a hairbrush hitting a table once
+Clarity/Definition,distinct,Domestic,needle,hobby room,a needle hitting a floor once
+Clarity/Definition,distinct,Electronic,spark,lab,a spark jumping once
+Clarity/Definition,distinct,Electronic,beep,kitchen,a timer beeping once
+Clarity/Definition,distinct,Electronic,static,radio,a pop of static once
+Clarity/Definition,distinct,Electronic,capacitor,workshop,a capacitor discharging once
+Clarity/Definition,distinct,Electronic,hard drive,office,a drive head clicking once
+Clarity/Definition,distinct,Electronic,led,control room,an indicator light clicking once
+Clarity/Definition,distinct,Electronic,relay,telephone,a relay clicking once
+Clarity/Definition,distinct,Electronic,fuse,basement,a fuse blowing once
+Clarity/Definition,distinct,Electronic,connector,data center,a cable clicking in once
+Clarity/Definition,distinct,Electronic,tester,garage,a tester beeping once
+Clarity/Definition,distinct,Electronic,probe,physics lab,a probe tapping once
+Clarity/Definition,distinct,Electronic,monitor,bedroom,a discharge from a screen once
+Clarity/Definition,distinct,Electronic,interference,tower,a burst of noise once
+Clarity/Definition,distinct,Electronic,oscillator,studio,a square wave pulse once
+Clarity/Definition,distinct,Electronic,gate,booth,a noise gate closing once
+Clarity/Definition,distinct,Electronic,flash,studio,a flash firing once
+Clarity/Definition,distinct,Electronic,stylus,living room,a needle hitting a record once
