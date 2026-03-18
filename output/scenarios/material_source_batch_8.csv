@@ -1,0 +1,846 @@
+category,tag,domain,source,environment,scenario
+Material/Source,metallic,Musical,triangle,orchestra pit,a single strike on a small steel triangle in a silent hall
+Material/Source,metallic,Musical,cymbals,marching parade,two thin hi-hat cymbals clashing together rhythmically
+Material/Source,metallic,Musical,trumpet,plaza,a short staccato blast from a polished silver trumpet
+Material/Source,metallic,Musical,banjo,farmhouse,a sharp pluck on a steel banjo string with a metal finger pick
+Material/Source,metallic,Musical,harpsichord,chamber,the mechanical plucking of a high-tension wire string
+Material/Source,metallic,Musical,glockenspiel,nursery,a mallet hitting a small steel bar once
+Material/Source,metallic,Musical,tambourine,stage,the rapid shaking of thin metal jingles on a frame
+Material/Source,metallic,Musical,bells,clock tower,the heavy strike of a bronze bell in a stone tower
+Material/Source,metallic,Musical,cowbell,alpine pasture,a metal beater striking a handheld cowbell
+Material/Source,metallic,Musical,electric guitar,studio,a bridge-pickup chord ringing through a steel-string guitar
+Material/Source,metallic,Musical,jaw harp,campfire,the metallic twang of a small steel harp being flicked
+Material/Source,metallic,Musical,tuning fork,laboratory,a steel tuning fork being struck and held against wood
+Material/Source,metallic,Musical,chimes,temple,wind blowing through a set of hollow aluminum tubes
+Material/Source,metallic,Musical,kettle drum,conservatory,the resonance of a mallet hitting a copper timpani kettle
+Material/Source,metallic,Musical,mouth harp,porch,the vibration of a steel reed between the teeth
+Material/Source,metallic,Musical,snare drum,warehouse,the rattle of metal snares against a drum skin
+Material/Source,metallic,Musical,claves,dance studio,two solid steel bars being struck together
+Material/Source,metallic,Musical,celesta,ballet studio,a shimmering arpeggio played on small steel plates
+Material/Source,metallic,Mechanical,gears,old mill,the meshing of small brass cogs in a wind-up mechanism
+Material/Source,metallic,Mechanical,piston,steam ship,the rhythmic thumping of a polished steel rod in a cylinder
+Material/Source,metallic,Mechanical,lathe,machine shop,a high-speed tool cutting into a spinning aluminum bar
+Material/Source,metallic,Mechanical,clockwork,watchmaker shop,the rapid precision ticking of a stainless steel wristwatch
+Material/Source,metallic,Mechanical,drill,garage,a steel drill bit spinning into a sheet of tin
+Material/Source,metallic,Mechanical,shutter,photography studio,the mechanical snap of a vintage leaf shutter
+Material/Source,metallic,Mechanical,winch,dockside,the high-pitched clicking of a stainless steel ratchet
+Material/Source,metallic,Mechanical,stapler,office,the sharp snap of a heavy-duty metal stapler
+Material/Source,metallic,Mechanical,scissors,design studio,the crisp snip of a pair of fabric shears
+Material/Source,metallic,Mechanical,key,front porch,a metal key turning and snapping a brass lock
+Material/Source,metallic,Mechanical,latch,briefcase,the metallic click of a spring-loaded briefcase lock
+Material/Source,metallic,Mechanical,typewriter,study,the sharp strike of a typebar on a steel frame
+Material/Source,metallic,Mechanical,conveyor,factory,a metal part sliding down a stainless steel chute
+Material/Source,metallic,Mechanical,fan,computer lab,a metal fan blade clipping a wire guard
+Material/Source,metallic,Mechanical,pulley,shipyard,a steel cable sliding through a small metal pulley
+Material/Source,metallic,Mechanical,transformer,substation,the steady sixty-hertz buzz of a metal transformer box
+Material/Source,metallic,Mechanical,coins,vending machine,the clinking of change falling through a metal slot
+Material/Source,metallic,Mechanical,razor,barbershop,the vibration of a safety razor against a metal sink
+Material/Source,metallic,Environmental,hail,carport,small hailstones bouncing off the hood of a sedan
+Material/Source,metallic,Environmental,rain,tin-roofed shed,heavy raindrops hitting a corrugated metal surface
+Material/Source,metallic,Environmental,wind,ruins,wind whistling through a narrow crack in a metal sign
+Material/Source,metallic,Environmental,pebbles,shoreline,small stones hitting a metal pier piling in a wave
+Material/Source,metallic,Environmental,lightning,plains,the sharp snap of a static discharge on a metal fence
+Material/Source,metallic,Environmental,sand,desert,wind-blown sand grains hitting a metal signpost
+Material/Source,metallic,Environmental,thaw,spring,a single drop of water hitting a shallow metal pan
+Material/Source,metallic,Environmental,echo,canyon,a metal bar hitting a rock and echoing in a gorge
+Material/Source,metallic,Environmental,icicle,winter forest,the high-pitched drip of water onto a sheet of tin
+Material/Source,metallic,Environmental,bamboo,grove,the light clacking of bamboo stalks hitting a metal post
+Material/Source,metallic,Environmental,storm,harbor,the clattering of metal rigging on a sailboat mast
+Material/Source,metallic,Environmental,stream,mountain,water rushing over a bed of submerged iron ore
+Material/Source,metallic,Environmental,fire,campsite,the popping of a sap pocket in a metal fire pit
+Material/Source,metallic,Environmental,geyser,volcanic field,steam escaping through a narrow metal vent
+Material/Source,metallic,Environmental,mist,coast,fine sea spray hitting a rusted iron railing
+Material/Source,metallic,Environmental,leaves,park,dry autumn leaves skittering across a metal grate
+Material/Source,metallic,Environmental,rock,quarry,a small pebble hitting a jagged steel excavating blade
+Material/Source,metallic,Environmental,thaw,arctic,a chunk of ice sliding down a metal ship hull
+Material/Source,metallic,Organic,shrimp,coral reef,the sharp snap of a pistol shrimp's claw underwater
+Material/Source,metallic,Organic,scales,reptile house,a snake's scales rasping against a metal mesh lid
+Material/Source,metallic,Organic,teeth,dentist office,a person clicking their teeth together sharply
+Material/Source,metallic,Organic,nails,coffee shop,fingernails tapping rapidly on a stainless steel counter
+Material/Source,metallic,Organic,claws,tile floor,a dog's nails clicking on a metal floor transition strip
+Material/Source,metallic,Organic,bird,aviary,the sharp clicking of a parrot's beak against a cage wire
+Material/Source,metallic,Organic,human,library,a sharp high-pitched whistle through a metal orthodontic wire
+Material/Source,metallic,Organic,insect,garden,the high-frequency buzzing of a fly in a metal screen
+Material/Source,metallic,Organic,bone,anthropology lab,tapping a dry mammal bone with a metal probe
+Material/Source,metallic,Organic,human,kitchen,a person snapping their fingers while wearing a metal ring
+Material/Source,metallic,Organic,throat,quiet room,a sharp tutting sound against the teeth
+Material/Source,metallic,Organic,shell,tide pool,the clicking of a crab's claw against a metal pipe
+Material/Source,metallic,Organic,bark,forest,the scratching of an animal on a tree with metal tags
+Material/Source,metallic,Organic,heart,hospital,the rhythmic click of a mechanical heart valve
+Material/Source,metallic,Organic,wings,attic,a moth fluttering against a metal lamp shade
+Material/Source,metallic,Organic,squirrel,park,a squirrel dropping a hard nut onto a metal fence
+Material/Source,metallic,Organic,skin,spa,fingers snapping over a bowl of copper coins
+Material/Source,metallic,Organic,human,gym,the rhythmic thumping of a person on a metal treadmill
+Material/Source,metallic,Domestic,keys,foyer,the jangling of a large ring of brass keys
+Material/Source,metallic,Domestic,silverware,kitchen,a stainless steel fork dropping onto a ceramic plate
+Material/Source,metallic,Domestic,coins,shop,a handful of quarters falling into a metal tin
+Material/Source,metallic,Domestic,soda can,pantry,the sharp crack of a metal tab being opened
+Material/Source,metallic,Domestic,light switch,hallway,the crisp click of a heavy-duty metal toggle
+Material/Source,metallic,Domestic,beads,craft room,tiny metal beads being poured into a tray
+Material/Source,metallic,Domestic,foil,kitchen,the sharp crinkling of a sheet of aluminum foil
+Material/Source,metallic,Domestic,zipper,bedroom,the fast zipping of a heavy metal suitcase closure
+Material/Source,metallic,Domestic,window,attic,a metal latch snapping shut on a wooden frame
+Material/Source,metallic,Domestic,staple,office,a single staple being removed with a metal claw
+Material/Source,metallic,Domestic,needle,sewing room,a metal needle hitting a hardwood floor
+Material/Source,metallic,Domestic,pot,kitchen,the rhythmic clattering of a lid on a metal pot
+Material/Source,metallic,Domestic,hanger,closet,the sliding of a wire coat hanger across a metal rod
+Material/Source,metallic,Domestic,razor,bathroom,the vibration of a safety razor in a metal sink
+Material/Source,metallic,Domestic,jewelry,bedroom,the light clinking of a silver necklace in a box
+Material/Source,metallic,Domestic,pins,sewing room,a pin being dropped onto a tile floor
+Material/Source,metallic,Domestic,iron,laundry room,the hiss of a steam iron on a metal board
+Material/Source,metallic,Domestic,hammer,workshop,the rhythmic pounding of a nail into a wooden beam
+Material/Source,metallic,Domestic,fan,bedroom,the whirring of a high-speed metal desk fan
+Material/Source,metallic,Electronic,spark,laboratory,the sharp snap of a high-voltage electrical spark
+Material/Source,metallic,Electronic,relay,control room,the rapid clinical clicking of a mechanical relay
+Material/Source,metallic,Electronic,buzzer,entryway,the harsh abrasive rasp of an old electronic buzzer
+Material/Source,metallic,Electronic,hard drive,server,the high-frequency whine of a disk platter spinning
+Material/Source,metallic,Electronic,taser,training,the rapid snapping of an electric stun gun
+Material/Source,metallic,Electronic,transformer,street,the deep electromagnetic buzz of a power unit
+Material/Source,metallic,Electronic,monitor,office,the high-pitched whine of a vintage CRT screen
+Material/Source,metallic,Electronic,camera,studio,the whine of a flash unit charging up
+Material/Source,metallic,Electronic,ups,server closet,the steady buzzing of a backup power supply
+Material/Source,metallic,Electronic,interference,lab,the electromagnetic buzz from a high-power circuit
+Material/Source,metallic,Electronic,beeper,hospital,the rhythmic beep of a medical monitor
+Material/Source,metallic,Electronic,oscillator,lab,a square wave at one kilohertz through a metal speaker
+Material/Source,metallic,Electronic,led,workshop,the high-frequency buzzing of a dimming light circuit
+Material/Source,metallic,Electronic,scanner,store,the high-pitched beep of a barcode scanner
+Material/Source,metallic,Electronic,solenoid,factory,the heavy clunk of an automated industrial actuator
+Material/Source,metallic,Electronic,phone,bedroom,a smartphone vibrating on a metal nightstand
+Material/Source,metallic,Electronic,amplifier,stage,the deep low-frequency hum of a guitar amp
+Material/Source,metallic,Electronic,fan,building,the whirring of a small cooling fan starting
+Material/Source,wooden,Musical,marimba,concert hall,a strike on a low-register rosewood bar with a rubber mallet
+Material/Source,wooden,Musical,acoustic guitar,living room,a firm tap on the side of a hollow wooden guitar body
+Material/Source,wooden,Musical,xylophone,classroom,a percussive strike on a thick hardwood xylophone key
+Material/Source,wooden,Musical,log drum,jungle,the hollow resonance of a mallet hitting a slit-log drum
+Material/Source,wooden,Musical,violin,studio,a light knock on the spruce top of a vintage violin
+Material/Source,wooden,Musical,temple block,shrine,a strike on a hollow wooden temple block
+Material/Source,wooden,Musical,castanets,dance studio,the sharp clacking of two hardwood castanets
+Material/Source,wooden,Musical,recorder,conservatory,the breathy low-register note of a wooden recorder
+Material/Source,wooden,Musical,cello,chapel,a resonant pizzicato note on a cello's open g-string
+Material/Source,wooden,Musical,claves,plaza,two solid rosewood sticks being struck together
+Material/Source,wooden,Musical,wood block,orchestra pit,a sharp strike on a hollow maple wood block
+Material/Source,wooden,Musical,lute,library,a thumb-pluck on a thick gut string over a wooden bridge
+Material/Source,wooden,Musical,didgeridoo,outback,the hollow resonant drone of a wooden didgeridoo
+Material/Source,wooden,Musical,pan pipes,mountain,the breathy resonance of air in a large bamboo pipe
+Material/Source,wooden,Musical,piano,ballroom,the sound of the wooden damper mechanism lifting in a grand piano
+Material/Source,wooden,Musical,guiro,festival,a wooden stick scraping against a notched wooden gourd
+Material/Source,wooden,Musical,bongo,beach,a dry hand-slap on a wood-shelled bongo drum
+Material/Source,wooden,Musical,cajon,street corner,a hand strike on the face of a wooden box drum
+Material/Source,wooden,Mechanical,loom,textile mill,the heavy rhythmic clacking of a wooden weaving loom
+Material/Source,wooden,Mechanical,water wheel,old mill,the creaking and splashing of a massive wooden water wheel
+Material/Source,wooden,Mechanical,printing press,museum,the heavy thud of a wooden-framed hand press
+Material/Source,wooden,Mechanical,spinning wheel,cottage,the rhythmic whirring and creaking of a wooden spinning wheel
+Material/Source,wooden,Mechanical,gears,clock tower,the slow grinding of large wooden cogs in an ancient clock
+Material/Source,wooden,Mechanical,lathe,workshop,a hand chisel cutting into a spinning piece of oak
+Material/Source,wooden,Mechanical,winch,dock,the groaning of a heavy wooden winch on a pier
+Material/Source,wooden,Mechanical,fan,attic,the low-frequency whir of a large wooden ceiling fan
+Material/Source,wooden,Mechanical,cart,farmland,the rhythmic creaking of wooden wheels on a dirt road
+Material/Source,wooden,Mechanical,pulley,barn,a rope sliding through a weathered wooden pulley block
+Material/Source,wooden,Mechanical,shutter,old house,a wooden window shutter banging against a frame
+Material/Source,wooden,Mechanical,press,factory,the dull thud of a wooden press mold closing
+Material/Source,wooden,Mechanical,metronome,music room,the hollow mechanical click of a wooden metronome
+Material/Source,wooden,Mechanical,barrel,winery,a heavy oak barrel being rolled across a floor
+Material/Source,wooden,Mechanical,ladder,warehouse,the creaking of a tall wooden ladder being climbed
+Material/Source,wooden,Mechanical,rattle,nursery,the sound of wooden beads shaking inside a box
+Material/Source,wooden,Mechanical,plow,field,the groaning of a wooden plow being pulled through soil
+Material/Source,wooden,Mechanical,gate,farm,the heavy creaking of a large wooden barn gate opening
+Material/Source,wooden,Environmental,trees,forest,two heavy tree branches knocking together in the wind
+Material/Source,wooden,Environmental,twigs,woods,a person walking on a thick layer of dry fallen branches
+Material/Source,wooden,Environmental,log,river,a large wooden log hitting a rock in a stream
+Material/Source,wooden,Environmental,bamboo,tropical grove,the hollow clacking of bamboo stalks in a breeze
+Material/Source,wooden,Environmental,thaw,spring,the snapping of a dry pine branch under a snow load
+Material/Source,wooden,Environmental,echo,canyon,a wooden stick hitting a rock and echoing in a gorge
+Material/Source,wooden,Environmental,stump,meadow,a hollow thud from a boot striking an old tree stump
+Material/Source,wooden,Environmental,reeds,marsh,the dry rustle of hollow reeds in the wind
+Material/Source,wooden,Environmental,hollow,forest,the resonance of a woodpecker tapping a hollow tree
+Material/Source,wooden,Environmental,driftwood,beach,the clatter of dry driftwood being moved by waves
+Material/Source,wooden,Environmental,roots,cliffside,the creaking of tree roots in a shifting slope
+Material/Source,wooden,Environmental,bark,woods,the sound of thick oak bark being stripped from a tree
+Material/Source,wooden,Environmental,seeds,garden,the dry rattling of a wooden seed pod
+Material/Source,wooden,Environmental,wind,ruins,wind whistling through a hollow wooden beam
+Material/Source,wooden,Environmental,cave,cavern,a wooden branch falling and bouncing in a large cave
+Material/Source,wooden,Environmental,rain,forest,the sound of heavy rain hitting a hollow log
+Material/Source,wooden,Environmental,storm,harbor,the creaking of a wooden pier in a heavy swell
+Material/Source,wooden,Environmental,ice,lake,the sound of a wooden stick sliding across a frozen surface
+Material/Source,wooden,Organic,beaver,riverbank,the sound of a beaver gnawing on a thick wooden branch
+Material/Source,wooden,Organic,woodpecker,forest,the rhythmic drumming of a woodpecker on a cedar tree
+Material/Source,wooden,Organic,nut,kitchen,the sharp crack of a walnut shell in a wooden nutcracker
+Material/Source,wooden,Organic,human,hallway,the hollow sound of a hand knocking on a solid wood door
+Material/Source,wooden,Organic,footsteps,old house,the resonant creak of boots on a wooden floorboard
+Material/Source,wooden,Organic,insect,attic,the faint ticking of a deathwatch beetle in a wooden beam
+Material/Source,wooden,Organic,bird,jungle,the rhythmic clacking of a toucan's bill
+Material/Source,wooden,Organic,claws,porch,the clicking of a dog's nails on a wooden deck
+Material/Source,wooden,Organic,bark,woods,the sound of an animal scratching against a rough tree trunk
+Material/Source,wooden,Organic,squirrel,park,a squirrel dropping a hard nut onto a wooden fence
+Material/Source,wooden,Organic,tongue,quiet room,a hollow clicking sound made with the tongue
+Material/Source,wooden,Organic,teeth,bedroom,the muffled chattering of teeth heard through a wooden wall
+Material/Source,wooden,Organic,hooves,stable,the dull thud of a horse's hoof on a wooden ramp
+Material/Source,wooden,Organic,nest,attic,the dry rustle of twigs in a bird's nest
+Material/Source,wooden,Organic,bone,anthropology lab,a strike between two large dry mammal bones
+Material/Source,wooden,Organic,human,gym,a person striking a wooden training dummy
+Material/Source,wooden,Organic,scales,reptile house,the rasp of a lizard's scales on a wooden branch
+Material/Source,wooden,Organic,fruit,orchard,a hard-shell fruit falling and hitting a wooden ladder
+Material/Source,wooden,Domestic,wooden spoon,kitchen,the sound of a wooden spoon striking a wooden bowl
+Material/Source,wooden,Domestic,chair,dining room,the creaking of a heavy wooden chair being sat upon
+Material/Source,wooden,Domestic,floorboard,hallway,the resonant groan of an old floorboard under weight
+Material/Source,wooden,Domestic,rolling pin,bakery,the sound of a wooden rolling pin on a floured board
+Material/Source,wooden,Domestic,door,foyer,the solid thud of a heavy oak door being latched
+Material/Source,wooden,Domestic,cutting board,kitchen,the sound of a knife chopping vegetables on wood
+Material/Source,wooden,Domestic,wicker chair,porch,the complex creaking of a wicker chair moving
+Material/Source,wooden,Domestic,chest,bedroom,the resonant sound of a cedar chest lid being closed
+Material/Source,wooden,Domestic,cabinet,pantry,the sound of a wooden drawer sliding in its track
+Material/Source,wooden,Domestic,stairs,old inn,the deep creak of a person climbing wooden stairs
+Material/Source,wooden,Domestic,basket,laundry room,the rustle of a woven wooden laundry basket
+Material/Source,wooden,Domestic,blind,bedroom,the clattering of wooden slats in a window blind
+Material/Source,wooden,Domestic,brush,dressing room,the sound of a wooden-backed brush on a table
+Material/Source,wooden,Domestic,blocks,nursery,the clatter of wooden building blocks falling on a floor
+Material/Source,wooden,Domestic,table,dining room,a heavy wooden table being dragged across a rug
+Material/Source,wooden,Domestic,shelf,library,the sound of a book being slid onto a wooden shelf
+Material/Source,wooden,Domestic,matches,den,the sound of a wooden match being struck on a box
+Material/Source,wooden,Domestic,clogs,mudroom,the rhythmic clumping of wooden shoes on a floor
+Material/Source,wooden,Electronic,speaker cabinet,living room,the resonance of a hollow wooden speaker box during a bass note
+Material/Source,wooden,Electronic,contact mic,woodshop,a contact microphone being dragged across a pine board
+Material/Source,wooden,Electronic,synthesizer,studio,a short percussive note from an analog synth with a wood-like decay
+Material/Source,wooden,Electronic,radio,study,the muffled sound of a voice through a vintage wooden radio case
+Material/Source,wooden,Electronic,amplifier,rehearsal room,the vibration of a tube amp sitting on a hollow wooden stage
+Material/Source,wooden,Electronic,keyboard,music room,the mechanical clack of a wooden key on a vintage electric piano
+Material/Source,wooden,Electronic,pickup,garage,a screwdriver tapping a guitar pickup on a wooden body
+Material/Source,wooden,Electronic,record player,living room,the resonant thud of a needle hitting a record on a wooden plinth
+Material/Source,wooden,Electronic,buzzer,entryway,the muffled rasp of a buzzer mounted on a wooden door frame
+Material/Source,wooden,Electronic,motor,attic,the vibration of a small motor on a wooden support beam
+Material/Source,wooden,Electronic,fan,office,the low-frequency hum of a fan reflecting off a wooden desk
+Material/Source,wooden,Electronic,computer,lab,the resonance of a pc tower vibrating a wooden tabletop
+Material/Source,wooden,Electronic,solenoid,factory,the muffled click of an actuator inside a wooden housing
+Material/Source,wooden,Electronic,hum,basement,the resonance of an electrical hum through a wooden floor
+Material/Source,wooden,Electronic,inverter,utility room,the vibration of a power unit against a wooden wall
+Material/Source,wooden,Electronic,oscillator,studio,a triangle-wave note with a fast percussive envelope
+Material/Source,wooden,Electronic,interference,lab,the muffled buzz of a circuit heard through a wooden partition
+Material/Source,wooden,Electronic,drone,hallway,the humming of a device causing a wooden shelf to vibrate
+Material/Source,plastic,Musical,recorder,classroom,a sharp overblown note on a plastic soprano recorder
+Material/Source,plastic,Musical,kazoo,playground,a buzzing melody played through a plastic kazoo
+Material/Source,plastic,Musical,ukulele,beach,the light strumming of a small plastic ukulele
+Material/Source,plastic,Musical,xylophone,nursery,a mallet hit on a high-pitched plastic toy key
+Material/Source,plastic,Musical,triangle,school,a strike on a high-pitched synthetic resin triangle
+Material/Source,plastic,Musical,tambourine,stage,the light jingle of metal zills on a plastic frame
+Material/Source,plastic,Musical,marimba,theatre,a strike on a middle bar with a hard plastic mallet
+Material/Source,plastic,Musical,shaker,festival,the rhythmic movement of a plastic egg shaker filled with beads
+Material/Source,plastic,Musical,flute,music room,air being blown through a thin plastic headjoint
+Material/Source,plastic,Musical,glockenspiel,school,a mallet strike on a high-pitched plastic bar
+Material/Source,plastic,Musical,drumsticks,rehearsal room,two plastic sticks being clicked together once
+Material/Source,plastic,Musical,keyboard,parlor,a thin reed-like tone from a cheap battery organ
+Material/Source,plastic,Musical,guitar,music shop,a thumb-pluck on a nylon string with a plastic body
+Material/Source,plastic,Musical,accordion,festival,a sustained chord through a synthetic reed system
+Material/Source,plastic,Musical,pan pipes,meadow,a short breathy note through a narrow plastic pipe
+Material/Source,plastic,Musical,banjo,farmhouse,the sharp strike of a plastic pick on a wire string
+Material/Source,plastic,Musical,kalimba,patio,the release of a small steel tine on a plastic box
+Material/Source,plastic,Musical,snare drum,warehouse,the vibration of plastic snares against a drum skin
+Material/Source,plastic,Mechanical,gears,laboratory,the whirring of tiny plastic gears in a toy
+Material/Source,plastic,Mechanical,fan,office,the thin whirring of a small plastic desk fan
+Material/Source,plastic,Mechanical,zipper,outdoors,the fast zipping of a small plastic track
+Material/Source,plastic,Mechanical,stapler,office,the light snap of a small handheld plastic stapler
+Material/Source,plastic,Mechanical,button,elevator,the tactile click of a plastic floor button
+Material/Source,plastic,Mechanical,winch,sailboat,the light clicking of a small nylon ratchet
+Material/Source,plastic,Mechanical,razor,bathroom,the thin vibration of a plastic electric trimmer
+Material/Source,plastic,Mechanical,piston,laboratory,the clinical sliding of a small plastic syringe
+Material/Source,plastic,Mechanical,pen,office,the clicking of a retractable plastic ballpoint pen
+Material/Source,plastic,Mechanical,shutter,old house,the light click of a plastic window latch
+Material/Source,plastic,Mechanical,sprinkler,lawn,the high-pressure clicking of a plastic nozzle
+Material/Source,plastic,Mechanical,camera,studio,the sharp click of a plastic digital camera shutter
+Material/Source,plastic,Mechanical,sewing machine,tailor,a needle rapidly piercing a strip of polyester
+Material/Source,plastic,Mechanical,drill,garage,a high-speed cordless drill spinning into plastic
+Material/Source,plastic,Mechanical,lathe,workshop,a hand tool carving a spinning block of resin
+Material/Source,plastic,Mechanical,winch,dockside,a plastic cable sliding through a nylon guide
+Material/Source,plastic,Mechanical,pump,basement,the thumping of a submersible plastic sump pump
+Material/Source,plastic,Mechanical,conveyor,factory,a rubber belt moving on plastic rollers
+Material/Source,plastic,Environmental,rain,paved patio,raindrops hitting a large plastic umbrella
+Material/Source,plastic,Environmental,mist,greenhouse,the high-frequency hiss of a plastic fogger
+Material/Source,plastic,Environmental,thaw,driveway,the high-pitched drip of water onto a plastic bucket
+Material/Source,plastic,Environmental,bamboo,patio,two plastic bamboo-look poles knocking together
+Material/Source,plastic,Environmental,hail,sunroom,small ice pellets bouncing off a plastic skylight
+Material/Source,plastic,Environmental,wind,tunnel,the howling of air through a narrow plastic duct
+Material/Source,plastic,Environmental,echo,padded room,a short stifled reflection of a hand clap
+Material/Source,plastic,Environmental,sand,playground,the sound of a plastic shovel in dry grit
+Material/Source,plastic,Environmental,leaves,garden,the rustle of a silk plant in a breeze
+Material/Source,plastic,Environmental,water,car wash,the heavy drumming of spray on a plastic hood
+Material/Source,plastic,Environmental,reeds,marshland,wind-blown plastic reeds slapping against water
+Material/Source,plastic,Environmental,lightning,lab,the sharp snap of a static generator arc
+Material/Source,plastic,Environmental,storm,city,wind whistling through a plastic mesh fence
+Material/Source,plastic,Environmental,icicle,winter forest,the high-pitched drip of melting water onto a tarp
+Material/Source,plastic,Environmental,pebbles,beach,tiny stones being moved by a plastic scoop
+Material/Source,plastic,Environmental,thaw,arctic,ice sliding down a plastic-coated ship hull
+Material/Source,plastic,Environmental,river,canyon,water rushing over a submerged plastic barrier
+Material/Source,plastic,Environmental,geyser,pool,the bubbling of a high-pressure plastic hot tub jet
+Material/Source,plastic,Organic,human,library,a high-pitched whisper through a plastic megaphone
+Material/Source,plastic,Organic,claws,tile floor,the tiny clicking of a hamster's nails on plastic
+Material/Source,plastic,Organic,wings,attic,the frantic fluttering of a moth in a plastic box
+Material/Source,plastic,Organic,teeth,quiet room,the light clicking of fingernails against a mouth guard
+Material/Source,plastic,Organic,nails,coffee shop,tapping a single fingernail on a plastic phone screen
+Material/Source,plastic,Organic,bird,aviary,the clicking of a parrot's beak against a plastic toy
+Material/Source,plastic,Organic,shrimp,reef,the sharp snap of a pistol shrimp in a plastic tank
+Material/Source,plastic,Organic,bat,cave,the high-frequency echo of a bat off a plastic sheet
+Material/Source,plastic,Organic,scales,reptile house,the light rasp of a lizard on a plastic branch
+Material/Source,plastic,Organic,shell,beach,the crunch of a plastic shell-like toy underfoot
+Material/Source,plastic,Organic,human,bathroom,a sharp whistle through a plastic whistle
+Material/Source,plastic,Organic,bark,woods,an animal scratching against a tree with plastic guards
+Material/Source,plastic,Organic,throat,bedroom,the sound of a soft cough in a plastic-lined room
+Material/Source,plastic,Organic,heartbeat,quiet room,the thud of a heart through a plastic stethoscope
+Material/Source,plastic,Organic,tongue,office,a series of fast clicks against a plastic palate
+Material/Source,plastic,Organic,human,gym,the rhythmic skipping of a plastic jump rope
+Material/Source,plastic,Organic,squirrel,park,the high-pitched chattering on a plastic fence
+Material/Source,plastic,Organic,frog,pond,the chirping of a spring peeper near a plastic pipe
+Material/Source,plastic,Domestic,plastic bag,kitchen,the sharp crinkling of a thin grocery bag
+Material/Source,plastic,Domestic,keys,foyer,the light jingling of a plastic key fob on a ring
+Material/Source,plastic,Domestic,glass,dining room,the thin clink of two plastic wine glasses
+Material/Source,plastic,Domestic,coins,shop,the thin sound of a single penny on a plastic mat
+Material/Source,plastic,Domestic,light switch,office,the sharp click of a plastic rocker switch
+Material/Source,plastic,Domestic,beads,craft room,tiny plastic beads being poured into a tray
+Material/Source,plastic,Domestic,silverware,kitchen,a plastic teaspoon hitting a porcelain saucer
+Material/Source,plastic,Domestic,spray,garage,the high-pitched hiss of a precision plastic oil spray
+Material/Source,plastic,Domestic,zipper,bedroom,the fast pull of a tiny plastic dress zipper
+Material/Source,plastic,Domestic,window,bedroom,a fingernail tapping on a thin plastic pane
+Material/Source,plastic,Domestic,staple,office,a single staple falling onto a plastic desk
+Material/Source,plastic,Domestic,needle,sewing room,a needle being pushed through polyester fabric
+Material/Source,plastic,Domestic,razor,bathroom,the thin vibration of a plastic electric brush
+Material/Source,plastic,Domestic,jewelry,bedroom,the light clinking of a plastic chain in a box
+Material/Source,plastic,Domestic,paper,office,the light rustle of a sheet of plastic-coated paper
+Material/Source,plastic,Domestic,pins,sewing room,a pin being dropped onto a linoleum floor
+Material/Source,plastic,Domestic,mirror,bathroom,the sharp snap of a plastic mirror frame
+Material/Source,plastic,Domestic,wire,garage,a thin metal wire being snipped with plastic pliers
+Material/Source,plastic,Electronic,beeper,hospital,the high-pitched rhythmic beep of a plastic monitor
+Material/Source,plastic,Electronic,monitor,office,the high-frequency whine of a modern lcd screen
+Material/Source,plastic,Electronic,scanner,store,the high-pitched beep of a laser scanner
+Material/Source,plastic,Electronic,buzzer,entryway,the thin rasp of a small plastic door buzzer
+Material/Source,plastic,Electronic,feedback,stage,a high-pitched squeal through a plastic speaker
+Material/Source,plastic,Electronic,hard drive,server,the whine of a small drive in a plastic case
+Material/Source,plastic,Electronic,led,lab,the high-frequency hum of a small plastic led driver
+Material/Source,plastic,Electronic,static,radio,the high-pitched hiss of a plastic radio glitch
+Material/Source,plastic,Electronic,camera,studio,the whine of a flash charging in a plastic camera
+Material/Source,plastic,Electronic,taser,training,the rapid thin snapping of a plastic stun gun
+Material/Source,plastic,Electronic,fan,office,the high-pitched whir of a small plastic usb fan
+Material/Source,plastic,Electronic,inverter,utility room,the thin buzz of a plastic power adapter
+Material/Source,plastic,Electronic,solenoid,factory,the sharp light clink of a small plastic relay
+Material/Source,plastic,Electronic,oscillator,lab,a high-frequency sine wave at fifteen kilohertz
+Material/Source,plastic,Electronic,radio,kitchen,the thin sound of a voice through a small radio
+Material/Source,plastic,Electronic,phone,bedroom,the high-pitched ringtone of a plastic smartphone
+Material/Source,plastic,Electronic,spark,lab,the sharp snap of a small static spark in a plastic tube
+Material/Source,plastic,Electronic,synthesizer,studio,a thin pulse-wave note with a plastic decay
+Material/Source,rubbery,Musical,drum,rehearsal space,a strike on a large drum with a thick rubber mallet
+Material/Source,rubbery,Musical,bongo,beach,a flat hand slap on a loose rubber-skinned bongo drum
+Material/Source,rubbery,Musical,xylophone,classroom,a soft rubber mallet hitting a thick wooden bar
+Material/Source,rubbery,Musical,marimba,theatre,a strike on a low bar with a soft rubber-core mallet
+Material/Source,rubbery,Musical,guitar,bedroom,a thumb-plucked note on a thick rubber-coated string
+Material/Source,rubbery,Musical,cello,chapel,a pizzicato note on a cello with a heavy rubber practice mute
+Material/Source,rubbery,Musical,bass,jazz club,a palm-muted pluck on an upright bass with rubber strings
+Material/Source,rubbery,Musical,tambourine,basement,shaking a tambourine with rubber-coated jingles
+Material/Source,rubbery,Musical,shaker,parade,a heavy rubber tube filled with soft beads being moved
+Material/Source,rubbery,Musical,synthesizer,studio,a low-pass filtered square wave with a rubbery envelope
+Material/Source,rubbery,Musical,harp,music room,a pluck on a thick gut string with a rubber tip
+Material/Source,rubbery,Musical,conga,dance hall,a muffled rubber-skin stroke on a conga drum
+Material/Source,rubbery,Musical,triangle,orchestra pit,a strike on a steel triangle with a rubber beater
+Material/Source,rubbery,Musical,glockenspiel,nursery,a mallet hit on a small bar with a rubber cap
+Material/Source,rubbery,Musical,mouth harp,campfire,the metallic twang with a rubber-coated tongue
+Material/Source,rubbery,Musical,wood block,auditorium,a strike on a hollow block with a rubber beater
+Material/Source,rubbery,Musical,celesta,ballet studio,a note played with a rubber-tipped hammer
+Material/Source,rubbery,Musical,pan pipes,mountain,a breathy note through a thick rubber pipe
+Material/Source,rubbery,Mechanical,belt,engine bay,a loose rubber fan belt slipping and squeaking
+Material/Source,rubbery,Mechanical,gears,old factory,the movement of heavy rubber-coated industrial gears
+Material/Source,rubbery,Mechanical,piston,laboratory,the wet sound of a rubber seal in a cylinder
+Material/Source,rubbery,Mechanical,conveyor,warehouse,a heavy rubber belt moving on rollers
+Material/Source,rubbery,Mechanical,door,subway,the closing of a heavy rubber-edged train door
+Material/Source,rubbery,Mechanical,wheel,airport,a heavy suitcase wheel rolling over a rubber floor
+Material/Source,rubbery,Mechanical,lathe,machine shop,a spinning rubber wheel making contact with metal
+Material/Source,rubbery,Mechanical,press,factory,a hydraulic press hitting a thick rubber pad
+Material/Source,rubbery,Mechanical,winch,dockside,the movement of a rubber-coated winch cable
+Material/Source,rubbery,Mechanical,wiper,car,the sound of a rubber windshield wiper on wet glass
+Material/Source,rubbery,Mechanical,tire,highway,the sound of a rubber tire slapping against pavement
+Material/Source,rubbery,Mechanical,fan,office,a plastic fan blade hitting a rubber stopper
+Material/Source,rubbery,Mechanical,pump,basement,the thumping of a submersible rubber-sealed pump
+Material/Source,rubbery,Mechanical,bellows,forge,the rhythmic sound of a rubber-coated air bag
+Material/Source,rubbery,Mechanical,shutter,old house,a heavy wooden shutter hitting a rubber bumper
+Material/Source,rubbery,Mechanical,pulleys,barn,a thick rubber-coated rope sliding through a block
+Material/Source,rubbery,Mechanical,staple gun,factory,the muffled thud of a stapler against a rubber mat
+Material/Source,rubbery,Mechanical,drill,garage,a drill bit spinning in a thick rubber block
+Material/Source,rubbery,Environmental,mud,swamp,a heavy boot pulling out of thick wet rubbery mud
+Material/Source,rubbery,Environmental,water,cave,a large pool of water sloshing in a rubbery bag
+Material/Source,rubbery,Environmental,leaves,woods,the sound of a person walking on thick mossy soil
+Material/Source,rubbery,Environmental,thaw,spring,the high-pitched drip of water onto a rubber mat
+Material/Source,rubbery,Environmental,geyser,volcanic field,the bubbling of a thick mud pot
+Material/Source,rubbery,Environmental,echo,tunnel,a low-frequency thud echoing in a rubber-lined room
+Material/Source,rubbery,Environmental,rock,quarry,a large boulder landing on a pile of soft rubber scrap
+Material/Source,rubbery,Environmental,sand,desert,the muffled sound of footsteps on a rubbery dune
+Material/Source,rubbery,Environmental,mist,coast,the hiss of sea spray hitting a heavy rubber coat
+Material/Source,rubbery,Environmental,lightning,plains,the snap of a static charge through a rubber sheet
+Material/Source,rubbery,Environmental,rain,tent,the drumming of rain on a thick rubber tarp
+Material/Source,rubbery,Environmental,snow,tundra,the sound of boots tamping down a rubbery drift
+Material/Source,rubbery,Environmental,ice,lake,the muffled booming of a frozen lake in a rubbery container
+Material/Source,rubbery,Environmental,wind,ruins,wind whistling through a thick rubber gap
+Material/Source,rubbery,Environmental,lava,ocean,the muffled hiss of lava hitting a rubbery surface
+Material/Source,rubbery,Environmental,reeds,marsh,the rustle of stalks through a thick rubbery mist
+Material/Source,rubbery,Environmental,stream,mountain,water rushing through a narrow rubber pipe
+Material/Source,rubbery,Environmental,hail,carport,the muffled sound of hail hitting a rubber roof
+Material/Source,rubbery,Organic,human,gym,a boxing glove hitting a heavy rubber-coated punching bag
+Material/Source,rubbery,Organic,skin,spa,the sound of hands being rubbed together with thick lotion
+Material/Source,rubbery,Organic,heartbeat,quiet room,the low thud of a heart heard through a rubber vest
+Material/Source,rubbery,Organic,breathing,bedroom,the muffled sound of a person through a rubber mask
+Material/Source,rubbery,Organic,stomach,bedroom,the gurgling of digestion heard through a rubber sheet
+Material/Source,rubbery,Organic,teeth,bathroom,a person clicking their teeth against a rubber guard
+Material/Source,rubbery,Organic,tongue,office,a muffled tongue click with the mouth nearly closed
+Material/Source,rubbery,Organic,human,nursery,a person humming through a thick rubbery layer
+Material/Source,rubbery,Organic,footsteps,hallway,the muffled thud of bare feet on a rubber mat
+Material/Source,rubbery,Organic,shrimp,reef,the muffled snap of a shrimp claw in a rubber tank
+Material/Source,rubbery,Organic,claws,tile floor,the tiny clicking of nails on a rubber surface
+Material/Source,rubbery,Organic,bird,forest,the muffled flutter of wings in a rubbery canopy
+Material/Source,rubbery,Organic,wings,attic,the sound of a moth fluttering against a rubbery sheet
+Material/Source,rubbery,Organic,bark,woods,an animal scratching against a rubber-coated tree
+Material/Source,rubbery,Organic,hooves,stable,a horse shifting its weight on a rubber floor
+Material/Source,rubbery,Organic,purr,living room,the muffled vibration of a cat on a rubber mat
+Material/Source,rubbery,Organic,bone,lab,the shifting click of a jaw joint in a rubbery cast
+Material/Source,rubbery,Organic,tail,aquarium,the irregular slapping of a tail on a rubbery wall
+Material/Source,rubbery,Domestic,plunger,bathroom,the rhythmic movement of a rubber plunger in a sink
+Material/Source,rubbery,Domestic,mop,hallway,a wet rubber mop being slapped onto a floor
+Material/Source,rubbery,Domestic,mat,entrance,a heavy rubber floor mat being shaken out
+Material/Source,rubbery,Domestic,shoes,mudroom,the sound of wet rubber boots hitting the floor
+Material/Source,rubbery,Domestic,cabinet,pantry,the sound of a drawer with a thick rubber bumper
+Material/Source,rubbery,Domestic,pillow,bedroom,the sound of a head hitting a firm rubbery pillow
+Material/Source,rubbery,Domestic,rug,hallway,the muffled thud of a book on a rubber-backed rug
+Material/Source,rubbery,Domestic,curtain,shower,a heavy rubberized curtain moving in a draft
+Material/Source,rubbery,Domestic,pot,kitchen,the muffled clattering of a lid on a rubber mat
+Material/Source,rubbery,Domestic,bottle,kitchen,water sloshing inside a large rubbery jug
+Material/Source,rubbery,Domestic,zipper,bedroom,the sound of a zip being pulled over a rubber bag
+Material/Source,rubbery,Domestic,faucet,bathroom,the resonance of water in a rubbery hose
+Material/Source,rubbery,Domestic,iron,laundry room,the hiss of a steam iron on a rubber pad
+Material/Source,rubbery,Domestic,shaver,bathroom,the vibration of a razor with a rubber grip
+Material/Source,rubbery,Domestic,ac unit,window,the hum of a compressor on a rubber mount
+Material/Source,rubbery,Domestic,mower,yard,the roar of an engine through rubbery insulation
+Material/Source,rubbery,Domestic,trash,alleyway,the muffled thud of a bag in a rubber bin
+Material/Source,rubbery,Domestic,door,house,the muffled thud of a rubber-edged door closing
+Material/Source,rubbery,Electronic,cable,studio,the low-frequency handling noise of a rubber jacket
+Material/Source,rubbery,Electronic,synthesizer,studio,a sawtooth wave with a thick rubbery filter sweep
+Material/Source,rubbery,Electronic,phone,bedroom,the muffled vibration of a phone with a rubber case
+Material/Source,rubbery,Electronic,speaker,club,the movement of a woofer cone against a rubber seal
+Material/Source,rubbery,Electronic,glitch,studio,a series of muffled digital audio artifacts
+Material/Source,rubbery,Electronic,relay,factory,the wet-sounding click of a rubber-coated switch
+Material/Source,rubbery,Electronic,hard drive,server,the muffled whine of a disk in a rubber mount
+Material/Source,rubbery,Electronic,fan,building,the whir of a fan through a rubbery duct
+Material/Source,rubbery,Electronic,inverter,utility room,the vibration of a unit in a rubber cabinet
+Material/Source,rubbery,Electronic,ups,server closet,the muffled beep of a supply behind a rubber door
+Material/Source,rubbery,Electronic,taser,training,the muffled snapping of an electric arc on rubber
+Material/Source,rubbery,Electronic,solenoid,factory,the muffled click of a valve behind a rubber shield
+Material/Source,rubbery,Electronic,hum,basement,the muffled buzz of a grounded electrical system
+Material/Source,rubbery,Electronic,oscillator,lab,a triangle wave through a low-bitrate rubbery filter
+Material/Source,rubbery,Electronic,monitor,office,the muffled whine of a screen on a rubber mount
+Material/Source,rubbery,Electronic,camera,studio,the whine of a flash unit in a rubbery housing
+Material/Source,rubbery,Electronic,beeper,hospital,the rhythmic beep heard through rubber padding
+Material/Source,rubbery,Electronic,transformer,street,the irregular buzz of a unit on a rubber pad
+Material/Source,crystalline,Musical,glass harp,hallway,a finger rubbing the rim of a thin crystal glass
+Material/Source,crystalline,Musical,wind chimes,patio,the light clinking of thin glass tubes in a breeze
+Material/Source,crystalline,Musical,triangle,conservatory,the high-frequency ring of a silver triangle
+Material/Source,crystalline,Musical,glockenspiel,nursery,a soft strike on a tiny steel glockenspiel bar
+Material/Source,crystalline,Musical,celesta,ballet studio,a single shimmering note on a celesta
+Material/Source,crystalline,Musical,violin,art gallery,a high-frequency harmonic played with a light bow
+Material/Source,crystalline,Musical,flute,meadow,the pure breathy tone of a crystal flute
+Material/Source,crystalline,Musical,harp,chapel,a rapid glissando on the highest nylon strings
+Material/Source,crystalline,Musical,piccolo,botanical garden,a high-pitched trill from a silver piccolo
+Material/Source,crystalline,Musical,mandolin,cafe,a fast tremolo on thin steel mandolin strings
+Material/Source,crystalline,Musical,cymbals,stage,the splash of a pair of tiny finger cymbals
+Material/Source,crystalline,Musical,kalimba,quiet porch,the release of a tiny steel tine on a thumb piano
+Material/Source,crystalline,Musical,mouth harp,campfire,the metallic vibration of a small jaw harp
+Material/Source,crystalline,Musical,ukulele,beach,a light strum on a small soprano ukulele
+Material/Source,crystalline,Musical,recorder,classroom,a soft breath through a plastic soprano recorder
+Material/Source,crystalline,Musical,shaker,parade,the light jingling of a small plastic egg shaker
+Material/Source,crystalline,Musical,piano,studio,a quick light trill in the highest register
+Material/Source,crystalline,Musical,lute,library,a light pluck on a silk-wound lute string
+Material/Source,crystalline,Mechanical,watch,watchmaker,the rapid ticking of a small ladies' wristwatch
+Material/Source,crystalline,Mechanical,sewing machine,tailor shop,a needle rapidly piercing a strip of silk
+Material/Source,crystalline,Mechanical,camera,studio,the sharp click of a micro-shutter in a crystal lens
+Material/Source,crystalline,Mechanical,scissors,design studio,the light snip of a pair of thread cutters
+Material/Source,crystalline,Mechanical,zipper,outdoors,the fast zipping of a small plastic fly
+Material/Source,crystalline,Mechanical,metronome,music room,the light mechanical click of a plastic metronome
+Material/Source,crystalline,Mechanical,stapler,office,the light snap of a small handheld stapler
+Material/Source,crystalline,Mechanical,bell,hotel,the high-pitched ding of a small silver bell
+Material/Source,crystalline,Mechanical,latch,briefcase,the light click of a metal briefcase lock
+Material/Source,crystalline,Mechanical,mouse click,office,the tactile click of a computer mouse button
+Material/Source,crystalline,Mechanical,shutter,old house,the light click of a metal window latch
+Material/Source,crystalline,Mechanical,fan,computer lab,the high-pitched whir of a small cooling fan
+Material/Source,crystalline,Mechanical,razor,bathroom,the light vibration of an electric beard trimmer
+Material/Source,crystalline,Mechanical,needle,record shop,the light scratch of a needle on a vinyl record
+Material/Source,crystalline,Mechanical,pen,office,the clicking of a retractable ballpoint pen
+Material/Source,crystalline,Environmental,wind,ruins,wind whistling through a needle-thin crack in a wall
+Material/Source,crystalline,Environmental,rain,tin roof,a fine drizzle hitting a narrow metal pipe
+Material/Source,crystalline,Environmental,stream,mountain,the trickling of a tiny rivulet over pebbles
+Material/Source,crystalline,Environmental,leaves,park,the dry rustle of a single leaf on a pavement
+Material/Source,crystalline,Environmental,pebbles,shoreline,small stones clicking together in a gentle wave
+Material/Source,crystalline,Environmental,hail,carport,tiny sleet pellets bouncing off a window
+Material/Source,crystalline,Environmental,ice,lake,the high-pitched crack of a thin layer of surface ice
+Material/Source,crystalline,Environmental,water,cave,a single tiny droplet hitting a shallow pool
+Material/Source,crystalline,Environmental,mist,coast,the high-frequency hiss of fine sea spray
+Material/Source,crystalline,Environmental,sand,desert,fine sand grains hitting a metal sign in the wind
+Material/Source,crystalline,Environmental,bamboo,grove,the light clacking of thin bamboo twigs
+Material/Source,crystalline,Environmental,insect,garden,the high-frequency whine of a gnat near an ear
+Material/Source,crystalline,Environmental,cricket,night field,the sharp high-pitched chirp of a house cricket
+Material/Source,crystalline,Environmental,echo,canyon,a high-pitched bird call echoing off a nearby rock
+Material/Source,crystalline,Environmental,reeds,marsh,the light rustle of dry grass in a breeze
+Material/Source,crystalline,Environmental,lightning,distance,the sharp snap of a small static discharge
+Material/Source,crystalline,Environmental,icicle,winter forest,the high-pitched drip of melting water onto a stone
+Material/Source,crystalline,Organic,insect,field,the high-frequency buzzing of a fly's wings
+Material/Source,crystalline,Organic,human,library,a high-pitched whisper from across a room
+Material/Source,crystalline,Organic,mouse,attic,the tiny squeak of a mouse behind a wall
+Material/Source,crystalline,Organic,bird,aviary,the high-pitched chirp of a small finch
+Material/Source,crystalline,Organic,bat,cave,the high-frequency echolocation click of a bat
+Material/Source,crystalline,Organic,teeth,quiet room,the light clicking of fingernails against teeth
+Material/Source,crystalline,Organic,nails,coffee shop,tapping a single fingernail on a glass screen
+Material/Source,crystalline,Organic,shrimp,reef,the sharp high-pitched snap of a snapping shrimp
+Material/Source,crystalline,Organic,scales,reptile house,the light rasp of a lizard's belly on glass
+Material/Source,crystalline,Organic,shell,beach,the thin crunch of a small snail shell underfoot
+Material/Source,crystalline,Organic,human,bathroom,a sharp high-pitched whistle through the teeth
+Material/Source,crystalline,Organic,bark,forest,the light snap of a thin dry twig
+Material/Source,crystalline,Organic,wings,garden,the high-frequency hum of a hummingbird
+Material/Source,crystalline,Organic,tongue,quiet room,a light tutting sound with the tip of the tongue
+Material/Source,crystalline,Organic,hair,salon,the light snip of a single hair being cut
+Material/Source,crystalline,Organic,plant,meadow,the dry rustle of a seed pod in the wind
+Material/Source,crystalline,Organic,frog,pond,the high-pitched peep of a spring peeper frog
+Material/Source,crystalline,Domestic,foil,kitchen,the sharp crinkling of a small piece of tin foil
+Material/Source,crystalline,Domestic,keys,foyer,the light jingling of a single key on a ring
+Material/Source,crystalline,Domestic,glass,dining room,the thin clink of two wine glass rims
+Material/Source,crystalline,Domestic,coins,shop,the thin sound of a single penny falling on wood
+Material/Source,crystalline,Domestic,light switch,office,the sharp click of a small plastic rocker switch
+Material/Source,crystalline,Domestic,beads,craft room,tiny glass beads being poured into a plastic tray
+Material/Source,crystalline,Domestic,silverware,kitchen,a metal teaspoon hitting a porcelain saucer
+Material/Source,crystalline,Domestic,spray,garage,the high-pitched hiss of a precision oil spray
+Material/Source,crystalline,Domestic,zipper,bedroom,the fast pull of a tiny metal dress zipper
+Material/Source,crystalline,Domestic,window,bedroom,a fingernail tapping on a thin glass pane
+Material/Source,crystalline,Domestic,staple,office,a single staple falling onto a metal desk
+Material/Source,crystalline,Domestic,needle,sewing room,a needle being pushed through a piece of silk
+Material/Source,crystalline,Domestic,razor,bathroom,the thin vibration of an electric toothbrush
+Material/Source,crystalline,Domestic,jewelry,bedroom,the light clinking of a gold chain in a box
+Material/Source,crystalline,Domestic,paper,office,the light rustle of a single sheet of tissue paper
+Material/Source,crystalline,Domestic,mirror,bathroom,the sharp snap of a thin glass mirror cracking
+Material/Source,crystalline,Domestic,wire,garage,a thin copper wire being snipped with small cutters
+Material/Source,crystalline,Electronic,spark,lab,the sharp snap of a small static spark
+Material/Source,crystalline,Electronic,beeper,hospital,the high-pitched rhythmic beep of a monitor
+Material/Source,crystalline,Electronic,buzzer,entryway,the thin rasp of a small electronic door buzzer
+Material/Source,crystalline,Electronic,feedback,stage,a high-pitched squeal of audio feedback
+Material/Source,crystalline,Electronic,hard drive,server,the high-frequency whine of a small drive motor
+Material/Source,crystalline,Electronic,led,lab,the high-frequency hum of a small led driver
+Material/Source,crystalline,Electronic,synthesizer,studio,a thin pulse-wave note with the filter open
+Material/Source,crystalline,Electronic,static,radio,the high-pitched hiss of a digital radio glitch
+Material/Source,crystalline,Electronic,camera,studio,the high-pitched whine of a small flash charging
+Material/Source,crystalline,Electronic,taser,training,the rapid thin snapping of a stun gun
+Material/Source,crystalline,Electronic,fan,office,the high-pitched whir of a small usb desk fan
+Material/Source,crystalline,Electronic,inverter,utility room,the thin buzz of a small power adapter
+Material/Source,crystalline,Electronic,solenoid,factory,the sharp light clink of a small relay
+Material/Source,crystalline,Electronic,phone,bedroom,the high-pitched ringtone of a smartphone
+Material/Source,icy,Musical,glockenspiel,music box shop,the sharp strike of a metal mallet on a steel bar
+Material/Source,icy,Musical,triangle,orchestra pit,a single high-pitched ding from a thin steel triangle
+Material/Source,icy,Musical,synthesizer,studio,a short pulse-width modulated lead note with no vibrato
+Material/Source,icy,Musical,flute,conservatory,a sharp overblown note on a silver-plated flute
+Material/Source,icy,Musical,cymbals,marching band,the crisp clash of two thin hi-hat cymbals
+Material/Source,icy,Musical,electric guitar,rehearsal room,a clean bridge-pickup chord played through a digital pedal
+Material/Source,icy,Musical,piccolo,botanical garden,a piercing high-frequency trill on a metal piccolo
+Material/Source,icy,Musical,xylophone,school,a strike on a synthetic resin xylophone bar
+Material/Source,icy,Musical,trumpet,plaza,a sharp staccato blast from a silver trumpet
+Material/Source,icy,Musical,chimes,zen garden,the thin tinkling of aluminum tubes in a freezing wind
+Material/Source,icy,Musical,harpsichord,ballroom,the mechanical plucking of a high-tension steel string
+Material/Source,icy,Musical,bells,clock tower,the sharp clanging of a small iron bell
+Material/Source,icy,Musical,tambourine,stage,the rapid shaking of thin metal jingles
+Material/Source,icy,Musical,violin,concert hall,a sharp spiccato note on a thin e-string
+Material/Source,icy,Musical,banjo,front porch,a fast pluck on a steel banjo string with a metal pick
+Material/Source,icy,Musical,castanets,dance studio,the sharp clicking of hard plastic castanets
+Material/Source,icy,Musical,drum,warehouse,a sharp rimshot on a high-tuned snare drum
+Material/Source,icy,Musical,theremin,laboratory,a high-frequency sine-like slide on a theremin
+Material/Source,icy,Mechanical,scalpel,operating room,the clinical scraping of a steel blade on a metal tray
+Material/Source,icy,Mechanical,clockwork,watchmaker shop,the rapid precision ticking of a stainless steel watch
+Material/Source,icy,Mechanical,gears,factory,the high-pitched whirring of small unlubricated steel gears
+Material/Source,icy,Mechanical,camera,photography studio,the sharp mechanical click of a modern dslr shutter
+Material/Source,icy,Mechanical,sewing machine,tailor shop,the rapid needle strikes on a thin silk fabric
+Material/Source,icy,Mechanical,lathe,machine shop,a high-speed metal bit cutting into a block of aluminum
+Material/Source,icy,Mechanical,typewriter,office,the sharp clack of a metal key hitting a steel frame
+Material/Source,icy,Mechanical,scissors,hair salon,the crisp snip of stainless steel scissors closing
+Material/Source,icy,Mechanical,sprinkler,lawn,the high-pressure clicking of a metal impact sprinkler
+Material/Source,icy,Mechanical,shutter,bank,the sharp metallic slide of a security grate being closed
+Material/Source,icy,Mechanical,drill,dentist office,the high-frequency whine of a pneumatic dental drill
+Material/Source,icy,Mechanical,zipper,outdoors,the fast zipping of a hard plastic track on a jacket
+Material/Source,icy,Mechanical,metronome,music room,the sharp percussive click of an electronic metronome
+Material/Source,icy,Mechanical,stapler,office,the crisp snap of a metal stapler piercing paper
+Material/Source,icy,Mechanical,razor,barbershop,the high-frequency vibration of an electric foil shaver
+Material/Source,icy,Mechanical,fan,computer lab,the high-pitched whir of a small high-speed cooling fan
+Material/Source,icy,Mechanical,piston,laboratory,the clinical sliding of a polished steel piston in a glass tube
+Material/Source,icy,Mechanical,coins,vending machine,the sharp clinking of a coin falling through a metal chute
+Material/Source,icy,Environmental,ice,frozen lake,the sharp crack of a thin layer of ice fracturing
+Material/Source,icy,Environmental,sleet,patio,fine ice pellets hitting a glass table top rapidly
+Material/Source,icy,Environmental,wind,mountain peak,the piercing whistle of wind through a narrow rock crevice
+Material/Source,icy,Environmental,hail,carport,small hailstones bouncing off a metal car roof
+Material/Source,icy,Environmental,icicle,winter forest,an icicle shattering on a frozen stone surface
+Material/Source,icy,Environmental,snow,arctic tundra,the high-pitched crunch of boots on dry sub-zero snow
+Material/Source,icy,Environmental,glacier,ice cave,the sharp resonant snap of a deep fissure opening
+Material/Source,icy,Environmental,rain,industrial roof,heavy rain hitting a corrugated steel sheet
+Material/Source,icy,Environmental,sand,desert night,wind-blown sand grains hitting a glass bottle
+Material/Source,icy,Environmental,water,arctic sea,the sharp splash of a small ice chunk hitting water
+Material/Source,icy,Environmental,pebbles,shoreline,small stones clicking together in the receding surf
+Material/Source,icy,Environmental,leaves,frozen field,dry brittle leaves snapping underfoot in winter
+Material/Source,icy,Environmental,bamboo,grove,two frozen bamboo stalks clashing in the wind
+Material/Source,icy,Environmental,cave,ice cavern,a single droplet of water hitting a frozen puddle
+Material/Source,icy,Environmental,rock,quarry,a small pebble falling and hitting a jagged granite face
+Material/Source,icy,Environmental,mist,coast,the high-frequency hiss of fine spray hitting a cliff
+Material/Source,icy,Environmental,lightning,plains,the sharp instantaneous crack of a nearby bolt
+Material/Source,icy,Organic,teeth,winter,the rapid chattering of a person's teeth in the cold
+Material/Source,icy,Organic,bone,desert,a dry animal skull being tapped by a stone
+Material/Source,icy,Organic,insect,meadow,the high-frequency buzzing of a fly caught in a window
+Material/Source,icy,Organic,scales,reptile house,a snake's dry scales rasping against a glass pane
+Material/Source,icy,Organic,claws,tile floor,a small cat's claws clicking on a porcelain tile
+Material/Source,icy,Organic,human,library,a sharp high-pitched whistle through pursed lips
+Material/Source,icy,Organic,bird,aviary,the piercing screech of a hawk in a large enclosure
+Material/Source,icy,Organic,nails,coffee shop,fingernails tapping rapidly on a Formica tabletop
+Material/Source,icy,Organic,bat,cave,the high-frequency clicking of a bat in flight
+Material/Source,icy,Organic,shells,beach,the sound of crushed sea shells being stepped on
+Material/Source,icy,Organic,cricket,night,the sharp chirping of a field cricket on a cold night
+Material/Source,icy,Organic,human,bathroom,the sharp snap of fingers in a tiled room
+Material/Source,icy,Organic,plant,meadow,the dry rustle of frozen ornamental grass
+Material/Source,icy,Organic,squirrel,park,the high-pitched chattering of a squirrel on a fence
+Material/Source,icy,Organic,bark,forest,the crisp snapping of thin dry birch bark
+Material/Source,icy,Organic,insect,summer,the high-frequency whine of a mosquito near an ear
+Material/Source,icy,Organic,tongue,quiet room,a sharp tutting sound against the roof of the mouth
+Material/Source,icy,Domestic,ice,kitchen,the clinking of ice cubes in a thin glass tumbler
+Material/Source,icy,Domestic,silverware,dining room,a stainless steel fork hitting a ceramic plate
+Material/Source,icy,Domestic,keys,front door,the jangling of a bunch of metal keys on a ring
+Material/Source,icy,Domestic,light switch,hallway,the crisp click of a plastic toggle switch
+Material/Source,icy,Domestic,coins,laundromat,a handful of quarters falling into a metal tray
+Material/Source,icy,Domestic,glass,living room,a thin glass ornament shattering on a tile floor
+Material/Source,icy,Domestic,refrigerator,kitchen,the high-pitched hum of a cooling compressor
+Material/Source,icy,Domestic,spray,garage,the sharp hiss of an aerosol can being sprayed
+Material/Source,icy,Domestic,beads,craft room,glass beads being poured into a tin container
+Material/Source,icy,Domestic,window,bedroom,a fingernail tapping against a cold glass pane
+Material/Source,icy,Domestic,porcelain,kitchen,the clink of a ceramic lid being placed on a jar
+Material/Source,icy,Domestic,razor,bathroom,the vibration of a safety razor being rinsed in a sink
+Material/Source,icy,Domestic,zipper,bedroom,the fast zipping of a metal suitcase closure
+Material/Source,icy,Domestic,staple,office,a staple being removed with a metal tool
+Material/Source,icy,Domestic,mirror,bathroom,the sharp snap of a small hand mirror breaking
+Material/Source,icy,Domestic,wire,garage,a thin metal wire being snipped with small pliers
+Material/Source,icy,Domestic,jewelry,bedroom,the clinking of a silver necklace in a metal box
+Material/Source,icy,Electronic,glitch,studio,a short burst of digital bit-crushed noise
+Material/Source,icy,Electronic,monitor,office,the high-pitched whine of an old computer monitor
+Material/Source,icy,Electronic,buzzer,entryway,the sharp high-frequency rasp of an electronic buzzer
+Material/Source,icy,Electronic,feedback,stage,a sudden piercing burst of high-frequency feedback
+Material/Source,icy,Electronic,scanner,store,the high-pitched beep of a handheld barcode scanner
+Material/Source,icy,Electronic,hard drive,server room,the high-frequency seek noise of a hard disk
+Material/Source,icy,Electronic,synthesizer,studio,a cold sine-wave note with a sharp digital attack
+Material/Source,icy,Electronic,static,radio,the sharp hiss of white noise between fm stations
+Material/Source,icy,Electronic,camera,studio,the high-pitched whine of a flash charging up
+Material/Source,icy,Electronic,led,lab,the high-frequency hum of a dimming led circuit
+Material/Source,icy,Electronic,beeper,hospital,the sharp rhythmic beep of a pulse monitor
+Material/Source,icy,Electronic,inverter,utility room,the high-pitched buzz of a power inverter
+Material/Source,icy,Electronic,solenoid,factory,the sharp mechanical clink of an industrial solenoid
+Material/Source,icy,Electronic,oscillator,lab,a pure ten-kilohertz tone from a signal generator
+Material/Source,watery,Musical,water drum,tropical forest,the sound of air trapped under a gourd floating in water
+Material/Source,watery,Musical,glass harp,hallway,a finger circling the rim of a wet crystal glass
+Material/Source,watery,Musical,percussion,studio,a metal bowl being filled with water while being struck
+Material/Source,watery,Musical,gong,meditation room,the long-evolving shimmer of a gong submerged in water
+Material/Source,watery,Musical,harp,conservatory,a rapid glissando on a concert harp with wet strings
+Material/Source,watery,Musical,shaker,festival,a large plastic tube filled with water being moved
+Material/Source,watery,Musical,trumpet,plaza,the gurgling sound of air blown through a water-filled bell
+Material/Source,watery,Musical,recorder,classroom,a soft breathy note through a water-filled pipe
+Material/Source,watery,Musical,triangle,orchestra pit,a strike on a steel triangle held underwater
+Material/Source,watery,Musical,drumsticks,rehearsal room,two sticks being struck together underwater
+Material/Source,watery,Musical,marimba,theatre,a strike on a rosewood bar with a wet felt mallet
+Material/Source,watery,Musical,cymbals,jazz club,the splash of a tiny finger cymbal in a pool
+Material/Source,watery,Musical,flute,meadow,the bubbling of air through a crystal flute underwater
+Material/Source,watery,Musical,tambourine,stage,shaking a tambourine with wet metal jingles
+Material/Source,watery,Musical,synthesizer,studio,a sine-wave note with a slow wet filter sweep
+Material/Source,watery,Musical,cello,chapel,the resonant bowing of a wet gut string
+Material/Source,watery,Musical,keyboard,parlor,a soft rhodes piano chord with a wet chorus
+Material/Source,watery,Musical,bongo,beach,a hand-slap on a drum with a wet leather head
+Material/Source,watery,Mechanical,water wheel,old mill,the splashing and creaking of massive wooden paddles
+Material/Source,watery,Mechanical,manual pump,farmyard,the rhythmic suction and release of a water pump
+Material/Source,watery,Mechanical,pump,basement,the thumping of a submersible sump pump underwater
+Material/Source,watery,Mechanical,valves,pumping station,the rhythmic clicking of a water-filled valve
+Material/Source,watery,Mechanical,lathe,machine shop,a tool cutting into a spinning rod with water coolant
+Material/Source,watery,Mechanical,sprinkler,lawn,the high-pressure misting of a fine-mist nozzle
+Material/Source,watery,Mechanical,fan,computer lab,the whirring of a small water-cooled radiator fan
+Material/Source,watery,Mechanical,piston,laboratory,the clinical sliding of a water-filled syringe
+Material/Source,watery,Mechanical,winch,dockside,the movement of a water-soaked rope through a Guide
+Material/Source,watery,Mechanical,shutter,old house,a wooden shutter hitting a wet stone wall
+Material/Source,watery,Mechanical,drill,garage,a drill bit spinning into a water-filled plastic container
+Material/Source,watery,Mechanical,engine,garage,the sound of air escaping a water-filled tire valve
+Material/Source,watery,Mechanical,fountain,park,the splashing of water from a plastic nozzle system
+Material/Source,watery,Mechanical,conveyor,factory,a rubber belt moving on wet plastic rollers
+Material/Source,watery,Mechanical,shredder,office,the grinding of a paper machine with a water spill
+Material/Source,watery,Mechanical,razor,bathroom,the vibration of a safety razor in a water-filled sink
+Material/Source,watery,Mechanical,pulleys,barn,a thick hemp rope sliding through a wet block
+Material/Source,watery,Environmental,rain,forest,raindrops hitting a canopy of broad green leaves
+Material/Source,watery,Environmental,stream,meadow,water rushing over a bed of smooth river stones
+Material/Source,watery,Environmental,waves,beach,the soft wash of a wave receding over sand
+Material/Source,watery,Environmental,waterfall,jungle,the heavy thundering of water hitting a deep pool
+Material/Source,watery,Environmental,geyser,valley,the bubbling of boiling water in a geothermal vent
+Material/Source,watery,Environmental,mud,swamp,a large bubble of thick mud bursting in a pool
+Material/Source,watery,Environmental,thaw,spring forest,the high-pitched drip of water onto a hollow log
+Material/Source,watery,Environmental,mist,coast,the high-frequency hiss of sea spray hitting a rock
+Material/Source,watery,Environmental,river,canyon,the turbulent roar of a swollen river in flood
+Material/Source,watery,Environmental,echo,cavern,a voice reflecting off wet sandstone walls
+Material/Source,watery,Environmental,reeds,marsh,the dry rustle of tall grass in the wet wind
+Material/Source,watery,Environmental,lightning,mountaintop,the sharp crack of a nearby bolt hitting water
+Material/Source,watery,Environmental,bamboo,grove,two stalks of bamboo knocking together in the rain
+Material/Source,watery,Environmental,icicle,winter forest,the high-pitched drip of melting water onto ice
+Material/Source,watery,Environmental,thaw,arctic,the crackling of a melting glacier surface
+Material/Source,watery,Environmental,sand,desert,the hiss of fine grit hitting a wet surface
+Material/Source,watery,Environmental,storm,harbor,the clashing of wooden boats in a wet gale
+Material/Source,watery,Environmental,ice,lake,the sound of water moving under a thin ice sheet
+Material/Source,watery,Organic,human,library,the sound of a person swallowing a large gulp of water
+Material/Source,watery,Organic,frog,pond,the chorus of bullfrogs after a rainstorm
+Material/Source,watery,Organic,alligator,swamp,the vibrating bellow of a bull alligator in a pool
+Material/Source,watery,Organic,human,bathroom,the sound of hands being rubbed together with wet soap
+Material/Source,watery,Organic,cat,living room,the sound of a cat lapping up water from a bowl
+Material/Source,watery,Organic,bird,aviary,the sound of a bird splashing in a water bath
+Material/Source,watery,Organic,insect,garden,the high-frequency buzzing of a fly on a wet leaf
+Material/Source,watery,Organic,wings,pond,the rhythmic flapping of a large bird in water
+Material/Source,watery,Organic,heartbeat,quiet room,the wet thumping sound of a heart through a monitor
+Material/Source,watery,Organic,stomach,bedroom,the soft gurgling of a person's wet digestion
+Material/Source,watery,Organic,human,sauna,the sound of a long exhalation in a wet humid room
+Material/Source,watery,Organic,shrimp,reef,the sharp snap of a pistol shrimp claw underwater
+Material/Source,watery,Organic,claws,tile floor,the tiny clicking of a hamster's nails on wet plastic
+Material/Source,watery,Organic,scales,reptile house,the light rasp of a lizard on a wet branch
+Material/Source,watery,Organic,shell,beach,the crunch of sea shells being stepped on in water
+Material/Source,watery,Organic,human,kitchen,the sound of a person blowing air into a bowl of water
+Material/Source,watery,Organic,bark,woods,an animal scratching against a wet rough tree trunk
+Material/Source,watery,Organic,teeth,bathroom,a person clicking their teeth together in a pool
+Material/Source,watery,Domestic,faucet,bathroom,the isolated drip of a leaky tap into a water sink
+Material/Source,watery,Domestic,bathtub,bathroom,the resonance of water filling a cast iron tub
+Material/Source,watery,Domestic,washing machine,laundry room,the sound of water sloshing in a cycle
+Material/Source,watery,Domestic,sponge,kitchen,the sound of a wet sponge being squeezed in a hand
+Material/Source,watery,Domestic,kettle,kitchen,the boiling of water in a tea kettle spout
+Material/Source,watery,Domestic,dish,dining room,the sound of a wooden spoon stirring a thick wet stew
+Material/Source,watery,Domestic,mop,hallway,a wet mop being slapped onto a linoleum floor
+Material/Source,watery,Domestic,fountain,porch,the splashing of water from a tiered stone tray
+Material/Source,watery,Domestic,bottle,kitchen,water sloshing inside a large plastic jug
+Material/Source,watery,Domestic,curtain,shower,the sound of water spray hitting a plastic curtain
+Material/Source,watery,Domestic,plunger,bathroom,the rhythmic movement of a rubber plunger in water
+Material/Source,watery,Domestic,iron,laundry room,the hiss of a steam iron on a wet cloth
+Material/Source,watery,Domestic,pan,kitchen,the sound of water hitting a pan of hot oil
+Material/Source,watery,Domestic,spray,garden,the sound of a water hose hitting a plastic bucket
+Material/Source,watery,Domestic,door,house,the whistle of wind through a wet door frame
+Material/Source,watery,Domestic,drawer,office,the sound of a wooden drawer in a wet cabinet
+Material/Source,watery,Domestic,silverware,kitchen,the clinking of spoons in a water basin
+Material/Source,watery,Electronic,synthesizer,studio,a sine-wave note with a slow wet filter modulation
+Material/Source,watery,Electronic,speaker,club,the movement of a woofer cone against a wet seal
+Material/Source,watery,Electronic,glitch,studio,a series of wet digital audio artifacts
+Material/Source,watery,Electronic,relay,factory,the wet-sounding click of a lubricated relay
+Material/Source,watery,Electronic,hard drive,server,the muffled whine of a disk in a wet mount
+Material/Source,watery,Electronic,fan,building,the whir of a fan through a wet duct
+Material/Source,watery,Electronic,inverter,utility room,the vibration of a unit in a wet cabinet
+Material/Source,watery,Electronic,ups,server closet,the muffled beep of a supply in a wet room
+Material/Source,watery,Electronic,taser,training,the muffled snapping of an electric arc on a wet surface
+Material/Source,watery,Electronic,solenoid,factory,the muffled click of a valve behind a wet shield
+Material/Source,watery,Electronic,hum,basement,the muffled buzz of a grounded electrical system in a leak
+Material/Source,watery,Electronic,oscillator,lab,a triangle wave through a low-bitrate wet filter
+Material/Source,watery,Electronic,monitor,office,the muffled whine of a screen in a humid room
+Material/Source,watery,Electronic,camera,studio,the whine of a flash unit in a wet housing
+Material/Source,watery,Electronic,beeper,hospital,the rhythmic beep heard through wet padding
+Material/Source,watery,Electronic,transformer,street,the irregular buzz of a unit in the rain
+Material/Source,watery,Electronic,static,radio,the high-pitched hiss of a radio glitch in a storm
+Material/Source,watery,Electronic,phone,bedroom,the muffled vibration of a phone on a wet table
+Material/Source,earthy,Musical,udu drum,meditation hall,the hollow percussive thump of a hand striking a clay pot
+Material/Source,earthy,Musical,didgeridoo,outback,the deep droning vibration of a hollow branch on the ground
+Material/Source,earthy,Musical,taiko drum,shrine,a synchronized strike by several drummers on a large skin drum
+Material/Source,earthy,Musical,pipe organ,cathedral,the deepest pedal note vibrating through a stone sanctuary
+Material/Source,earthy,Musical,gong,temple,the long-evolving low-frequency sustain of a large bronze gong
+Material/Source,earthy,Musical,timpani,concert hall,a heavy-handed roll on a pair of large copper drums
+Material/Source,earthy,Musical,bass drum,stadium,a high-velocity impact on a massive marching drum
+Material/Source,earthy,Musical,log drum,jungle,a heavy wooden mallet hitting a large hollowed log
+Material/Source,earthy,Musical,double bass,jazz cellar,a resonant open string plucked on an upright bass
+Material/Source,earthy,Musical,synthesizer,underground club,a massive sub-bass sawtooth wave at peak amplitude
+Material/Source,earthy,Musical,cello,chapel,the resonant bowing of a c-string on a cello section
+Material/Source,earthy,Musical,djembe,park,the dull resonance of a hand strike in the center of a drum
+Material/Source,earthy,Musical,marimba,theatre,a rapid roll on the lowest rosewood bars
+Material/Source,earthy,Musical,harmonium,temple,the steady air flow through low-frequency brass reeds
+Material/Source,earthy,Musical,pan pipes,mountain,the breathy resonance of air in a large wooden pipe
+Material/Source,earthy,Musical,harp,library,a sustained string being slowly damped with a finger
+Material/Source,earthy,Musical,banjo,farmhouse,the resonance of a string over a wooden soundboard
+Material/Source,earthy,Musical,piano,ballroom,a ten-finger staccato cluster chord in the lowest octave
+Material/Source,earthy,Mechanical,bulldozer,earthworks,a diesel engine straining as the blade pushes rock and soil
+Material/Source,earthy,Mechanical,grinder,quarry,the deep grinding sound of a stone crusher processing granite
+Material/Source,earthy,Mechanical,printing press,newsroom,the rhythmic thumping of an industrial press on a stone floor
+Material/Source,earthy,Mechanical,engine,cargo ship,the slow steady thumping of a massive marine diesel engine
+Material/Source,earthy,Mechanical,generator,outskirts,the low-frequency roar of a trailer-mounted diesel generator
+Material/Source,earthy,Mechanical,turbine,dam,the deep low-frequency vibration of a hydroelectric turbine
+Material/Source,earthy,Mechanical,jackhammer,city street,the jarring vibration of a metal bit hitting rock
+Material/Source,earthy,Mechanical,drill,construction,the sustained vibration of an impact drill in granite
+Material/Source,earthy,Mechanical,winch,dockside,the low-frequency groan of a heavy-duty winch system
+Material/Source,earthy,Mechanical,pump,oil field,the steady rhythmic thumping of a high-pressure pumpjack
+Material/Source,earthy,Mechanical,furnace,basement,the steady roar of a gas burner inside a cast iron boiler
+Material/Source,earthy,Mechanical,compressor,garage,the deep mechanical thrum of an industrial air unit
+Material/Source,earthy,Mechanical,safe,vault,the heavy thud and vibration of a vault door closing on stone
+Material/Source,earthy,Mechanical,piston,factory,the rhythmic thumping of a large industrial steam piston
+Material/Source,earthy,Mechanical,conveyor,coal mine,a wide rubber belt moving tons of ore in a tunnel
+Material/Source,earthy,Mechanical,shredder,recycling plant,the continuous crunching of an industrial machine in a pit
+Material/Source,earthy,Mechanical,train,station,the complex mechanical groan of a steam train pulling away
+Material/Source,earthy,Mechanical,elevator,hotel,the low-frequency hum of a lift car in a deep stone shaft
+Material/Source,earthy,Environmental,earthquake,mountain range,the deep groaning of shifting tectonic plates in the earth
+Material/Source,earthy,Environmental,landslide,quarry,a shelf of limestone collapsing into a deep pit
+Material/Source,earthy,Environmental,thunder,open plains,the deep rolling rumble of a distant storm
+Material/Source,earthy,Environmental,avalanche,slope,the massive roar of snow and rock sliding down a mountain
+Material/Source,earthy,Environmental,volcano,crater,the low-frequency bubbling of a lava lake in a caldera
+Material/Source,earthy,Environmental,sand,desert,the harmonic moaning of singing sand dunes in the wind
+Material/Source,earthy,Environmental,ocean,coastal cave,a large wave crashing inside a hollow stone cavern
+Material/Source,earthy,Environmental,wind,canyon,the low-frequency howl of a gale through a deep gorge
+Material/Source,earthy,Environmental,echo,cavern,a deep resonant reflection of a shout in a large cave
+Material/Source,earthy,Environmental,fire,forest,the rushing roar of a crowning wildfire in a pine grove
+Material/Source,earthy,Environmental,geyser,park,the subterranean thumping before a large water eruption
+Material/Source,earthy,Environmental,river,canyon,the deep turbulent roar of a white-water rapid
+Material/Source,earthy,Environmental,mist,waterfall,the heavy low-frequency roar of falling water on rock
+Material/Source,earthy,Environmental,leaves,woods,the constant rustle of a forest floor in a gale
+Material/Source,earthy,Environmental,ice,glacier,the deep multi-layered groaning of a moving ice sheet
+Material/Source,earthy,Environmental,storm,coastline,the deep roar of surf during a hurricane on a beach
+Material/Source,earthy,Environmental,lightning,mountaintop,the sharp tearing sound of a lightning bolt hitting a ridge
+Material/Source,earthy,Organic,elephant,savanna,the deep infrasonic rumble of an elephant's call on soil
+Material/Source,earthy,Organic,lion,african bush,the guttural roar of a lion echoing in the brush
+Material/Source,earthy,Organic,whale,ocean,the resonant low-frequency song of a blue whale
+Material/Source,earthy,Organic,bear,forest cave,the deep resonant growl of a grizzly bear
+Material/Source,earthy,Organic,gorilla,jungle,a silverback gorilla thumping its massive chest
+Material/Source,earthy,Organic,alligator,swamp,the low-frequency vibration of a bull alligator's bellow
+Material/Source,earthy,Organic,human,empty hall,the low-frequency chest resonance of a bass singer
+Material/Source,earthy,Organic,heartbeat,quiet room,the steady rhythmic thumping of a human heart
+Material/Source,earthy,Organic,breathing,bedroom,the deep rhythmic resonance of a heavy snore
+Material/Source,earthy,Organic,stomach,office,the low-frequency gurgle of a person's digestion
+Material/Source,earthy,Organic,purr,living room,the deep complex vibration of a large cat purring
+Material/Source,earthy,Organic,hooves,dirt track,the muffled thundering of a horse galloping on soft earth
+Material/Source,earthy,Organic,tiger,dense brush,the low-frequency chuffing of a tiger nearby
+Material/Source,earthy,Organic,wings,desert,the low-frequency rhythmic beat of a vulture's wings
+Material/Source,earthy,Organic,wood,old house,the structural groan of a massive timber beam
+Material/Source,earthy,Organic,drumming,forest,the territorial drumming of a bird on a hollow tree
+Material/Source,earthy,Organic,walrus,arctic ice,the deep resonant bell-like call of a bull walrus
+Material/Source,earthy,Organic,footsteps,hallway,the deep thud of heavy boots walking on a stone floor
+Material/Source,earthy,Domestic,fireplace,den,the roaring of a well-stoked wood fire in a stone hearth
+Material/Source,earthy,Domestic,door,mansion,the heavy thud of a solid oak front door closing
+Material/Source,earthy,Domestic,furniture,upstairs,a heavy mahogany wardrobe being dragged across a floor
+Material/Source,earthy,Domestic,bathtub,bathroom,the deep resonance of water filling a cast iron tub
+Material/Source,earthy,Domestic,boiler,basement,the low-frequency ignition and hum of a central heating unit
+Material/Source,earthy,Domestic,rug,hallway,the heavy thud of a rolled-up rug falling onto a stone floor
+Material/Source,earthy,Domestic,vacuum,living room,the deep drone of an industrial vacuum cleaner motor
+Material/Source,earthy,Domestic,stairs,old inn,the deep resonant creak of a heavy wooden staircase
+Material/Source,earthy,Domestic,sofa,lounge,a person sitting down heavily on a large leather couch
+Material/Source,earthy,Domestic,pot,kitchen,the low-frequency vibration of a large cast iron pot on a stove
+Material/Source,earthy,Domestic,trunk,attic,a heavy leather-bound trunk being dragged across a floor
+Material/Source,earthy,Domestic,chest,bedroom,a heavy cedar chest being pushed across a stone floor
+Material/Source,earthy,Domestic,curtains,theater,the movement of heavy velvet curtains being closed
+Material/Source,earthy,Domestic,bed,bedroom,a person flopping onto a heavy memory foam mattress
+Material/Source,earthy,Domestic,pipes,basement,the deep thud of a water hammer in a lead pipe
+Material/Source,earthy,Domestic,washing machine,laundry room,the low-frequency vibration of a spin cycle
+Material/Source,earthy,Domestic,attic,storage,the hollow thud of a footstep on a large wooden floor
+Material/Source,earthy,Domestic,fridge,kitchen,the steady low-frequency hum of a commercial fridge
+Material/Source,earthy,Electronic,subwoofer,home theater,a sustained thirty-hertz tone from a large speaker
+Material/Source,earthy,Electronic,transformer,substation,the massive sixty-hertz electromagnetic hum of a power grid
+Material/Source,earthy,Electronic,server,data center,the massive low-frequency drone of a cooling system
+Material/Source,earthy,Electronic,synthesizer,studio,a thick low-pass filtered sawtooth wave bass note
+Material/Source,earthy,Electronic,generator,construction,the muffled roar of a large diesel generator
+Material/Source,earthy,Electronic,motor,factory,the deep vibration of a large industrial electric motor
+Material/Source,earthy,Electronic,drone,hangar,the low-frequency humming of an idling industrial drone
+Material/Source,earthy,Electronic,ups,server closet,the steady deep buzz of an uninterruptible power supply
+Material/Source,earthy,Electronic,inverter,solar farm,the deep hum of a large-scale power inverter
+Material/Source,earthy,Electronic,speaker,club,the low-frequency thump of a kick drum through a PA system
+Material/Source,earthy,Electronic,static,radio,a low-pass filtered burst of pink noise between stations
+Material/Source,earthy,Electronic,shifter,ev,the low-frequency whine of a high-torque electric motor
+Material/Source,earthy,Electronic,hum,basement,the sixty-hertz hum of a grounded electrical system
+Material/Source,earthy,Electronic,solenoid,factory,the heavy clunk of a large industrial actuator
+Material/Source,earthy,Electronic,interference,lab,a low-frequency electromagnetic buzz from a motor
+Material/Source,earthy,Electronic,oscillator,lab,a low-frequency sine-wave sweep at thirty hertz
+Material/Source,earthy,Electronic,cable,studio,the low-frequency handling noise of a heavy shielded cable
+Material/Source,earthy,Electronic,amplifier,stage,the deep low-frequency hum of a stack of guitar amps
