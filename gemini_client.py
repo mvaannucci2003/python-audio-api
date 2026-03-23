@@ -40,14 +40,14 @@ def send_rules(chat):
     return confirmation
 
 
-def send_query(chat, category, tags):
+def send_query(chat, tags):
     """Send a category/tag generation query.
     Returns the raw response text.
     """
 
     tags_str = ", ".join(tags)
 
-    query = QUERY_TEMPLATE.format(category=category, tags=tags_str)
+    query = QUERY_TEMPLATE.format(tags=tags_str)
 
     response = chat.send_message(query)
 

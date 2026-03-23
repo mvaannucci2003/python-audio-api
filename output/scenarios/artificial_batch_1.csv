@@ -1,0 +1,109 @@
+tag,domain,source,environment,scenario
+artificial,Musical,square wave oscillator,recording studio,a square wave oscillator pulsing in a recording studio
+artificial,Musical,digital piano,quiet library,a MIDI-triggered digital piano in a quiet library
+artificial,Musical,electronic drum pad,garage,an electronic drum pad being struck with a stick in a garage
+artificial,Musical,FM synthesizer,basement,a frequency modulation synthesizer playing a lead in a basement
+artificial,Musical,digital delay unit,stadium,a digital delay loop repeating a guitar chord in a stadium
+artificial,Musical,bit-crushed violin,stone cathedral,a bit-crushed violin track playing in a stone cathedral
+artificial,Musical,synthesized flute,flower meadow,a synthesized flute playing a melody in a flower meadow
+artificial,Musical,wavetable synthesizer,data center,a wavetable synthesizer scanning through frames in a data center
+artificial,Musical,electronic tambourine,subway station,an electronic tambourine signal in a subway station
+artificial,Musical,auto-tuned vocal,bedroom,an auto-tuned vocal track playing through monitors in a bedroom
+artificial,Musical,quantized kick drum,night club,a quantized electronic kick drum in a night club
+artificial,Musical,digital harpsichord,museum,a digital harpsichord playing a baroque piece in a museum
+artificial,Musical,granular synthesizer,limestone grotto,a granular synthesized harp in a limestone grotto
+artificial,Musical,additive synthesizer,science lab,an additive synthesizer constructing a tone in a science lab
+artificial,Musical,electronic bongo,tropical jungle,an electronic bongo being triggered in a tropical jungle
+artificial,Musical,virtual analog synth,warehouse,a virtual analog synthesizer playing a chord in a warehouse
+artificial,Musical,step-sequenced bass,car trunk,a step-sequenced electronic bassline in a car trunk
+artificial,Musical,digital music box,nursery,a digital music box playing a lullaby in a nursery
+artificial,Mechanical,robotic arm,factory,a robotic arm clicking into position in a factory
+artificial,Mechanical,automated sorter,post office,an automated sorter arm flicking mail in a post office
+artificial,Mechanical,stepper motor,robotics lab,a precision stepper motor rotating in a robotics lab
+artificial,Mechanical,3d printer nozzle,workshop,a 3d printer nozzle moving along a metal rail in a workshop
+artificial,Mechanical,digital clock,hallway,a digital clock mechanism clicking in a hallway
+artificial,Mechanical,automated turret,bunker,an automated turret swiveling on a concrete bunker
+artificial,Mechanical,self-checkout scanner,grocery store,a self-checkout laser scanner signaling in a grocery store
+artificial,Mechanical,automated parking gate,parking garage,an automated parking gate arm rising in a garage
+artificial,Mechanical,robotic vacuum,living room,a robotic vacuum hitting a wooden chair leg in a living room
+artificial,Mechanical,CNC milling head,industrial plant,a CNC milling head carving a metal plate in an industrial plant
+artificial,Mechanical,electronic solenoid,vending machine,an electronic solenoid firing in a vending machine
+artificial,Mechanical,motorized camera zoom,city park,a motorized camera lens zooming in a city park
+artificial,Mechanical,automated teller machine,bank,an automated teller machine counting paper bills in a bank
+artificial,Mechanical,digital scale,pharmacy,a digital scale calibrating in a pharmacy
+artificial,Mechanical,electric actuator,cockpit,an electric actuator moving a flight control in a cockpit
+artificial,Mechanical,pneumatic gripper,assembly line,a pneumatic gripper grabbing a metal part on an assembly line
+artificial,Mechanical,laser engraver,design studio,a laser engraver etching a serial number in a design studio
+artificial,Mechanical,robotic exoskeleton,training center,a robotic exoskeleton joint moving in a training center
+artificial,Environmental,public address system,shopping mall,synthesized rain playing through a public address system in a mall
+artificial,Environmental,artificial waterfall,hotel lobby,an artificial waterfall in a glass-walled hotel lobby
+artificial,Environmental,stadium soundboard,sports stadium,a digital thunder effect being triggered in a sports stadium
+artificial,Environmental,stage fan,theater,synthesized wind through a large stage fan in a theater
+artificial,Environmental,hidden speaker,public park,an electronic bird song from a hidden speaker in a public park
+artificial,Environmental,reverberation unit,recording studio,a reverberation unit simulating a cavern in a recording studio
+artificial,Environmental,white noise generator,office,a white noise generator mimicking a flowing stream in an office
+artificial,Environmental,aquarium audio system,aquarium,a digital ocean swell audio in a large aquarium
+artificial,Environmental,cinema subwoofer,cinema,a simulated earthquake rumble from a subwoofer in a cinema
+artificial,Environmental,plastic device,backyard,synthesized cricket chirps from a plastic device in a backyard
+artificial,Environmental,wave generator,surf pool,an electronic wave generator in a concrete surf pool
+artificial,Environmental,electric fireplace,parlor,a synthesized fire crackle from an electric fireplace in a parlor
+artificial,Environmental,museum exhibit,museum,a digital ice cracking sound effect in a museum exhibit
+artificial,Environmental,research center speaker,desert,simulated sandstorm audio in a desert research center
+artificial,Environmental,theme park pump,theme park,an artificial geyser being pumped in a theme park
+artificial,Environmental,playhouse soundboard,playhouse,synthesized leaves rustling from a soundboard in a playhouse
+artificial,Environmental,lab signal generator,laboratory,electronic pink noise mimicking a hailstorm in a laboratory
+artificial,Environmental,zoo enclosure,zoo,a digital rain forest soundscape in a zoo enclosure
+artificial,Organic,vocoder,tiled hallway,a vocoder-processed human voice in a tiled hallway
+artificial,Organic,computer terminal,study,synthesized speech from a computer terminal in a study
+artificial,Organic,electronic toy,pet shop,digital parrot mimicry from an electronic toy in a pet shop
+artificial,Organic,heartbeat monitor,hospital room,an electronic heartbeat monitor pulsing in a hospital room
+artificial,Organic,security device,yard,a synthesized dog bark from a security device in a yard
+artificial,Organic,animatronic bear,forest museum,a robotic growl from an animatronic bear in a forest museum
+artificial,Organic,medical mannequin,clinic,digital breathing from a medical training mannequin in a clinic
+artificial,Organic,soundboard,stadium,synthesized applause from a stadium soundboard
+artificial,Organic,sonic repeller,tent,an electronic mosquito buzz from a sonic repeller in a tent
+artificial,Organic,digital processor,stone chapel,a vocoded choir through a digital processor in a stone chapel
+artificial,Organic,motion-activated prop,basement,a digital scream from a motion-activated prop in a basement
+artificial,Organic,greeting card,kitchen,a synthesized cat meow from an electronic greeting card in a kitchen
+artificial,Organic,digital installation,greenhouse,an electronic insect swarm from a digital installation in a greenhouse
+artificial,Organic,video game engine,living room,a digital footstep sound being triggered in a living room
+artificial,Organic,plastic doll,nursery,a synthesized baby cry from a plastic doll in a nursery
+artificial,Organic,digital clock,parlor,a robotic bird chirp from a digital clock in a parlor
+artificial,Organic,foley stage,theater,an electronic horse gallop from a foley stage in a theater
+artificial,Organic,hydrophone,underwater exhibit,synthesized whale song through a hydrophone in an underwater exhibit
+artificial,Domestic,touchscreen,kitchen,a smart fridge touchscreen clicking in a kitchen
+artificial,Domestic,microwave,pantry,a microwave digital signal in a pantry
+artificial,Domestic,doorbell,hallway,an electronic doorbell ringing in a hallway
+artificial,Domestic,washing machine,laundry room,a washing machine digital melody in a laundry room
+artificial,Domestic,induction cooktop,modern kitchen,an induction cooktop pulse in a modern kitchen
+artificial,Domestic,alarm clock,bedroom,a digital alarm clock signaling in a bedroom
+artificial,Domestic,smart speaker,living room,a smart speaker notification in a living room
+artificial,Domestic,air freshener,bathroom,an electronic air freshener spraying in a bathroom
+artificial,Domestic,thermostat,hallway,a digital thermostat clicking in a hallway
+artificial,Domestic,robot mop,dining room,a robot mop whirring in a dining room
+artificial,Domestic,smart lock,front door,a smart lock motor engaging in a front door
+artificial,Domestic,toy car,playroom,an electronic toy car racing in a playroom
+artificial,Domestic,kitchen scale,pantry,a digital kitchen scale signaling in a pantry
+artificial,Domestic,smart oven,kitchen,a smart oven preheat signal in a kitchen
+artificial,Domestic,toothbrush,washroom,an electronic toothbrush mode change in a washroom
+artificial,Domestic,photo frame,study,a digital photo frame transitioning in a study
+artificial,Domestic,coffee maker,breakfast nook,a smart coffee maker brewing in a breakfast nook
+artificial,Domestic,pet door,garage,an electronic pet door opening in a garage
+artificial,Electronic,sample rate reducer,laboratory,digital aliasing from a sample rate reducer in a laboratory
+artificial,Electronic,test tone generator,anechoic chamber,a sinusoidal test tone in an anechoic chamber
+artificial,Electronic,radio,attic,white noise from a radio between stations in an attic
+artificial,Electronic,recording console,studio,digital clipping in a recording console in a studio
+artificial,Electronic,circuit board,workshop,a square wave pulse from a circuit board in a workshop
+artificial,Electronic,server,data center,quantization error noise in a data center
+artificial,Electronic,microphone,gymnasium,electronic feedback from a microphone in a gymnasium
+artificial,Electronic,audio file,library,a digital glitch from a corrupted audio file in a library
+artificial,Electronic,ground loop,basement,an electronic hum from a ground loop in a basement
+artificial,Electronic,motor controller,garage,pulse width modulation from a motor controller in a garage
+artificial,Electronic,VCO,electronics lab,a sawtooth wave from a voltage controlled oscillator in a lab
+artificial,Electronic,handheld scanner,warehouse,a digital bleep from a handheld scanner in a warehouse
+artificial,Electronic,neon sign,alleyway,an electronic buzz from a neon sign transformer in an alleyway
+artificial,Electronic,modem,office,a digital data burst from a modem in an office
+artificial,Electronic,motherboard,server room,electronic chirps from a motherboard in a server room
+artificial,Electronic,reverb processor,empty hall,a digital reverb tail in an empty hall
+artificial,Electronic,short circuit,laboratory,an electronic sizzle from a short circuit in a laboratory
+artificial,Electronic,telecommunications hub,hub,digital bitstream noise in a telecommunications hub

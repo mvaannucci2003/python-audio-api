@@ -1,11 +1,11 @@
 import os
 import csv
-from config import CATEGORIES, OUTPUT_DIR
+from config import TAGS, OUTPUT_DIR
 from gemini_client import init_chat, send_rules, send_query
 from parser import extract_csv_text, parse_rows, validate
 
 # CSV column headers for output files
-OUTPUT_COLUMNS = ["category", "tag", "domain", "source", "environment", "scenario"]
+OUTPUT_COLUMNS = ["tag", "domain", "source", "environment", "scenario"]
 
 
 def write_csv(rows, filepath):
@@ -25,27 +25,27 @@ def run():
     # check if out directory exists
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Step 2: Iterate through categories
-    for category, tags in CATEGORIES.items():
-        print(f"\n- Generating: {category} -")
+    # Step 2: Iterate through tags
+    for tag in TAGS:
+        print(f"\n- Generating: {tag} -")
 
         # Send query to gemini
-        raw = send_query(chat, category, tags)
+        raw = send_query(chat, [tag])
 
         # Extract and parse
         csv_text = extract_csv_text(raw)
         rows = parse_rows(csv_text)
 
-        is_valid = validate(rows, category, tags)
+        is_valid = validate(rows, [tag])
 
         if not is_valid:
-            print(f" Skipping write for {category} - fix issues first")
+            print(f" Skipping write for {tag} - fix issues first")
             continue
 
         # Write to file - one CSV per category
         # Think about filename '/' breaks file paths
         # Also check here for files with the 'batch' in the filename
-        safe_name = category.replace("/", "_").replace(" ", "_").lower()
+        safe_name = tag.replace("/", "_").replace(" ", "_").lower()
         existing = [
             f
             for f in os.listdir(OUTPUT_DIR)

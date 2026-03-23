@@ -1,9 +1,9 @@
 import csv
 import io
-from config import DOMAINS, CATEGORIES, SCENARIOS_PER_TAG_PER_DOMAIN
+from config import DOMAINS, TAGS, SCENARIOS_PER_TAG_PER_DOMAIN
 from collections import Counter
 
-EXPECTED_COLUMNS = ["category", "tag", "domain", "source", "environment", "scenario"]
+EXPECTED_COLUMNS = ["tag", "domain", "source", "environment", "scenario"]
 
 
 def extract_csv_text(raw_response):
@@ -28,9 +28,7 @@ def extract_csv_text(raw_response):
         if not stripped or stripped.startswith("```"):
             continue
 
-        if stripped.startswith("category,") or any(
-            stripped.startswith(cat) for cat in CATEGORIES.keys()
-        ):
+        if stripped.startswith("tag,") or any(stripped.startswith(cat) for cat in TAGS):
             csv_lines.append(stripped)
     return "\n".join(csv_lines)
 
@@ -42,7 +40,7 @@ def parse_rows(csv_text):
     the string as if it were a file
 
     Returns a list of dicts
-    [{'category': "...", "tag": "...", "domain": "...", ...}, ...]
+    ["tag": "...", "domain": "...", ...}, ...]
     """
     reader = csv.DictReader(io.StringIO(csv_text))
     rows = []
@@ -63,7 +61,7 @@ def parse_rows(csv_text):
     return rows
 
 
-def validate(rows, category, tags):
+def validate(rows, tags):
     """
     Check that the parsed output meets expectations.
 
@@ -90,11 +88,7 @@ def validate(rows, category, tags):
         if missing:
             print(f" Warning: Tag '{tag}' missing domains: {missing}")
             is_valid = False
-    # missing category check
-    for row in rows:
-        if row.get("category") != category:
-            print(f" Warning: Unexpected category '{row.get("category")}' in row")
-            is_valid = False
+
     # Duplicate check
     scenarios = [r.get("scenario") for r in rows]
     if len(scenarios) != len(set(scenarios)):
