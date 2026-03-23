@@ -1,0 +1,626 @@
+category,tag,domain,source,environment,scenario
+Warmth/Body,warm,Musical,cello,study,a cello bowing a slow vibrato note on a thick g-string
+Warmth/Body,warm,Musical,guitar,living room,a nylon-string acoustic guitar being plucked softly with the thumb
+Warmth/Body,warm,Musical,french horn,concert hall,a french horn sustaining a long note in a middle register
+Warmth/Body,warm,Musical,vibraphone,jazz club,a vibraphone being played with soft yarn mallets
+Warmth/Body,warm,Musical,piano,parlor,an upright piano played with the felt dampening pedal engaged
+Warmth/Body,warm,Musical,synthesizer,studio,an analog synthesizer playing a low-pass filtered sawtooth wave
+Warmth/Body,warm,Musical,clarinet,conservatory,a clarinet playing in its lowest chalumeau register
+Warmth/Body,warm,Musical,electric piano,lounge,the tines of a rhodes electric piano vibrating through a tube amp
+Warmth/Body,warm,Musical,double bass,basement,the thick gut strings of a double bass being plucked
+Warmth/Body,warm,Musical,organ,chapel,a reed organ pumping air through wooden pipes
+Warmth/Body,warm,Musical,flute,meadow,a bamboo flute being blown with a soft breathy attack
+Warmth/Body,warm,Musical,viola,attic,a viola playing a slow melody in a carpeted room
+Warmth/Body,warm,Musical,harmonica,campfire,a blues harmonica bending a low note
+Warmth/Body,warm,Musical,marimba,stage,the middle keys of a marimba struck with large rubber mallets
+Warmth/Body,warm,Musical,oboe,chamber,an oboe playing a lyrical melody with a soft reed
+Warmth/Body,warm,Musical,accordion,cafe,the bellows of an accordion wheezing softly during a chord
+Warmth/Body,warm,Musical,lute,courtyard,a lute being strummed gently near a stone wall
+Warmth/Body,warm,Musical,gong,temple,a large bronze gong vibrating after a soft mallet strike
+Warmth/Body,warm,Mechanical,radiator,bedroom,steam hissing through an old cast iron radiator valve
+Warmth/Body,warm,Mechanical,engine,garage,a vintage motorcycle engine idling steadily in a small space
+Warmth/Body,warm,Mechanical,projector,classroom,the internal hum of a slide projector lamp warming up
+Warmth/Body,warm,Mechanical,furnace,basement,the steady roar of a gas furnace heating a house
+Warmth/Body,warm,Mechanical,clock,library,the heavy rhythmic thud of a wooden grandfather clock pendulum
+Warmth/Body,warm,Mechanical,ventilator,greenhouse,a large slow-moving fan pushing humid air
+Warmth/Body,warm,Mechanical,loom,workshop,a wooden handloom rhythmically sliding and locking
+Warmth/Body,warm,Mechanical,pump,well,the heavy rhythmic suction of a manual water pump
+Warmth/Body,warm,Mechanical,gears,mill,massive wooden gears turning slowly in a flour mill
+Warmth/Body,warm,Mechanical,lathe,woodshop,a wood lathe spinning a large block of mahogany
+Warmth/Body,warm,Mechanical,fan,den,a vintage desk fan with wide metal blades spinning on low
+Warmth/Body,warm,Mechanical,press,print shop,a letterpress machine applying ink to thick paper
+Warmth/Body,warm,Mechanical,boiler,laundry,the deep bubbling of water heating in a copper boiler
+Warmth/Body,warm,Mechanical,dryer,utility room,a tumble dryer spinning a load of heavy towels
+Warmth/Body,warm,Mechanical,winch,harbor,a greased iron winch slowly pulling a thick hemp rope
+Warmth/Body,warm,Mechanical,sewing machine,attic,the rhythmic mechanical thrum of a treadle sewing machine
+Warmth/Body,warm,Mechanical,conveyor,bakery,a rubber belt moving loaves of bread through an oven
+Warmth/Body,warm,Mechanical,grinder,kitchen,a manual coffee grinder crushing oily beans
+Warmth/Body,warm,Environmental,fire,campsite,the steady glow and soft crackle of a dying oak fire
+Warmth/Body,warm,Environmental,water,hot spring,bubbles rising to the surface of a thick geothermal pool
+Warmth/Body,warm,Environmental,wind,desert,a hot breeze blowing through a stand of dry cacti
+Warmth/Body,warm,Environmental,rain,porch,heavy raindrops hitting a thick mud puddle
+Warmth/Body,warm,Environmental,leaves,forest,a thick layer of damp mulch being compressed underfoot
+Warmth/Body,warm,Environmental,cave,cavern,the low-frequency echo of a distant underground waterfall
+Warmth/Body,warm,Environmental,ocean,beach,the soft rhythmic wash of a calm tropical sea on sand
+Warmth/Body,warm,Environmental,thunder,valley,the distant muffled rolling of thunder through humid air
+Warmth/Body,warm,Environmental,mud,swamp,a large bubble of marsh gas rising through thick silt
+Warmth/Body,warm,Environmental,geyser,thermal field,the deep subterranean chugging before a water eruption
+Warmth/Body,warm,Environmental,sand,dune,sand sliding down the face of a sun-heated dune
+Warmth/Body,warm,Environmental,steam,vent,thick steam escaping from a crack in volcanic rock
+Warmth/Body,warm,Environmental,tree,woods,the deep creak of a thick pine trunk swaying in summer
+Warmth/Body,warm,Environmental,reeds,marsh,tall dry grass rubbing together in a gentle southerly wind
+Warmth/Body,warm,Environmental,haze,meadow,the collective low-frequency hum of a sun-drenched field
+Warmth/Body,warm,Environmental,river,bank,the slow heavy gurgle of a deep silt-laden river
+Warmth/Body,warm,Environmental,ice,lake,the deep resonant boom of lake ice expanding in the sun
+Warmth/Body,warm,Environmental,volcano,crater,the low-pitched roar of a lava lake churning
+Warmth/Body,warm,Organic,cat,living room,the steady deep purring of a large cat on a lap
+Warmth/Body,warm,Organic,human,nursery,a low humming song from a mother to a child
+Warmth/Body,warm,Organic,heart,bedroom,a calm heartbeat heard through a thick down comforter
+Warmth/Body,warm,Organic,breath,tent,slow rhythmic breathing inside a small enclosed space
+Warmth/Body,warm,Organic,dog,den,a large dog letting out a long contented sigh
+Warmth/Body,warm,Organic,throat,temple,the deep resonant chanting of a low-register monk
+Warmth/Body,warm,Organic,steps,hallway,walking softly on a thick wool rug in bare feet
+Warmth/Body,warm,Organic,hands,studio,hands being rubbed together briskly to generate heat
+Warmth/Body,warm,Organic,elephant,savanna,the low-frequency rumbling of an elephant herd
+Warmth/Body,warm,Organic,wood,forest,a heavy fallen log being rolled over soft earth
+Warmth/Body,warm,Organic,bees,orchard,the collective low-pitched drone of a beehive in summer
+Warmth/Body,warm,Organic,bird,jungle,the deep hooting of a large owl in the canopy
+Warmth/Body,warm,Organic,stomach,bedroom,the soft gurgling of a digestive system after a meal
+Warmth/Body,warm,Organic,wings,garden,the low thrumming of a hawk's wings as it glides
+Warmth/Body,warm,Organic,skin,spa,a warm massage stone being slid across a person's back
+Warmth/Body,warm,Organic,whale,ocean,the deep melodic moan of a humpback whale
+Warmth/Body,warm,Organic,pigeon,loft,the soft rhythmic cooing of pigeons in a wooden coop
+Warmth/Body,warm,Organic,cows,pasture,the deep lowing of a cow in a misty field
+Warmth/Body,warm,Domestic,kettle,kitchen,the soft whistle of a tea kettle just beginning to steam
+Warmth/Body,warm,Domestic,blanket,bedroom,the heavy rustle of a thick wool blanket being folded
+Warmth/Body,warm,Domestic,fireplace,den,the low roar of a well-stoked fire in a brick hearth
+Warmth/Body,warm,Domestic,coffee,dining room,the rhythmic percolating of coffee in a glass pot
+Warmth/Body,warm,Domestic,soup,kitchen,a thick vegetable soup simmering on a low flame
+Warmth/Body,warm,Domestic,curtains,theater,heavy velvet stage curtains being drawn slowly
+Warmth/Body,warm,Domestic,couch,living room,the soft thud of someone sitting on a goose-down sofa
+Warmth/Body,warm,Domestic,oven,bakery,the muffled whir of a convection oven baking bread
+Warmth/Body,warm,Domestic,rug,entryway,the soft sound of a thick rug being beaten with a wooden stick
+Warmth/Body,warm,Domestic,iron,laundry,the hiss of a steam iron pressing a cotton shirt
+Warmth/Body,warm,Domestic,bathtub,bathroom,the low-frequency resonance of a tub being filled with hot water
+Warmth/Body,warm,Domestic,clothes,closet,the soft rustle of heavy sweaters being moved on a rack
+Warmth/Body,warm,Domestic,slippers,hallway,the muffled scuffing of sheepskin slippers on wood
+Warmth/Body,warm,Domestic,pot,pantry,a heavy ceramic crock being placed on a wooden shelf
+Warmth/Body,warm,Domestic,candle,bedroom,the faint flickering of a large beeswax candle flame
+Warmth/Body,warm,Domestic,teapot,table,tea being poured into a thick earthenware mug
+Warmth/Body,warm,Domestic,pillow,bed,a head sinking into a large soft pillow
+Warmth/Body,warm,Domestic,bread,kitchen,the soft crunch of a warm loaf of bread being torn
+Warmth/Body,warm,Electronic,amplifier,studio,the low-frequency hum of a vacuum tube power amp
+Warmth/Body,warm,Electronic,tape,recording room,the soft hiss and saturation of an analog tape machine
+Warmth/Body,warm,Electronic,synthesizer,workshop,a pulse wave being shaped by a ladder filter
+Warmth/Body,warm,Electronic,speaker,lounge,a jazz record playing through vintage large-format speakers
+Warmth/Body,warm,Electronic,transformer,utility room,the steady low-pitched hum of a power transformer
+Warmth/Body,warm,Electronic,radio,kitchen,a tube radio warming up and slowly producing sound
+Warmth/Body,warm,Electronic,delay,studio,a repeating echo from an analog bucket-brigade device
+Warmth/Body,warm,Electronic,oscillator,lab,a pure sine wave vibrating a large wooden desk
+Warmth/Body,warm,Electronic,organ,church,a hammond organ's rotary speaker spinning up
+Warmth/Body,warm,Electronic,reverb,basement,the long decay of a spring reverb unit in a metal tank
+Warmth/Body,warm,Electronic,buzz,den,the low vibrating hum of a vintage television set
+Warmth/Body,warm,Electronic,motor,workshop,the smooth whir of a vintage sewing machine motor
+Warmth/Body,warm,Electronic,pedal,studio,an overdrive pedal adding soft clipping to a signal
+Warmth/Body,warm,Electronic,monitor,office,the faint low hum of a large CRT monitor
+Warmth/Body,warm,Electronic,drone,temple,a sustained electronic drone with rich mid-range harmonics
+Warmth/Body,warm,Electronic,filter,stage,a resonant filter sweep on a warm polyphonic synth
+Warmth/Body,warm,Electronic,cable,studio,the faint crackle of a high-impedance cable being moved
+Warmth/Body,warm,Electronic,console,booth,the collective hum of an analog mixing desk's circuitry
+Warmth/Body,cold,Musical,triangle,studio,a steel triangle being struck once with a thin metal rod
+Warmth/Body,cold,Musical,glockenspiel,concert hall,the highest note on a glockenspiel played with a brass mallet
+Warmth/Body,cold,Musical,flute,gallery,a silver flute playing a sharp overblown harmonic
+Warmth/Body,cold,Musical,celesta,theatre,the crystalline hammers of a celesta striking metal plates
+Warmth/Body,cold,Musical,violin,conservatory,a violin playing a piercing sul ponticello note
+Warmth/Body,cold,Musical,chimes,balcony,aluminum wind chimes clinking together in a freezing wind
+Warmth/Body,cold,Musical,cymbals,stage,a pair of finger cymbals clashing with a quick decay
+Warmth/Body,cold,Musical,synthesizer,lab,a digital frequency modulation synth playing a glass-like tone
+Warmth/Body,cold,Musical,harp,hall,the highest nylon string of a harp being plucked sharply
+Warmth/Body,cold,Musical,piccolo,stadium,a piccolo trilling a piercing high note
+Warmth/Body,cold,Musical,bells,clock tower,a small iron bell being struck by a mechanical hammer
+Warmth/Body,cold,Musical,harpsichord,ballroom,a harpsichord playing a fast staccato passage
+Warmth/Body,cold,Musical,trumpet,plaza,a trumpet playing a sharp muted fanfare
+Warmth/Body,cold,Musical,xylophone,classroom,a metalophone played with hard plastic mallets
+Warmth/Body,cold,Musical,banjo,porch,a banjo being played with sharp metal fingerpicks
+Warmth/Body,cold,Musical,tambourine,street,the thin jingles of a tambourine being shaken rapidly
+Warmth/Body,cold,Musical,cowbell,farm,a small steel cowbell clanking against a metal fence
+Warmth/Body,cold,Musical,organ,cathedral,the highest metal pipe of an organ sounding a sharp note
+Warmth/Body,cold,Mechanical,clock,watchmaker,the rapid clinical ticking of a precision stainless steel watch
+Warmth/Body,cold,Mechanical,valve,lab,liquid nitrogen hissing through a frozen metal valve
+Warmth/Body,cold,Mechanical,drill,dentist,a high-speed pneumatic drill spinning in a sterile room
+Warmth/Body,cold,Mechanical,gears,factory,the sharp clicking of small titanium gears without lubrication
+Warmth/Body,cold,Mechanical,camera,studio,the mechanical shutter of a professional camera firing
+Warmth/Body,cold,Mechanical,scalpel,hospital,a metal tray of surgical instruments being set down
+Warmth/Body,cold,Mechanical,lathe,machine shop,a diamond-tipped tool cutting into a block of steel
+Warmth/Body,cold,Mechanical,refrigerator,kitchen,the high-pitched hum of a compressor cooling a freezer
+Warmth/Body,cold,Mechanical,sprinkler,lawn,the rhythmic metallic snap of a pulse sprinkler
+Warmth/Body,cold,Mechanical,typewriter,newsroom,the sharp strike of metal type against a hard platen
+Warmth/Body,cold,Mechanical,can opener,pantry,the mechanical grinding of a tin can being opened
+Warmth/Body,cold,Mechanical,winch,shipyard,a steel cable snapping tight under extreme tension
+Warmth/Body,cold,Mechanical,fan,server room,the high-pitched whir of a small high-speed cooling fan
+Warmth/Body,cold,Mechanical,stapler,office,a metal stapler punching through a thin plastic sheet
+Warmth/Body,cold,Mechanical,elevator,skyscraper,the clinical chime of an elevator arriving at a floor
+Warmth/Body,cold,Mechanical,scanner,store,the sharp electronic beep of a barcode laser
+Warmth/Body,cold,Mechanical,zipper,closet,a long metal zipper being zipped up quickly
+Warmth/Body,cold,Mechanical,piston,factory,a small pneumatic piston firing with a sharp hiss
+Warmth/Body,cold,Environmental,ice,arctic,a thin sheet of ice cracking on a frozen pond
+Warmth/Body,cold,Environmental,hail,carport,small hailstones bouncing off a corrugated metal roof
+Warmth/Body,cold,Environmental,snow,mountain,the sharp crunch of hard-packed snow under boots
+Warmth/Body,cold,Environmental,wind,tundra,a piercing wind whistling through a wire fence
+Warmth/Body,cold,Environmental,rain,greenhouse,freezing rain tapping against a glass window pane
+Warmth/Body,cold,Environmental,water,glacier,the sharp tinkling of ice shards in a fast stream
+Warmth/Body,cold,Environmental,cave,cavern,a single water drop hitting a crystalline pool
+Warmth/Body,cold,Environmental,geyser,thermal field,a thin jet of high-pressure steam whistling
+Warmth/Body,cold,Environmental,lightning,plains,the sharp instantaneous crack of a lightning bolt
+Warmth/Body,cold,Environmental,frost,garden,scraping a layer of hard frost off a metal surface
+Warmth/Body,cold,Environmental,shale,cliff,small pieces of shale sliding down a dry rocky slope
+Warmth/Body,cold,Environmental,ocean,shore,sea foam hissing as it recedes over frozen pebbles
+Warmth/Body,cold,Environmental,leaves,woods,dry brittle leaves snapping on a frozen forest floor
+Warmth/Body,cold,Environmental,bamboo,grove,bamboo stalks knocking together with a sharp hollow sound
+Warmth/Body,cold,Environmental,salt,salt flat,walking over a dry crust of salt crystals
+Warmth/Body,cold,Environmental,air,mountain,the thin whistling of air through a narrow rock gap
+Warmth/Body,cold,Environmental,shrimp,reef,the sharp snapping sound of pistol shrimp underwater
+Warmth/Body,cold,Environmental,branch,winter,a frozen tree limb snapping under the weight of ice
+Warmth/Body,cold,Organic,teeth,bathroom,the rapid chattering of teeth during a cold shiver
+Warmth/Body,cold,Organic,insect,meadow,the high-pitched stridulation of a cricket in the grass
+Warmth/Body,cold,Organic,bird,arctic,the sharp piercing cry of a tern over the ice
+Warmth/Body,cold,Organic,nails,desk,fingernails tapping rapidly on a polished marble surface
+Warmth/Body,cold,Organic,bones,lab,the dry clicking of a skeleton model being moved
+Warmth/Body,cold,Organic,bat,cave,the sharp echolocation clicks of a bat in a cavern
+Warmth/Body,cold,Organic,shiver,bedroom,the sound of a person shivering in thin sheets
+Warmth/Body,cold,Organic,stick,forest,a dry twig snapping with a loud sharp crack
+Warmth/Body,cold,Organic,voice,hallway,a sharp clinical command echoing in a tiled room
+Warmth/Body,cold,Organic,skin,bathroom,a hand rubbing against a cold porcelain sink
+Warmth/Body,cold,Organic,beak,yard,a woodpecker hammering on a metal street lamp
+Warmth/Body,cold,Organic,wings,garden,the high-pitched buzz of a fly near a window
+Warmth/Body,cold,Organic,shell,kitchen,the sharp cracking of a thin eggshell
+Warmth/Body,cold,Organic,dolphin,ocean,a series of high-pitched clicks from a dolphin
+Warmth/Body,cold,Organic,cicada,tree,the sharp rhythmic buzzing of a cicada
+Warmth/Body,cold,Organic,squirrel,park,a squirrel chattering a sharp warning
+Warmth/Body,cold,Organic,breath,winter,the sharp intake of breath in sub-zero air
+Warmth/Body,cold,Organic,hands,outdoors,the sound of dry skin being rubbed together
+Warmth/Body,cold,Domestic,ice,kitchen,ice cubes clinking together in a thin glass tumbler
+Warmth/Body,cold,Domestic,silverware,drawer,a handful of stainless steel forks being dropped
+Warmth/Body,cold,Domestic,glass,dining room,two wine glasses clinking together for a toast
+Warmth/Body,cold,Domestic,ceramic,cafe,a porcelain teacup being placed on a stone saucer
+Warmth/Body,cold,Domestic,keys,hallway,a large bunch of metal keys jingling in a hand
+Warmth/Body,cold,Domestic,foil,kitchen,a sheet of aluminum foil being crumpled up
+Warmth/Body,cold,Domestic,scissors,office,metal scissors snipping through a plastic bag
+Warmth/Body,cold,Domestic,coins,laundromat,a handful of quarters falling into a metal tray
+Warmth/Body,cold,Domestic,mirror,bathroom,a glass mirror fragment falling onto a tiled floor
+Warmth/Body,cold,Domestic,spray,utility room,a fine mist being sprayed from an aerosol can
+Warmth/Body,cold,Domestic,pen,study,the sharp clicking of a metal ballpoint pen
+Warmth/Body,cold,Domestic,lightbulb,closet,a lightbulb rolling across a concrete floor
+Warmth/Body,cold,Domestic,whisk,kitchen,a metal whisk hitting the side of a steel bowl
+Warmth/Body,cold,Domestic,beads,closet,a string of glass beads clattering against a door
+Warmth/Body,cold,Domestic,razor,bathroom,a safety razor being tapped against a sink
+Warmth/Body,cold,Domestic,staple,office,a stapler clinching a single sheet of paper
+Warmth/Body,cold,Domestic,tweezers,vanity,metal tweezers snapping shut repeatedly
+Warmth/Body,cold,Domestic,thimble,sewing room,a metal thimble tapping against a window pane
+Warmth/Body,cold,Electronic,spark,lab,a small blue electric spark jumping between two electrodes
+Warmth/Body,cold,Electronic,beeper,hospital,the sharp rhythmic beep of a digital heart monitor
+Warmth/Body,cold,Electronic,static,radio,the high-pitched hiss of digital white noise
+Warmth/Body,cold,Electronic,modem,office,the screeching handshake sound of a dial-up modem
+Warmth/Body,cold,Electronic,synthesizer,studio,a short pulse wave with zero filter resonance
+Warmth/Body,cold,Electronic,buzzer,game show,a sharp electronic buzzer sounding for a mistake
+Warmth/Body,cold,Electronic,taser,training,the rapid sharp arcing of a handheld stun gun
+Warmth/Body,cold,Electronic,hard drive,server,the high-frequency whine of a disk spinning
+Warmth/Body,cold,Electronic,led,lab,the faint high-pitched ring of a digital circuit
+Warmth/Body,cold,Electronic,feedback,stage,a sudden burst of high-frequency feedback
+Warmth/Body,cold,Electronic,relay,server room,the sharp clicking of a high-speed relay
+Warmth/Body,cold,Electronic,sonar,submarine,a sharp electronic ping reflecting off metal
+Warmth/Body,cold,Electronic,game,arcade,a sharp 8-bit sound effect of a laser firing
+Warmth/Body,cold,Electronic,scanner,store,the sharp beep of a laser scanner
+Warmth/Body,cold,Electronic,clock,bedroom,the sharp beep of a digital alarm clock
+Warmth/Body,cold,Electronic,capacitor,workshop,the high-pitched whine of a flash charging
+Warmth/Body,cold,Electronic,alarm,hallway,the high-pitched chirp of a smoke detector battery
+Warmth/Body,cold,Electronic,cable,studio,the sharp crackle of a digital cable being plugged in
+Warmth/Body,full,Musical,organ,cathedral,the lowest pipes of a grand organ vibrating the stone floor
+Warmth/Body,full,Musical,timpani,orchestra hall,a massive timpani drum struck with a heavy felt mallet
+Warmth/Body,full,Musical,piano,ballroom,the lowest notes of a concert grand piano being sustained
+Warmth/Body,full,Musical,gong,temple,a large bronze gong struck with a heavy padded beater
+Warmth/Body,full,Musical,cello,chamber,an ensemble of cellos playing a deep resonant chord
+Warmth/Body,full,Musical,double bass,jazz club,a double bass being played with a deep walking line
+Warmth/Body,full,Musical,tuba,rehearsal room,a tuba sustaining a very low resonant note
+Warmth/Body,full,Musical,bass drum,stadium,a giant marching bass drum struck in a slow rhythm
+Warmth/Body,full,Musical,didgeridoo,outback,the deep rhythmic droning of a wooden didgeridoo
+Warmth/Body,full,Musical,taiko,village,a massive taiko drum being struck with heavy sticks
+Warmth/Body,full,Musical,baritone sax,basement,a baritone saxophone honking a low sustained note
+Warmth/Body,full,Musical,handpan,cave,the lowest central note of a steel handpan being struck
+Warmth/Body,full,Musical,harp,conservatory,the thickest bass strings of a harp being plucked
+Warmth/Body,full,Musical,synthesizer,studio,a deep sub-bass sine wave evolving slowly
+Warmth/Body,full,Musical,marimba,stage,the lowest wooden bars of a marimba with soft mallets
+Warmth/Body,full,Musical,bassoon,concert hall,the woody vibrating sound of a bassoon in its lowest register
+Warmth/Body,full,Musical,bell,monastery,a very large heavy church bell tolling in the distance
+Warmth/Body,full,Musical,djembe,beach,a deep bass stroke in the center of a large djembe
+Warmth/Body,full,Mechanical,engine,shipyard,the low thrumming of a massive diesel engine in a ship
+Warmth/Body,full,Mechanical,furnace,basement,the deep roar of an industrial furnace igniting
+Warmth/Body,full,Mechanical,crane,construction,the heavy groan of a hydraulic crane lifting a beam
+Warmth/Body,full,Mechanical,ventilation,garage,the deep resonant hum of a large industrial fan
+Warmth/Body,full,Mechanical,press,factory,the muffled thud of a heavy hydraulic press stamping
+Warmth/Body,full,Mechanical,truck,highway,the deep rumble of a semi-truck engine idling
+Warmth/Body,full,Mechanical,generator,power plant,the constant low-frequency drone of a generator
+Warmth/Body,full,Mechanical,conveyor,warehouse,the heavy rolling sound of a rubber belt on rollers
+Warmth/Body,full,Mechanical,pump,oil field,the rhythmic deep thumping of an oil derrick pump
+Warmth/Body,full,Mechanical,drill,quarry,the muffled vibration of a deep earth drill
+Warmth/Body,full,Mechanical,train,valley,the distant low roar of a freight train passing
+Warmth/Body,full,Mechanical,compactor,alley,the slow heavy crunch of a garbage truck compactor
+Warmth/Body,full,Mechanical,turbine,dam,the deep underwater hum of a hydroelectric turbine
+Warmth/Body,full,Mechanical,boiler,house,the low-frequency knocking and rumbling of a boiler
+Warmth/Body,full,Mechanical,hammer,shipyard,a heavy pneumatic pile driver striking the earth
+Warmth/Body,full,Mechanical,mixer,construction,the deep sloshing and tumbling of concrete in a drum
+Warmth/Body,full,Mechanical,saw,mill,the low guttural groan of a circular saw cutting a log
+Warmth/Body,full,Mechanical,elevator,skyscraper,the low vibration of an elevator motor in a shaft
+Warmth/Body,full,Environmental,thunder,plains,the distant rolling rumble of thunder across the sky
+Warmth/Body,full,Environmental,ocean,cliffside,the deep boom of a large wave hitting a sea cave
+Warmth/Body,full,Environmental,volcano,island,the low-frequency growl of magma moving underground
+Warmth/Body,full,Environmental,wind,canyon,the deep howling of wind through a narrow stone passage
+Warmth/Body,full,Environmental,earthquake,mountains,the low subterranean grinding of tectonic plates
+Warmth/Body,full,Environmental,avalanche,valley,the muffled roar of a distant snow slide
+Warmth/Body,full,Environmental,mud,geothermal pool,the thick gloopy sound of a mud bubble bursting
+Warmth/Body,full,Environmental,boulder,hillside,a massive granite boulder rolling down a slope
+Warmth/Body,full,Environmental,waterfall,jungle,the heavy continuous roar of a massive waterfall
+Warmth/Body,full,Environmental,ice,glacier,the deep resonant groan of a glacier shifting
+Warmth/Body,full,Environmental,forest,woods,the low creaking of a massive ancient oak tree
+Warmth/Body,full,Environmental,river,gorge,the deep surging sound of a flooded river
+Warmth/Body,full,Environmental,whale,ocean,the low-frequency moan of a blue whale underwater
+Warmth/Body,full,Environmental,sand,desert,the booming sound of singing sands sliding down a dune
+Warmth/Body,full,Environmental,storm,harbor,the deep vibration of wind through ship rigging
+Warmth/Body,full,Environmental,fire,forest,the deep muffled roar of a large brush fire
+Warmth/Body,full,Environmental,geyser,park,the low-frequency chugging of water in a deep vent
+Warmth/Body,full,Environmental,cave,cavern,the resonant thud of a large rock falling into water
+Warmth/Body,full,Organic,lion,savanna,the low guttural roar of a lion vibrating the air
+Warmth/Body,full,Organic,elephant,jungle,the deep infrasonic rumble of an elephant
+Warmth/Body,full,Organic,human,concert hall,a man with a deep bass voice singing a low note
+Warmth/Body,full,Organic,gorilla,rainforest,a silverback gorilla thumping its chest
+Warmth/Body,full,Organic,alligator,swamp,the low-frequency bellow of a bull alligator
+Warmth/Body,full,Organic,heart,medical room,the muffled thump of a heartbeat through a stethoscope
+Warmth/Body,full,Organic,bear,den,the deep low growl of a hibernating grizzly bear
+Warmth/Body,full,Organic,walrus,arctic ice,the deep resonant bell-like sound of a walrus
+Warmth/Body,full,Organic,stomps,stadium,thousands of people rhythmically stomping on bleachers
+Warmth/Body,full,Organic,wings,meadow,the deep thrumming of a large bird's wings
+Warmth/Body,full,Organic,stomach,bedroom,the low-pitched gurgling of a hungry stomach
+Warmth/Body,full,Organic,throat,monastery,the deep resonant chanting of a Tibetan monk
+Warmth/Body,full,Organic,wood,forest,a heavy waterlogged log falling onto soft earth
+Warmth/Body,full,Organic,purr,living room,the deep low-frequency purring of a large cat
+Warmth/Body,full,Organic,footsteps,hallway,the heavy thud of leather boots on a thick rug
+Warmth/Body,full,Organic,cough,empty room,a deep chesty cough echoing in a large space
+Warmth/Body,full,Organic,chew,stable,a horse chewing on a mouthful of heavy grain
+Warmth/Body,full,Organic,snore,tent,a deep vibrating snore from inside a sleeping bag
+Warmth/Body,full,Domestic,door,mansion,a heavy solid oak door swinging shut with a thud
+Warmth/Body,full,Domestic,refrigerator,kitchen,the low hum of a refrigerator compressor
+Warmth/Body,full,Domestic,curtains,theater,the heavy rustle of velvet stage curtains
+Warmth/Body,full,Domestic,washing machine,laundry,the low-frequency thumping of a rug in the spin cycle
+Warmth/Body,full,Domestic,couch,living room,someone flopping down onto an overstuffed sofa
+Warmth/Body,full,Domestic,pot,kitchen,a heavy cast iron Dutch oven being placed on a table
+Warmth/Body,full,Domestic,bookshelf,library,a row of heavy encyclopedias falling over
+Warmth/Body,full,Domestic,trunk,attic,a large wooden storage trunk being dragged
+Warmth/Body,full,Domestic,vacuum,hallway,the low roar of a vacuum cleaner in another room
+Warmth/Body,full,Domestic,pillow,bedroom,a heavy feather pillow being punched into shape
+Warmth/Body,full,Domestic,carpet,staircase,a heavy roll of carpet falling down a flight of stairs
+Warmth/Body,full,Domestic,cabinet,kitchen,the muffled boom of a thick wooden cabinet door
+Warmth/Body,full,Domestic,tub,bathroom,the low-frequency resonance of a bathtub being filled
+Warmth/Body,full,Domestic,fireplace,den,the low roar of air being drawn up a wide chimney
+Warmth/Body,full,Domestic,rug,yard,the heavy thud of a thick rug being beaten
+Warmth/Body,full,Domestic,fan,bedroom,the deep low-speed hum of a large ceiling fan
+Warmth/Body,full,Domestic,mattress,bedroom,the muffled creak of a heavy mattress being flipped
+Warmth/Body,full,Domestic,bread,kitchen,the thud of a heavy loaf of sourdough hitting a board
+Warmth/Body,full,Electronic,transformer,substation,the constant deep hum of a high-voltage transformer
+Warmth/Body,full,Electronic,subwoofer,home theater,the low-frequency throb of a sub-bass test tone
+Warmth/Body,full,Electronic,motor,factory,the deep rhythmic drone of a large industrial DC motor
+Warmth/Body,full,Electronic,speaker,club,the muffled bass beat heard through a thick wall
+Warmth/Body,full,Electronic,amplifier,garage,the low-frequency hum of a tube amp warming up
+Warmth/Body,full,Electronic,buzz,basement,the deep vibrating buzz of an old fluorescent light
+Warmth/Body,full,Electronic,drone,studio,a sustained low-frequency oscillator drone
+Warmth/Body,full,Electronic,pulse,medical lab,the deep rhythmic thud of a large MRI machine
+Warmth/Body,full,Electronic,static,radio,the low brown noise rumble of an untuned radio
+Warmth/Body,full,Electronic,welder,metal shop,the deep electric crackle of an arc welder
+Warmth/Body,full,Electronic,server,data center,the collective low-frequency roar of cooling fans
+Warmth/Body,full,Electronic,drill,workshop,the deep groan of a large electric drill under torque
+Warmth/Body,full,Electronic,relay,factory floor,the heavy clunk of a large industrial contactor
+Warmth/Body,full,Electronic,synth,concert,a deep filter sweep on a monophonic analog synthesizer
+Warmth/Body,full,Electronic,hum,kitchen,the low electronic hum of a microwave oven running
+Warmth/Body,full,Electronic,cable,utility pole,the deep vibrating hum of power lines
+Warmth/Body,full,Electronic,battery,station,the faint low-frequency whine of a heavy charger
+Warmth/Body,full,Electronic,alarm,factory,the low-pitched pulsing of a foghorn-style siren
+Warmth/Body,thin,Musical,triangle,orchestra,a thin metal triangle being struck with a needle-like beater
+Warmth/Body,thin,Musical,flute,gallery,a cheap plastic recorder playing a high shaky note
+Warmth/Body,thin,Musical,violin,attic,a single violin string being plucked without a bridge
+Warmth/Body,thin,Musical,tambourine,street,a small tambourine with tiny tin jingles being shaken
+Warmth/Body,thin,Musical,ukulele,beach,a toy ukulele being strummed with a plastic pick
+Warmth/Body,thin,Musical,glockenspiel,nursery,a toy glockenspiel struck with a wooden stick
+Warmth/Body,thin,Musical,trumpet,alley,a trumpet being played with a tight metal mute
+Warmth/Body,thin,Musical,harmonica,porch,a tiny harmonica blowing a single high note
+Warmth/Body,thin,Musical,piano,saloon,a toy piano playing a melody in the highest register
+Warmth/Body,thin,Musical,cymbal,stage,a pair of tiny finger cymbals clinking together
+Warmth/Body,thin,Musical,harp,conservatory,the shortest nylon string of a harp being flicked
+Warmth/Body,thin,Musical,piccolo,parade,a piccolo trilling a high bird-like melody
+Warmth/Body,thin,Musical,banjo,bluegrass,a banjo string being snapped against the fretboard
+Warmth/Body,thin,Musical,kalimba,garden,a tiny kalimba with thin metal tines being flicked
+Warmth/Body,thin,Musical,bells,balcony,a set of small aluminum wind chimes swaying
+Warmth/Body,thin,Musical,recorder,classroom,a soprano recorder playing a high whistling note
+Warmth/Body,thin,Musical,snare drum,studio,a snare drum head being tapped with a paperclip
+Warmth/Body,thin,Musical,flute,meadow,a tin whistle playing a fast ornamental trill
+Warmth/Body,thin,Mechanical,clock,watchmaker,the tiny metallic ticking of a ladies' wristwatch
+Warmth/Body,thin,Mechanical,gears,laboratory,a set of tiny plastic gears spinning in a toy
+Warmth/Body,thin,Mechanical,sewing machine,boutique,the rapid clicking of a needle through silk
+Warmth/Body,thin,Mechanical,camera,studio,the shutter of a miniature spy camera firing
+Warmth/Body,thin,Mechanical,drill,dentist,a high-speed precision drill spinning in the air
+Warmth/Body,thin,Mechanical,typewriter,office,the sound of a single key on a portable typewriter
+Warmth/Body,thin,Mechanical,projector,home,the clicking of an 8mm film reel spinning
+Warmth/Body,thin,Mechanical,fan,office,the faint whir of a small USB desk fan
+Warmth/Body,thin,Mechanical,stapler,desk,a small travel stapler clinching a single paper
+Warmth/Body,thin,Mechanical,zipper,closet,a tiny nylon zipper being zipped up quickly
+Warmth/Body,thin,Mechanical,winch,dock,the high-pitched clicking of a small fishing reel
+Warmth/Body,thin,Mechanical,can opener,kitchen,a manual rotary can opener cutting foil
+Warmth/Body,thin,Mechanical,sprinkler,lawn,the rapid ticking of a small garden mister
+Warmth/Body,thin,Mechanical,lock,doorway,a small brass padlock being clicked shut
+Warmth/Body,thin,Mechanical,razor,bathroom,an electric razor vibrating on a tile counter
+Warmth/Body,thin,Mechanical,meter,lab,the needle of an analog meter clicking against the stop
+Warmth/Body,thin,Mechanical,timer,kitchen,the high-pitched ringing of a small egg timer
+Warmth/Body,thin,Mechanical,ventilator,hospital,the faint hiss of air through a narrow tube
+Warmth/Body,thin,Environmental,rain,patio,a light drizzle tapping against a plastic sheet
+Warmth/Body,thin,Environmental,water,garden,a thin stream of water trickling into a metal bucket
+Warmth/Body,thin,Environmental,ice,pond,thin ice shards tinkling as they collide in water
+Warmth/Body,thin,Environmental,wind,tundra,the high-pitched whistle of wind through a wire
+Warmth/Body,thin,Environmental,leaves,woods,dry pine needles being rustled by a small lizard
+Warmth/Body,thin,Environmental,sand,desert,sand grains hitting a metal sign in a gust
+Warmth/Body,thin,Environmental,snow,mountain,the faint hiss of fine snow blowing over crust
+Warmth/Body,thin,Environmental,hail,greenhouse,tiny ice pellets tapping against a glass pane
+Warmth/Body,thin,Environmental,shale,cliff,small stone chips sliding down a dry slope
+Warmth/Body,thin,Environmental,grass,meadow,dry grass stalks rubbing together in the wind
+Warmth/Body,thin,Environmental,reeds,marsh,the dry sharp rustle of a single reed stalk
+Warmth/Body,thin,Environmental,cave,cavern,a single water drop hitting a hollow stone pool
+Warmth/Body,thin,Environmental,frost,garden,the sound of walking over thin hoarfrost
+Warmth/Body,thin,Environmental,air,canyon,the faint whistling of air through a rock crack
+Warmth/Body,thin,Environmental,steam,vent,a thin jet of steam escaping from a kettle
+Warmth/Body,thin,Environmental,salt,salt flat,crunching through a thin layer of salt
+Warmth/Body,thin,Environmental,bamboo,grove,thin bamboo twigs snapping in a breeze
+Warmth/Body,thin,Environmental,shrimp,ocean,the collective snapping of shrimp underwater
+Warmth/Body,thin,Organic,insect,meadow,the high-pitched buzzing of a mosquito near an ear
+Warmth/Body,thin,Organic,bird,jungle,the sharp piercing chirp of a small finch
+Warmth/Body,thin,Organic,human,library,a person whispering in a very high breathy voice
+Warmth/Body,thin,Organic,nails,desk,fingernails tapping rapidly on a plastic laptop
+Warmth/Body,thin,Organic,teeth,bathroom,the sharp clicking of teeth during a shiver
+Warmth/Body,thin,Organic,stick,woods,a tiny dry twig snapping with a quiet crack
+Warmth/Body,thin,Organic,squirrel,park,a squirrel chattering a sharp warning call
+Warmth/Body,thin,Organic,bat,cave,the sharp echolocation clicks of a bat in flight
+Warmth/Body,thin,Organic,mouse,pantry,the high-pitched squeaking of a mouse
+Warmth/Body,thin,Organic,wings,garden,the high-pitched hum of a fly's wings
+Warmth/Body,thin,Organic,skin,bathroom,a hand rubbing against a wet balloon
+Warmth/Body,thin,Organic,grass,field,dry tall grass swishing against nylon pants
+Warmth/Body,thin,Organic,bones,museum,the dry clatter of a small skeleton model
+Warmth/Body,thin,Organic,seeds,garden,a small dried seed pod being shaken
+Warmth/Body,thin,Organic,beak,farmyard,a woodpecker drumming on a hollow tree
+Warmth/Body,thin,Organic,voice,hallway,a thin reedy voice singing a high note
+Warmth/Body,thin,Domestic,paper,office,a sheet of tissue paper being torn in half
+Warmth/Body,thin,Domestic,keys,doorway,a single small metal key jingling on a ring
+Warmth/Body,thin,Domestic,silverware,drawer,a single teaspoon clinking against a glass
+Warmth/Body,thin,Domestic,glass,dining room,the rim of a wine glass being rubbed by a finger
+Warmth/Body,thin,Domestic,scissors,sewing room,small embroidery scissors snipping silk
+Warmth/Body,thin,Domestic,beads,closet,a string of plastic beads clattering on a floor
+Warmth/Body,thin,Domestic,coins,laundromat,a single dime falling into a metal tray
+Warmth/Body,thin,Domestic,pen,study,the sharp clicking of a cheap plastic pen
+Warmth/Body,thin,Domestic,thimble,sewing room,a metal thimble tapping against a window
+Warmth/Body,thin,Domestic,whistle,kitchen,the sharp whistle of a tea kettle boiling
+Warmth/Body,thin,Domestic,lightbulb,closet,a lightbulb rolling across a hardwood floor
+Warmth/Body,thin,Domestic,razor,bathroom,a safety razor being tapped on a sink
+Warmth/Body,thin,Domestic,thread,closet,a thin polyester thread snapping under tension
+Warmth/Body,thin,Domestic,plastic,pantry,the crinkling of a thin plastic grocery bag
+Warmth/Body,thin,Domestic,fan,bedroom,the high-speed whir of a small personal fan
+Warmth/Body,thin,Electronic,beeper,hospital,the sharp rhythmic beep of a heart monitor
+Warmth/Body,thin,Electronic,static,radio,the high-pitched hiss of FM white noise
+Warmth/Body,thin,Electronic,spark,lab,a small blue electric spark jumping a gap
+Warmth/Body,thin,Electronic,modem,office,the high-frequency screech of a dial-up modem
+Warmth/Body,thin,Electronic,buzzer,game show,a sharp electronic buzzer for a mistake
+Warmth/Body,thin,Electronic,game,arcade,a sharp 8-bit sound of a laser firing
+Warmth/Body,thin,Electronic,alarm,hallway,the high-pitched chirp of a smoke detector
+Warmth/Body,thin,Electronic,cable,studio,the sharp crackle of a digital cable
+Warmth/Body,thin,Electronic,radio,kitchen,the tinny sound of music from a small transistor radio
+Warmth/Body,rich,Musical,piano,concert hall,a grand piano sustaining a complex jazz chord
+Warmth/Body,rich,Musical,cello,chamber,an ensemble of cellos playing a lush harmonic chord
+Warmth/Body,rich,Musical,organ,cathedral,a pipe organ playing a full tutti with many stops
+Warmth/Body,rich,Musical,guitar,studio,a 12-string acoustic guitar being strummed vigorously
+Warmth/Body,rich,Musical,brass,stage,a brass quintet playing a powerful sustained swell
+Warmth/Body,rich,Musical,harp,hall,the lower strings of a pedal harp being swept in a glissando
+Warmth/Body,rich,Musical,violin,gallery,a violin playing a double-stop with deep vibrato
+Warmth/Body,rich,Musical,gong,temple,a large bronze gong evolving after a heavy strike
+Warmth/Body,rich,Musical,chimes,plaza,a set of tubular bells ringing together in a sequence
+Warmth/Body,rich,Musical,synthesizer,studio,a polyphonic analog synth with many detuned oscillators
+Warmth/Body,rich,Musical,marimba,stage,the low wooden bars of a marimba with soft yarn mallets
+Warmth/Body,rich,Musical,double bass,jazz club,a double bass bowing a deep resonant low note
+Warmth/Body,rich,Musical,lute,parlor,a baroque lute playing a complex contrapuntal melody
+Warmth/Body,rich,Musical,handpan,cave,a handpan being played with rapid resonant taps
+Warmth/Body,rich,Musical,timpani,orchestra,a timpani roll increasing in volume and resonance
+Warmth/Body,rich,Musical,bells,monastery,the complex harmonic overtones of a large tolling bell
+Warmth/Body,rich,Musical,saxophone,club,a tenor saxophone playing a smoky ballad with vibrato
+Warmth/Body,rich,Musical,accordion,street,an accordion playing full chords with open bellows
+Warmth/Body,rich,Mechanical,engine,garage,a luxury v12 engine idling with a smooth complex thrum
+Warmth/Body,rich,Mechanical,clockwork,museum,the layered ticking of many antique clocks in a room
+Warmth/Body,rich,Mechanical,loom,factory,an industrial loom weaving a complex tapestry
+Warmth/Body,rich,Mechanical,turbine,power plant,the deep multi-layered hum of a massive turbine
+Warmth/Body,rich,Mechanical,press,print shop,a large printing press running at full speed
+Warmth/Body,rich,Mechanical,fountain,square,a complex multi-tiered fountain splashing into a pool
+Warmth/Body,rich,Mechanical,generator,ship,the deep thrumming of a ship's main generator
+Warmth/Body,rich,Mechanical,projector,cinema,the rhythmic whir and clicking of a 70mm projector
+Warmth/Body,rich,Mechanical,winch,dock,a heavy winch pulling a thick metal chain through a gear
+Warmth/Body,rich,Mechanical,lathe,workshop,a metal lathe cutting a complex spiral into brass
+Warmth/Body,rich,Mechanical,fan,warehouse,the deep resonant whoosh of a large industrial fan
+Warmth/Body,rich,Mechanical,conveyor,mill,a heavy belt moving sacks of grain across rollers
+Warmth/Body,rich,Mechanical,sewing machine,attic,the complex mechanical rhythm of a vintage machine
+Warmth/Body,rich,Mechanical,boiler,basement,the deep resonant rumbling of a large steam boiler
+Warmth/Body,rich,Mechanical,pump,well,the rhythmic heavy suction and splash of a water pump
+Warmth/Body,rich,Mechanical,grinder,garage,the layered grit and whine of a heavy angle grinder
+Warmth/Body,rich,Mechanical,mixer,bakery,a large industrial mixer kneading thick dough
+Warmth/Body,rich,Mechanical,saw,mill,the guttural roar of a large saw blade through oak
+Warmth/Body,rich,Environmental,thunder,plains,the complex rolling resonance of thunder across the sky
+Warmth/Body,rich,Environmental,ocean,cliff,the deep multi-layered roar of waves hitting rocks
+Warmth/Body,rich,Environmental,fire,forest,the deep complex crackling and roar of a large fire
+Warmth/Body,rich,Environmental,wind,canyon,the howling of wind through a complex rock formation
+Warmth/Body,rich,Environmental,rain,porch,heavy rain hitting a corrugated metal roof in sheets
+Warmth/Body,rich,Environmental,ice,glacier,the deep resonant groaning of a shifting glacier
+Warmth/Body,rich,Environmental,forest,woods,the collective rustling of a thousand trees in a storm
+Warmth/Body,rich,Environmental,geyser,thermal park,the complex bubbling and hissing of a mud pot
+Warmth/Body,rich,Environmental,storm,harbor,the deep vibration of wind through heavy ship rigging
+Warmth/Body,rich,Environmental,sand,desert,the booming resonance of singing sands sliding
+Warmth/Body,rich,Environmental,leaves,woods,a deep layer of dry leaves being swirled by a gust
+Warmth/Body,rich,Environmental,cave,cavern,the complex echoes of a waterfall in a stone hall
+Warmth/Body,rich,Environmental,avalanche,valley,the muffled complex roar of a distant snow slide
+Warmth/Body,rich,Environmental,hail,carport,heavy hailstones bouncing off a metal roof
+Warmth/Body,rich,Environmental,shrimp,ocean,the dense collective snapping of shrimp underwater
+Warmth/Body,rich,Organic,lion,savanna,the deep guttural roar of a lion vibrating the air
+Warmth/Body,rich,Organic,human,concert hall,an operatic soprano singing a powerful aria
+Warmth/Body,rich,Organic,elephant,jungle,the complex infrasonic rumble of an elephant herd
+Warmth/Body,rich,Organic,bees,orchard,the dense collective drone of a large beehive
+Warmth/Body,rich,Organic,bird,jungle,the complex multi-tonal song of a lyrebird
+Warmth/Body,rich,Organic,gorilla,rainforest,a silverback gorilla thumping its chest rapidly
+Warmth/Body,rich,Organic,throat,temple,the deep harmonic overtones of a chanting monk
+Warmth/Body,rich,Organic,heart,medical room,the muffled complex thump of a heartbeat
+Warmth/Body,rich,Organic,whale,ocean,the deep melodic moan of a blue whale
+Warmth/Body,rich,Organic,purr,living room,the deep resonant purr of a large domestic cat
+Warmth/Body,rich,Organic,stomps,stadium,thousands of people rhythmically stomping on wood
+Warmth/Body,rich,Organic,voice,hallway,a deep resonant voice echoing in a stone corridor
+Warmth/Body,rich,Organic,sticks,woods,a large pile of dry branches being crushed together
+Warmth/Body,rich,Organic,breath,tent,the deep rhythmic breathing of a person in a small space
+Warmth/Body,rich,Organic,skin,bathroom,hands being rubbed together with a thick oil
+Warmth/Body,rich,Organic,shell,beach,the complex clattering of many shells in the tide
+Warmth/Body,rich,Organic,wood,forest,a heavy fallen log being rolled over gravel
+Warmth/Body,rich,Domestic,fireplace,den,the low complex roar of a large fire in a hearth
+Warmth/Body,rich,Domestic,blanket,bedroom,the heavy rustle of a thick wool blanket
+Warmth/Body,rich,Domestic,refrigerator,kitchen,the complex hum of a large fridge compressor
+Warmth/Body,rich,Domestic,pot,kitchen,a heavy cast iron Dutch oven being placed on stone
+Warmth/Body,rich,Domestic,couch,living room,someone sitting on a large goose-down sofa
+Warmth/Body,rich,Domestic,rug,entryway,the soft heavy thud of a rug being beaten
+Warmth/Body,rich,Domestic,washing machine,laundry,the thumping of a heavy rug in the spin cycle
+Warmth/Body,rich,Domestic,vacuum,hallway,the complex roar of a vacuum cleaner in a small room
+Warmth/Body,rich,Domestic,pillow,bedroom,a head sinking into a large feather pillow
+Warmth/Body,rich,Domestic,bathtub,bathroom,the low-frequency resonance of a tub being filled
+Warmth/Body,rich,Domestic,bread,kitchen,the complex crunch of a crusty loaf being torn
+Warmth/Body,rich,Domestic,trunk,attic,a large wooden storage trunk being opened
+Warmth/Body,rich,Domestic,teapot,table,tea being poured into a thick porcelain mug
+Warmth/Body,rich,Domestic,mattress,bedroom,the muffled creak of a heavy mattress flipped
+Warmth/Body,rich,Electronic,amplifier,studio,the complex harmonic hum of a tube amp
+Warmth/Body,rich,Electronic,synthesizer,workshop,a polyphonic synth playing a lush pad with chorus
+Warmth/Body,rich,Electronic,tape,recording room,the soft hiss and saturation of an analog tape
+Warmth/Body,rich,Electronic,speaker,lounge,a jazz record playing through vintage speakers
+Warmth/Body,rich,Electronic,transformer,substation,the deep multi-layered hum of a transformer
+Warmth/Body,rich,Electronic,delay,studio,a complex repeating echo from an analog delay
+Warmth/Body,rich,Electronic,oscillator,lab,a series of detuned sine waves creating a beat
+Warmth/Body,rich,Electronic,organ,church,a hammond organ's rotary speaker spinning
+Warmth/Body,rich,Electronic,reverb,basement,the long lush decay of a plate reverb unit
+Warmth/Body,rich,Electronic,drone,temple,a sustained electronic drone with rich overtones
+Warmth/Body,rich,Electronic,cable,studio,the faint complex crackle of an analog connection
+Warmth/Body,rich,Electronic,console,booth,the collective hum of an analog mixing desk
+Warmth/Body,rich,Electronic,subwoofer,theater,the low-frequency throb of a sub-bass tone
+Warmth/Body,rich,Electronic,buzz,den,the low vibrating complex hum of an old television
+Warmth/Body,rich,Electronic,motor,workshop,the smooth complex whir of a vintage motor
+Warmth/Body,rich,Electronic,pedal,studio,a distortion pedal adding complex clipping
+Warmth/Body,rich,Electronic,monitor,office,the faint multi-layered hum of a large CRT
+Warmth/Body,woody,Musical,marimba,stage,the resonant wooden bars of a marimba struck with yarn mallets
+Warmth/Body,woody,Musical,woodblock,orchestra,a hollow wooden block being struck with a hard mallet
+Warmth/Body,woody,Musical,xylophone,classroom,a wooden xylophone being played with rubber mallets
+Warmth/Body,woody,Musical,guitar,living room,the body of an acoustic guitar being tapped with a knuckle
+Warmth/Body,woody,Musical,violin,attic,a violin being played with a sharp wooden pizzicato
+Warmth/Body,woody,Musical,clarinet,conservatory,the woody vibrating sound of a clarinet's lower notes
+Warmth/Body,woody,Musical,bassoon,concert hall,the deep woody resonance of a bassoon's low notes
+Warmth/Body,woody,Musical,recorder,classroom,a wooden recorder being played with a soft breath
+Warmth/Body,woody,Musical,clave,studio,two solid rosewood sticks being struck together
+Warmth/Body,woody,Musical,didgeridoo,outback,the deep hollow resonance of a wooden didgeridoo
+Warmth/Body,woody,Musical,cello,chamber,the hollow wooden body of a cello vibrating during a note
+Warmth/Body,woody,Musical,castanets,dance studio,two wooden castanets clicking together rapidly
+Warmth/Body,woody,Musical,temple block,temple,a series of hollow wooden blocks being struck in order
+Warmth/Body,woody,Musical,oboe,conservatory,the nasal woody tone of an oboe playing a melody
+Warmth/Body,woody,Musical,piano,parlor,the wooden hammers of an upright piano hitting the strings
+Warmth/Body,woody,Musical,ukulele,beach,the hollow wooden body of a ukulele being strummed
+Warmth/Body,woody,Musical,flute,meadow,the soft woody sound of a bamboo flute
+Warmth/Body,woody,Musical,organ,chapel,the sound of air rushing through large wooden organ pipes
+Warmth/Body,woody,Mechanical,loom,workshop,the rhythmic clack and slide of a wooden handloom
+Warmth/Body,woody,Mechanical,mill,countryside,the heavy creaking of massive wooden gears in a mill
+Warmth/Body,woody,Mechanical,pulley,barn,a wooden pulley wheel squeaking as it lifts a rope
+Warmth/Body,woody,Mechanical,clock,library,the deep rhythmic thud of a wooden clock pendulum
+Warmth/Body,woody,Mechanical,lathe,woodshop,a wooden bowl being shaped on a spinning lathe
+Warmth/Body,woody,Mechanical,press,print shop,the wooden frame of a letterpress machine shifting
+Warmth/Body,woody,Mechanical,pump,well,the rhythmic creaking of a wooden pump handle
+Warmth/Body,woody,Mechanical,winch,dock,a wooden winch drum rotating under heavy tension
+Warmth/Body,woody,Mechanical,wagon,trail,the wooden wheels of a wagon creaking on a dirt road
+Warmth/Body,woody,Mechanical,drill,workshop,a hand drill boring into a thick plank of pine
+Warmth/Body,woody,Mechanical,saw,mill,the guttural roar of a circular saw cutting a thick log
+Warmth/Body,woody,Mechanical,bench,workshop,a wooden vice being tightened on a piece of oak
+Warmth/Body,woody,Mechanical,crane,forest,a wooden tripod crane groaning as it lifts a timber
+Warmth/Body,woody,Mechanical,scaffold,construction,the creaking of wooden scaffolding in the wind
+Warmth/Body,woody,Mechanical,mallet,garage,a heavy wooden mallet striking a chisel
+Warmth/Body,woody,Mechanical,fan,veranda,the soft whir of a wooden-bladed ceiling fan
+Warmth/Body,woody,Mechanical,box,warehouse,a wooden crate being dragged across a wooden floor
+Warmth/Body,woody,Mechanical,ladder,attic,the creaking of a wooden ladder as someone climbs it
+Warmth/Body,woody,Environmental,tree,forest,the deep creak of a thick oak branch in the wind
+Warmth/Body,woody,Environmental,bamboo,grove,dry bamboo stalks knocking together with a hollow sound
+Warmth/Body,woody,Environmental,leaves,woods,walking over a layer of dry twigs and wood chips
+Warmth/Body,woody,Environmental,log,river,a heavy log bumping against a wooden pier in the water
+Warmth/Body,woody,Environmental,stump,forest floor,a hollow tree stump being struck with a heavy stick
+Warmth/Body,woody,Environmental,fire,campsite,the loud snap of a dry pine log in a hot fire
+Warmth/Body,woody,Environmental,roots,woods,the sound of a tree being uprooted during a storm
+Warmth/Body,woody,Environmental,bark,forest,strips of dry bark peeling off a cedar tree
+Warmth/Body,woody,Environmental,branch,winter,a frozen tree limb snapping with a woody crack
+Warmth/Body,woody,Environmental,fence,pasture,a wooden fence post groaning as a cow leans on it
+Warmth/Body,woody,Environmental,bridge,creek,the hollow thud of footsteps on an old wooden bridge
+Warmth/Body,woody,Environmental,reeds,marsh,the dry hollow rubbing of tall reeds in the wind
+Warmth/Body,woody,Environmental,driftwood,beach,the clatter of dry driftwood pieces in the tide
+Warmth/Body,woody,Environmental,canopy,jungle,the collective creaking of trees in a tropical wind
+Warmth/Body,woody,Environmental,seeds,garden,a large wooden seed pod being shaken
+Warmth/Body,woody,Environmental,thicket,woods,someone pushing through a dense thicket of dry brush
+Warmth/Body,woody,Environmental,hollow,forest,a hollow log echoing as it is rolled over rocks
+Warmth/Body,woody,Environmental,plank,dock,the creaking of a wooden boardwalk by the sea
+Warmth/Body,woody,Organic,woodpecker,forest,a woodpecker hammering rapidly on a hollow tree trunk
+Warmth/Body,woody,Organic,beaver,riverbank,a beaver gnawing on a thick branch of a willow tree
+Warmth/Body,woody,Organic,human,hallway,walking in heavy wooden clogs on a hardwood floor
+Warmth/Body,woody,Organic,hands,studio,someone cupping their hands and clapping softly
+Warmth/Body,woody,Organic,throat,woods,a person imitating the hollow hoot of an owl
+Warmth/Body,woody,Organic,steps,forest floor,the crunching of dry woody undergrowth underfoot
+Warmth/Body,woody,Organic,sticks,campsite,someone breaking a bundle of dry sticks for a fire
+Warmth/Body,woody,Organic,teeth,den,a dog chewing on a large wooden stick
+Warmth/Body,woody,Organic,bones,museum,the dry hollow clatter of large animal bones
+Warmth/Body,woody,Organic,shell,kitchen,the cracking of a hard walnut shell with a nutcracker
+Warmth/Body,woody,Organic,nest,attic,the rustling of a bird's nest made of dry twigs
+Warmth/Body,woody,Organic,skin,workshop,a hand rubbing against a piece of unfinished cedar
+Warmth/Body,woody,Organic,beak,yard,a bird pecking at a hollow wooden birdhouse
+Warmth/Body,woody,Organic,wings,woods,the fluttering of a large bird through dry branches
+Warmth/Body,woody,Organic,chest,rainforest,a gorilla thumping its chest with a hollow sound
+Warmth/Body,woody,Organic,root,garden,a thick woody root being snapped by a shovel
+Warmth/Body,woody,Organic,bark,park,a person tapping on the thick bark of an old tree
+Warmth/Body,woody,Organic,fist,gym,a fist hitting a wooden Wing Chun dummy
+Warmth/Body,woody,Domestic,door,house,a heavy solid wood door swinging shut in its frame
+Warmth/Body,woody,Domestic,chair,dining room,a wooden chair being dragged across a hardwood floor
+Warmth/Body,woody,Domestic,cutting board,kitchen,a sharp knife chopping vegetables on a wooden block
+Warmth/Body,woody,Domestic,spoon,kitchen,a wooden spoon hitting the side of a ceramic bowl
+Warmth/Body,woody,Domestic,cabinet,kitchen,the hollow thud of a wooden cabinet door closing
+Warmth/Body,woody,Domestic,staircase,hallway,the creaking of old wooden stairs under a person's weight
+Warmth/Body,woody,Domestic,rolling pin,bakery,a wooden rolling pin moving over a floured table
+Warmth/Body,woody,Domestic,shutter,bedroom,wooden window shutters banging against a house
+Warmth/Body,woody,Domestic,floor,living room,the hollow resonance of someone jumping on a wooden floor
+Warmth/Body,woody,Domestic,box,attic,a wooden jewelry box being clicked shut
+Warmth/Body,woody,Domestic,bowl,dining room,a wooden salad bowl being placed on a table
+Warmth/Body,woody,Domestic,pencil,study,the sound of a wooden pencil being sharpened by hand
+Warmth/Body,woody,Domestic,handle,closet,a wooden broom handle falling against a wall
+Warmth/Body,woody,Domestic,tray,parlor,a wooden serving tray being set down on a table
+Warmth/Body,woody,Domestic,chest,bedroom,the creaking lid of a cedar chest being opened
+Warmth/Body,woody,Domestic,match,kitchen,a wooden match being struck against a box
+Warmth/Body,woody,Domestic,clogs,entryway,wooden clogs being dropped onto a floor
+Warmth/Body,woody,Domestic,palette,studio,a wooden artist's palette being scraped with a knife
+Warmth/Body,woody,Electronic,speaker,lounge,the vibration of a wooden speaker cabinet during a bass note
+Warmth/Body,woody,Electronic,synthesizer,studio,a resonant filter sweep on a synth with a woody character
+Warmth/Body,woody,Electronic,organ,chapel,the mechanical clicking of wooden keys on a vintage organ
+Warmth/Body,woody,Electronic,oscillator,lab,a square wave being shaped to sound like a woodblock
+Warmth/Body,woody,Electronic,amplifier,garage,the vibration of a wooden guitar amp on a floor
+Warmth/Body,woody,Electronic,relay,factory,the muffled thud of an electronic switch in a wooden box
+Warmth/Body,woody,Electronic,radio,den,the sound of a vintage wooden radio being turned on
+Warmth/Body,woody,Electronic,buzzer,hallway,a low-pitched buzzer vibrating a wooden door frame
+Warmth/Body,woody,Electronic,motor,attic,the hum of a motor vibrating a wooden support beam
+Warmth/Body,woody,Electronic,controller,studio,a person tapping on the wooden side of a synthesizer
+Warmth/Body,woody,Electronic,turntable,living room,the needle of a turntable hitting a wooden plinth
+Warmth/Body,woody,Electronic,drum machine,studio,a percussive electronic sound with a hollow resonance
+Warmth/Body,woody,Electronic,pickup,garage,an acoustic guitar pickup capturing the sound of the wood
+Warmth/Body,woody,Electronic,metronome,parlor,a mechanical metronome ticking on a wooden piano
+Warmth/Body,woody,Electronic,console,booth,the sound of a hand hitting the wooden armrest of a desk
+Warmth/Body,woody,Electronic,pedal,stage,a person stepping on a wooden pedalboard
+Warmth/Body,woody,Electronic,case,closet,the sound of an electronic device being placed in a wooden case
+Warmth/Body,woody,Electronic,reverb,studio,the decay of an electronic sound in a wood-paneled room

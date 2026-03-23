@@ -1,0 +1,433 @@
+category,tag,domain,source,environment,scenario
+Brightness/Spectral,bright,Musical,piccolo,marble hallway,a piccolo playing a high-pitched trill in a marble hallway
+Brightness/Spectral,bright,Musical,violin,open meadow,a violin playing a rapid spiccato passage in an open meadow
+Brightness/Spectral,bright,Musical,triangle,orchestra pit,a steel triangle being struck once in a quiet orchestra pit
+Brightness/Spectral,bright,Musical,acoustic guitar,sunny porch,a light strum on high-tension steel guitar strings on a sunny porch
+Brightness/Spectral,bright,Musical,tambourine,busy street,a tambourine shaking rhythmically on a busy street corner
+Brightness/Spectral,bright,Musical,glockenspiel,nursery,a glockenspiel mallet striking a metal bar in a nursery
+Brightness/Spectral,bright,Musical,cymbals,marching band,a pair of small finger cymbals clashing in a marching band
+Brightness/Spectral,bright,Musical,harpsichord,stately ballroom,a harpsichord key being pressed in a stately ballroom
+Brightness/Spectral,bright,Musical,trumpet,city square,a trumpet fanfare echoing through a cobblestone city square
+Brightness/Spectral,bright,Musical,celesta,ballet studio,a celesta melody playing softly in a ballet studio
+Brightness/Spectral,bright,Musical,mandolin,vineyard,a mandolin being plucked rapidly in a sunny vineyard
+Brightness/Spectral,bright,Musical,chimes,windy porch,small silver chimes tinkling on a windy porch
+Brightness/Spectral,bright,Musical,banjo,farmyard,a banjo string being snapped in a dusty farmyard
+Brightness/Spectral,bright,Musical,xylophone,school gymnasium,a wooden xylophone being played with hard mallets in a gymnasium
+Brightness/Spectral,bright,Musical,recorder,botanical garden,a plastic recorder playing a high note in a botanical garden
+Brightness/Spectral,bright,Musical,harmonica,mountain ridge,a harmonica playing a sharp intake of breath on a mountain ridge
+Brightness/Spectral,bright,Musical,sitar,temple courtyard,a sitar string vibrating intensely in a stone temple courtyard
+Brightness/Spectral,bright,Musical,lute,library,a lute string being plucked in a quiet library
+Brightness/Spectral,bright,Mechanical,gears,clock tower,small brass gears spinning rapidly in a clock tower
+Brightness/Spectral,bright,Mechanical,sewing machine,attic,a vintage sewing machine needle piercing fabric in a dusty attic
+Brightness/Spectral,bright,Mechanical,bicycle,paved path,a bicycle bell ringing on a paved park path
+Brightness/Spectral,bright,Mechanical,typewriter,newsroom,a typewriter carriage returning with a bell ding in a newsroom
+Brightness/Spectral,bright,Mechanical,lathe,machine shop,a metal lathe shaving a thin strip of aluminum in a machine shop
+Brightness/Spectral,bright,Mechanical,drill,dental office,a high-speed turbine drill spinning in a dental office
+Brightness/Spectral,bright,Mechanical,ratchet,garage,a metal ratchet wrench clicking quickly in a garage
+Brightness/Spectral,bright,Mechanical,sprinkler,suburban lawn,a metal lawn sprinkler head rotating and clicking on a lawn
+Brightness/Spectral,bright,Mechanical,wind-up toy,playroom,a tin wind-up toy walking across a wooden floor in a playroom
+Brightness/Spectral,bright,Mechanical,pulley,sailing ship,a small metal pulley squeaking on a sailing ship
+Brightness/Spectral,bright,Mechanical,camera,photography studio,a mechanical camera shutter firing in a photography studio
+Brightness/Spectral,bright,Mechanical,lock,vault,a silver key turning in a lubricated metal lock
+Brightness/Spectral,bright,Mechanical,cash register,general store,a vintage cash register drawer popping open in a general store
+Brightness/Spectral,bright,Mechanical,metronome,music room,a mechanical metronome ticking on a wooden piano
+Brightness/Spectral,bright,Mechanical,stapler,office cubicle,a metal stapler joining papers together in an office
+Brightness/Spectral,bright,Mechanical,film projector,cinema booth,a 16mm film projector running in a cinema booth
+Brightness/Spectral,bright,Mechanical,espresso machine,cafe,a steam wand purging on an espresso machine in a cafe
+Brightness/Spectral,bright,Mechanical,winch,dockside,a small steel cable winch spinning under light tension
+Brightness/Spectral,bright,Environmental,ice,frozen lake,thin ice cracking under light pressure on a frozen lake
+Brightness/Spectral,bright,Environmental,rain,tin roof,light rain tapping against a corrugated tin roof
+Brightness/Spectral,bright,Environmental,wind,pine forest,a high-altitude wind whistling through pine needles
+Brightness/Spectral,bright,Environmental,hail,greenhouse,small hail stones bouncing off a glass greenhouse roof
+Brightness/Spectral,bright,Environmental,stream,rocky brook,a shallow stream bubbling over smooth pebbles
+Brightness/Spectral,bright,Environmental,fire,campsite,dry pine needles crackling in a small campfire
+Brightness/Spectral,bright,Environmental,leaves,autumn woods,dry autumn leaves skittering across a paved road
+Brightness/Spectral,bright,Environmental,sand,desert dunes,fine sand grains blowing against a glass bottle in the desert
+Brightness/Spectral,bright,Environmental,snow,tundra,a light crust of frozen snow breaking under a boot
+Brightness/Spectral,bright,Environmental,gravel,driveway,small granite pebbles shifting under a bicycle tire
+Brightness/Spectral,bright,Environmental,water,fountain,a thin stream of water hitting a marble basin in a fountain
+Brightness/Spectral,bright,Environmental,icicles,mountain cave,icicles dripping onto a frozen rock in a cave
+Brightness/Spectral,bright,Environmental,shell,beach,sea shells clinking together in a receding ocean wave
+Brightness/Spectral,bright,Environmental,grass,prairie,dry prairie grass rustling in a sharp breeze
+Brightness/Spectral,bright,Environmental,reeds,marshland,dried reeds knocking against each other in a marsh
+Brightness/Spectral,bright,Environmental,shale,canyon,shale fragments sliding down a steep canyon wall
+Brightness/Spectral,bright,Environmental,geyser,volcanic field,a small steam vent hissing in a volcanic field
+Brightness/Spectral,bright,Environmental,frost,winter morning,frost crystals being scraped off a window pane
+Brightness/Spectral,bright,Organic,cricket,summer field,a field cricket chirping in the tall grass
+Brightness/Spectral,bright,Organic,bird,rainforest,a tropical songbird letting out a piercing whistle
+Brightness/Spectral,bright,Organic,bat,dark cavern,a bat emitting a high-frequency click in a cavern
+Brightness/Spectral,bright,Organic,insect,orchard,a cicada buzzing in a fruit tree during a hot afternoon
+Brightness/Spectral,bright,Organic,bones,museum,dry skeletal remains clattering together in a museum
+Brightness/Spectral,bright,Organic,teeth,dentist chair,teeth chattering rapidly in a cold room
+Brightness/Spectral,bright,Organic,claws,tile floor,a small dog's claws clicking on a kitchen tile floor
+Brightness/Spectral,bright,Organic,beak,wooden post,a woodpecker tapping rapidly on a dry wooden post
+Brightness/Spectral,bright,Organic,straw,stable,a handful of dry straw being crushed in a stable
+Brightness/Spectral,bright,Organic,squirrel,oak tree,a squirrel chattering a warning from an oak tree branch
+Brightness/Spectral,bright,Organic,shells,tide pool,crab claws snapping in a rocky tide pool
+Brightness/Spectral,bright,Organic,egg,kitchen,a thin eggshell cracking against a ceramic bowl
+Brightness/Spectral,bright,Organic,scales,desert floor,a rattlesnake shaking its tail in the dry desert
+Brightness/Spectral,bright,Organic,wings,flower garden,a hummingbird’s wings humming near a flower
+Brightness/Spectral,bright,Organic,twigs,forest floor,dry birch twigs snapping underfoot in a forest
+Brightness/Spectral,bright,Organic,voice,nursery,a baby’s high-pitched squeal of delight in a nursery
+Brightness/Spectral,bright,Organic,leaves,backyard,dry bamboo leaves rustling in a light wind
+Brightness/Spectral,bright,Organic,fingernails,tabletop,fingernails tapping rapidly on a polished wooden table
+Brightness/Spectral,bright,Domestic,glass,dining room,wine glasses clinking together during a toast
+Brightness/Spectral,bright,Domestic,silverware,kitchen,metal spoons being sorted in a drawer
+Brightness/Spectral,bright,Domestic,keys,doorway,a ring of brass keys jingling in a hallway
+Brightness/Spectral,bright,Domestic,porcelain,tea room,a porcelain teacup being placed on a saucer
+Brightness/Spectral,bright,Domestic,coins,pantry,loose change falling onto a hard linoleum floor
+Brightness/Spectral,bright,Domestic,beads,craft room,glass beads spilling into a plastic tray
+Brightness/Spectral,bright,Domestic,pins,sewing room,a tin of sewing pins being shaken
+Brightness/Spectral,bright,Domestic,lightbulb,closet,a lightbulb filament vibrating after being bumped
+Brightness/Spectral,bright,Domestic,scissors,office,metal scissors snipping through a sheet of crisp paper
+Brightness/Spectral,bright,Domestic,zipper,bedroom,a metal zipper being pulled up quickly on a jacket
+Brightness/Spectral,bright,Domestic,foil,kitchen,aluminum foil being crinkled into a ball
+Brightness/Spectral,bright,Domestic,ceramic,patio,a ceramic wind chime swaying in a breeze
+Brightness/Spectral,bright,Domestic,marbles,playroom,glass marbles colliding on a wooden floor
+Brightness/Spectral,bright,Domestic,ice cubes,wet bar,ice cubes clinking in a crystal glass
+Brightness/Spectral,bright,Domestic,spray can,garage,the metal ball rattling inside an aerosol spray can
+Brightness/Spectral,bright,Domestic,jewelry,dressing room,a gold necklace being dropped onto a glass tabletop
+Brightness/Spectral,bright,Domestic,utensil,kitchen,a stainless steel whisk hitting the side of a metal bowl
+Brightness/Spectral,bright,Domestic,clock,mantel,a small brass travel clock ticking on a mantelpiece
+Brightness/Spectral,bright,Electronic,spark,laboratory,a small static electricity spark jumping between two metal spheres
+Brightness/Spectral,bright,Electronic,buzzer,game show,a high-frequency piezo buzzer sounding in a studio
+Brightness/Spectral,bright,Electronic,capacitor,repair shop,a capacitor discharging with a sharp pop on a workbench
+Brightness/Spectral,bright,Electronic,modem,home office,the high-pitched handshake of a dial-up modem
+Brightness/Spectral,bright,Electronic,tuner,radio station,a radio being tuned through high-frequency static
+Brightness/Spectral,bright,Electronic,television,living room,the high-pitched whine of an old tube television turning on
+Brightness/Spectral,bright,Electronic,sensor,supermarket,a barcode scanner beeping at a checkout counter
+Brightness/Spectral,bright,Electronic,alarm,hospital,a heart rate monitor beeping in a quiet room
+Brightness/Spectral,bright,Electronic,relay,server room,a small electronic relay clicking rapidly
+Brightness/Spectral,bright,Electronic,feedback,rehearsal space,a thin sliver of high-frequency microphone feedback
+Brightness/Spectral,bright,Electronic,oscilloscope,physics lab,a sine wave generator outputting a high-frequency tone
+Brightness/Spectral,bright,Electronic,watch,bedroom,a digital watch alarm beeping on a nightstand
+Brightness/Spectral,bright,Electronic,calculator,classroom,the button presses on a vintage pocket calculator
+Brightness/Spectral,bright,Electronic,camera,tourist site,the high-pitched charge of an electronic camera flash
+Brightness/Spectral,bright,Electronic,pager,office,a pager vibrating and beeping on a desk
+Brightness/Spectral,bright,Electronic,computer,data center,a high-speed cooling fan whirring in a server rack
+Brightness/Spectral,bright,Electronic,synthesizer,studio,a short digital pulse wave being played on a synthesizer
+Brightness/Spectral,bright,Electronic,transformer,utility pole,a small electrical transformer humming with a high-pitched buzz
+Brightness/Spectral,dark,Musical,tuba,concert hall,a tuba playing a sustained low-frequency note in a concert hall
+Brightness/Spectral,dark,Musical,double bass,jazz club,a double bass string being plucked in a smoky jazz club
+Brightness/Spectral,dark,Musical,timpani,orchestra stage,a large timpani being struck with a soft felt mallet
+Brightness/Spectral,dark,Musical,gong,meditation room,a massive bronze gong vibrating after a deep strike
+Brightness/Spectral,dark,Musical,bass drum,parade route,a large bass drum being hit during a slow march
+Brightness/Spectral,dark,Musical,cello,stone chapel,a cello playing a somber melody in a stone chapel
+Brightness/Spectral,dark,Musical,organ,cathedral,the lowest pedal note of a pipe organ vibrating in a cathedral
+Brightness/Spectral,dark,Musical,piano,empty theater,the lowest key on a grand piano being struck and held
+Brightness/Spectral,dark,Musical,didgeridoo,outback,a didgeridoo producing a low circular drone in the outback
+Brightness/Spectral,dark,Musical,taiko drum,shrine,a giant taiko drum being struck with heavy wooden beaters
+Brightness/Spectral,dark,Musical,baritone sax,basement bar,a baritone saxophone honking a low note in a basement bar
+Brightness/Spectral,dark,Musical,bassoon,rehearsal hall,a bassoon playing a low staccato sequence
+Brightness/Spectral,dark,Musical,log drum,jungle clearing,a hollow log drum being struck in a jungle clearing
+Brightness/Spectral,dark,Musical,electric bass,recording studio,a muted electric bass string being plucked through a cabinet
+Brightness/Spectral,dark,Musical,pan drums,beach,a steel tongue drum being played with the palms
+Brightness/Spectral,dark,Musical,harp,drawing room,the thickest gut string of a harp vibrating
+Brightness/Spectral,dark,Musical,handpan,subway tunnel,a handpan being played with soft thumbs in a subway tunnel
+Brightness/Spectral,dark,Musical,mouth harp,canyon,a mouth harp producing a low rhythmic drone in a canyon
+Brightness/Spectral,dark,Mechanical,engine,shipyard,a massive marine diesel engine idling in a shipyard
+Brightness/Spectral,dark,Mechanical,piston,factory,a heavy industrial piston cycling in a factory
+Brightness/Spectral,dark,Mechanical,furnace,basement,the low roar of a coal furnace burning in a basement
+Brightness/Spectral,dark,Mechanical,elevator,skyscraper,the muffled hum of a heavy elevator ascending a shaft
+Brightness/Spectral,dark,Mechanical,conveyor,warehouse,a thick rubber conveyor belt moving in a warehouse
+Brightness/Spectral,dark,Mechanical,turbine,hydroelectric plant,the deep vibration of a large hydroelectric turbine
+Brightness/Spectral,dark,Mechanical,compactor,alleyway,a trash compactor crushing cardboard in an alleyway
+Brightness/Spectral,dark,Mechanical,ventilation,parking garage,a large industrial ventilation fan spinning in a garage
+Brightness/Spectral,dark,Mechanical,press,printing house,a heavy printing press stamping paper in a basement
+Brightness/Spectral,dark,Mechanical,excavator,construction site,the engine of a large excavator idling on a construction site
+Brightness/Spectral,dark,Mechanical,boiler,laundry,a large industrial boiler rumbling in a laundry room
+Brightness/Spectral,dark,Mechanical,crane,dock,a heavy crane winch pulling a shipping container
+Brightness/Spectral,dark,Mechanical,mill,countryside,a heavy stone grist mill grinding grain
+Brightness/Spectral,dark,Mechanical,pump,oil field,a pump jack thumping rhythmically in an oil field
+Brightness/Spectral,dark,Mechanical,steamroller,roadworks,a steamroller vibrating the ground on a new road
+Brightness/Spectral,dark,Mechanical,lathe,heavy industry,a large industrial lathe turning a heavy steel rod
+Brightness/Spectral,dark,Mechanical,drill,quarry,a heavy rock drill boring into a granite wall
+Brightness/Spectral,dark,Mechanical,shredder,recycling plant,an industrial metal shredder groaning under a heavy load
+Brightness/Spectral,dark,Environmental,thunder,mountain range,distant thunder rolling across a mountain range
+Brightness/Spectral,dark,Environmental,avalanche,snowy slope,the deep roar of a distant snow avalanche
+Brightness/Spectral,dark,Environmental,waves,sea cave,heavy ocean waves crashing inside a deep sea cave
+Brightness/Spectral,dark,Environmental,volcano,crater rim,the low-frequency rumble of a dormant volcano
+Brightness/Spectral,dark,Environmental,wind,canyon,a gust of wind howling through a deep rock canyon
+Brightness/Spectral,dark,Environmental,earthquake,fault line,the tectonic plates shifting with a deep groan
+Brightness/Spectral,dark,Environmental,waterfall,tropical forest,the base of a massive waterfall hitting a deep pool
+Brightness/Spectral,dark,Environmental,glacier,arctic sea,a glacier calving into the ocean with a deep thud
+Brightness/Spectral,dark,Environmental,landslide,cliffside,boulders tumbling down a muddy hillside
+Brightness/Spectral,dark,Environmental,iceberg,ocean,an iceberg scraping against the hull of a ship
+Brightness/Spectral,dark,Environmental,mud,geothermal area,a thick mud pot bubbling in a geothermal field
+Brightness/Spectral,dark,Environmental,storm,coastal town,the low groan of a storm surge hitting a sea wall
+Brightness/Spectral,dark,Environmental,tree,ancient forest,a massive oak tree creaking in a heavy wind
+Brightness/Spectral,dark,Environmental,sand,desert,a singing sand dune booming in the wind
+Brightness/Spectral,dark,Environmental,cavern,underground,the resonance of a heavy drop of water hitting a deep pool
+Brightness/Spectral,dark,Environmental,lava,volcanic island,a slow-moving lava flow crunching over cooled rock
+Brightness/Spectral,dark,Environmental,mist,moors,the heavy silence of a thick fog on the moors
+Brightness/Spectral,dark,Environmental,tide,estuary,the heavy movement of a tidal bore up a river
+Brightness/Spectral,dark,Organic,growl,zoo,the deep chest growl of a large lion
+Brightness/Spectral,dark,Organic,footstep,forest floor,the heavy footfall of an elephant on soft earth
+Brightness/Spectral,dark,Organic,heartbeat,quiet room,the muffled thump of a human heartbeat
+Brightness/Spectral,dark,Organic,vocalization,ocean,the low-frequency moan of a blue whale
+Brightness/Spectral,dark,Organic,breathing,bedroom,the deep rhythmic breathing of a large sleeping dog
+Brightness/Spectral,dark,Organic,stomp,plain,a bison stomping the ground in a territorial display
+Brightness/Spectral,dark,Organic,wings,evening sky,the low whoosh of a large owl’s wings in flight
+Brightness/Spectral,dark,Organic,trunk,savanna,an elephant rumbling a low-frequency greeting
+Brightness/Spectral,dark,Organic,chest,mountainside,a gorilla beating its chest with hollow thuds
+Brightness/Spectral,dark,Organic,throat,tundra,the guttural croak of a large raven
+Brightness/Spectral,dark,Organic,hooves,meadow,the muffled thundering of horse hooves on turf
+Brightness/Spectral,dark,Organic,body,wrestling mat,a heavy body hitting a padded wrestling mat
+Brightness/Spectral,dark,Organic,snore,tent,a deep snore echoing inside a nylon tent
+Brightness/Spectral,dark,Organic,grunt,farm,the low grunt of a large boar in the mud
+Brightness/Spectral,dark,Organic,wood,woodland,a heavy tree branch groaning before it breaks
+Brightness/Spectral,dark,Organic,digestion,quiet house,the gurgle of a stomach after a large meal
+Brightness/Spectral,dark,Organic,purr,living room,the low-frequency purr of a large domestic cat
+Brightness/Spectral,dark,Organic,hiss,desert,the low warning hiss of a large desert lizard
+Brightness/Spectral,dark,Domestic,door,mansion,a heavy oak door closing with a deep thud
+Brightness/Spectral,dark,Domestic,rug,backyard,a heavy persian rug being beaten with a wooden stick
+Brightness/Spectral,dark,Domestic,safe,office,the heavy metal door of a floor safe swinging shut
+Brightness/Spectral,dark,Domestic,cabinet,kitchen,a solid mahogany cabinet door closing
+Brightness/Spectral,dark,Domestic,curtain,theater,heavy velvet curtains being drawn across a stage
+Brightness/Spectral,dark,Domestic,sofa,living room,someone sitting down heavily on a plush leather sofa
+Brightness/Spectral,dark,Domestic,fridge,kitchen,the low hum of a vintage refrigerator compressor
+Brightness/Spectral,dark,Domestic,washing machine,laundry room,the heavy tumble cycle of a washing machine
+Brightness/Spectral,dark,Domestic,chest,attic,a cedar chest lid closing with a dull boom
+Brightness/Spectral,dark,Domestic,barrel,cellar,a heavy wine barrel being rolled across a stone floor
+Brightness/Spectral,dark,Domestic,bed,bedroom,a heavy mattress being flopped onto a wooden frame
+Brightness/Spectral,dark,Domestic,suitcase,hallway,a heavy leather suitcase being dropped onto a carpet
+Brightness/Spectral,dark,Domestic,oven,kitchen,the muffled ignition of a gas oven burner
+Brightness/Spectral,dark,Domestic,tub,bathroom,the deep resonance of water filling a cast iron tub
+Brightness/Spectral,dark,Domestic,fireplace,den,a heavy log shifting in a stone fireplace
+Brightness/Spectral,dark,Domestic,shutter,outside,a heavy wooden window shutter slamming in the wind
+Brightness/Spectral,dark,Domestic,pot,kitchen,a heavy cast iron pot being placed on a stove
+Brightness/Spectral,dark,Domestic,bookshelf,study,a heavy encyclopedia being pushed into a tight shelf
+Brightness/Spectral,dark,Electronic,subwoofer,home theater,a 30hz test tone vibrating a home theater room
+Brightness/Spectral,dark,Electronic,transformer,substation,the deep 60hz hum of a power substation
+Brightness/Spectral,dark,Electronic,server,data center,the low-frequency thrum of an industrial server rack
+Brightness/Spectral,dark,Electronic,motor,workshop,a large electric motor idling at low speed
+Brightness/Spectral,dark,Electronic,amplifier,garage,the low hum of a tube amplifier warming up
+Brightness/Spectral,dark,Electronic,fan,tunnel,a massive exhaust fan vibrating in a tunnel
+Brightness/Spectral,dark,Electronic,hum,utility room,an electrical ground loop hum in a sound system
+Brightness/Spectral,dark,Electronic,drone,studio,a deep sawtooth wave played at the lowest octave
+Brightness/Spectral,dark,Electronic,interference,radio,the low-frequency pulsing of cellular interference
+Brightness/Spectral,dark,Electronic,generator,campsite,a portable diesel generator humming in the distance
+Brightness/Spectral,dark,Electronic,battery,EV station,the deep cooling whir of an electric vehicle charger
+Brightness/Spectral,dark,Electronic,induction,kitchen,the low vibration of an induction cooktop on high power
+Brightness/Spectral,dark,Electronic,solenoid,factory,a large industrial solenoid clicking with a heavy thud
+Brightness/Spectral,dark,Electronic,sonar,submarine,a deep active sonar ping echoing underwater
+Brightness/Spectral,dark,Electronic,magnet,scrap yard,a large electromagnet humming as it lifts steel
+Brightness/Spectral,dark,Electronic,rectifier,industrial plant,the low buzz of a high-power industrial rectifier
+Brightness/Spectral,dark,Electronic,synth,concert,a sub-bass pulse vibrating the floor of a venue
+Brightness/Spectral,dark,Electronic,monitor,control room,the muffled hum of a CRT monitor degaussing
+Brightness/Spectral,brilliant,Musical,crash cymbal,concert hall,a large orchestral crash cymbal being struck with full force
+Brightness/Spectral,brilliant,Musical,glockenspiel,empty cathedral,a glockenspiel being struck with brass mallets in a cathedral
+Brightness/Spectral,brilliant,Musical,trumpet,mountaintop,a trumpet playing a high-register solo on a mountaintop
+Brightness/Spectral,brilliant,Musical,harpsichord,gallery,a rapid harpsichord arpeggio in a stone gallery
+Brightness/Spectral,brilliant,Musical,piccolo,botanical garden,a piccolo trilling in a glass-walled botanical garden
+Brightness/Spectral,brilliant,Musical,chimes,city plaza,tubular bells being struck in a paved city plaza
+Brightness/Spectral,brilliant,Musical,violin,opera house,a violin playing a high harmonic note in an opera house
+Brightness/Spectral,brilliant,Musical,piano,ballroom,a high-velocity glissando on the upper keys of a grand piano
+Brightness/Spectral,brilliant,Musical,tambourine,festival,a tambourine being struck sharply during a parade
+Brightness/Spectral,brilliant,Musical,sitar,stone hall,the sympathetic strings of a sitar shimmering in a stone hall
+Brightness/Spectral,brilliant,Musical,handbells,chapel,a set of brass handbells ringing in a stone chapel
+Brightness/Spectral,brilliant,Musical,snare drum,parade,a sharp rimshot on a high-tuned snare drum
+Brightness/Spectral,brilliant,Musical,flute,canyon,a silver flute playing a high trill in a desert canyon
+Brightness/Spectral,brilliant,Musical,gong,temple,a small high-pitched gong being struck with a hard beater
+Brightness/Spectral,brilliant,Musical,organ,basilica,the mixture stops of a pipe organ in a large basilica
+Brightness/Spectral,brilliant,Musical,guitar,recording studio,a 12-string acoustic guitar being strummed vigorously
+Brightness/Spectral,brilliant,Musical,triangle,concert hall,a rapid roll on a steel triangle in a concert hall
+Brightness/Spectral,brilliant,Musical,celesta,fairground,a celesta melody echoing in a morning mist
+Brightness/Spectral,brilliant,Mechanical,drill,workshop,a diamond-tipped drill boring into a ceramic plate
+Brightness/Spectral,brilliant,Mechanical,saw,construction site,a circular saw cutting through a thin sheet of metal
+Brightness/Spectral,brilliant,Mechanical,lathe,factory,a precision lathe spinning at maximum RPM
+Brightness/Spectral,brilliant,Mechanical,turbine,airport,a jet engine turbine spooling up to a high whine
+Brightness/Spectral,brilliant,Mechanical,gears,clockwork shop,tiny silver gears spinning at high speed
+Brightness/Spectral,brilliant,Mechanical,grinder,garage,an angle grinder throwing sparks off a steel pipe
+Brightness/Spectral,brilliant,Mechanical,shutter,stadium,a high-speed camera shutter firing in a burst
+Brightness/Spectral,brilliant,Mechanical,escapement,watch lab,the rapid ticking of a high-beat mechanical watch
+Brightness/Spectral,brilliant,Mechanical,piston,laboratory,a small pneumatic piston firing rapidly
+Brightness/Spectral,brilliant,Mechanical,siren,city street,an electronic siren wailing at a high frequency
+Brightness/Spectral,brilliant,Mechanical,winch,harbor,a high-speed electric winch reeling in a steel cable
+Brightness/Spectral,brilliant,Mechanical,fan,server farm,a high-performance cooling fan spinning at 10
+Brightness/Spectral,brilliant,Mechanical,typewriter,office,a mechanical typewriter being used at a frantic pace
+Brightness/Spectral,brilliant,Mechanical,projector,theater,the high-pitched flicker of a vintage film projector
+Brightness/Spectral,brilliant,Mechanical,clutch,race track,a racing car clutch engaging with a sharp metallic clink
+Brightness/Spectral,brilliant,Mechanical,spring,factory,a high-tension coil spring snapping back into place
+Brightness/Spectral,brilliant,Mechanical,blade,kitchen,a steel blade being honed on a ceramic rod
+Brightness/Spectral,brilliant,Mechanical,pulley,gymnasium,a metal pulley system whirring under a light load
+Brightness/Spectral,brilliant,Environmental,lightning,open field,a nearby lightning strike cracking through the air
+Brightness/Spectral,brilliant,Environmental,ice,arctic,a massive sheet of thin ice shattering on a frozen sea
+Brightness/Spectral,brilliant,Environmental,waterfall,mountain stream,the spray of a waterfall hitting a tin plate
+Brightness/Spectral,brilliant,Environmental,hail,car roof,large hailstones striking a car's sunroof
+Brightness/Spectral,brilliant,Environmental,wind,high peaks,wind whistling through a narrow rock crevice
+Brightness/Spectral,brilliant,Environmental,fire,forest,the intense crackle of dry bamboo exploding in a fire
+Brightness/Spectral,brilliant,Environmental,stream,glacier,a glacial stream rushing over crystalline rocks
+Brightness/Spectral,brilliant,Environmental,geyser,geothermal park,a geyser jetting high-pressure steam into the air
+Brightness/Spectral,brilliant,Environmental,thaw,spring forest,icicles shattering on a stone ledge during a thaw
+Brightness/Spectral,brilliant,Environmental,sand,desert,wind-blown sand sandblasting a glass pane
+Brightness/Spectral,brilliant,Environmental,cave,stalactite room,the sharp splash of a water drop in a crystal cavern
+Brightness/Spectral,brilliant,Environmental,sleet,winter storm,sleet hitting a window pane in a gale
+Brightness/Spectral,brilliant,Environmental,reef,underwater,the snapping of pistol shrimp on a coral reef
+Brightness/Spectral,brilliant,Environmental,shore,rocky beach,pebbles being dragged rapidly by a receding wave
+Brightness/Spectral,brilliant,Environmental,volcano,ash field,obsidian fragments clinking as they settle
+Brightness/Spectral,brilliant,Environmental,meadow,summer noon,thousands of cicadas buzzing in unison
+Brightness/Spectral,brilliant,Environmental,avalanche,mountain top,the sharp crack of a cornice breaking
+Brightness/Spectral,brilliant,Environmental,tundra,winter,frozen grass snapping in a sub-zero wind
+Brightness/Spectral,brilliant,Organic,insect,rainforest,a swarm of cicadas screaming in a jungle canopy
+Brightness/Spectral,brilliant,Organic,bird,cliffs,the piercing shriek of a hawk echoing off a cliff
+Brightness/Spectral,brilliant,Organic,dolphin,ocean,a dolphin emitting a series of high-pitched clicks
+Brightness/Spectral,brilliant,Organic,rattlesnake,scrubland,the rapid-fire rattle of a snake in the brush
+Brightness/Spectral,brilliant,Organic,bat,cave,a colony of bats chirping in a stone cavern
+Brightness/Spectral,brilliant,Organic,shriek,meadow,the high-pitched alarm call of a marmot
+Brightness/Spectral,brilliant,Organic,teeth,cold room,the sharp chattering of teeth in a freezing cellar
+Brightness/Spectral,brilliant,Organic,scales,desert,the dry rustle of a viper sliding over parched earth
+Brightness/Spectral,brilliant,Organic,whistle,forest,the clear whistle of a mountain marmot
+Brightness/Spectral,brilliant,Organic,wings,garden,the high-frequency hum of a sphinx moth’s wings
+Brightness/Spectral,brilliant,Organic,bark,dog park,the sharp yip of a small terrier
+Brightness/Spectral,brilliant,Organic,twigs,winter woods,frozen pine twigs snapping in a gust
+Brightness/Spectral,brilliant,Organic,bones,ossuary,dry bird bones falling onto a stone floor
+Brightness/Spectral,brilliant,Organic,claws,metal roof,a squirrel's claws scrabbling on a tin roof
+Brightness/Spectral,brilliant,Organic,voice,theater,a soprano hitting a high-pitched operatic note
+Brightness/Spectral,brilliant,Organic,beak,tree trunk,a nuthatch tapping rapidly on a dry branch
+Brightness/Spectral,brilliant,Organic,shells,tide pool,barnacles snapping shut as the tide recedes
+Brightness/Spectral,brilliant,Organic,shiver,bedroom,the rapid vibration of a person shivering
+Brightness/Spectral,brilliant,Domestic,glass,kitchen,a crystal wine glass shattering on a tile floor
+Brightness/Spectral,brilliant,Domestic,chandelier,ballroom,crystal droplets clinking together in a draft
+Brightness/Spectral,brilliant,Domestic,silver,dining room,a silver tray being struck with a metal spoon
+Brightness/Spectral,brilliant,Domestic,porcelain,shop,a stack of porcelain plates falling and breaking
+Brightness/Spectral,brilliant,Domestic,jewelry,bedroom,a diamond ring being dropped into a glass bowl
+Brightness/Spectral,brilliant,Domestic,beads,playroom,a thousand glass beads spilling onto a hardwood floor
+Brightness/Spectral,brilliant,Domestic,foil,kitchen,a sheet of tin foil being ripped quickly
+Brightness/Spectral,brilliant,Domestic,keys,hallway,a large bunch of brass keys hitting a stone floor
+Brightness/Spectral,brilliant,Domestic,coins,bank,a bag of silver coins being emptied onto a metal counter
+Brightness/Spectral,brilliant,Domestic,lightbulb,garage,a lightbulb exploding into many small pieces
+Brightness/Spectral,brilliant,Domestic,mirror,bathroom,a hand mirror shattering on a marble vanity
+Brightness/Spectral,brilliant,Domestic,spray,bathroom,a high-pressure aerosol spray nozzle being engaged
+Brightness/Spectral,brilliant,Domestic,whistle,kitchen,a tea kettle whistling at maximum pressure
+Brightness/Spectral,brilliant,Domestic,zipper,closet,a long metal zipper being zipped up very fast
+Brightness/Spectral,brilliant,Domestic,ceramic,patio,a ceramic pot shattering into shards on stone
+Brightness/Spectral,brilliant,Domestic,utensil,kitchen,a stainless steel spatula scraping a hot griddle
+Brightness/Spectral,brilliant,Domestic,clapper,doorway,a brass door knocker striking a metal plate
+Brightness/Spectral,brilliant,Domestic,jar,pantry,a glass jar of marbles being shaken
+Brightness/Spectral,brilliant,Electronic,arc,laboratory,a high-voltage plasma arc sizzling in a vacuum
+Brightness/Spectral,brilliant,Electronic,flash,studio,a professional camera flash charging and firing
+Brightness/Spectral,brilliant,Electronic,spark,workshop,a Tesla coil emitting a series of bright sparks
+Brightness/Spectral,brilliant,Electronic,buzzer,factory,a high-frequency electronic alarm sounding
+Brightness/Spectral,brilliant,Electronic,glitch,studio,a short burst of digital clipping in a recording
+Brightness/Spectral,brilliant,Electronic,oscillator,lab,a square wave generator at 15kHz
+Brightness/Spectral,brilliant,Electronic,laser,research facility,a high-power laser pulsing against a metal target
+Brightness/Spectral,brilliant,Electronic,feedback,stage,a sharp squeal of guitar feedback through a tweeter
+Brightness/Spectral,brilliant,Electronic,capacitance,clean room,the discharge of a high-energy capacitor bank
+Brightness/Spectral,brilliant,Electronic,modem,office,the screeching tones of an old fax machine
+Brightness/Spectral,brilliant,Electronic,radio,wilderness,the high-pitched whistle of a shortwave radio tuner
+Brightness/Spectral,brilliant,Electronic,beeper,hospital,a rapid high-pitched medical alert beeper
+Brightness/Spectral,brilliant,Electronic,monitor,control room,the high-pitched whine of a flyback transformer
+Brightness/Spectral,brilliant,Electronic,switch,substation,the sharp crack of a high-voltage circuit breaker
+Brightness/Spectral,brilliant,Electronic,synthesizer,studio,a resonant high-pass filter sweep on a synth
+Brightness/Spectral,brilliant,Electronic,scanner,library,the high-pitched whir of a flatbed scanner
+Brightness/Spectral,brilliant,Electronic,relay,telecom hub,the rapid-fire clicking of electronic relays
+Brightness/Spectral,brilliant,Electronic,chip,server room,the high-pitched hum of a malfunctioning microchip
+Brightness/Spectral,dull,Musical,drum,rehearsal room,a floor tom being struck with a heavy felt mallet
+Brightness/Spectral,dull,Musical,woodblock,orchestra hall,a woodblock wrapped in thick cloth being struck
+Brightness/Spectral,dull,Musical,guitar,bedroom,a palm-muted strum on old nylon guitar strings
+Brightness/Spectral,dull,Musical,piano,saloon,a piano played with the damper pedal fully depressed
+Brightness/Spectral,dull,Musical,cello,basement,a cello string being plucked while muted with a finger
+Brightness/Spectral,dull,Musical,tambourine,recording booth,a tambourine with the jingles taped shut being shaken
+Brightness/Spectral,dull,Musical,marimba,conservatory,a marimba played with extremely soft yarn mallets
+Brightness/Spectral,dull,Musical,cymbals,studio,a ride cymbal being struck while covered in a towel
+Brightness/Spectral,dull,Musical,violin,attic,a violin being bowed with a heavy metal practice mute
+Brightness/Spectral,dull,Musical,snare drum,garage,a snare drum with the wires turned off and a cloth on top
+Brightness/Spectral,dull,Musical,harp,closet,a harp string being plucked near the soundboard with a thumb
+Brightness/Spectral,dull,Musical,banjo,porch,a banjo played with a thick rag stuffed behind the bridge
+Brightness/Spectral,dull,Musical,gong,meditation hall,a large gong being struck with a massive rubber beater
+Brightness/Spectral,dull,Musical,flute,museum,a wooden flute being played softly in a carpeted room
+Brightness/Spectral,dull,Musical,clarinet,den,a clarinet note played with a very soft reed
+Brightness/Spectral,dull,Musical,xylophone,classroom,a xylophone struck with rubber mallets on the lowest bars
+Brightness/Spectral,dull,Musical,organ,parlor,a small reed organ with the swell box closed
+Brightness/Spectral,dull,Musical,handpan,bedroom,a handpan being played with the soft pads of the fingers
+Brightness/Spectral,dull,Mechanical,lever,factory,a heavy rusted iron lever being pulled slowly
+Brightness/Spectral,dull,Mechanical,belt,engine room,a thick rubber fan belt slipping on a pulley
+Brightness/Spectral,dull,Mechanical,hammer,workshop,a lead-filled dead blow hammer striking a wooden beam
+Brightness/Spectral,dull,Mechanical,piston,steam engine,a grease-covered piston sliding in a heavy cylinder
+Brightness/Spectral,dull,Mechanical,gears,mill,massive stone gears grinding together under water
+Brightness/Spectral,dull,Mechanical,press,industrial plant,a heavy hydraulic press stamping a thick rubber mat
+Brightness/Spectral,dull,Mechanical,conveyor,quarry,a heavy conveyor belt moving wet gravel
+Brightness/Spectral,dull,Mechanical,lathe,machine shop,a lathe turning a heavy lead cylinder
+Brightness/Spectral,dull,Mechanical,pump,basement,a submerged sump pump thumping through a concrete floor
+Brightness/Spectral,dull,Mechanical,wrench,garage,a heavy pipe wrench falling onto a thick rubber mat
+Brightness/Spectral,dull,Mechanical,shredder,office,a paper shredder struggling with a thick stack of cardboard
+Brightness/Spectral,dull,Mechanical,fan,warehouse,a large ceiling fan spinning slowly in a humid room
+Brightness/Spectral,dull,Mechanical,door,bunker,a heavy lead-lined door closing against a rubber seal
+Brightness/Spectral,dull,Mechanical,pulley,barn,a thick hemp rope creaking through a wooden pulley
+Brightness/Spectral,dull,Mechanical,winch,dock,a rusted winch drum turning slowly under high tension
+Brightness/Spectral,dull,Mechanical,typewriter,archive,a typewriter being used through a thick felt cover
+Brightness/Spectral,dull,Mechanical,clutch,tractor,a heavy tractor clutch engaging in deep mud
+Brightness/Spectral,dull,Mechanical,drill,construction,a large auger drilling into soft clay soil
+Brightness/Spectral,dull,Environmental,mud,marsh,a large bubble of marsh gas popping in thick mud
+Brightness/Spectral,dull,Environmental,snow,forest,a heavy clump of wet snow falling onto a mossy log
+Brightness/Spectral,dull,Environmental,sand,dune,a person sliding down a steep sand dune
+Brightness/Spectral,dull,Environmental,earth,garden,a heavy shovel being pushed into wet potting soil
+Brightness/Spectral,dull,Environmental,water,swamp,a heavy stone being dropped into a murky swamp
+Brightness/Spectral,dull,Environmental,leaves,woodland,wet autumn leaves being compressed under a heavy boot
+Brightness/Spectral,dull,Environmental,wind,tundra,a low wind moaning through a hollow rotted log
+Brightness/Spectral,dull,Environmental,thatch,village,heavy rain hitting a thick thatched roof
+Brightness/Spectral,dull,Environmental,ice,river,a thick layer of river ice groaning under pressure
+Brightness/Spectral,dull,Environmental,cave,cavern,a distant thud of a falling rock in a silt-filled cave
+Brightness/Spectral,dull,Environmental,ash,volcanic plain,walking through a deep layer of volcanic ash
+Brightness/Spectral,dull,Environmental,peat,moor,a foot stepping into a waterlogged peat bog
+Brightness/Spectral,dull,Environmental,fog,harbor,a distant foghorn sounding through a thick mist
+Brightness/Spectral,dull,Environmental,underwater,lake,a large wooden log bumping against a dock underwater
+Brightness/Spectral,dull,Environmental,moss,cloud forest,a hand pressing into a thick layer of wet moss
+Brightness/Spectral,dull,Environmental,clay,riverbank,a heavy clay bank collapsing into a slow river
+Brightness/Spectral,dull,Environmental,dust,desert,a dust devil swirling over a soft silt flat
+Brightness/Spectral,dull,Environmental,bark,forest,a piece of sodden bark falling onto the forest floor
+Brightness/Spectral,dull,Organic,thump,gym,a heavy medicine ball hitting a padded mat
+Brightness/Spectral,dull,Organic,footstep,meadow,a cow walking through deep
+Brightness/Spectral,dull,Organic,impact,forest,a heavy branch hitting the soft forest floor
+Brightness/Spectral,dull,Organic,squash,garden,a ripe melon dropping onto soft earth
+Brightness/Spectral,dull,Organic,heartbeat,medical clinic,the muffled sound of a heart through a thick chest wall
+Brightness/Spectral,dull,Organic,clap,theater,someone clapping with cupped hands in a large hall
+Brightness/Spectral,dull,Organic,vocal,den,a person humming with their mouth closed and nose pinched
+Brightness/Spectral,dull,Organic,breath,bedroom,a heavy sigh into a feather pillow
+Brightness/Spectral,dull,Organic,skin,bathroom,a wet hand slapping a damp thigh
+Brightness/Spectral,dull,Organic,hair,barber shop,a thick lock of hair being cut with blunt scissors
+Brightness/Spectral,dull,Organic,tongue,kitchen,the sound of someone smacking their lips after eating honey
+Brightness/Spectral,dull,Organic,muscle,massage room,a heavy muscle being kneaded during a massage
+Brightness/Spectral,dull,Organic,belly,poolside,a belly flop into a pool of water
+Brightness/Spectral,dull,Organic,fur,stable,brushing a horse’s thick winter coat
+Brightness/Spectral,dull,Organic,throat,bedroom,a muffled cough into a thick wool blanket
+Brightness/Spectral,dull,Organic,flesh,kitchen,kneading a large mound of heavy bread dough
+Brightness/Spectral,dull,Organic,stomp,field,a boot stomping on a patch of wet sod
+Brightness/Spectral,dull,Organic,wing,barn,a large bat hitting a wooden beam in flight
+Brightness/Spectral,dull,Domestic,rug,living room,a heavy rug being unrolled onto a carpeted floor
+Brightness/Spectral,dull,Domestic,pillow,bedroom,a large feather pillow being fluffed
+Brightness/Spectral,dull,Domestic,book,library,a heavy thick encyclopedia being dropped onto a sofa
+Brightness/Spectral,dull,Domestic,curtain,theater,heavy velvet drapes falling onto a stage floor
+Brightness/Spectral,dull,Domestic,cardboard,garage,a large cardboard box being dragged across concrete
+Brightness/Spectral,dull,Domestic,mattress,bedroom,a person jumping onto a memory foam mattress
+Brightness/Spectral,dull,Domestic,cork,cellar,a cork being pushed into a wine bottle
+Brightness/Spectral,dull,Domestic,sponge,kitchen,a wet sponge being squeezed out in a sink
+Brightness/Spectral,dull,Domestic,door,hallway,a padded soundproof door swinging shut
+Brightness/Spectral,dull,Domestic,towel,bathroom,a heavy wet towel dropping onto a tile floor
+Brightness/Spectral,dull,Domestic,suitcase,attic,a soft-sided suitcase being tossed into a corner
+Brightness/Spectral,dull,Domestic,dough,kitchen,a heavy ball of pizza dough being slapped onto a wooden board
+Brightness/Spectral,dull,Domestic,sofa,living room,someone punching a plush sofa cushion
+Brightness/Spectral,dull,Domestic,bread,bakery,a loaf of dense rye bread being dropped on a table
+Brightness/Spectral,dull,Domestic,blanket,bedroom,a heavy wool blanket being shaken out
+Brightness/Spectral,dull,Domestic,cabinet,kitchen,a kitchen drawer closing against a rubber bumper
+Brightness/Spectral,dull,Domestic,soap,bathroom,a bar of soap falling into a full bathtub
+Brightness/Spectral,dull,Domestic,cloth,dining room,a heavy tablecloth being spread over a wooden table
+Brightness/Spectral,dull,Electronic,hum,basement,the low-frequency thrum of an old transformer buried in a wall
+Brightness/Spectral,dull,Electronic,speaker,car,a subwoofer playing through a trunk filled with blankets
+Brightness/Spectral,dull,Electronic,battery,workshop,a dying battery causing a motor to groan and stall
+Brightness/Spectral,dull,Electronic,static,radio,the muffled static of a radio tuned between stations under water
+Brightness/Spectral,dull,Electronic,pulse,lab,a low-frequency square wave passed through a thick wool filter
+Brightness/Spectral,dull,Electronic,drone,studio,a synthesizer playing a sine wave at 60Hz
+Brightness/Spectral,dull,Electronic,click,office,a keyboard key being pressed through a silicone cover
+Brightness/Spectral,dull,Electronic,fan,attic,a dust-clogged computer fan struggling to spin
+Brightness/Spectral,dull,Electronic,relay,basement,an electrical relay clicking inside a thick plastic housing
+Brightness/Spectral,dull,Electronic,intercom,apartment,a muffled voice coming through a low-quality intercom
+Brightness/Spectral,dull,Electronic,alarm,bedroom,a digital alarm clock beeping from under a pile of clothes
+Brightness/Spectral,dull,Electronic,transformer,street,the distant low-frequency buzz of a power line in the rain
+Brightness/Spectral,dull,Electronic,monitor,office,the degaussing hum of a CRT monitor covered by a cloth
+Brightness/Spectral,dull,Electronic,phone,purse,a vibrating cell phone at the bottom of a heavy handbag
+Brightness/Spectral,dull,Electronic,engine,garage,the muffled starter motor of a car heard through a wall
+Brightness/Spectral,dull,Electronic,solenoid,factory,a solenoid firing inside a heavy oil-filled chamber
+Brightness/Spectral,dull,Electronic,wire,construction,the dull snap of a thick insulated copper cable
+Brightness/Spectral,dull,Electronic,box,utility room,the low vibration of a circuit breaker panel heard from another room

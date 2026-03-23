@@ -1,0 +1,858 @@
+category,tag,domain,source,environment,scenario
+Material/Source,metallic,Musical,bell,cathedral,a bronze bell tolling in a vaulted stone cathedral
+Material/Source,metallic,Musical,triangle,concert hall,a steel triangle being struck with a metal beater
+Material/Source,metallic,Musical,trumpet,stadium,a brass trumpet playing a sharp fanfare note
+Material/Source,metallic,Musical,cymbal,stage,a crash cymbal being slammed against its pair
+Material/Source,metallic,Musical,harp,conservatory,a wire harp string being plucked and ringing
+Material/Source,metallic,Musical,piano,ballroom,a piano hammer hitting a high-tension steel string
+Material/Source,metallic,Musical,violin,vault,a violin bow hair sliding across a metal-wound string
+Material/Source,metallic,Musical,banjo,porch,a banjo being played with sharp metal fingerpicks
+Material/Source,metallic,Musical,mandolin,piazza,a mandolin string being hit by a hard metal plectrum
+Material/Source,metallic,Musical,handbell,tower,a silver handbell ringing in a windy belfry
+Material/Source,metallic,Musical,glockenspiel,museum,a glockenspiel mallet hitting a steel bar
+Material/Source,metallic,Musical,tambourine,festival,the metal jingles of a tambourine clashing together
+Material/Source,metallic,Musical,tubular bells,chapel,a tubular bell being struck with a lead hammer
+Material/Source,metallic,Musical,vibraphone,hall,a vibraphone bar vibrating over a metal resonator
+Material/Source,metallic,Musical,zither,attic,a zither string being plucked with a wire pick
+Material/Source,metallic,Musical,snare drum,studio,the metal wires of a snare drum rattling against the head
+Material/Source,metallic,Musical,gong,monastery,a large bronze gong shimmering after a heavy strike
+Material/Source,metallic,Musical,mouth harp,cave,a metal mouth harp vibrating against a front tooth
+Material/Source,metallic,Mechanical,gears,clock tower,large brass gears interlocking in a clock tower
+Material/Source,metallic,Mechanical,lathe,machine shop,a metal lathe shaving a layer of steel off a rod
+Material/Source,metallic,Mechanical,drill,shipyard,a high-speed drill bit grinding into a metal hull
+Material/Source,metallic,Mechanical,engine,garage,the metallic clicking of a cooling car engine
+Material/Source,metallic,Mechanical,saw,junkyard,a circular saw cutting through a sheet of aluminum
+Material/Source,metallic,Mechanical,winch,oil rig,a steel winch cable snapping taut on a metal drum
+Material/Source,metallic,Mechanical,crane,construction site,a heavy crane hook block hitting a steel girder
+Material/Source,metallic,Mechanical,elevator,skyscraper,a metal elevator car sliding along its steel guide rails
+Material/Source,metallic,Mechanical,boiler,foundry,a metal steam boiler expanding and contracting
+Material/Source,metallic,Mechanical,turbine,dam,a massive steel turbine spinning deep inside a dam
+Material/Source,metallic,Mechanical,press,factory,a hydraulic press slamming down on a metal mold
+Material/Source,metallic,Mechanical,hammer,workshop,a sledgehammer hitting a steel anvil firmly
+Material/Source,metallic,Mechanical,conveyor,warehouse,a steel roller spinning on a metal conveyor belt
+Material/Source,metallic,Mechanical,pump,station,a metal water pump vibrating against its housing
+Material/Source,metallic,Mechanical,valve,ship,a heavy iron valve wheel clicking into its lock
+Material/Source,metallic,Mechanical,clockwork,shop,tiny brass gears spinning in a pocket watch
+Material/Source,metallic,Mechanical,loom,mill,a metal shuttle flying across a power loom
+Material/Source,metallic,Mechanical,sewing machine,tailor,a sewing machine needle punching a metal plate
+Material/Source,metallic,Environmental,hail,tin roof,heavy hail slamming into a corrugated metal roof
+Material/Source,metallic,Environmental,lightning,plains,a lightning strike hitting a metal fence post
+Material/Source,metallic,Environmental,rockfall,quarry,a granite rock hitting a metal shovel in a pit
+Material/Source,metallic,Environmental,wind,desert,wind whistling through a thin wire fence
+Material/Source,metallic,Environmental,iceberg,ocean,an iceberg scraping against a ship's steel hull
+Material/Source,metallic,Environmental,rain,car,rainwater drumming on a car's metal hood
+Material/Source,metallic,Environmental,thaw,gutter,an icicle falling and hitting a metal downspout
+Material/Source,metallic,Environmental,waves,dock,a wave pushing a boat's metal hull against a pier
+Material/Source,metallic,Environmental,sand,desert,sand grains blasting against a metal sign in a storm
+Material/Source,metallic,Environmental,earthquake,bridge,a steel bridge joint grinding during a tremor
+Material/Source,metallic,Environmental,geyser,well,a metal pipe vibrating as a geyser erupts
+Material/Source,metallic,Environmental,avalanche,slope,a snow slide carrying a metal sign down a hill
+Material/Source,metallic,Environmental,pebbles,shore,small pebbles clinking in a metal bucket on a beach
+Material/Source,metallic,Environmental,branch,orchard,a tree limb hitting a metal watering can
+Material/Source,metallic,Environmental,river,dam,a floating metal drum hitting a dam spillway
+Material/Source,metallic,Environmental,mist,forest,water condensing and dripping on a metal tag
+Material/Source,metallic,Environmental,fire,hearth,a metal fire poker hitting a cast iron grate
+Material/Source,metallic,Environmental,glacier,fjord,a metal probe being crushed by shifting glacial ice
+Material/Source,metallic,Organic,horseshoe,track,a metal horseshoe hitting hard packed earth
+Material/Source,metallic,Organic,bird,field,a bird beak pecking at a metal wire
+Material/Source,metallic,Organic,crab,shore,a crab claw clicking against a discarded tin can
+Material/Source,metallic,Organic,beetle,garden,a beetle scurrying across a sheet of aluminum foil
+Material/Source,metallic,Organic,human,hall,a person tapping a metal ring against a stone wall
+Material/Source,metallic,Organic,squirrel,park,a squirrel scurrying up a metal fence post
+Material/Source,metallic,Organic,dog,yard,a dog's metal tags jangling as it runs
+Material/Source,metallic,Organic,elephant,jungle,an elephant pulling a metal chain through the brush
+Material/Source,metallic,Organic,teeth,room,teeth clicking against a silver spoon
+Material/Source,metallic,Organic,fingernail,table,a fingernail tapping a metal desk surface
+Material/Source,metallic,Organic,snake,desert,a snake sliding over a metal pipe in the sun
+Material/Source,metallic,Organic,monkey,canopy,a monkey shaking a metal cage door
+Material/Source,metallic,Organic,seal,beach,a seal hitting a metal bucket with its flipper
+Material/Source,metallic,Organic,whale,ocean,a whale tail hitting a metal research buoy
+Material/Source,metallic,Organic,wasp,vent,a wasp hitting a metal window screen
+Material/Source,metallic,Organic,human,gym,a person's keys jangling in a gym locker
+Material/Source,metallic,Organic,frog,pond,a tree frog chirping near a metal drainage pipe
+Material/Source,metallic,Organic,deer,thicket,a deer's antlers hitting a metal fence rail
+Material/Source,metallic,Domestic,spoon,bowl,a silver spoon clinking against a metal bowl
+Material/Source,metallic,Domestic,keys,foyer,a set of keys being dropped on a glass table
+Material/Source,metallic,Domestic,zipper,closet,a metal zipper being pulled up a heavy jacket
+Material/Source,metallic,Domestic,scissors,office,scissors snipping through a metal paperclip
+Material/Source,metallic,Domestic,stapler,desk,a desktop stapler clicking shut on paper
+Material/Source,metallic,Domestic,coin,kitchen,a coin spinning on a granite countertop
+Material/Source,metallic,Domestic,lightbulb,garage,a lightbulb filament vibrating in a socket
+Material/Source,metallic,Domestic,thimble,room,a metal thimble hitting a wooden floor
+Material/Source,metallic,Domestic,razor,sink,a safety razor being tapped on a porcelain sink
+Material/Source,metallic,Domestic,tin,pantry,a metal tin lid being snapped shut
+Material/Source,metallic,Domestic,faucet,kitchen,a single drop of water hitting a metal sink
+Material/Source,metallic,Domestic,kettle,stove,a tea kettle starting a sharp whistle
+Material/Source,metallic,Domestic,radiator,apartment,a steam radiator hissing and clanking
+Material/Source,metallic,Domestic,cabinet,pantry,a magnetic cabinet latch clicking shut
+Material/Source,metallic,Domestic,trunk,attic,a metal trunk latch being snapped closed
+Material/Source,metallic,Domestic,drawer,office,a metal filing cabinet drawer being slammed
+Material/Source,metallic,Domestic,pot,kitchen,a cast iron pot being set on a stone counter
+Material/Source,metallic,Domestic,fork,dining,a silver fork scraping a porcelain plate
+Material/Source,metallic,Domestic,belt,closet,a metal belt buckle clicking shut
+Material/Source,metallic,Domestic,clasp,bedroom,a metal jewelry clasp being snapped shut
+Material/Source,metallic,Electronic,spark,lab,a high-voltage spark jumping between metal contacts
+Material/Source,metallic,Electronic,taser,facility,the sharp crackle of a taser arc
+Material/Source,metallic,Electronic,relay,closet,a small reed relay clicking in a metal box
+Material/Source,metallic,Electronic,buzzer,entry,a buzzer sounding in a metal intercom housing
+Material/Source,metallic,Electronic,transformer,station,a power transformer buzzing in a metal yard
+Material/Source,metallic,Electronic,neon sign,street,a neon sign flickering and buzzing
+Material/Source,metallic,Electronic,amplifier,garage,a guitar amplifier humming with a metallic buzz
+Material/Source,metallic,Electronic,capacitor,lab,a capacitor failing with a metallic pop
+Material/Source,metallic,Electronic,speaker,club,a speaker cone hitting its metal frame
+Material/Source,metallic,Electronic,motor,elevator,an electric motor whirring in a metal shaft
+Material/Source,metallic,Electronic,printer,office,a printer head moving on a metal rail
+Material/Source,metallic,Electronic,scanner,library,the whir of a scanner's metal parts
+Material/Source,metallic,Electronic,hard drive,server,the seek click of a mechanical disk drive
+Material/Source,metallic,Electronic,laptop,office,a laptop processor whining in a metal case
+Material/Source,metallic,Electronic,battery,device,a battery snapping into a metal compartment
+Material/Source,metallic,Electronic,led,workshop,the faint hiss of a metal led driver
+Material/Source,metallic,Electronic,sensor,hall,the click of a metal-housed infrared sensor
+Material/Source,metallic,Electronic,modem,office,the digital chirp of a network modem
+Material/Source,wooden,Musical,wood block,studio,a hard wood block being hit with a wooden stick
+Material/Source,wooden,Musical,marimba,stage,a rosewood marimba bar being struck with a mallet
+Material/Source,wooden,Musical,xylophone,hall,a wooden xylophone playing a fast melody
+Material/Source,wooden,Musical,castanets,room,a pair of wooden castanets clacking together
+Material/Source,wooden,Musical,recorder,field,a wooden recorder playing a breathy melody
+Material/Source,wooden,Musical,flute,grove,a bamboo flute blowing a warm note
+Material/Source,wooden,Musical,cello,parlor,a cello body being tapped with a knuckle
+Material/Source,wooden,Musical,guitar,cabin,an acoustic guitar being strummed in a small room
+Material/Source,wooden,Musical,piano,ballroom,the wooden cabinet of a piano vibrating
+Material/Source,wooden,Musical,harp,sunroom,the wooden soundboard of a harp vibrating
+Material/Source,wooden,Musical,koto,garden,a koto string being plucked in a garden
+Material/Source,wooden,Musical,lute,hall,the wooden body of a lute being plucked
+Material/Source,wooden,Musical,didgeridoo,outback,a wooden didgeridoo drone in the desert
+Material/Source,wooden,Musical,drum,pit,a wooden shell drum being struck with a hand
+Material/Source,wooden,Musical,pipe,shrine,a wooden organ pipe sustaining a low note
+Material/Source,wooden,Musical,whistle,forest,a wooden whistle mimicking a bird call
+Material/Source,wooden,Musical,banjo,porch,the wooden rim of a banjo being tapped
+Material/Source,wooden,Musical,temple block,temple,a wooden temple block being struck
+Material/Source,wooden,Mechanical,watermill,river,wooden gears turning in a water mill
+Material/Source,wooden,Mechanical,loom,cottage,a wooden shuttle flying across a loom
+Material/Source,wooden,Mechanical,well crank,country,a wooden well crank creaking
+Material/Source,wooden,Mechanical,wagon,path,wooden wagon wheels creaking on a dirt road
+Material/Source,wooden,Mechanical,pulley,barn,a wooden pulley squeaking as a rope pulls
+Material/Source,wooden,Mechanical,millstone,mill,a wooden hand mill grinding grain
+Material/Source,wooden,Mechanical,printing press,cellar,a wooden press thumping in a cellar
+Material/Source,wooden,Mechanical,plow,field,a wooden plow cutting through dry earth
+Material/Source,wooden,Mechanical,crane,dock,a wooden crane beam groaning under a load
+Material/Source,wooden,Mechanical,winch,ship,a wooden winch handle slipping on a deck
+Material/Source,wooden,Mechanical,gear,tower,large wooden gears interlocking in a mill
+Material/Source,wooden,Mechanical,floorboard,hall,a wooden floorboard creaking underfoot
+Material/Source,wooden,Mechanical,door,house,a heavy wooden door latch clicking shut
+Material/Source,wooden,Mechanical,fence,pasture,a wooden gate latch clicking shut
+Material/Source,wooden,Mechanical,bench,park,a wooden bench creaking as someone sits
+Material/Source,wooden,Mechanical,ship,dock,wooden hull planks creaking against a pier
+Material/Source,wooden,Mechanical,scaffold,site,wooden boards shifting in the wind
+Material/Source,wooden,Mechanical,hammer,garage,a wooden mallet striking a timber
+Material/Source,wooden,Environmental,branch,forest,a dry oak branch snapping in a silent wood
+Material/Source,wooden,Environmental,log,slope,a hollow log thumping as it rolls down a hill
+Material/Source,wooden,Environmental,tree,orchard,the groan of an apple tree in the wind
+Material/Source,wooden,Environmental,twigs,woods,a footstep on a layer of dry twigs
+Material/Source,wooden,Environmental,brush,thicket,a deer moving through dry wooden brush
+Material/Source,wooden,Environmental,reeds,marsh,dry reeds knocking together in a breeze
+Material/Source,wooden,Environmental,bamboo,grove,bamboo stalks knocking together in a forest
+Material/Source,wooden,Environmental,scrub,desert,dry woody scrub tumbling across a plain
+Material/Source,wooden,Environmental,bark,tree,dry bark peeling from a pine tree
+Material/Source,wooden,Environmental,roots,cliff,woody roots pulling from the earth
+Material/Source,wooden,Environmental,timber,shore,wooden timbers groaning on a beach
+Material/Source,wooden,Environmental,driftwood,beach,driftwood clacking together in the surf
+Material/Source,wooden,Environmental,fire,campsite,a campfire crackling with dry logs
+Material/Source,wooden,Environmental,storm,leaves,wind rustling through heavy woody leaves
+Material/Source,wooden,Environmental,sapling,hills,a young woody sapling snapping in a wind
+Material/Source,wooden,Environmental,fence,farm,a wooden post being hammered into dirt
+Material/Source,wooden,Environmental,hollow tree,meadow,wind huffing through a hollow trunk
+Material/Source,wooden,Environmental,moss,forest,a footstep on a wooden log under moss
+Material/Source,wooden,Organic,woodpecker,tree,a woodpecker drumming on a tree trunk
+Material/Source,wooden,Organic,beaver,river,a beaver gnawing on a willow branch
+Material/Source,wooden,Organic,termite,log,termites chewing in a wooden beam
+Material/Source,wooden,Organic,squirrel,oak,a squirrel scurrying up woody bark
+Material/Source,wooden,Organic,monkey,jungle,a monkey swinging on a woody vine
+Material/Source,wooden,Organic,bear,forest,a bear scratching its back on a tree trunk
+Material/Source,wooden,Organic,deer,thicket,a deer rubbing antlers on a tree
+Material/Source,wooden,Organic,bird,nest,a bird pecking at a wooden birdhouse
+Material/Source,wooden,Organic,gorilla,forest,a gorilla snapping a woody sapling
+Material/Source,wooden,Organic,porcupine,pine,a porcupine gnawing on woody bark
+Material/Source,wooden,Organic,koala,eucalyptus,a koala climbing a woody tree
+Material/Source,wooden,Organic,rabbit,hollow,a rabbit thumping its foot on a root
+Material/Source,wooden,Organic,human,hall,a knuckle rapping on a wooden door
+Material/Source,wooden,Organic,crab,beach,a crab shell clicking on driftwood
+Material/Source,wooden,Organic,elephant,jungle,an elephant breaking a woody branch
+Material/Source,wooden,Organic,wasp,nest,wasps buzzing in a wooden wall
+Material/Source,wooden,Organic,human,gym,a person hitting a wooden training dummy
+Material/Source,wooden,Organic,human,floor,a foot tapping on a wooden floor
+Material/Source,wooden,Domestic,cutting board,kitchen,a knife hitting a wooden cutting board
+Material/Source,wooden,Domestic,spoon,bowl,a wooden spoon hitting a wooden bowl
+Material/Source,wooden,Domestic,cabinet,pantry,a wooden cabinet door swinging shut
+Material/Source,wooden,Domestic,chair,parlor,a wooden rocking chair creaking
+Material/Source,wooden,Domestic,pencil,study,a wooden pencil being sharpened
+Material/Source,wooden,Domestic,box,attic,a wooden jewelry box being closed
+Material/Source,wooden,Domestic,table,kitchen,a wooden table being dragged on a floor
+Material/Source,wooden,Domestic,door,house,a wooden door being knocked on firmly
+Material/Source,wooden,Domestic,wicker,sunroom,a wicker chair creaking as someone sits
+Material/Source,wooden,Domestic,bowl,pantry,a wooden fruit bowl being placed on a shelf
+Material/Source,wooden,Domestic,tray,den,a wooden serving tray being set down
+Material/Source,wooden,Domestic,brush,bathroom,a wooden hairbrush hitting a counter
+Material/Source,wooden,Domestic,rolling pin,bakery,a wooden rolling pin on a board
+Material/Source,wooden,Domestic,bed,bedroom,a wooden bed frame creaking
+Material/Source,wooden,Domestic,stair,hall,a wooden stair tread groaning
+Material/Source,wooden,Domestic,shelf,library,a wooden bookshelf being moved
+Material/Source,wooden,Domestic,clogs,foyer,wooden clogs walking on a floor
+Material/Source,wooden,Domestic,chess,parlor,a wooden chess piece being placed
+Material/Source,wooden,Electronic,speaker,room,a speaker in a mahogany wood cabinet
+Material/Source,wooden,Electronic,switch,office,a wooden toggle switch being flipped
+Material/Source,wooden,Electronic,radio,den,a vintage radio in a wooden housing
+Material/Source,wooden,Electronic,turntable,parlor,a record player on a wooden plinth
+Material/Source,wooden,Electronic,amplifier,studio,a guitar amp with an oak cabinet
+Material/Source,wooden,Electronic,keyboard,study,a keyboard with a wooden case
+Material/Source,wooden,Electronic,fan,bedroom,a ceiling fan with wooden blades
+Material/Source,wooden,Electronic,metronome,room,a metronome in a wooden case
+Material/Source,wooden,Electronic,clock,hall,a battery clock in a wooden frame
+Material/Source,wooden,Electronic,buzzer,entry,a wooden-cased doorbell ringing
+Material/Source,wooden,Electronic,monitor,desk,a monitor on a wooden stand vibrating
+Material/Source,wooden,Electronic,phone,table,a phone on a hollow wooden desk
+Material/Source,wooden,Electronic,lamp,nightstand,a lamp with a wooden base clicking
+Material/Source,wooden,Electronic,controller,den,a controller on a wooden table
+Material/Source,wooden,Electronic,organ,church,a wooden organ console humming
+Material/Source,wooden,Electronic,synthesizer,studio,a synth with wooden end cheeks
+Material/Source,wooden,Electronic,speaker,theater,a large speaker on a wooden stage
+Material/Source,wooden,Electronic,microphone,studio,a microphone on a wooden stand
+Material/Source,plastic,Musical,toy piano,nursery,a small plastic toy piano being played
+Material/Source,plastic,Musical,recorder,classroom,a plastic recorder blowing a sharp note
+Material/Source,plastic,Musical,kazoo,park,a plastic kazoo being blown in a park
+Material/Source,plastic,Musical,tambourine,festival,a tambourine with plastic jingles
+Material/Source,plastic,Musical,ukulele,beach,a ukulele with plastic strings strumming
+Material/Source,plastic,Musical,drum,basement,a drum with a synthetic head being hit
+Material/Source,plastic,Musical,metronome,room,a plastic metronome ticking in a room
+Material/Source,plastic,Musical,flute,meadow,a plastic flute playing a high tune
+Material/Source,plastic,Musical,shaker,booth,a plastic egg shaker being moved
+Material/Source,plastic,Musical,whistle,square,a plastic whistle blowing in a square
+Material/Source,plastic,Musical,slide whistle,circus,a plastic slide whistle moving
+Material/Source,plastic,Musical,castanets,dance,plastic castanets clicking together
+Material/Source,plastic,Musical,harmonica,porch,a plastic harmonica blowing a note
+Material/Source,plastic,Musical,bagpipes,field,plastic bagpipe drones starting up
+Material/Source,plastic,Musical,keyboard,studio,a plastic synthesizer key being pressed
+Material/Source,plastic,Musical,guitar,garage,a plastic pick hitting a guitar string
+Material/Source,plastic,Musical,bell,nursery,a plastic bell ringing in a room
+Material/Source,plastic,Musical,harp,closet,a harp string hitting a plastic frame
+Material/Source,plastic,Mechanical,fan,office,a small plastic desktop fan whirring
+Material/Source,plastic,Mechanical,gears,shop,tiny plastic gears spinning in a toy
+Material/Source,plastic,Mechanical,roller,plant,a plastic conveyor roller spinning
+Material/Source,plastic,Mechanical,printer,office,a plastic printer head moving
+Material/Source,plastic,Mechanical,scanner,library,a plastic scanner carriage whirring
+Material/Source,plastic,Mechanical,drill,garage,a drill bit in a plastic housing
+Material/Source,plastic,Mechanical,camera,street,a plastic camera shutter clicking
+Material/Source,plastic,Mechanical,stapler,desk,a plastic stapler clicking shut
+Material/Source,plastic,Mechanical,timer,kitchen,a plastic kitchen timer ticking
+Material/Source,plastic,Mechanical,solenoid,panel,a plastic-housed solenoid clicking
+Material/Source,plastic,Mechanical,relay,box,a relay clicking in a plastic case
+Material/Source,plastic,Mechanical,shutter,booth,a plastic film spool spinning
+Material/Source,plastic,Mechanical,clutch,car,a plastic pedal clicking in a footwell
+Material/Source,plastic,Mechanical,valve,pipe,a plastic valve clicking shut on a pipe
+Material/Source,plastic,Mechanical,switch,cockpit,a plastic toggle switch being flipped
+Material/Source,plastic,Mechanical,winch,dock,a plastic winch ratchet clicking
+Material/Source,plastic,Mechanical,lock,door,a plastic key turning in a lock
+Material/Source,plastic,Mechanical,piston,lab,a plastic pneumatic piston firing
+Material/Source,plastic,Environmental,hail,car,hail hitting a plastic car sunroof
+Material/Source,plastic,Environmental,rain,tarp,rain hitting a plastic sheet in a yard
+Material/Source,plastic,Environmental,wind,fence,wind through a plastic mesh fence
+Material/Source,plastic,Environmental,thaw,gutter,an icicle hitting a plastic bin
+Material/Source,plastic,Environmental,creek,pipe,water in a plastic drainage pipe
+Material/Source,plastic,Environmental,bubbles,pond,soap bubbles in a plastic basin
+Material/Source,plastic,Environmental,sand,bottle,sand hitting a plastic bottle in wind
+Material/Source,plastic,Environmental,leaves,path,a dry leaf on a plastic patio chair
+Material/Source,plastic,Environmental,steam,vent,steam from a plastic humidifier vent
+Material/Source,plastic,Environmental,pebble,bucket,a pebble hitting a plastic bucket
+Material/Source,plastic,Environmental,ice,tray,ice cubes cracking in a plastic tray
+Material/Source,plastic,Environmental,mist,skin,mist hitting a plastic raincoat
+Material/Source,plastic,Environmental,snow,shoveling,a plastic shovel hitting a sidewalk
+Material/Source,plastic,Environmental,fire,hearth,a plastic lighter sparking once
+Material/Source,plastic,Environmental,waves,shore,waves hitting a plastic boat hull
+Material/Source,plastic,Environmental,branch,orchard,a branch hitting a plastic barrel
+Material/Source,plastic,Environmental,grass,desert,grass hitting a plastic sign
+Material/Source,plastic,Environmental,geyser,plain,steam through a plastic probe
+Material/Source,plastic,Organic,finger snap,ear,a snap of fingers near the ear
+Material/Source,plastic,Organic,tongue,mouth,a tongue click inside the mouth
+Material/Source,plastic,Organic,teeth,mouth,teeth clicking in a cold room
+Material/Source,plastic,Organic,whisper,ear,a voice through a plastic tube
+Material/Source,plastic,Organic,insect,ear,a bug hitting a plastic screen
+Material/Source,plastic,Organic,bee,flower,a bee on a plastic artificial flower
+Material/Source,plastic,Organic,bat,cave,a bat chirp near a plastic helmet
+Material/Source,plastic,Organic,cricket,crack,a cricket in a plastic wall gap
+Material/Source,plastic,Organic,bird,nest,a bird in a plastic birdhouse
+Material/Source,plastic,Organic,mouse,wall,a mouse in a plastic wall cavity
+Material/Source,plastic,Organic,fingernail,table,a nail on a plastic table
+Material/Source,plastic,Organic,hair,ear,a plastic comb through dry hair
+Material/Source,plastic,Organic,throat,ear,a cough through a plastic mask
+Material/Source,plastic,Organic,blinking,eye,the sound of a plastic eyelid toy
+Material/Source,plastic,Organic,moth,shade,a moth on a plastic lampshade
+Material/Source,plastic,Organic,lizard,wall,a lizard on a plastic pipe
+Material/Source,plastic,Organic,heartbeat,chest,a heartbeat on a plastic chest plate
+Material/Source,plastic,Organic,swallowing,throat,water from a plastic bottle
+Material/Source,plastic,Domestic,light switch,hall,a plastic switch being flipped
+Material/Source,plastic,Domestic,zipper,chest,a plastic zipper being pulled
+Material/Source,plastic,Domestic,keys,hand,a plastic key ring jangling
+Material/Source,plastic,Domestic,scissors,hand,scissors through a plastic sheet
+Material/Source,plastic,Domestic,spray,face,a plastic spray bottle misting
+Material/Source,plastic,Domestic,coin,hand,a plastic token being flipped
+Material/Source,plastic,Domestic,remote,hand,a plastic button on a remote
+Material/Source,plastic,Domestic,faucet,hand,water hitting a plastic sink
+Material/Source,plastic,Domestic,spoon,tooth,a plastic spoon hitting a tooth
+Material/Source,plastic,Domestic,book,face,a plastic book cover being turned
+Material/Source,plastic,Domestic,pencil,hand,a plastic mechanical pencil clicking
+Material/Source,plastic,Domestic,brush,hair,a plastic hairbrush on a scalp
+Material/Source,plastic,Domestic,needle,hand,a plastic needle through fabric
+Material/Source,plastic,Domestic,foil,hand,plastic wrap being crinkled
+Material/Source,plastic,Domestic,bottle,hand,a plastic bottle being squeezed
+Material/Source,plastic,Domestic,thimble,drawer,a plastic thimble in a drawer
+Material/Source,plastic,Domestic,button,hole,a plastic button on a shirt
+Material/Source,plastic,Domestic,wire,conduit,a plastic-coated wire being pulled
+Material/Source,plastic,Electronic,piezo,box,a piezo buzzer in a plastic case
+Material/Source,plastic,Electronic,speaker,phone,music through a plastic phone body
+Material/Source,plastic,Electronic,phone,hand,a phone vibrating in a plastic case
+Material/Source,plastic,Electronic,mouse,hand,the click of a plastic computer mouse
+Material/Source,plastic,Electronic,earphone,ear,music from a plastic earphone
+Material/Source,plastic,Electronic,smart watch,wrist,a watch against a plastic strap
+Material/Source,plastic,Electronic,keyboard,hand,typing on a plastic laptop keyboard
+Material/Source,plastic,Electronic,camera,face,a plastic focus motor whirring
+Material/Source,plastic,Electronic,taser,hand,a taser arc in a plastic housing
+Material/Source,plastic,Electronic,tablet,hand,a finger on a plastic screen protector
+Material/Source,plastic,Electronic,battery,hand,a battery in a plastic slot
+Material/Source,plastic,Electronic,charger,hand,a cable in a plastic phone port
+Material/Source,plastic,Electronic,led,face,a plastic desk lamp humming
+Material/Source,plastic,Electronic,synthesizer,hand,a plastic knob being turned
+Material/Source,plastic,Electronic,oscillator,ear,a tone from a plastic speaker
+Material/Source,plastic,Electronic,modem,hand,a plastic device chirping
+Material/Source,plastic,Electronic,sensor,face,a plastic sensor clicking
+Material/Source,plastic,Electronic,laptop,lap,a plastic fan whirring on a lap
+Material/Source,rubbery,Musical,mallet,stage,a rubber mallet hitting a marimba bar
+Material/Source,rubbery,Musical,drum head,studio,a rubber dampener on a snare drum
+Material/Source,rubbery,Musical,piano,parlor,a rubber practice mute on a piano string
+Material/Source,rubbery,Musical,violin,vault,a rubber bridge mute on a violin
+Material/Source,rubbery,Musical,tambourine,festival,a tambourine with rubber jingles
+Material/Source,rubbery,Musical,guitar,garage,a rubber pick hitting a guitar string
+Material/Source,rubbery,Musical,metronome,room,a metronome on a rubber mat
+Material/Source,rubbery,Musical,flute,meadow,a rubber plug in a flute hole
+Material/Source,rubbery,Musical,shaker,booth,a rubber egg shaker being moved
+Material/Source,rubbery,Musical,whistle,square,a rubberized whistle blowing
+Material/Source,rubbery,Musical,drum,pit,a rubber drum head being struck
+Material/Source,rubbery,Musical,cymbal,stage,a rubber pad on an electronic cymbal
+Material/Source,rubbery,Musical,harp,sunroom,a harp string hitting a rubber frame
+Material/Source,rubbery,Musical,cello,cellar,a rubber endpin on a wooden floor
+Material/Source,rubbery,Musical,trumpet,pit,a rubber mute in a trumpet bell
+Material/Source,rubbery,Musical,banjo,porch,a rubber bridge mute on a banjo
+Material/Source,rubbery,Musical,koto,garden,a rubber pick on a koto string
+Material/Source,rubbery,Musical,accordion,piazza,a rubber bellows seam stretching
+Material/Source,rubbery,Mechanical,tire,road,a rubber tire thumping on a road
+Material/Source,rubbery,Mechanical,belt drive,factory,a rubber drive belt spinning
+Material/Source,rubbery,Mechanical,gasket,boiler,a rubber gasket sealing a valve
+Material/Source,rubbery,Mechanical,wiper,car,a rubber wiper blade on a windshield
+Material/Source,rubbery,Mechanical,roller,plant,a rubber conveyor roller spinning
+Material/Source,rubbery,Mechanical,piston,lab,a rubber seal on a pneumatic piston
+Material/Source,rubbery,Mechanical,valve,pipe,a rubber flap clicking shut on a pipe
+Material/Source,rubbery,Mechanical,clutch,car,a rubber pedal pad clicking
+Material/Source,rubbery,Mechanical,winch,dock,a rubberized winch handle
+Material/Source,rubbery,Mechanical,seal,door,a rubber door seal making contact
+Material/Source,rubbery,Mechanical,bearing,shop,a rubber-sealed bearing spinning
+Material/Source,rubbery,Mechanical,mount,engine,a rubber engine mount vibrating
+Material/Source,rubbery,Mechanical,hose,garage,a rubber air hose hitting a floor
+Material/Source,rubbery,Mechanical,shutter,warehouse,a rubber-edged door hitting a floor
+Material/Source,rubbery,Mechanical,bumper,dock,a rubber boat bumper hitting a pier
+Material/Source,rubbery,Mechanical,plug,sink,a rubber drain plug being inserted
+Material/Source,rubbery,Mechanical,mat,workshop,a machine on a rubber vibration mat
+Material/Source,rubbery,Mechanical,coupling,pump,a rubber coupling spinning in a pump
+Material/Source,rubbery,Environmental,rain,raincoat,rain hitting a rubber raincoat
+Material/Source,rubbery,Environmental,wind,tarp,wind hitting a rubberized tarp
+Material/Source,rubbery,Environmental,thaw,gutter,ice hitting a rubber garden hose
+Material/Source,rubbery,Environmental,creek,boot,a rubber boot stepping in a stream
+Material/Source,rubbery,Environmental,bubbles,swamp,gas through a rubbery mud surface
+Material/Source,rubbery,Environmental,sand,mat,sand on a rubber floor mat
+Material/Source,rubbery,Environmental,leaves,path,leaves on a rubberized playground
+Material/Source,rubbery,Environmental,steam,hose,steam through a rubber vent hose
+Material/Source,rubbery,Environmental,pebble,tire,a pebble in a rubber tire tread
+Material/Source,rubbery,Environmental,ice,boot,ice cracking under a rubber boot
+Material/Source,rubbery,Environmental,mist,mask,mist hitting a rubber oxygen mask
+Material/Source,rubbery,Environmental,snow,tires,tires crunching on packed snow
+Material/Source,rubbery,Environmental,waves,raft,waves hitting a rubber life raft
+Material/Source,rubbery,Environmental,branch,swing,a branch hitting a rubber swing seat
+Material/Source,rubbery,Environmental,grass,boots,grass rubbing against rubber boots
+Material/Source,rubbery,Environmental,geyser,hose,steam through a rubber test hose
+Material/Source,rubbery,Environmental,hail,awning,hail hitting a rubberized awning
+Material/Source,rubbery,Environmental,mud,bog,a rubber boot pulling out of mud
+Material/Source,rubbery,Organic,seal,ice,a seal flipper hitting the ice
+Material/Source,rubbery,Organic,human,hall,rubber soles squeaking on a stone hall
+Material/Source,rubbery,Organic,tongue,mouth,a rubbery tongue click in the mouth
+Material/Source,rubbery,Organic,teeth,mouth,teeth on a rubber mouth guard
+Material/Source,rubbery,Organic,whisper,ear,a voice through a rubber mask
+Material/Source,rubbery,Organic,insect,ear,a bug on a rubberized screen
+Material/Source,rubbery,Organic,bee,flower,a bee on a rubbery succulent leaf
+Material/Source,rubbery,Organic,bat,cave,a bat on a rubber research glove
+Material/Source,rubbery,Organic,cricket,mat,a cricket on a rubber floor mat
+Material/Source,rubbery,Organic,bird,band,a bird with a rubber leg band
+Material/Source,rubbery,Organic,mouse,glove,a mouse on a rubber work glove
+Material/Source,rubbery,Organic,fingernail,ball,a nail on a rubber bouncy ball
+Material/Source,rubbery,Organic,hair,tie,a rubber hair tie being snapped
+Material/Source,rubbery,Organic,throat,mask,a cough through a rubber mask
+Material/Source,rubbery,Organic,moth,hose,a moth on a rubber garden hose
+Material/Source,rubbery,Organic,lizard,skin,a lizard on wet rubbery skin
+Material/Source,rubbery,Organic,heartbeat,tube,a heartbeat through a rubber tube
+Material/Source,rubbery,Organic,swallowing,straw,liquid through a rubber straw
+Material/Source,rubbery,Domestic,eraser,study,a rubber eraser rubbing on paper
+Material/Source,rubbery,Domestic,balloon,nursery,a rubber balloon being rubbed
+Material/Source,rubbery,Domestic,slipper,hall,a rubber slipper hitting a floor
+Material/Source,rubbery,Domestic,stopper,bath,a rubber drain stopper being pulled
+Material/Source,rubbery,Domestic,mat,kitchen,a person walking on a rubber kitchen mat
+Material/Source,rubbery,Domestic,glove,kitchen,a rubber glove being snapped on a hand
+Material/Source,rubbery,Domestic,band,office,a rubber band being stretched and snapped
+Material/Source,rubbery,Domestic,button,remote,a rubber button on a remote control
+Material/Source,rubbery,Domestic,spatula,pan,a rubber spatula hitting a pan
+Material/Source,rubbery,Domestic,bin,pantry,a rubberized bin lid being snapped on
+Material/Source,rubbery,Domestic,brush,sink,a rubber dish brush being used
+Material/Source,rubbery,Domestic,cup,kitchen,a rubberized travel mug being set down
+Material/Source,rubbery,Domestic,phone,case,a phone in a rubber bumper case
+Material/Source,rubbery,Domestic,rug,foyer,a rubber-backed rug being moved
+Material/Source,rubbery,Domestic,boot,mudroom,a rubber boot being dropped on a floor
+Material/Source,rubbery,Domestic,seal,fridge,a rubber fridge seal making contact
+Material/Source,rubbery,Domestic,wire,insulation,rubber wire insulation being stripped
+Material/Source,rubbery,Domestic,door,stop,a door hitting a rubber wedge stop
+Material/Source,rubbery,Electronic,button,dash,a rubberized button on a car dash
+Material/Source,rubbery,Electronic,keypad,office,a rubber membrane keypad being typed on
+Material/Source,rubbery,Electronic,phone,mat,a phone vibrating on a rubber mat
+Material/Source,rubbery,Electronic,mouse,pad,a mouse moving on a rubber pad
+Material/Source,rubbery,Electronic,earphone,tip,a rubber earphone tip being squeezed
+Material/Source,rubbery,Electronic,smart watch,strap,a watch strap against a wrist
+Material/Source,rubbery,Electronic,cable,garage,a rubber-insulated cable hitting a floor
+Material/Source,rubbery,Electronic,taser,grip,a taser arc in a rubber-gripped housing
+Material/Source,rubbery,Electronic,tablet,stylus,a rubber-tipped stylus on a screen
+Material/Source,rubbery,Electronic,battery,seal,a battery in a rubber-sealed compartment
+Material/Source,rubbery,Electronic,charger,plug,a rubberized charging plug clicking in
+Material/Source,rubbery,Electronic,led,fixture,a rubber-mounted light humming
+Material/Source,rubbery,Electronic,synthesizer,pad,a rubber drum pad being struck
+Material/Source,rubbery,Electronic,oscillator,feet,a speaker on rubber vibration feet
+Material/Source,rubbery,Electronic,modem,base,a device on a rubber base chirping
+Material/Source,rubbery,Electronic,sensor,mount,a sensor on a rubberized mount
+Material/Source,rubbery,Electronic,laptop,feet,a laptop fan on rubber feet
+Material/Source,rubbery,Electronic,drone,landing,a drone landing on rubber landing gear
+Material/Source,crystalline,Musical,glass armonica,museum,a glass armonica being played in a room
+Material/Source,crystalline,Musical,triangle,cathedral,a triangle strike decaying in a stone hall
+Material/Source,crystalline,Musical,handbell,chapel,a crystal handbell ringing in a room
+Material/Source,crystalline,Musical,piano,ballroom,a piano playing in the highest crystal register
+Material/Source,crystalline,Musical,celesta,hall,a celesta chime echoing in a large hall
+Material/Source,crystalline,Musical,chime,porch,thin metal wind chimes in a breeze
+Material/Source,crystalline,Musical,harp,sunroom,a high harp string being plucked
+Material/Source,crystalline,Musical,flute,mountain,a silver flute playing a high clear note
+Material/Source,crystalline,Musical,violin,gallery,a violin playing a high harmonic
+Material/Source,crystalline,Musical,zither,attic,a zither string vibrating in a silent room
+Material/Source,crystalline,Musical,tambourine,stage,a tambourine with silver jingles
+Material/Source,crystalline,Musical,glockenspiel,park,a glockenspiel bar being hit with brass
+Material/Source,crystalline,Musical,mandolin,piazza,a mandolin string being plucked
+Material/Source,crystalline,Musical,ukulele,beach,a ukulele with thin clear strings
+Material/Source,crystalline,Musical,recorder,orchard,a recorder playing a high tune
+Material/Source,crystalline,Musical,bell,tower,a small silver bell ringing in a tower
+Material/Source,crystalline,Musical,koto,garden,a koto string ringing in a garden
+Material/Source,crystalline,Musical,didgeridoo,cave,a didgeridoo with high vocal overtones
+Material/Source,crystalline,Mechanical,watch,ear,a precision watch ticking at the ear
+Material/Source,crystalline,Mechanical,shutter,camera,a mechanical camera shutter clicking
+Material/Source,crystalline,Mechanical,relay,closet,a small reed relay clicking in a box
+Material/Source,crystalline,Mechanical,gears,shop,tiny watch gears spinning in a case
+Material/Source,crystalline,Mechanical,needle,mill,a sewing needle on a metal plate
+Material/Source,crystalline,Mechanical,micro-drill,lab,a high-speed drill in a workshop
+Material/Source,crystalline,Mechanical,timer,kitchen,a mechanical kitchen timer ticking
+Material/Source,crystalline,Mechanical,solenoid,panel,a small electronic solenoid clicking
+Material/Source,crystalline,Mechanical,lock,door,a key turning in a precision cylinder
+Material/Source,crystalline,Mechanical,projector,room,a slide projector fan whirring
+Material/Source,crystalline,Mechanical,printer,office,a thermal printer head moving
+Material/Source,crystalline,Mechanical,stapler,desk,a small stapler clicking shut
+Material/Source,crystalline,Mechanical,typewriter,study,a typewriter ribbon being advanced
+Material/Source,crystalline,Mechanical,razor,bathroom,an electric razor buzzing softly
+Material/Source,crystalline,Mechanical,hard drive,laptop,the whine of a laptop hard drive
+Material/Source,crystalline,Mechanical,fan,case,a small cooling fan whirring in a pc
+Material/Source,crystalline,Mechanical,clutch,pedal,the click of a car pedal in a footwell
+Material/Source,crystalline,Mechanical,shutter,booth,a film shutter firing in a booth
+Material/Source,crystalline,Environmental,ice,pond,a thin sheet of ice cracking on a puddle
+Material/Source,crystalline,Environmental,frost,window,frost cracking on a window pane
+Material/Source,crystalline,Environmental,water drop,cave,a drop hitting a crystal pool
+Material/Source,crystalline,Environmental,rain,window,light rain tapping on a window pane
+Material/Source,crystalline,Environmental,sand,bottle,sand grains hitting a glass bottle
+Material/Source,crystalline,Environmental,thaw,gutter,an icicle dripping into a metal pipe
+Material/Source,crystalline,Environmental,mist,forest,water condensing and dripping on a leaf
+Material/Source,crystalline,Environmental,breeze,meadow,a light breeze rustling through weeds
+Material/Source,crystalline,Environmental,creek,pipe,water gurgling through a narrow pipe
+Material/Source,crystalline,Environmental,bubbles,nose,soap bubbles popping in the air
+Material/Source,crystalline,Environmental,steam,vent,hot steam hissing from a rock gap
+Material/Source,crystalline,Environmental,fire,hearth,a single pine needle popping in a flame
+Material/Source,crystalline,Environmental,pebble,hand,a small pebble being rolled in a palm
+Material/Source,crystalline,Environmental,grass,desert,a blade of grass whistling in the wind
+Material/Source,crystalline,Environmental,hail,car,tiny hailstones hitting a sunroof
+Material/Source,crystalline,Environmental,wind,wire,wind whistling through a thin wire
+Material/Source,crystalline,Environmental,glacier,fjord,air bubbles escaping ice with a hiss
+Material/Source,crystalline,Environmental,spray,beach,fine mist of a wave hitting a rock
+Material/Source,crystalline,Organic,dragonfly,meadow,high-speed whir of dragonfly wings
+Material/Source,crystalline,Organic,mosquito,ear,a mosquito buzzing near the ear
+Material/Source,crystalline,Organic,cricket,field,a single cricket chirping in a meadow
+Material/Source,crystalline,Organic,bat,cave,a bat emitting a high-frequency squeak
+Material/Source,crystalline,Organic,shrimp,tide pool,a snapping shrimp closing its claw
+Material/Source,crystalline,Organic,beetle,leaf,a beetle scurrying over a dry leaf
+Material/Source,crystalline,Organic,bird,tree,a small sparrow chirping in a tree
+Material/Source,crystalline,Organic,insect,field,a grasshopper jumping in dry grass
+Material/Source,crystalline,Organic,human,hall,a human whistling a high piercing note
+Material/Source,crystalline,Organic,fingernail,table,a fingernail tapping on a table
+Material/Source,crystalline,Organic,bee,garden,a honeybee buzzing around a flower
+Material/Source,crystalline,Organic,frog,pond,a small spring peeper frog chirping
+Material/Source,crystalline,Organic,snake,desert,a snake sliding over dry sand
+Material/Source,crystalline,Organic,moth,room,a moth flapping wings against a screen
+Material/Source,crystalline,Organic,spider,web,a spider spinning silk
+Material/Source,crystalline,Organic,lizard,wall,a lizard tail twitching against stone
+Material/Source,crystalline,Organic,fly,kitchen,a housefly buzzing against a window
+Material/Source,crystalline,Domestic,wine glass,dining,the rim of a glass being rubbed
+Material/Source,crystalline,Domestic,crystal,party,two crystal glasses clinking together
+Material/Source,crystalline,Domestic,zipper,closet,a plastic zipper being pulled up
+Material/Source,crystalline,Domestic,needle,table,a sewing needle falling on glass
+Material/Source,crystalline,Domestic,keys,hand,a single key jangling on a ring
+Material/Source,crystalline,Domestic,faucet,sink,a single drop of water hitting metal
+Material/Source,crystalline,Domestic,scissors,office,scissors snipping through thin paper
+Material/Source,crystalline,Domestic,spray,bathroom,a spray bottle misting a mirror
+Material/Source,crystalline,Domestic,coin,foyer,a dime spinning on a tile floor
+Material/Source,crystalline,Domestic,thimble,room,a thimble hitting a wooden floor
+Material/Source,crystalline,Domestic,foil,kitchen,a piece of aluminum foil crinkled
+Material/Source,crystalline,Domestic,thread,spool,thread being pulled off a spool
+Material/Source,crystalline,Domestic,pencil,study,a pencil lead scratching on paper
+Material/Source,crystalline,Domestic,lightbulb,garage,a lightbulb filament vibrating
+Material/Source,crystalline,Domestic,beads,craft,plastic beads dropping into a cup
+Material/Source,crystalline,Domestic,button,hole,a plastic button through fabric
+Material/Source,crystalline,Domestic,razor,bathroom,a safety razor being tapped on a sink
+Material/Source,crystalline,Domestic,window,bedroom,a window pane vibrating in the wind
+Material/Source,crystalline,Electronic,piezo,lab,a small piezo buzzer beeping
+Material/Source,crystalline,Electronic,oscillator,studio,a high-frequency sine wave
+Material/Source,crystalline,Electronic,relay,closet,a tiny reed relay clicking
+Material/Source,crystalline,Electronic,led,workshop,the faint buzz of a small led driver
+Material/Source,crystalline,Electronic,monitor,room,the high whine of a computer monitor
+Material/Source,crystalline,Electronic,synthesizer,stage,a synth playing a thin pulse wave
+Material/Source,crystalline,Electronic,taser,facility,the faint hiss before a taser fires
+Material/Source,crystalline,Electronic,sensor,hall,an infrared sensor clicking
+Material/Source,crystalline,Electronic,earphone,bus,the tiny sound from an earphone
+Material/Source,crystalline,Electronic,laptop,office,a laptop processor whining under load
+Material/Source,crystalline,Electronic,camera,studio,a focus motor whirring in a lens
+Material/Source,crystalline,Electronic,toy,nursery,a battery-powered toy chirping
+Material/Source,crystalline,Electronic,fan,case,a 40mm cooling fan spinning fast
+Material/Source,crystalline,Electronic,clock,night,a digital clock display humming
+Material/Source,crystalline,Electronic,modem,office,the faint chirp of a network modem
+Material/Source,crystalline,Electronic,radio,park,a small transistor radio playing
+Material/Source,crystalline,Electronic,charger,home,a phone charger whining in a wall
+Material/Source,crystalline,Electronic,watch,wrist,a haptic tap on a watch
+Material/Source,icy,Musical,triangle,tundra,a triangle strike in a frozen arctic field
+Material/Source,icy,Musical,glockenspiel,ice cave,a glockenspiel bar hit with a metal mallet
+Material/Source,icy,Musical,harp,snowy peak,a high harp string plucked in a cold wind
+Material/Source,icy,Musical,piano,parlor,a piano played on the highest cold keys
+Material/Source,icy,Musical,violin,cellar,a violin string played with a bridge mute
+Material/Source,icy,Musical,flute,tundra,a silver flute playing a high sharp note
+Material/Source,icy,Musical,chime,porch,metal wind chimes clashing in a blizzard
+Material/Source,icy,Musical,recorder,field,a recorder blowing a cold breathy note
+Material/Source,icy,Musical,trumpet,stadium,a trumpet fanfare in a snowy arena
+Material/Source,icy,Musical,xylophone,hall,a metal xylophone played with hard mallets
+Material/Source,icy,Musical,handbell,boat,a handbell ringing on a frozen deck
+Material/Source,icy,Musical,zither,attic,a single zither string in a cold room
+Material/Source,icy,Musical,mandolin,square,a mandolin string plucked with a metal pick
+Material/Source,icy,Musical,ukulele,beach,a ukulele with thin cold strings strummed
+Material/Source,icy,Musical,harpsichord,salon,a harpsichord arpeggio in a cold hall
+Material/Source,icy,Musical,bell,tower,a small silver bell in a frozen tower
+Material/Source,icy,Musical,didgeridoo,outback,a didgeridoo drone in a cold night
+Material/Source,icy,Musical,koto,garden,a koto string ringing in a winter garden
+Material/Source,icy,Mechanical,watch,ear,a mechanical watch ticking in the cold
+Material/Source,icy,Mechanical,shutter,camera,a camera shutter clicking in a blizzard
+Material/Source,icy,Mechanical,relay,closet,a relay clicking in a cold electrical box
+Material/Source,icy,Mechanical,gears,shop,tiny gears spinning in a cold workshop
+Material/Source,icy,Mechanical,needle,mill,a sewing needle on a frozen metal plate
+Material/Source,icy,Mechanical,micro-drill,lab,a drill spinning in a cold laboratory
+Material/Source,icy,Mechanical,timer,kitchen,a mechanical timer ticking in a cold room
+Material/Source,icy,Mechanical,solenoid,panel,a solenoid clicking in a cold housing
+Material/Source,icy,Mechanical,lock,door,a key turning in a frozen lock cylinder
+Material/Source,icy,Mechanical,projector,room,a projector fan whirring in a cold booth
+Material/Source,icy,Mechanical,stapler,desk,a small stapler clicking shut in a cold room
+Material/Source,icy,Mechanical,typewriter,study,a typewriter ribbon in a cold study
+Material/Source,icy,Mechanical,razor,bathroom,an electric razor in a cold bathroom
+Material/Source,icy,Mechanical,hard drive,laptop,the whine of a cold hard drive
+Material/Source,icy,Mechanical,fan,case,a cooling fan whirring in a cold server
+Material/Source,icy,Mechanical,clutch,car,a car pedal clicking in a frozen footwell
+Material/Source,icy,Mechanical,shutter,booth,a film shutter in a cold theater booth
+Material/Source,icy,Environmental,water drop,cave,a drop hitting a frozen crystal pool
+Material/Source,icy,Environmental,rain,window,sleet tapping on a window pane
+Material/Source,icy,Environmental,sand,bottle,sand hitting a frozen glass bottle
+Material/Source,icy,Environmental,mist,forest,water freezing and dripping on a leaf
+Material/Source,icy,Environmental,breeze,meadow,a light breeze through frozen weeds
+Material/Source,icy,Environmental,creek,pipe,water gurgling under a layer of ice
+Material/Source,icy,Environmental,bubbles,nose,ice bubbles popping in the air
+Material/Source,icy,Environmental,steam,vent,hot steam hissing from an ice gap
+Material/Source,icy,Environmental,fire,hearth,a single pine needle popping in frost
+Material/Source,icy,Environmental,pebble,hand,a small pebble on a frozen palm
+Material/Source,icy,Environmental,grass,desert,frozen grass whistling in the wind
+Material/Source,icy,Environmental,hail,car,hail hitting a frozen car sunroof
+Material/Source,icy,Environmental,wind,wire,wind through a frozen wire fence
+Material/Source,icy,Environmental,glacier,fjord,air bubbles from a glacier with a hiss
+Material/Source,icy,Environmental,spray,beach,mist of a wave on a frozen rock
+Material/Source,icy,Organic,penguin,ice,a penguin squawking on an ice floe
+Material/Source,icy,Organic,whale,ocean,an orca blowhole in the cold arctic air
+Material/Source,icy,Organic,teeth,mouth,teeth chattering in the freezing cold
+Material/Source,icy,Organic,human,lab,a sharp intake of breath in a cold room
+Material/Source,icy,Organic,insect,ear,a fly hitting a frozen window screen
+Material/Source,icy,Organic,bat,cave,a bat chirp in a frozen cavern
+Material/Source,icy,Organic,shrimp,tide pool,a snapping shrimp in an icy pool
+Material/Source,icy,Organic,beetle,leaf,a beetle on a frozen dry leaf
+Material/Source,icy,Organic,bird,tree,a snowy owl screeching in the forest
+Material/Source,icy,Organic,cricket,field,a single cricket chirp in the frost
+Material/Source,icy,Organic,fingernail,table,a nail on a cold glass tabletop
+Material/Source,icy,Organic,bee,garden,a honeybee on a frozen flower
+Material/Source,icy,Organic,frog,pond,a tree frog chirping in the winter air
+Material/Source,icy,Organic,snake,desert,a snake on dry cold sand
+Material/Source,icy,Organic,moth,room,a moth hitting a cold lightbulb
+Material/Source,icy,Organic,lizard,wall,a lizard on a cold stone wall
+Material/Source,icy,Organic,fox,snow,a fox barking in a frozen forest
+Material/Source,icy,Organic,human,hall,a whistle in a cold stone hallway
+Material/Source,icy,Domestic,ice cubes,glass,ice cubes clinking in a thin glass
+Material/Source,icy,Domestic,freezer,kitchen,the hum of a freezer motor in a room
+Material/Source,icy,Domestic,window,bedroom,a window pane rattling in a draft
+Material/Source,icy,Domestic,keys,hand,a set of keys jangling in the cold
+Material/Source,icy,Domestic,zipper,closet,a metal zipper on a winter coat
+Material/Source,icy,Domestic,faucet,sink,a single drop of water from a cold faucet
+Material/Source,icy,Domestic,scissors,office,scissors through a frozen sheet
+Material/Source,icy,Domestic,spray,bathroom,an aerosol spray hitting a cold wall
+Material/Source,icy,Domestic,coin,foyer,a dime spinning on a frozen tile floor
+Material/Source,icy,Domestic,thimble,room,a metal thimble hitting a cold floor
+Material/Source,icy,Domestic,foil,kitchen,aluminum foil being crinkled in cold
+Material/Source,icy,Domestic,thread,spool,thread pulled off a frozen spool
+Material/Source,icy,Domestic,pencil,study,a pencil lead on cold paper
+Material/Source,icy,Domestic,lightbulb,garage,a lightbulb filament in the cold
+Material/Source,icy,Domestic,beads,craft,glass beads on a cold metal tray
+Material/Source,icy,Domestic,button,hole,a button pushed through frozen fabric
+Material/Source,icy,Domestic,razor,bathroom,a safety razor being tapped in cold
+Material/Source,icy,Domestic,needle,table,a sewing needle on a frozen table
+Material/Source,icy,Electronic,piezo,lab,a piezo buzzer beeping in the cold
+Material/Source,icy,Electronic,oscillator,studio,a high-frequency cold sine wave
+Material/Source,icy,Electronic,relay,closet,a tiny reed relay clicking in cold
+Material/Source,icy,Electronic,led,workshop,the faint buzz of a cold led driver
+Material/Source,icy,Electronic,monitor,room,the high whine of a cold computer monitor
+Material/Source,icy,Electronic,synthesizer,stage,a synth playing a cold pulse wave
+Material/Source,icy,Electronic,taser,facility,the snap of a taser arc in the cold
+Material/Source,icy,Electronic,sensor,hall,an infrared sensor clicking in cold
+Material/Source,icy,Electronic,earphone,bus,the sound from a cold earphone
+Material/Source,icy,Electronic,laptop,office,a laptop fan whirring in the cold
+Material/Source,icy,Electronic,camera,studio,a focus motor in a cold lens
+Material/Source,icy,Electronic,toy,nursery,a battery toy in a cold room
+Material/Source,icy,Electronic,fan,case,a cooling fan in a cold server rack
+Material/Source,icy,Electronic,clock,night,a digital clock display in the cold
+Material/Source,icy,Electronic,modem,office,the chirp of a cold network modem
+Material/Source,icy,Electronic,radio,park,a small transistor radio in the cold
+Material/Source,icy,Electronic,charger,home,a phone charger whining in cold
+Material/Source,icy,Electronic,watch,wrist,a haptic tap on a cold watch
+Material/Source,watery,Musical,waterphone,hall,a waterphone being bowed in a stone hall
+Material/Source,watery,Musical,drum,pond,a drum head being struck underwater
+Material/Source,watery,Musical,gong,tub,a gong being submerged while ringing
+Material/Source,watery,Musical,flute,creek,a flute playing near a rushing stream
+Material/Source,watery,Musical,piano,cellar,a piano note echoing in a damp cellar
+Material/Source,watery,Musical,violin,tunnel,a violin note in a wet drainage tunnel
+Material/Source,watery,Musical,tambourine,beach,a tambourine hit with wet hands
+Material/Source,watery,Musical,guitar,cabin,an acoustic guitar in a humid room
+Material/Source,watery,Musical,harp,conservatory,a harp string being plucked near a fountain
+Material/Source,watery,Musical,recorder,field,a recorder with water in the mouthpiece
+Material/Source,watery,Musical,didgeridoo,marsh,a didgeridoo drone in a swamp
+Material/Source,watery,Musical,ukulele,shore,a ukulele being strummed in the mist
+Material/Source,watery,Musical,bell,buoy,a buoy bell clanging in the waves
+Material/Source,watery,Musical,marimba,hall,a marimba with water on the bars
+Material/Source,watery,Musical,trumpet,pit,a trumpet blowing through a spit valve
+Material/Source,watery,Musical,zither,attic,a zither string in a damp attic
+Material/Source,watery,Musical,handbell,boat,a handbell ringing in the sea spray
+Material/Source,watery,Musical,koto,garden,a koto string near a garden pond
+Material/Source,watery,Mechanical,pump,station,a water pump station humming in stone
+Material/Source,watery,Mechanical,water wheel,river,a wooden wheel splashing in a stream
+Material/Source,watery,Mechanical,piston,mill,a steam piston with a wet seal cycling
+Material/Source,watery,Mechanical,winch,dock,a wet winch cable sliding through a guide
+Material/Source,watery,Mechanical,engine,boat,an outboard motor idling in the water
+Material/Source,watery,Mechanical,gears,mill,gears turning in a damp watermill
+Material/Source,watery,Mechanical,drill,shipyard,a drill bit cooled by a water spray
+Material/Source,watery,Mechanical,saw,shop,a wet saw cutting through a ceramic tile
+Material/Source,watery,Mechanical,conveyor,plant,a belt moving wet coal in a factory
+Material/Source,watery,Mechanical,fan,greenhouse,a fan whirring in a humid greenhouse
+Material/Source,watery,Mechanical,boiler,basement,a steam boiler with a slow water leak
+Material/Source,watery,Mechanical,compressor,garage,an air tank venting condensation
+Material/Source,watery,Mechanical,lathe,workshop,a metal lathe with a liquid coolant
+Material/Source,watery,Mechanical,shutter,store,a metal door rattling in the rain
+Material/Source,watery,Mechanical,lock,dock,a wet key turning in a boat lock
+Material/Source,watery,Mechanical,press,factory,a hydraulic press with a slow oil leak
+Material/Source,watery,Mechanical,turbine,dam,a turbine humming near a dam spillway
+Material/Source,watery,Environmental,stream,mountain,water splashing over rocks in a creek
+Material/Source,watery,Environmental,rain,pond,heavy rain hitting a large lily pond
+Material/Source,watery,Environmental,waterfall,basin,water crashing into a deep rocky pool
+Material/Source,watery,Environmental,waves,beach,sea foam bubbling on a sandy shore
+Material/Source,watery,Environmental,geyser,plain,the steady hiss of a steam geyser
+Material/Source,watery,Environmental,thaw,gutter,water rushing through a plastic pipe
+Material/Source,watery,Environmental,creek,meadow,water flowing over fine gravel
+Material/Source,watery,Environmental,bubbles,swamp,a gas bubble rising through a marsh
+Material/Source,watery,Environmental,tide,marsh,the low gurgle of a rising tide
+Material/Source,watery,Environmental,flood,valley,water rushing through a narrow canyon
+Material/Source,watery,Environmental,ice melt,pond,ice melting and dripping into a pool
+Material/Source,watery,Environmental,spray,shore,mist of a wave hitting a rock
+Material/Source,watery,Environmental,river,dam,water rushing over a wooden spillway
+Material/Source,watery,Environmental,storm,ship,waves hitting a ship's metal hull
+Material/Source,watery,Environmental,lake,shore,gentle waves lapping on a sandy beach
+Material/Source,watery,Environmental,spring,hills,water bubbling from a natural spring
+Material/Source,watery,Environmental,puddle,street,a footstep splashing in a rain puddle
+Material/Source,watery,Organic,whale,ocean,water spraying from a whale blowhole
+Material/Source,watery,Organic,dolphin,reef,a dolphin clicking underwater in a reef
+Material/Source,watery,Organic,fish,lake,a school of fish splashing in a pool
+Material/Source,watery,Organic,frog,pond,a bullfrog croaking in a lily pond
+Material/Source,watery,Organic,shrimp,tide,a snapping shrimp in a tide pool
+Material/Source,watery,Organic,seal,beach,a seal barking on a wet shore
+Material/Source,watery,Organic,hippo,river,a hippo grunting underwater in a river
+Material/Source,watery,Organic,alligator,swamp,an alligator bellowing in a marsh
+Material/Source,watery,Organic,human,shower,a person singing in a tiled bathroom
+Material/Source,watery,Organic,swallowing,throat,a person drinking water from a glass
+Material/Source,watery,Organic,breathing,mask,a person breathing in a diving mask
+Material/Source,watery,Organic,tongue,mouth,a person making a wet tongue click
+Material/Source,watery,Organic,heartbeat,chest,a heartbeat through a wet stethoscope
+Material/Source,watery,Organic,hands,sink,a person washing their hands in a basin
+Material/Source,watery,Organic,bird,pond,a duck flapping its wings on water
+Material/Source,watery,Organic,insect,marsh,a swarm of gnats near a swamp
+Material/Source,watery,Organic,beaver,river,a beaver tail slapping the water
+Material/Source,watery,Organic,otter,creek,an otter splashing in a rocky stream
+Material/Source,watery,Domestic,faucet,kitchen,water rushing from a metal faucet
+Material/Source,watery,Domestic,bathtub,bathroom,water filling a large deep tub
+Material/Source,watery,Domestic,kettle,stove,a tea kettle starting to simmer
+Material/Source,watery,Domestic,sponge,sink,a wet sponge being squeezed in a basin
+Material/Source,watery,Domestic,washing machine,laundry,a machine on a wash cycle
+Material/Source,watery,Domestic,refrigerator,pantry,a fridge making ice in a kitchen
+Material/Source,watery,Domestic,toilet,bathroom,a toilet tank being flushed
+Material/Source,watery,Domestic,iron,laundry,steam venting from a clothing iron
+Material/Source,watery,Domestic,teapot,sunroom,tea being poured into a ceramic cup
+Material/Source,watery,Domestic,glass,dining,ice cubes clinking in a water glass
+Material/Source,watery,Domestic,bottle,pantry,liquid being poured from a bottle
+Material/Source,watery,Domestic,dish,kitchen,dishes being washed in a soapy sink
+Material/Source,watery,Domestic,mop,hall,a wet mop hitting a wooden floor
+Material/Source,watery,Domestic,shoes,foyer,wet boots walking on a tile floor
+Material/Source,watery,Domestic,pot,stove,water boiling in a metal pot
+Material/Source,watery,Domestic,drain,sink,water gurgling down a kitchen drain
+Material/Source,watery,Domestic,hose,garden,water spraying from a garden hose
+Material/Source,watery,Electronic,fryer,kitchen,a commercial deep fryer bubbling
+Material/Source,watery,Electronic,pump,pool,a pool pump motor whirring near water
+Material/Source,watery,Electronic,aquarium,room,an aquarium air pump bubbling
+Material/Source,watery,Electronic,cooler,office,a water cooler gurgling in a lobby
+Material/Source,watery,Electronic,humidifier,bedroom,a humidifier misting the air
+Material/Source,watery,Electronic,steamer,laundry,a garment steamer hissing
+Material/Source,watery,Electronic,inverter,solar,a water-cooled inverter humming
+Material/Source,watery,Electronic,laptop,office,a liquid-cooled pc fan whirring
+Material/Source,watery,Electronic,drill,workshop,an electric drill in a wet environment
+Material/Source,watery,Electronic,radio,bath,a waterproof radio playing in a shower
+Material/Source,watery,Electronic,taser,lab,a taser arc near a wet surface
+Material/Source,watery,Electronic,sensor,pipe,an ultrasonic sensor in a water pipe
+Material/Source,watery,Electronic,battery,boat,a boat battery charging near water
+Material/Source,watery,Electronic,charger,dock,a charging cable clicking in a wet port
+Material/Source,watery,Electronic,synthesizer,studio,a synth playing a bubbling patch
+Material/Source,watery,Electronic,oscillator,lab,a sine wave through a liquid probe
+Material/Source,watery,Electronic,modem,vent,a device chirping in a damp cellar
+Material/Source,watery,Electronic,phone,sink,a phone vibrating in a wet basin
+Material/Source,earthy,Musical,didgeridoo,outback,a didgeridoo drone in a sandy canyon
+Material/Source,earthy,Musical,clay drum,temple,a clay drum being hit with a palm
+Material/Source,earthy,Musical,skin drum,meadow,a hide drum being hit in an earthen pit
+Material/Source,earthy,Musical,flute,cave,a wooden flute playing in a dusty cavern
+Material/Source,earthy,Musical,wood block,woods,a wood block being hit near dry earth
+Material/Source,earthy,Musical,gong,monastery,a gong vibrating in a stone room
+Material/Source,earthy,Musical,piano,cellar,a piano note in a dusty underground room
+Material/Source,earthy,Musical,violin,vault,a violin playing in a stone crypt
+Material/Source,earthy,Musical,tambourine,field,a tambourine hit in a dry field
+Material/Source,earthy,Musical,guitar,cabin,an acoustic guitar in a dusty cabin
+Material/Source,earthy,Musical,harp,conservatory,a harp string near a stone wall
+Material/Source,earthy,Musical,recorder,orchard,a recorder near a dirt path
+Material/Source,earthy,Musical,koto,garden,a koto string in a rock garden
+Material/Source,earthy,Musical,banjo,barn,a banjo being played in a dusty barn
+Material/Source,earthy,Musical,bell,square,a church bell tolling in a stone square
+Material/Source,earthy,Musical,shaker,booth,a gourd shaker filled with sand
+Material/Source,earthy,Musical,didgeridoo,plain,a wooden didgeridoo in the desert
+Material/Source,earthy,Musical,earth drum,field,a heavy skin drum hit in a meadow
+Material/Source,earthy,Mechanical,plow,field,a metal plow cutting through dry soil
+Material/Source,earthy,Mechanical,drill,quarry,a mining drill grinding through granite
+Material/Source,earthy,Mechanical,rock crusher,mine,a crusher grinding stone in a pit
+Material/Source,earthy,Mechanical,tractor,farm,a tractor engine idling on a dirt path
+Material/Source,earthy,Mechanical,well,country,a bucket hitting a stone well wall
+Material/Source,earthy,Mechanical,millstone,mill,a millstone grinding grain in a stone mill
+Material/Source,earthy,Mechanical,printing press,cellar,a press thumping in a dusty room
+Material/Source,earthy,Mechanical,winch,dock,a winch cable pulling through a dirt pit
+Material/Source,earthy,Mechanical,gears,mill,gears turning in a dusty grain mill
+Material/Source,earthy,Mechanical,pump,station,a pump vibrating against a stone floor
+Material/Source,earthy,Mechanical,excavator,site,a bucket digging into a gravel pile
+Material/Source,earthy,Mechanical,conveyor,mine,a belt moving sand in a factory
+Material/Source,earthy,Mechanical,fan,attic,a fan whirring in a dusty storage room
+Material/Source,earthy,Mechanical,shutter,store,a metal door hitting a dusty floor
+Material/Source,earthy,Mechanical,lock,cellar,a key in a lock in a stone wall
+Material/Source,earthy,Mechanical,lathe,workshop,a lathe spinning a clay piece
+Material/Source,earthy,Mechanical,hammer,garage,a hammer hitting a stone chisel
+Material/Source,earthy,Mechanical,boiler,basement,a boiler in a dusty concrete cellar
+Material/Source,earthy,Environmental,landslide,canyon,rocks and dirt sliding down a hill
+Material/Source,earthy,Environmental,mudpot,park,a mud bubble bursting in a geothermal pool
+Material/Source,earthy,Environmental,sand,desert,sand whistling as it blows over a dune
+Material/Source,earthy,Environmental,pebble,canyon,a pebble bouncing down a rocky slope
+Material/Source,earthy,Environmental,thunder,plains,thunder echoing off a dry plain
+Material/Source,earthy,Environmental,earthquake,valley,earth shifting during a tremor
+Material/Source,earthy,Environmental,geyser,plain,steam hissing from a dirt vent
+Material/Source,earthy,Environmental,creek,valley,water splashing over a mud bank
+Material/Source,earthy,Environmental,bubbles,swamp,gas through a thick mud surface
+Material/Source,earthy,Environmental,thaw,gutter,icicles hitting a dirt path
+Material/Source,earthy,Environmental,leaves,garden,leaves being crushed on a soil path
+Material/Source,earthy,Environmental,fire,campsite,a fire crackling near dry earth
+Material/Source,earthy,Environmental,mist,forest,mist over a damp forest floor
+Material/Source,earthy,Environmental,snow,shoveling,a shovel hitting a gravel driveway
+Material/Source,earthy,Environmental,waves,shore,waves hitting a sandy bank
+Material/Source,earthy,Environmental,branch,orchard,a branch hitting a dirt ground
+Material/Source,earthy,Environmental,grass,desert,grass in a dry sandy plain
+Material/Source,earthy,Environmental,volcano,crater,the drone of a volcano in ash
+Material/Source,earthy,Organic,bison,prairie,bison hooves hitting dry earth
+Material/Source,earthy,Organic,elephant,savannah,an elephant walking on dust
+Material/Source,earthy,Organic,lion,den,a lion growling in a stone cave
+Material/Source,earthy,Organic,human,garden,a person digging in dry soil
+Material/Source,earthy,Organic,insect,field,a beetle on a dry earth path
+Material/Source,earthy,Organic,bird,cliff,a bird pecking at a rock wall
+Material/Source,earthy,Organic,worm,garden,a worm moving through damp soil
+Material/Source,earthy,Organic,dog,yard,a dog digging a hole in a yard
+Material/Source,earthy,Organic,bat,cave,a bat chirp in a stone cavern
+Material/Source,earthy,Organic,wolf,valley,a wolf howl in a rocky gorge
+Material/Source,earthy,Organic,rabbit,hollow,a rabbit in a dirt burrow
+Material/Source,earthy,Organic,bear,den,a bear shifting weight on a cave floor
+Material/Source,earthy,Organic,fox,hole,a fox barking near a dirt den
+Material/Source,earthy,Organic,monkey,jungle,a monkey on a muddy river bank
+Material/Source,earthy,Organic,frog,swamp,a bullfrog in a thick mud pool
+Material/Source,earthy,Organic,bee,nest,bees in an underground hive
+Material/Source,earthy,Organic,human,hall,footsteps on a dusty stone floor
+Material/Source,earthy,Domestic,pot,kitchen,a clay pot being set on a counter
+Material/Source,earthy,Domestic,plant,foyer,a potted plant being moved on a floor
+Material/Source,earthy,Domestic,broom,porch,a broom sweeping a dirt floor
+Material/Source,earthy,Domestic,shoes,mudroom,boots being knocked on a stone step
+Material/Source,earthy,Domestic,box,attic,a cardboard box on a dusty floor
+Material/Source,earthy,Domestic,door,cellar,a wooden door on a stone frame
+Material/Source,earthy,Domestic,rug,yard,a dusty rug being beaten with a stick
+Material/Source,earthy,Domestic,cabinet,pantry,a cabinet door in a stone cellar
+Material/Source,earthy,Domestic,table,kitchen,a table on a dusty hardwood floor
+Material/Source,earthy,Domestic,fireplace,den,a fire in a stone hearth
+Material/Source,earthy,Domestic,vase,parlor,a ceramic vase on a stone mantle
+Material/Source,earthy,Domestic,tile,hall,footsteps on an unglazed clay tile
+Material/Source,earthy,Domestic,brick,patio,a brick being set on a sand bed
+Material/Source,earthy,Domestic,basket,laundry,a wicker basket on a dirt floor
+Material/Source,earthy,Domestic,spoon,bowl,a wooden spoon in a clay bowl
+Material/Source,earthy,Domestic,clock,hall,a grandfather clock in a dusty foyer
+Material/Source,earthy,Domestic,mirror,dressing,a mirror on a stone wall
+Material/Source,earthy,Domestic,curtain,theater,curtains in a dusty stage room
+Material/Source,earthy,Electronic,generator,field,a generator thrumming on dirt
+Material/Source,earthy,Electronic,transformer,substation,a transformer in a gravel yard
+Material/Source,earthy,Electronic,radio,shed,a radio playing in a dusty workshop
+Material/Source,earthy,Electronic,amplifier,garage,a bass amp on a concrete floor
+Material/Source,earthy,Electronic,drill,workshop,an electric drill in a stone wall
+Material/Source,earthy,Electronic,fan,factory,a fan in a dusty industrial plant
+Material/Source,earthy,Electronic,buzzer,entry,a doorbell in a stone entryway
+Material/Source,earthy,Electronic,keyboard,study,typing in a dusty library
+Material/Source,earthy,Electronic,monitor,room,an old monitor in a cellar
+Material/Source,earthy,Electronic,synthesizer,studio,a synth playing a gritty patch
+Material/Source,earthy,Electronic,modem,office,a device in a dusty server room
+Material/Source,earthy,Electronic,battery,boat,a battery in a sandy boat hold
+Material/Source,earthy,Electronic,charger,home,a charger in a dusty outlet
+Material/Source,earthy,Electronic,taser,lab,a taser arc near a stone surface
+Material/Source,earthy,Electronic,sensor,hall,a sensor in a stone corridor
+Material/Source,earthy,Electronic,laptop,lap,a fan whirring in a dusty office
+Material/Source,earthy,Electronic,phone,table,a phone on a stone countertop
+Material/Source,earthy,Electronic,drone,field,a drone taking off from dirt

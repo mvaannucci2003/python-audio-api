@@ -1,0 +1,541 @@
+category,tag,domain,source,environment,scenario
+Space/Dimension,wide,Musical,orchestra,concert hall,the unified swell of a full symphony orchestra playing a major chord
+Space/Dimension,wide,Musical,pipe organ,cathedral,a massive chord played on multiple ranks of a grand pipe organ
+Space/Dimension,wide,Musical,choir,stone abbey,a hundred voices singing a harmonized choral arrangement
+Space/Dimension,wide,Musical,taiko drums,open field,a group of percussionists striking large taiko drums in unison
+Space/Dimension,wide,Musical,piano,ballroom,a fast glissando spanning the entire range of a concert grand piano
+Space/Dimension,wide,Musical,gong,temple,the broad shimmering wash of a large bronze gong after a heavy strike
+Space/Dimension,wide,Musical,strings,theater,a lush section of violins playing a sweeping melodic line
+Space/Dimension,wide,Musical,brass,stadium,a massed marching band playing a fortissimo fanfare
+Space/Dimension,wide,Musical,synthesizer,studio,a stereo-panned sawtooth pad with a slow filter sweep
+Space/Dimension,wide,Musical,harps,conservatory,the overlapping arpeggios of multiple harps being played together
+Space/Dimension,wide,Musical,handpans,tunnel,the complex resonant interplay of several handpans in a stone passage
+Space/Dimension,wide,Musical,bagpipes,highlands,a massed pipe and drum band marching across a valley
+Space/Dimension,wide,Musical,bells,village,the staggered ringing of a full set of church bells across a valley
+Space/Dimension,wide,Musical,cymbals,stage,the broad stereo crash of two large orchestral cymbals
+Space/Dimension,wide,Musical,accordion,plaza,a full-bellows chord on a professional accordion in a stone square
+Space/Dimension,wide,Musical,marimba,hall,a rapid four-mallet roll on a large rosewood marimba
+Space/Dimension,wide,Musical,didgeridoo,canyon,the broad resonant drone of an aboriginal didgeridoo echoing in a gorge
+Space/Dimension,wide,Musical,lute,gallery,the complex decaying chime of a multi-course baroque lute in a hall
+Space/Dimension,wide,Mechanical,jet engine,airfield,the massive roaring wash of a jet engine during a runway takeoff
+Space/Dimension,wide,Mechanical,factory,assembly plant,the collective rhythmic roar of an industrial production floor
+Space/Dimension,wide,Mechanical,train,station,the broad metallic roar of a freight train passing through a terminal
+Space/Dimension,wide,Mechanical,turbine,hydroelectric dam,the deep expansive hum of multiple massive water turbines
+Space/Dimension,wide,Mechanical,printing press,shop,the complex mechanical symphony of a large-scale newspaper press
+Space/Dimension,wide,Mechanical,winch,shipyard,the broad harmonic groan of a massive steel crane lifting cargo
+Space/Dimension,wide,Mechanical,ventilation,tunnel,the massive rushing air wash of multiple industrial fans
+Space/Dimension,wide,Mechanical,machinery,warehouse,the expansive rhythmic drone of a warehouse sorting system
+Space/Dimension,wide,Mechanical,trucks,highway,the collective rumble of a fleet of semi-trucks on an open road
+Space/Dimension,wide,Mechanical,generator,construction site,the broad steady thrum of a large-scale power generator
+Space/Dimension,wide,Mechanical,subway,underground,the resonant roar of a train approaching a wide concrete platform
+Space/Dimension,wide,Mechanical,propeller,harbor,the broad underwater harmonic hum of a large cargo ship
+Space/Dimension,wide,Mechanical,conveyor,mine,the expansive grinding roar of a long-distance ore belt
+Space/Dimension,wide,Mechanical,boiler,basement,the broad resonant roar of an industrial steam heating system
+Space/Dimension,wide,Mechanical,transformer,station,the deep expansive hum of a high-voltage electrical substation
+Space/Dimension,wide,Mechanical,excavator,quarry,the broad hydraulic groan and mechanical grunt of heavy earthmovers
+Space/Dimension,wide,Mechanical,printing press,shop,the wide-spectrum clatter of a high-speed lithograph machine
+Space/Dimension,wide,Mechanical,engine,shipping port,the deep rhythmic thrum of a container ship’s diesel engine
+Space/Dimension,wide,Environmental,ocean,coast,the broad crashing roar of massive waves across a long beach
+Space/Dimension,wide,Environmental,thunder,plains,the expansive rolling boom of a storm moving across the horizon
+Space/Dimension,wide,Environmental,waterfall,jungle,the broad steady roar and mist-hiss of a wide tropical waterfall
+Space/Dimension,wide,Environmental,wind,pine forest,the expansive rushing roar of a gale through a dense canopy
+Space/Dimension,wide,Environmental,storm,mountain,the broad multi-tonal howl of a blizzard through rocky peaks
+Space/Dimension,wide,Environmental,fire,field,the broad crackling and rushing roar of a large grass fire
+Space/Dimension,wide,Environmental,river,gorge,the expansive rushing roar of white water in a deep canyon
+Space/Dimension,wide,Environmental,avalanche,peak,the broad muffled roar of a massive snow shelf sliding
+Space/Dimension,wide,Environmental,rain,rainforest,the dense expansive roar of heavy rain on a jungle canopy
+Space/Dimension,wide,Environmental,ice,glacier,the broad resonant groan of a massive ice shelf shifting
+Space/Dimension,wide,Environmental,geyser,basin,the broad bubbling and rushing of a large geyser field
+Space/Dimension,wide,Environmental,waves,beach,the expansive shimmering wash of waves on a long shingle shore
+Space/Dimension,wide,Environmental,landslide,valley,the broad crashing and tumbling roar of a rockslide
+Space/Dimension,wide,Environmental,tide,marsh,the expansive gurgling and rushing of a rising tide in a bay
+Space/Dimension,wide,Environmental,wind,desert,the broad resonant howl of a sandstorm in a canyon
+Space/Dimension,wide,Environmental,thatch,village,the expansive rustle of many straw roofs in a stiff wind
+Space/Dimension,wide,Environmental,geology,cliff,the broad rhythmic clatter of a scree slope sliding
+Space/Dimension,wide,Environmental,air,hangar,the broad multi-tonal rush of a massive air pressure release
+Space/Dimension,wide,Organic,crowd,stadium,the expansive roar of a hundred thousand people cheering in unison
+Space/Dimension,wide,Organic,birds,cliffside,the broad layered texture of a massive seabird colony
+Space/Dimension,wide,Organic,lion,savanna,the broad resonant roar of a pride of lions at dawn
+Space/Dimension,wide,Organic,elephant,valley,the expansive multi-layered rumble of a herd in the distance
+Space/Dimension,wide,Organic,whale,ocean,the broad haunting songs and clicks of a humpback whale pod
+Space/Dimension,wide,Organic,footsteps,plaza,the broad rhythmic thud of a marching crowd on stone
+Space/Dimension,wide,Organic,wings,cliffside,the expansive rhythmic flap and air rush of a bird colony
+Space/Dimension,wide,Organic,purr,zoo,the broad resonant vibration of a tiger’s low-frequency growl
+Space/Dimension,wide,Organic,clapping,hall,the broad harmonically complex sound of a unified standing ovation
+Space/Dimension,wide,Organic,bellow,hills,the broad multi-tonal call of many red deer stags in the mist
+Space/Dimension,wide,Organic,breathing,cave,the broad resonant resonance of many hibernating mammals
+Space/Dimension,wide,Organic,bark,woods,the expansive multi-layered howl of a wolf pack in the distance
+Space/Dimension,wide,Organic,stomach,bedroom,the broad complex gurgling of a digestion process
+Space/Dimension,wide,Organic,chest,jungle,the broad hollow thudding of a troop of gorillas
+Space/Dimension,wide,Organic,paws,desert,the broad rhythmic roar of a camel caravan on sand
+Space/Dimension,wide,Organic,insect,meadow,the expansive high-pitched buzz of a locust swarm
+Space/Dimension,wide,Organic,birds,jungle,the broad layered texture of a rainforest dawn chorus
+Space/Dimension,wide,Organic,throat,hall,the broad complex drone of a throat singing choir
+Space/Dimension,wide,Domestic,hallway,mansion,the broad resonant thud of a massive oak front door closing
+Space/Dimension,wide,Domestic,fireplace,living room,the broad crackle and harmonic roar of a large hearth fire
+Space/Dimension,wide,Domestic,shower,stall,the broad roar of high-pressure water in a tiled room
+Space/Dimension,wide,Domestic,curtains,theater,the broad rustle and muffled thud of heavy velvet drapes
+Space/Dimension,wide,Domestic,bathtub,bathroom,the expansive resonant splash and roar of a large tub filling
+Space/Dimension,wide,Domestic,silverware,kitchen,the broad clattering roar of a large bin of silver cutlery
+Space/Dimension,wide,Domestic,china,tea room,the broad ring and clatter of a full set of bone china
+Space/Dimension,wide,Domestic,rug,lounge,the broad muffled sound of a heavy wool rug being beaten
+Space/Dimension,wide,Domestic,refrigerator,kitchen,the broad steady hum of several commercial coolers
+Space/Dimension,wide,Domestic,stove,bakery,the broad harmonic roar and hiss of a industrial gas range
+Space/Dimension,wide,Domestic,pipes,basement,the broad resonant groaning of old steam heating pipes
+Space/Dimension,wide,Domestic,closet,bedroom,the broad rumble of a heavy wooden sliding door
+Space/Dimension,wide,Domestic,stairs,mansion,the broad resonant creak of a massive wooden staircase
+Space/Dimension,wide,Domestic,laundry,utility room,the broad rhythmic thud of multiple washing machines
+Space/Dimension,wide,Domestic,storage,attic,the broad muffled sliding of a heavy metal-bound trunk
+Space/Dimension,wide,Domestic,pot,kitchen,the broad resonant bubbling of a large stockpot
+Space/Dimension,wide,Domestic,furniture,study,the broad resonant groan of a heavy leather chair
+Space/Dimension,wide,Domestic,vacuum,hallway,the broad mechanical roar and air rush of a vacuum cleaner
+Space/Dimension,wide,Electronic,synth,studio,a multi-oscillator sawtooth pad with wide stereo unison
+Space/Dimension,wide,Electronic,reverb,cathedral,the broad layered decay of a long-tail digital plate reverb
+Space/Dimension,wide,Electronic,drone,server farm,the expansive multi-tonal hum of thousands of cooling fans
+Space/Dimension,wide,Electronic,hum,station,the broad complex drone of a high-voltage electrical substation
+Space/Dimension,wide,Electronic,noise,lab,the expansive multi-tonal texture of filtered brown noise
+Space/Dimension,wide,Electronic,oscillator,studio,a broad frequency-modulated sine wave with rich overtones
+Space/Dimension,wide,Electronic,saturation,lab,the broad harmonic richness of magnetic tape saturation
+Space/Dimension,wide,Electronic,feedback,arena,the broad evolving harmonic swell of electric guitar feedback
+Space/Dimension,wide,Electronic,transformer,utility,the broad steady hum of a large industrial transformer
+Space/Dimension,wide,Electronic,interference,radio,the broad rhythmic pulsing of shortwave radio signals
+Space/Dimension,wide,Electronic,vibration,bedroom,the broad rhythmic hum of a high-power massage mattress
+Space/Dimension,wide,Electronic,conduit,tunnel,the broad multi-tonal buzz of industrial power lines
+Space/Dimension,wide,Electronic,solenoid,factory,the broad mechanical strike and ring of a large solenoid
+Space/Dimension,wide,Electronic,fan,warehouse,the broad steady roar of a large industrial fan
+Space/Dimension,wide,Electronic,ups,office,the broad steady thrum of an uninterruptible power supply
+Space/Dimension,wide,Electronic,static,radio station,the broad full-spectrum roar of off-station FM radio noise
+Space/Dimension,wide,Electronic,bitcrush,studio,the broad clinical texture of a dithered digital signal
+Space/Dimension,wide,Electronic,amplifier,stage,the broad resonant hum of a 100-watt tube stack
+Space/Dimension,narrow,Musical,tin whistle,meadow,a light breathy note from a small metal whistle
+Space/Dimension,narrow,Musical,kazoo,playground,a light buzzing sound from a plastic kazoo
+Space/Dimension,narrow,Musical,recorder,classroom,a shrill high-pitched note on a plastic soprano recorder
+Space/Dimension,narrow,Musical,harmonica,campground,a single high-register note on a small harmonica
+Space/Dimension,narrow,Musical,toy piano,nursery,a light percussive plink from a plastic toy piano
+Space/Dimension,narrow,Musical,violin,attic,a single high-pitched note on a violin with a practice mute
+Space/Dimension,narrow,Musical,spinet,museum,a thin percussive note on a small spinet piano
+Space/Dimension,narrow,Musical,music box,bedroom,a tiny metallic pluck from a wind-up music box
+Space/Dimension,narrow,Musical,triangle,studio,a single crystalline strike on a small steel triangle
+Space/Dimension,narrow,Musical,tambourine,theater,the light jingle of a tambourine without a head
+Space/Dimension,narrow,Musical,glockenspiel,museum,a light tap on a high steel bar with a plastic mallet
+Space/Dimension,narrow,Musical,flute,valley,a thin airy note on a small wooden fife
+Space/Dimension,narrow,Musical,kalimba,lounge,a light flick on a thin metal tine of a small kalimba
+Space/Dimension,narrow,Musical,ukulele,beach,a light strum on a small plastic ukulele
+Space/Dimension,narrow,Musical,cymbals,stage,a light tap on a small high-pitched finger cymbal
+Space/Dimension,narrow,Musical,jaw harp,porch,a rhythmic metallic twang from a small jaw harp
+Space/Dimension,narrow,Musical,piccolo,parade,a sharp staccato note on a metal piccolo
+Space/Dimension,narrow,Musical,fife,field,a high-pitched trill on a wooden fife
+Space/Dimension,narrow,Mechanical,watch,quiet room,the tiny high-pitched ticking of a mechanical wristwatch
+Space/Dimension,narrow,Mechanical,sewing machine,closet,the light rhythmic clicking of a needle in a sewing machine
+Space/Dimension,narrow,Mechanical,hair clippers,salon,the high-pitched buzz of small electric hair clippers
+Space/Dimension,narrow,Mechanical,zipper,tent,the light high-pitched slide of a plastic zipper
+Space/Dimension,narrow,Mechanical,camera,gallery,the light mechanical click of a small digital camera shutter
+Space/Dimension,narrow,Mechanical,fan,office,the light high-pitched whir of a small USB desk fan
+Space/Dimension,narrow,Mechanical,stapler,office,the light snap of a small handheld stapler
+Space/Dimension,narrow,Mechanical,gears,workshop,the tiny ticking of an escapement in a pocket watch
+Space/Dimension,narrow,Mechanical,printer,office,the light rhythmic chirping of a desktop inkjet printer
+Space/Dimension,narrow,Mechanical,metronome,music room,the light mechanical tick of a small metronome
+Space/Dimension,narrow,Mechanical,lock,bedroom,the light click of a small luggage padlock
+Space/Dimension,narrow,Mechanical,scissors,office,the light snip of small embroidery scissors
+Space/Dimension,narrow,Mechanical,typewriter,attic,the light clack of a toy typewriter key
+Space/Dimension,narrow,Mechanical,razor,bathroom,the high-pitched buzz of an electric foil shaver
+Space/Dimension,narrow,Mechanical,pen,desk,the light click of a retractable ballpoint pen
+Space/Dimension,narrow,Mechanical,lighter,balcony,the light spark of a flint wheel
+Space/Dimension,narrow,Mechanical,winch,dock,the light clicking of a small plastic fishing reel
+Space/Dimension,narrow,Mechanical,drone,field,the high-pitched whine of a small quadcopter motor
+Space/Dimension,narrow,Environmental,grass,meadow,the light rustle of thin dry grass in a breeze
+Space/Dimension,narrow,Environmental,leaves,garden,the light crunch of a single dry leaf being crushed
+Space/Dimension,narrow,Environmental,rain,tent,the light patter of drizzle on a nylon tent fly
+Space/Dimension,narrow,Environmental,water,stream,a light trickle of water over a pebble
+Space/Dimension,narrow,Environmental,sand,desert,the light hiss of sand blowing across a glass pane
+Space/Dimension,narrow,Environmental,ice,pond,the light tinkling of thin ice fragments breaking
+Space/Dimension,narrow,Environmental,twigs,forest,the light snap of a very thin dry twig
+Space/Dimension,narrow,Environmental,hail,carport,small hail seeds hitting a plastic skylight
+Space/Dimension,narrow,Environmental,air,lab,a light hiss of air from a small leaky valve
+Space/Dimension,narrow,Environmental,stones,beach,the light clinking of small sea-glass fragments
+Space/Dimension,narrow,Environmental,reeds,marsh,the light rattling of thin dry reeds in the wind
+Space/Dimension,narrow,Environmental,insects,field,the high-pitched buzz of a single mosquito wing
+Space/Dimension,narrow,Environmental,shells,shore,the light tinkling of tiny shells in a receding wave
+Space/Dimension,narrow,Environmental,steam,kitchen,a light hiss of steam from a small saucepan
+Space/Dimension,narrow,Environmental,snow,porch,the light scrape of a plastic shovel on a thin frost layer
+Space/Dimension,narrow,Environmental,fire,campsite,the light crackle of a single dry pine needle burning
+Space/Dimension,narrow,Environmental,geology,cave,a light drip of water hitting a thin stalactite
+Space/Dimension,narrow,Environmental,wind,keyhole,the high-pitched whistle of wind through a narrow gap
+Space/Dimension,narrow,Organic,insect,meadow,the high-pitched wing friction of a single cricket
+Space/Dimension,narrow,Organic,vocal,hallway,a thin high-pitched whistle from a human mouth
+Space/Dimension,narrow,Organic,mouse,attic,the light high-pitched squeak of a small rodent
+Space/Dimension,narrow,Organic,bird,garden,the light high-pitched chirp of a small sparrow
+Space/Dimension,narrow,Organic,nails,table,the light tap of a fingernail on a plastic surface
+Space/Dimension,narrow,Organic,hair,barber,the light snip of a single thin strand of hair
+Space/Dimension,narrow,Organic,teeth,quiet room,the light chattering of teeth in a cold room
+Space/Dimension,narrow,Organic,wings,orchard,the light high-pitched buzz of a bee's wings
+Space/Dimension,narrow,Organic,skin,bathroom,the light friction of a finger sliding on a mirror
+Space/Dimension,narrow,Organic,claws,floor,the light clicking of a hamster’s claws on a plastic tray
+Space/Dimension,narrow,Organic,bones,museum,the light clatter of tiny fish bones in a tray
+Space/Dimension,narrow,Organic,scales,terrarium,the light rustle of a small lizard over a dry leaf
+Space/Dimension,narrow,Organic,shell,beach,the light crack of a tiny brittle crab shell
+Space/Dimension,narrow,Organic,throat,studio,a light clicking sound made with the tip of the tongue
+Space/Dimension,narrow,Organic,paws,loft,the light scurry of a spider across a paper sheet
+Space/Dimension,narrow,Organic,egg,kitchen,the light crack of a tiny quail eggshell
+Space/Dimension,narrow,Organic,bark,forest,the light snap of a thin piece of birch bark
+Space/Dimension,narrow,Organic,tongue,room,a light sibilant sound made between the teeth
+Space/Dimension,narrow,Domestic,foil,kitchen,the light high-pitched crinkle of thin aluminum foil
+Space/Dimension,narrow,Domestic,plastic,pantry,the light rustle of a thin plastic produce bag
+Space/Dimension,narrow,Domestic,zipper,bedroom,the light slide of a small metal zipper on a dress
+Space/Dimension,narrow,Domestic,coins,laundry,the light clink of two small dimes together
+Space/Dimension,narrow,Domestic,silverware,kitchen,a light tap of a thin metal spoon on a glass rim
+Space/Dimension,narrow,Domestic,can,pantry,the light metallic ping of a small tin can being tapped
+Space/Dimension,narrow,Domestic,keys,entryway,the light jingle of a single key on a small ring
+Space/Dimension,narrow,Domestic,glass,dining room,the light ring of a thin-walled juice glass
+Space/Dimension,narrow,Domestic,paper,study,the light rustle of a single sheet of tissue paper
+Space/Dimension,narrow,Domestic,pins,sewing room,the light clatter of small sewing pins in a metal box
+Space/Dimension,narrow,Domestic,lightbulb,garage,the light ping of a small flashlight bulb being tapped
+Space/Dimension,narrow,Domestic,jewelry,bedroom,the light slide of a thin gold chain on a dresser
+Space/Dimension,narrow,Domestic,window,sunroom,a light tap on a thin pane of glass
+Space/Dimension,narrow,Domestic,buttons,laundry,the light clink of small plastic buttons in a jar
+Space/Dimension,narrow,Domestic,clock,bedroom,the light high-pitched tick of a travel alarm clock
+Space/Dimension,narrow,Domestic,scissors,office,the light snip of scissors through thin cellophane
+Space/Dimension,narrow,Domestic,brush,bathroom,the light friction of a toothbrush on a plastic cup
+Space/Dimension,narrow,Domestic,curtains,kitchen,the light rustle of a thin lace curtain in a breeze
+Space/Dimension,narrow,Electronic,beeper,hospital,the light high-pitched beep of a digital pager
+Space/Dimension,narrow,Electronic,headphone,bedroom,the light tinny sound of music leaking from earbuds
+Space/Dimension,narrow,Electronic,phone,office,the light high-pitched ringtone of a vintage mobile phone
+Space/Dimension,narrow,Electronic,radio,kitchen,the light thin hiss of an AM radio between stations
+Space/Dimension,narrow,Electronic,glitch,studio,the light high-pitched click of a digital buffer error
+Space/Dimension,narrow,Electronic,laptop,library,the light high-pitched whir of a laptop processor fan
+Space/Dimension,narrow,Electronic,speaker,toy,the light tinny voice from a small electronic toy speaker
+Space/Dimension,narrow,Electronic,walkie-talkie,park,the light high-pitched static from a handheld radio
+Space/Dimension,narrow,Electronic,scanner,store,the light high-pitched beep of a handheld scanner
+Space/Dimension,narrow,Electronic,keyboard,office,the light click of a membrane keyboard key
+Space/Dimension,narrow,Electronic,alarm,bedroom,the light high-pitched chirp of a digital wrist watch
+Space/Dimension,narrow,Electronic,monitor,attic,the light high-frequency ring of a small CRT screen
+Space/Dimension,narrow,Electronic,switch,control room,the light click of a small plastic dip switch
+Space/Dimension,narrow,Electronic,relay,closet,the light high-pitched click of a small signal relay
+Space/Dimension,narrow,Electronic,bitcrush,studio,the light high-pitched fizz of a low-bitrate digital file
+Space/Dimension,narrow,Electronic,oscillator,lab,a high-frequency sine wave through a tiny speaker
+Space/Dimension,narrow,Electronic,static,radio station,the light high-pitched hiss of filtered white noise
+Space/Dimension,narrow,Electronic,buzzer,apartment,the light high-pitched buzz of a small intercom
+Space/Dimension,deep,Musical,timpani,concert hall,a powerful mallet roll on a set of large copper timpani
+Space/Dimension,deep,Musical,pipe organ,cathedral,a sustained low-pedal note echoing in a large nave
+Space/Dimension,deep,Musical,tuba,underground parking,a sustained deep note from a large brass tuba
+Space/Dimension,deep,Musical,gong,temple,the complex resonant wash of a massive bronze gong strike
+Space/Dimension,deep,Musical,cello,stone chapel,a deep resonant double-stop played on a cello
+Space/Dimension,deep,Musical,bass drum,parade,the deep thumping of a marching band bass drum
+Space/Dimension,deep,Musical,didgeridoo,cave,the resonant drone of a large eucalyptus didgeridoo
+Space/Dimension,deep,Musical,piano,manor house,a low-register fortissimo chord on a grand piano
+Space/Dimension,deep,Musical,handpan,tunnel,the resonant sustain of a deep strike on a steel handpan
+Space/Dimension,deep,Musical,marimba,hall,the deep hollow bloom of a low rosewood marimba note
+Space/Dimension,deep,Musical,horn,canyon,the powerful call of a brass hunting horn
+Space/Dimension,deep,Musical,synthesizer,studio,a detuned multi-oscillator sawtooth pad with wide filtering
+Space/Dimension,deep,Musical,harp,ballroom,a low glissando across the strings of a concert harp
+Space/Dimension,deep,Musical,accordion,street,a full-bellows chord on a professional accordion
+Space/Dimension,deep,Musical,cymbals,stage,the massive shimmering crash of large orchestral cymbals
+Space/Dimension,deep,Musical,bassoon,rehearsal room,a low reed-rich note from a professional bassoon
+Space/Dimension,deep,Musical,taiko,open field,the massive impact of a wooden club on a large taiko drum
+Space/Dimension,deep,Musical,choir,cathedral,the harmonically dense hum of a large men’s choir
+Space/Dimension,deep,Mechanical,subway,tunnel,the resonant roar of a train approaching an underground station
+Space/Dimension,deep,Mechanical,ship engine,harbor,the low-frequency thrum of a container ship’s diesel engine
+Space/Dimension,deep,Mechanical,turbine,dam,the deep resonant hum of a massive hydroelectric turbine
+Space/Dimension,deep,Mechanical,boiler,basement,the deep resonant roar of a large industrial boiler igniting
+Space/Dimension,deep,Mechanical,jet engine,airfield,the massive roar of a jet engine during takeoff
+Space/Dimension,deep,Mechanical,steam locomotive,station,the powerful rhythmic chug of a large steam engine
+Space/Dimension,deep,Mechanical,industrial press,factory,the heavy thud and vibration of a 50-ton hydraulic press
+Space/Dimension,deep,Mechanical,printing press,newspaper,the complex rhythmic roar of a high-speed printing press
+Space/Dimension,deep,Mechanical,truck,highway,the powerful rumble of a heavy semi-truck engine braking
+Space/Dimension,deep,Mechanical,generator,construction site,the heavy steady thrum of a large diesel generator
+Space/Dimension,deep,Mechanical,crane,dockside,the low-frequency groan of a massive electric winch
+Space/Dimension,deep,Mechanical,propeller,ocean,the deep rhythmic pulse of a ship's propeller underwater
+Space/Dimension,deep,Mechanical,ventilation,tunnel,the massive air rush of an industrial tunnel fan
+Space/Dimension,deep,Mechanical,conveyor,mine,the heavy grinding rumble of a large rock conveyor
+Space/Dimension,deep,Mechanical,mill,quarry,the massive crushing sound of a stone-grinding machine
+Space/Dimension,deep,Mechanical,excavator,site,the deep mechanical grunt of a hydraulic shovel digging
+Space/Dimension,deep,Mechanical,furnace,steel mill,the massive roar of a blast furnace
+Space/Dimension,deep,Mechanical,pump,oil field,the deep rhythmic thud of a large pumpjack
+Space/Dimension,deep,Environmental,thunder,plains,the massive rolling boom of a nearby thunderclap
+Space/Dimension,deep,Environmental,waterfall,jungle,the powerful steady roar of a massive waterfall
+Space/Dimension,deep,Environmental,ocean,cliff,the heavy crash of a massive swell against a rocky wall
+Space/Dimension,deep,Environmental,earthquake,mountain,the deep subterranean rumble of tectonic plates
+Space/Dimension,deep,Environmental,avalanche,peak,the massive muffled roar of snow sliding down a mountain
+Space/Dimension,deep,Environmental,landslide,canyon,the complex crashing roar of falling rocks
+Space/Dimension,deep,Environmental,volcano,island,the deep resonant grumble of an active volcanic vent
+Space/Dimension,deep,Environmental,wind,forest,the powerful roar of a gale through a pine canopy
+Space/Dimension,deep,Environmental,fire,warehouse,the massive rushing roar of a large structure fire
+Space/Dimension,deep,Environmental,storm,desert,the deep resonant howl of a sandstorm in a canyon
+Space/Dimension,deep,Environmental,river,gorge,the powerful surge of a flooded river over rocks
+Space/Dimension,deep,Environmental,geyser,national park,the massive thudding and rushing of a geyser eruption
+Space/Dimension,deep,Environmental,ice,glacier,the deep resonant groan of a massive ice shelf calving
+Space/Dimension,deep,Environmental,rain,tropical forest,the dense roar of heavy rain on a jungle canopy
+Space/Dimension,deep,Environmental,tide,marsh,the heavy rhythmic surge of a rising tide in a bay
+Space/Dimension,deep,Environmental,mud,volcano,the deep glooping sound of a massive mud pot bubbling
+Space/Dimension,deep,Environmental,waves,shore,the powerful resonant wash of surf on a pebble beach
+Space/Dimension,deep,Environmental,air,hangar,the massive rushing sound of a pressurized air release
+Space/Dimension,deep,Organic,lion,savanna,the powerful resonant roar of a male lion
+Space/Dimension,deep,Organic,elephant,valley,the deep infrasonic rumble of an elephant’s call
+Space/Dimension,deep,Organic,whale,ocean,the deep complex groan of a humpback whale
+Space/Dimension,deep,Organic,vocal,concert hall,a powerful operatic baritone note with full vibrato
+Space/Dimension,deep,Organic,footsteps,hallway,the heavy resonant thud of a large person walking
+Space/Dimension,deep,Organic,growl,forest,the deep resonant warning of a grizzly bear
+Space/Dimension,deep,Organic,thump,gym,the massive impact of a heavy body landing on a wrestling mat
+Space/Dimension,deep,Organic,breathing,cave,the deep resonant inhale of a large hibernating mammal
+Space/Dimension,deep,Organic,wings,forest,the heavy rhythmic flap of a large swan taking flight
+Space/Dimension,deep,Organic,chest,jungle,the deep hollow thud of a gorilla striking its chest
+Space/Dimension,deep,Organic,purr,zoo,the deep resonant vibration of a tiger’s purr
+Space/Dimension,deep,Organic,clapping,stadium,the massive unified roar of a stadium crowd applauding
+Space/Dimension,deep,Organic,bark,mountain,the deep resonant howl of a timber wolf
+Space/Dimension,deep,Organic,bellow,moorland,the deep powerful call of a red deer stag
+Space/Dimension,deep,Organic,heartbeat,quiet room,the deep resonant thump of a heart through a stethoscope
+Space/Dimension,deep,Organic,digging,garden,the heavy thud of a shovel hitting wet clay earth
+Space/Dimension,deep,Organic,falling,woods,the massive crash of a rotten oak tree hitting the ground
+Space/Dimension,deep,Organic,throat,hall,the harmonically rich drone of a Tuvan throat singer
+Space/Dimension,deep,Domestic,door,mansion,the heavy resonant thud of a massive oak front door closing
+Space/Dimension,deep,Domestic,bathtub,bathroom,the deep resonant splash of a full tub of water
+Space/Dimension,deep,Domestic,fireplace,lounge,the powerful roar of a large fire in a wide chimney
+Space/Dimension,deep,Domestic,furniture,bedroom,the deep groan of a massive wardrobe being pushed
+Space/Dimension,deep,Domestic,range hood,kitchen,the powerful air rush of a commercial exhaust fan
+Space/Dimension,deep,Domestic,rug,hallway,the heavy muffled thud of a rolled carpet being dropped
+Space/Dimension,deep,Domestic,curtains,theater,the massive rustle of heavy velvet drapes closing
+Space/Dimension,deep,Domestic,pipes,basement,the deep resonant thud of water hammer in large pipes
+Space/Dimension,deep,Domestic,oven,bakery,the powerful ignition of a commercial gas oven
+Space/Dimension,deep,Domestic,shower,bathroom,the dense roar of high-pressure water in a tiled stall
+Space/Dimension,deep,Domestic,refrigerator,kitchen,the deep steady thrum of a large commercial freezer
+Space/Dimension,deep,Domestic,stairs,hallway,the heavy resonant creak of a massive wooden staircase
+Space/Dimension,deep,Domestic,bed,bedroom,the deep groan of a heavy mattress and frame
+Space/Dimension,deep,Domestic,storage,garage,the heavy thud of a fully loaded wooden crate
+Space/Dimension,deep,Domestic,vacuum,living room,the powerful steady roar of an upright vacuum cleaner
+Space/Dimension,deep,Domestic,pot,kitchen,the deep resonant bubbling of a large stockpot
+Space/Dimension,deep,Domestic,trunk,attic,the heavy thud of a metal-bound steamer trunk closing
+Space/Dimension,deep,Domestic,closet,hallway,the deep rumble of a heavy sliding barn door
+Space/Dimension,deep,Electronic,subwoofer,theater,a deep resonant explosion through a large subwoofer
+Space/Dimension,deep,Electronic,hum,station,the massive 60hz hum of a city-scale power transformer
+Space/Dimension,deep,Electronic,synth,studio,a detuned three-oscillator bass patch with no filtering
+Space/Dimension,deep,Electronic,noise,lab,a powerful steady blast of unfiltered white noise
+Space/Dimension,deep,Electronic,speaker,club,the deep resonant thud of a kick drum through a wall
+Space/Dimension,deep,Electronic,motor,factory,the powerful steady thrum of a large electric motor
+Space/Dimension,deep,Electronic,drone,server farm,the massive air roar of a data center cooling system
+Space/Dimension,deep,Electronic,static,radio,the full-spectrum roar of off-station FM radio noise
+Space/Dimension,deep,Electronic,amplifier,stage,the deep resonant hum of a 100-watt tube stack
+Space/Dimension,deep,Electronic,oscillator,lab,a low-frequency square wave with high resonance
+Space/Dimension,deep,Electronic,vibration,lounge,the deep resonant hum of a massage chair
+Space/Dimension,deep,Electronic,reverb,cathedral,the massive complex decay of a long-tail digital reverb
+Space/Dimension,deep,Electronic,feedback,arena,the powerful resonant swell of low-frequency guitar feedback
+Space/Dimension,deep,Electronic,ups,office,the deep steady thrum of an uninterruptible power supply
+Space/Dimension,deep,Electronic,conduit,tunnel,the resonant buzz of high-voltage lines in a concrete shaft
+Space/Dimension,deep,Electronic,solenoid,machine,the heavy resonant thud of a large industrial solenoid
+Space/Dimension,deep,Electronic,distortion,studio,the harmonically dense roar of an overdriven preamp
+Space/Dimension,deep,Electronic,fan,warehouse,the powerful steady roar of a large industrial fan
+Space/Dimension,shallow,Musical,xylophone,music room,a hard plastic mallet strike on a high synthetic bar
+Space/Dimension,shallow,Musical,muted guitar,bedroom,a palm-muted string pluck on an electric guitar
+Space/Dimension,shallow,Musical,woodblock,rehearsal room,a sharp strike on a solid maple block
+Space/Dimension,shallow,Musical,claps,studio,a dry rhythmic hand clap recorded with no reverb
+Space/Dimension,shallow,Musical,triangle,classroom,a short metallic strike on a small steel triangle
+Space/Dimension,shallow,Musical,tambourine,theater,a quick sharp shake of a headless tambourine
+Space/Dimension,shallow,Musical,drumstick,garage,a sharp click of two drumsticks being hit together
+Space/Dimension,shallow,Musical,banjo,porch,a light finger-flick on a high-tuned banjo string
+Space/Dimension,shallow,Musical,hi-hat,studio,a quick closing of two metal hi-hat cymbals
+Space/Dimension,shallow,Musical,castanets,dance hall,the sharp rhythmic clicking of wooden castanets
+Space/Dimension,shallow,Mechanical,mouse,desk,the light click of a computer mouse button
+Space/Dimension,shallow,Environmental,bubbles,pond,a single pop of an air bubble on the surface
+Space/Dimension,shallow,Organic,finger snap,quiet room,a single sharp snap of a thumb and middle finger
+Space/Dimension,shallow,Organic,tongue,studio,a sharp percussive click of the tongue against the palate
+Space/Dimension,shallow,Organic,teeth,bathroom,a sharp snap of teeth biting into a hard apple
+Space/Dimension,distant,Musical,marching band,stadium,the muffled rhythmic thud and brass of a band blocks away
+Space/Dimension,distant,Musical,church bells,village,the faint ringing of bronze bells from across a wide valley
+Space/Dimension,distant,Musical,flute,lake,a thin breathy melody heard from the opposite shore
+Space/Dimension,distant,Musical,orchestra,theater,the muffled swell of a symphony heard through heavy lobby doors
+Space/Dimension,distant,Musical,pipe organ,cathedral,the low resonant hum of an organ through a stone wall
+Space/Dimension,distant,Musical,drum,mountain,the faint rhythmic thud of a ceremonial drum from a peak
+Space/Dimension,distant,Musical,bagpipes,highlands,the muffled drone of pipes from over a misty ridge
+Space/Dimension,distant,Musical,piano,manor,the faint notes of a grand piano from a distant wing
+Space/Dimension,distant,Musical,trumpet,city,a muffled fanfare echoing through narrow streets
+Space/Dimension,distant,Musical,choir,abbey,the faint harmonized hum of a choir from the cloister
+Space/Dimension,distant,Musical,guitar,beach,the thin strumming of an acoustic guitar from a bonfire far away
+Space/Dimension,distant,Musical,violin,park,the faint high-pitched notes of a busker across a meadow
+Space/Dimension,distant,Musical,gong,temple,the long low-frequency decay of a gong from a hilltop
+Space/Dimension,distant,Musical,tambourine,festival,the faint jingle of a tambourine from a passing parade
+Space/Dimension,distant,Musical,harmonica,campsite,the thin lonely notes of a harmonica across a canyon
+Space/Dimension,distant,Musical,saxophone,lounge,the muffled sub-tones of a sax from behind a closed door
+Space/Dimension,distant,Musical,cello,chapel,the faint resonant groan of a cello through a heavy gate
+Space/Dimension,distant,Musical,harp,conservatory,the thin cascading notes of a harp from a top floor
+Space/Dimension,distant,Mechanical,train,plains,the muffled whistle and rhythmic thud of a locomotive miles away
+Space/Dimension,distant,Mechanical,airplane,sky,the faint steady drone of a jet high in the atmosphere
+Space/Dimension,distant,Mechanical,siren,city,the muffled wail of a distant ambulance through traffic
+Space/Dimension,distant,Mechanical,factory,outskirts,the faint rhythmic roar of heavy machinery from a mile away
+Space/Dimension,distant,Mechanical,tractor,farmland,the muffled chug of a diesel engine in a far-off field
+Space/Dimension,distant,Mechanical,lawnmower,suburbs,the faint steady hum of a mower several blocks away
+Space/Dimension,distant,Mechanical,jackhammer,street,the muffled rhythmic thud of construction through a wall
+Space/Dimension,distant,Mechanical,ship,harbor,the faint deep thrum of a container ship across the water
+Space/Dimension,distant,Mechanical,generator,camp,the muffled steady chug of a diesel unit behind a hill
+Space/Dimension,distant,Mechanical,helicopter,valley,the rhythmic thrum of rotors echoing from a distance
+Space/Dimension,distant,Mechanical,car,highway,the faint steady whir of tires on asphalt from a ridge
+Space/Dimension,distant,Mechanical,winch,dock,the muffled metallic clicking of a crane across the shipyard
+Space/Dimension,distant,Mechanical,saw,woodshop,the faint high-pitched scream of a table saw through a door
+Space/Dimension,distant,Mechanical,ventilation,office,the muffled air rush of an HVAC system in another wing
+Space/Dimension,distant,Mechanical,bells,clock tower,the faint metallic strike of a clock from a town square
+Space/Dimension,distant,Mechanical,impact wrench,garage,the muffled rhythmic hammering from a neighbor's shop
+Space/Dimension,distant,Mechanical,subway,tunnel,the faint resonant rumble of a train through the ground
+Space/Dimension,distant,Mechanical,boiler,basement,the muffled roar of a furnace from a different floor
+Space/Dimension,distant,Environmental,thunder,horizon,the faint rolling rumble of a storm miles away
+Space/Dimension,distant,Environmental,waves,beach,the muffled crashing of surf heard from a hilltop
+Space/Dimension,distant,Environmental,wind,mountain,the faint high-pitched howl of wind through peaks
+Space/Dimension,distant,Environmental,waterfall,jungle,the muffled steady roar of a fall through dense trees
+Space/Dimension,distant,Environmental,river,canyon,the faint rushing sound of water from a rim
+Space/Dimension,distant,Environmental,avalanche,peak,the muffled roar of a snow slide on a far mountain
+Space/Dimension,distant,Environmental,volcano,island,the faint deep grumble of an eruption across a bay
+Space/Dimension,distant,Environmental,rain,forest,the muffled patter of rain on a distant canopy
+Space/Dimension,distant,Environmental,storm,desert,the faint resonant howl of a sandstorm in the distance
+Space/Dimension,distant,Environmental,ice,glacier,the muffled groan and snap of ice from a far shelf
+Space/Dimension,distant,Environmental,fire,woods,the faint crackling and rushing of a fire over a ridge
+Space/Dimension,distant,Environmental,geyser,basin,the muffled thudding of an eruption from a mile away
+Space/Dimension,distant,Environmental,landslide,valley,the faint crashing roar of rocks from a distant cliff
+Space/Dimension,distant,Environmental,tide,marsh,the faint gurgling of a rising tide in a far-off bay
+Space/Dimension,distant,Environmental,waves,cliff,the muffled splash of surf against a far sea wall
+Space/Dimension,distant,Environmental,wind,forest,the faint rushing roar of wind through a distant grove
+Space/Dimension,distant,Environmental,mud,volcano,the faint glooping of a mud pot from a distance
+Space/Dimension,distant,Environmental,air,hangar,the muffled rush of a pressurized release from a far hangar
+Space/Dimension,distant,Organic,wolf,forest,the faint mournful howl of a wolf from a deep valley
+Space/Dimension,distant,Organic,crowd,stadium,the muffled roar of a cheering crowd from a mile away
+Space/Dimension,distant,Organic,bird,garden,the faint high-pitched chirp of a hawk from a far sky
+Space/Dimension,distant,Organic,lion,savanna,the muffled resonant roar of a lion across the plains
+Space/Dimension,distant,Organic,elephant,valley,the faint low-frequency rumble of a herd in the distance
+Space/Dimension,distant,Organic,whale,ocean,the faint haunting song of a whale from deep water
+Space/Dimension,distant,Organic,footsteps,hallway,the muffled rhythmic thud of walking in another room
+Space/Dimension,distant,Organic,bark,woods,the faint short bark of a dog from a far-off farm
+Space/Dimension,distant,Organic,clapping,hall,the muffled sound of applause from behind a closed door
+Space/Dimension,distant,Organic,bellow,hills,the faint multi-tonal call of a stag in a far mist
+Space/Dimension,distant,Organic,breathing,cave,the faint resonant inhale of an animal deep in a cavern
+Space/Dimension,distant,Organic,stomach,bedroom,the faint gurgling of a neighbor's digestion through a wall
+Space/Dimension,distant,Organic,wings,barn,the muffled rhythmic flap of a bird in a far-off loft
+Space/Dimension,distant,Organic,chest,jungle,the faint hollow thudding of a gorilla across a ravine
+Space/Dimension,distant,Organic,paws,desert,the faint rhythmic thud of a camel caravan over a dune
+Space/Dimension,distant,Organic,insect,meadow,the faint high-pitched buzz of a swarm in a far field
+Space/Dimension,distant,Organic,birds,jungle,the faint layered texture of a forest dawn chorus
+Space/Dimension,distant,Organic,throat,hall,the faint complex drone of a singer from a far room
+Space/Dimension,distant,Domestic,television,living room,the muffled sound of a TV show heard through a wall
+Space/Dimension,distant,Domestic,vacuum,hallway,the faint mechanical roar of a vacuum in another room
+Space/Dimension,distant,Domestic,shower,bathroom,the muffled roar of water through a closed door
+Space/Dimension,distant,Domestic,door,mansion,the faint resonant thud of a door closing in a far wing
+Space/Dimension,distant,Domestic,refrigerator,kitchen,the faint steady hum of a cooler from a hallway
+Space/Dimension,distant,Domestic,fireplace,lounge,the muffled crackle of a fire heard from a bedroom
+Space/Dimension,distant,Domestic,curtains,theater,the faint rustle of heavy drapes from a far stage
+Space/Dimension,distant,Domestic,bathtub,bathroom,the muffled resonant splash of a tub through a wall
+Space/Dimension,distant,Domestic,silverware,kitchen,the faint clattering of cutlery from another floor
+Space/Dimension,distant,Domestic,china,tea room,the faint ring of a teacup from a far-off kitchen
+Space/Dimension,distant,Domestic,rug,lounge,the faint muffled thud of a rug being beaten outside
+Space/Dimension,distant,Domestic,stove,bakery,the muffled harmonic roar of a range through a door
+Space/Dimension,distant,Domestic,pipes,basement,the faint resonant groaning of pipes from a different floor
+Space/Dimension,distant,Domestic,closet,bedroom,the muffled rumble of a sliding door from a far room
+Space/Dimension,distant,Domestic,stairs,mansion,the faint resonant creak of a staircase from a hallway
+Space/Dimension,distant,Domestic,laundry,utility room,the muffled thud of a machine from a basement
+Space/Dimension,distant,Domestic,storage,attic,the faint muffled sliding of a trunk from a loft
+Space/Dimension,distant,Domestic,pot,kitchen,the faint resonant bubbling of a stew from a hallway
+Space/Dimension,distant,Electronic,radio,car,the muffled sound of music from a vehicle passing a house
+Space/Dimension,distant,Electronic,club,street,the muffled thud of bass music from a building blocks away
+Space/Dimension,distant,Electronic,hum,station,the faint complex drone of a substation from a field
+Space/Dimension,distant,Electronic,drone,server farm,the muffled air roar of cooling fans from outside
+Space/Dimension,distant,Electronic,static,radio room,the faint rhythmic pulsing of a signal through a wall
+Space/Dimension,distant,Electronic,interference,radio,the faint rhythmic roar of static from a far station
+Space/Dimension,distant,Electronic,alarm,bedroom,the muffled chirp of a digital watch in another room
+Space/Dimension,distant,Electronic,beeper,hospital,the faint high-frequency alert from a far corridor
+Space/Dimension,distant,Electronic,transformer,utility,the muffled steady hum of a unit behind a fence
+Space/Dimension,distant,Electronic,oscillator,lab,the faint frequency-modulated wave from a far room
+Space/Dimension,distant,Electronic,vibration,bedroom,the muffled rhythmic hum of a phone on a far table
+Space/Dimension,distant,Electronic,conduit,tunnel,the faint multi-tonal buzz of lines from a shaft
+Space/Dimension,distant,Electronic,solenoid,factory,the muffled mechanical strike from a far machine
+Space/Dimension,distant,Electronic,fan,warehouse,the faint steady roar of a large fan from an office
+Space/Dimension,distant,Electronic,ups,office,the muffled steady thrum of a supply from a closet
+Space/Dimension,distant,Electronic,bitcrush,studio,the faint clinical texture of a signal through a door
+Space/Dimension,distant,Electronic,reverb,cathedral,the faint layered decay of a tail from a nave
+Space/Dimension,distant,Electronic,feedback,arena,the faint evolving roar of guitar from a stadium
+Space/Dimension,present,Musical,flute,recording studio,the sound of air rushing against a silver flute mouthpiece
+Space/Dimension,present,Musical,acoustic guitar,living room,the friction of fingers sliding on steel-wound strings
+Space/Dimension,present,Musical,violin,bedroom,the raspy sound of a horsehair bow hitting a violin string
+Space/Dimension,present,Musical,piano,parlor,the mechanical thud of a piano key hitting the wooden bed
+Space/Dimension,present,Musical,mouth harp,porch,the wet rhythmic twang of a metal jaw harp against teeth
+Space/Dimension,present,Musical,harmonica,campsite,the intimate breathy vibration of a harmonica reed
+Space/Dimension,present,Musical,clarinet,lounge,the percussive mechanical click of a wooden clarinet key
+Space/Dimension,present,Musical,drum,basement,the impact of a finger on a tight snare drum head
+Space/Dimension,present,Musical,recorder,classroom,the breathy high-pitched start of a recorder note
+Space/Dimension,present,Musical,kalimba,nursery,the resonant metallic pluck of a kalimba tine near the ear
+Space/Dimension,present,Musical,tambourine,theater,the sharp jingle of a tambourine held close
+Space/Dimension,present,Musical,handpan,meadow,the resonant vibration of a thumb on a steel dome
+Space/Dimension,present,Musical,ukulele,beach,the light rhythmic strum of nylon strings near the body
+Space/Dimension,present,Musical,banjo,farmhouse,the sharp pick-strike on a high-tuned banjo string
+Space/Dimension,present,Musical,cello,studio,the resonant groan of a bow on a low cello string
+Space/Dimension,present,Musical,trumpet,hall,the sharp metallic buzz of lips in a brass mouthpiece
+Space/Dimension,present,Musical,bassoon,rehearsal,the complex vibration of a wooden double-reed
+Space/Dimension,present,Musical,spinet,museum,the percussive pluck of a small spinet piano string
+Space/Dimension,present,Mechanical,watch,quiet room,the rhythmic high-pitched ticking of a wristwatch near the ear
+Space/Dimension,present,Mechanical,pen,study,the scratchy sound of a fountain pen writing on thick paper
+Space/Dimension,present,Mechanical,camera,gallery,the mechanical snap and whir of a film camera shutter
+Space/Dimension,present,Mechanical,typewriter,library,the percussive clack of a manual typewriter key hitting paper
+Space/Dimension,present,Mechanical,sewing machine,closet,the rhythmic mechanical clicking of a needle near the ear
+Space/Dimension,present,Mechanical,lighter,balcony,the sharp scratch and pop of a flint wheel spark
+Space/Dimension,present,Mechanical,zipper,tent,the rapid high-pitched slide of a plastic zipper near the face
+Space/Dimension,present,Mechanical,razor,bathroom,the high-pitched buzz of an electric shaver against skin
+Space/Dimension,present,Mechanical,stapler,office,the sharp metallic snap of a handheld stapler
+Space/Dimension,present,Mechanical,lock,bedroom,the intricate mechanical click of a key in a lock
+Space/Dimension,present,Mechanical,gears,workshop,the tiny rhythmic ticking of a pocket watch escapement
+Space/Dimension,present,Mechanical,scissors,salon,the sharp metallic snip of hair shears near the ear
+Space/Dimension,present,Mechanical,drill,garage,the high-pitched whine of a small handheld drill
+Space/Dimension,present,Mechanical,mouse,desk,the light percussive click of a computer mouse button
+Space/Dimension,present,Mechanical,ruler,classroom,the sharp snap of a plastic ruler against a palm
+Space/Dimension,present,Mechanical,clippers,bathroom,the sharp metallic snap of a nail clipper
+Space/Dimension,present,Mechanical,shutter,studio,the fast mechanical snap of an SLR camera
+Space/Dimension,present,Environmental,rain,tent,the rhythmic patter of heavy raindrops on a thin nylon hood
+Space/Dimension,present,Environmental,wind,canyon,the high-pitched whistle of wind in the ears
+Space/Dimension,present,Environmental,leaves,garden,the sharp crunch of a dry leaf under a boot
+Space/Dimension,present,Environmental,fire,campsite,the intimate crackle and pop of a small campfire
+Space/Dimension,present,Environmental,water,stream,the sharp splash of a pebble hitting a still pool
+Space/Dimension,present,Environmental,sand,desert,the high-frequency hiss of sand on a glass pane
+Space/Dimension,present,Environmental,ice,pond,the sharp crystalline crack of thin ice breaking
+Space/Dimension,present,Environmental,twigs,forest,the sharp dry snap of a thin branch underfoot
+Space/Dimension,present,Environmental,hail,carport,the sharp ping of hail seeds hitting a plastic visor
+Space/Dimension,present,Environmental,air,lab,the high-pitched hiss of air from a small handheld nozzle
+Space/Dimension,present,Environmental,stones,beach,the sharp clink of two pebbles held in the hand
+Space/Dimension,present,Environmental,reeds,marsh,the sharp rattle of dry corn stalks near the face
+Space/Dimension,present,Environmental,insects,field,the high-pitched buzz of a mosquito near the ear
+Space/Dimension,present,Environmental,shells,shore,the sharp crunch of a brittle shell under a heel
+Space/Dimension,present,Environmental,steam,kitchen,the sharp hiss of steam from a handheld kettle
+Space/Dimension,present,Environmental,snow,porch,the sharp crunch of a boot on a frozen snow crust
+Space/Dimension,present,Environmental,grass,meadow,the light rustle of dry grass blades rubbing together
+Space/Dimension,present,Environmental,bubbles,pond,the sharp pop of an air bubble on a surface
+Space/Dimension,present,Organic,breathing,bedroom,the soft rhythmic inhale and exhale of a sleeping person
+Space/Dimension,present,Organic,purr,living room,the deep rhythmic vibration of a cat on a lap
+Space/Dimension,present,Organic,heartbeat,quiet room,the rhythmic double-thump of a heart against a chest
+Space/Dimension,present,Organic,vocal,hallway,a soft high-pitched whistle from a human mouth
+Space/Dimension,present,Organic,chewing,pasture,the rhythmic wet grinding of a jaw near the ear
+Space/Dimension,present,Organic,tongue,studio,a sharp percussive click made against the palate
+Space/Dimension,present,Organic,hair,salon,the sharp snip of a single strand of hair
+Space/Dimension,present,Organic,claws,floor,the light clicking of a dog’s claws on a floor
+Space/Dimension,present,Organic,throat,studio,a sharp percussive glottal stop sound
+Space/Dimension,present,Organic,touch,bedroom,the friction of skin rubbing against a flannel sheet
+Space/Dimension,present,Domestic,brush,bathroom,the rhythmic friction of a toothbrush on teeth
+Space/Dimension,present,Domestic,stirring,kitchen,the rhythmic clinking of a spoon in a ceramic mug
+Space/Dimension,present,Domestic,foil,pantry,the sharp high-pitched crinkle of aluminum foil
+Space/Dimension,present,Domestic,keys,entryway,the sharp metallic jingle of a key on a ring
+Space/Dimension,present,Domestic,pen,desk,the rhythmic clicking of a ballpoint pen
+Space/Dimension,present,Domestic,silverware,kitchen,the sharp clink of a spoon hitting a glass rim
+Space/Dimension,present,Domestic,can,pantry,the sharp snap of a soda can tab being opened
+Space/Dimension,present,Domestic,paper,study,the light rustle of a single sheet of paper
+Space/Dimension,present,Domestic,pins,sewing room,the light clinking of sewing pins in a box
+Space/Dimension,present,Domestic,lightbulb,garage,the light ping of a flashlight bulb being tapped
+Space/Dimension,present,Domestic,jewelry,bedroom,the light slide of a gold chain on a dresser
+Space/Dimension,present,Domestic,window,sunroom,a light tap on a pane of glass
+Space/Dimension,present,Domestic,buttons,laundry,the light clink of plastic buttons in a jar
+Space/Dimension,present,Domestic,scissors,office,the light snip of scissors through cellophane
+Space/Dimension,present,Domestic,curtains,kitchen,the light rustle of a thin lace curtain
+Space/Dimension,present,Domestic,sponge,bathroom,the soft wet sound of a sponge being squeezed
+Space/Dimension,present,Electronic,static,radio,the high-pitched hiss of white noise in headphones
+Space/Dimension,present,Electronic,vibration,lounge,the rhythmic hum of a phone on a tabletop
+Space/Dimension,present,Electronic,keyboard,office,the rhythmic clicking of a mechanical keyboard
+Space/Dimension,present,Electronic,beeper,hospital,the sharp high-frequency chirp of a digital watch
+Space/Dimension,present,Electronic,phone,office,the light high-pitched ringtone of a mobile phone
+Space/Dimension,present,Electronic,laptop,library,the light high-pitched whir of a processor fan
+Space/Dimension,present,Electronic,speaker,toy,the light tinny voice from a small toy speaker
+Space/Dimension,present,Electronic,walkie-talkie,park,the light high-pitched static from a radio
+Space/Dimension,present,Electronic,scanner,store,the sharp high-pitched beep of a barcode scanner
+Space/Dimension,present,Electronic,alarm,bedroom,the sharp high-pitched chirp of a digital alarm
+Space/Dimension,present,Electronic,monitor,attic,the light high-frequency ring of a CRT screen
+Space/Dimension,present,Electronic,relay,closet,the light high-pitched click of a signal relay
+Space/Dimension,present,Electronic,bitcrush,studio,the light high-pitched fizz of a digital file
+Space/Dimension,present,Electronic,buzzer,apartment,the light high-pitched buzz of an intercom
