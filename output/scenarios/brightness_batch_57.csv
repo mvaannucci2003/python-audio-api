@@ -1,0 +1,743 @@
+category,tag,domain,source,environment,scenario
+Brightness,bright,Musical,handbell,cathedral,a polished brass handbell struck with a metal rod
+Brightness,bright,Musical,glockenspiel,concert hall,a steel mallet hitting a glockenspiel bar
+Brightness,bright,Musical,trumpet,city square,a trumpet playing a high fanfare in an open plaza
+Brightness,bright,Musical,cymbals,stadium,two brass cymbals crashing together during a parade
+Brightness,bright,Musical,mandolin,meadow,a mandolin string being plucked with a hard plectrum
+Brightness,bright,Musical,xylophone,botanical garden,a wooden mallet striking a rosewood xylophone key
+Brightness,bright,Musical,banjo,front porch,a fingerpicked banjo melody in a dry valley
+Brightness,bright,Musical,violin,art gallery,a violin playing a pizzicato note on a steel e-string
+Brightness,bright,Musical,harpsichord,ballroom,a harpsichord quill plucking a thin metal wire
+Brightness,bright,Musical,triangle,orchestra pit,a chrome triangle being tapped in a silent theater
+Brightness,bright,Musical,chimes,mountaintop,tubular aluminum chimes swaying in a stiff breeze
+Brightness,bright,Musical,tambourine,festival ground,a tambourine shaken rapidly near a bonfire
+Brightness,bright,Musical,piccolo,alpine forest,a silver piccolo trilling in a mountain clearing
+Brightness,bright,Musical,ukulele,beach,a high-tension nylon string snapping on a soprano ukulele
+Brightness,bright,Musical,celesta,attic,a felt hammer striking a steel plate inside a celesta
+Brightness,bright,Musical,lyre,temple ruins,a copper lyre string being swept by a fingernail
+Brightness,bright,Musical,cowbell,farmland,a heavy iron cowbell swinging as a bull grazes
+Brightness,bright,Mechanical,typewriter,newsroom,a steel typewriter key striking a paper-wrapped platen
+Brightness,bright,Mechanical,gears,clock tower,brass gears meshing inside a clock mechanism
+Brightness,bright,Mechanical,bicycle,paved path,a bicycle bell being flicked in a suburban park
+Brightness,bright,Mechanical,wind-up toy,nursery,a metal spring winding inside a tin robot
+Brightness,bright,Mechanical,camera,darkroom,a mechanical camera shutter firing at a fast speed
+Brightness,bright,Mechanical,drill,workshop,a steel drill bit spinning against a metal sheet
+Brightness,bright,Mechanical,lathe,factory floor,a metal lathe shaving a thin strip of aluminum
+Brightness,bright,Mechanical,escapement,watchmaker shop,the ticking of a pocket watch escapement on a velvet pad
+Brightness,bright,Mechanical,coin,laundromat,a silver coin spinning on a metal dryer top
+Brightness,bright,Mechanical,winch,dockyard,a steel cable ratcheting through a metal pulley
+Brightness,bright,Mechanical,fan,office building,a metal-bladed desk fan spinning at high speed
+Brightness,bright,Mechanical,stapler,library,a heavy-duty stapler punching through a stack of paper
+Brightness,bright,Mechanical,scissors,tailor shop,metal shears snipping through a piece of crisp silk
+Brightness,bright,Mechanical,lock,vault,a brass key turning in a complex tumbler lock
+Brightness,bright,Mechanical,cash register,antique shop,the bell ringing on a vintage mechanical cash register
+Brightness,bright,Mechanical,metronome,music room,a mechanical metronome ticking on a wooden piano
+Brightness,bright,Mechanical,printing press,basement,a small letterpress machine engaging its metal gears
+Brightness,bright,Environmental,ice,frozen lake,a thin sheet of ice cracking under a light weight
+Brightness,bright,Environmental,hail,tin roof,small hailstones bouncing off a corrugated metal roof
+Brightness,bright,Environmental,water,cave,water droplets falling into a shallow limestone pool
+Brightness,bright,Environmental,wind,canyon,wind whistling through a narrow gap in a rock wall
+Brightness,bright,Environmental,fire,campsite,dry pine needles popping in a hot campfire
+Brightness,bright,Environmental,crystals,salt flat,salt crystals crunching under a leather boot
+Brightness,bright,Environmental,geyser,volcanic field,a small geyser jetting water into the air
+Brightness,bright,Environmental,rain,greenhouse,heavy raindrops hitting a glass greenhouse pane
+Brightness,bright,Environmental,snow,tundra,a shovel scraping against a layer of hard-packed crusty snow
+Brightness,bright,Environmental,river,mountain stream,water rushing over smooth quartz pebbles
+Brightness,bright,Environmental,leaves,autumn woods,dry birch leaves rattling in a sharp gust of wind
+Brightness,bright,Environmental,sand,desert,fine sand blowing against a glass bottle in the dunes
+Brightness,bright,Environmental,thunder,prairie,a distant lightning strike echoing off a flat plain
+Brightness,bright,Environmental,ocean,shoreline,small shells tumbling in the receding tide
+Brightness,bright,Environmental,volcano,lava field,obsidian shards clinking as they cool in a fissure
+Brightness,bright,Environmental,icicle,backyard,an icicle shattering on a concrete patio
+Brightness,bright,Environmental,bamboo,jungle,bamboo stalks knocking together in a tropical storm
+Brightness,bright,Organic,bird,rainforest,a tropical songbird trilling from a high canopy
+Brightness,bright,Organic,insect,meadow,a grasshopper rubbing its legs together in the sun
+Brightness,bright,Organic,bones,museum,animal bones clacking together in a wooden crate
+Brightness,bright,Organic,shells,tide pool,dried sea shells rattling in a hemp bag
+Brightness,bright,Organic,teeth,dentist office,a person clicking their teeth together rapidly
+Brightness,bright,Organic,fingernails,boardroom,fingernails tapping on a polished mahogany table
+Brightness,bright,Organic,wood,carpentry shop,a dry cedar board being struck with a hammer
+Brightness,bright,Organic,beak,cliffs,a puffin snapping its beak shut on a rocky ledge
+Brightness,bright,Organic,egg,kitchen,an eggshell cracking against the rim of a porcelain bowl
+Brightness,bright,Organic,nut,orchard,a walnut shell being crushed with a metal nutcracker
+Brightness,bright,Organic,skin,dance studio,a dancer snapping their fingers in a rhythmic pattern
+Brightness,bright,Organic,hair,salon,stiff bristles of a hairbrush running through dry hair
+Brightness,bright,Organic,seed,garden,dried seed pods bursting open in the heat
+Brightness,bright,Organic,bark,forest,dry bark peeling off a eucalyptus tree in the wind
+Brightness,bright,Organic,vocal,nursery,a baby's high-pitched giggle in a quiet room
+Brightness,bright,Organic,footstep,stairwell,hard-soled shoes walking on a polished stone floor
+Brightness,bright,Organic,feather,aviary,a bird shaking its stiff feathers after a bath
+Brightness,bright,Domestic,glass,kitchen,a crystal wine glass being tapped with a silver spoon
+Brightness,bright,Domestic,ceramic,dining room,a porcelain teacup being placed on a matching saucer
+Brightness,bright,Domestic,metal,pantry,aluminum foil being crumpled into a ball
+Brightness,bright,Domestic,plastic,playroom,hard plastic building blocks being poured onto a floor
+Brightness,bright,Domestic,appliances,laundry room,the signal chime on a modern washing machine
+Brightness,bright,Domestic,silverware,restaurant,stainless steel forks clinking in a busser's bin
+Brightness,bright,Domestic,jewelry,bedroom,a gold necklace sliding into a wooden jewelry box
+Brightness,bright,Domestic,keys,foyer,a ring of brass keys being tossed onto a glass table
+Brightness,bright,Domestic,mirror,dressing room,a hand mirror being set down on a marble vanity
+Brightness,bright,Domestic,lightbulb,garage,a lightbulb filament vibrating after being flicked
+Brightness,bright,Domestic,zipper,closet,a metal zipper being pulled up quickly on a jacket
+Brightness,bright,Domestic,curtain,living room,metal curtain rings sliding across a brass rod
+Brightness,bright,Domestic,bottle,cellar,a glass soda bottle being opened with a metal opener
+Brightness,bright,Domestic,oven,bakery,a metal cooling rack sliding into a stainless steel oven
+Brightness,bright,Domestic,coin,arcade,a quarter falling into a metal coin return slot
+Brightness,bright,Domestic,can,recycling center,an empty aluminum soda can being crushed by hand
+Brightness,bright,Domestic,knocker,front door,a heavy brass door knocker striking a metal plate
+Brightness,bright,Electronic,oscillator,laboratory,a high-frequency sine wave playing through a tweeter
+Brightness,bright,Electronic,circuit,server room,a capacitor discharging with a sharp click
+Brightness,bright,Electronic,beeper,hospital,a digital heart monitor beeping in a quiet ward
+Brightness,bright,Electronic,feedback,rehearsal space,high-pitched guitar feedback coming from a small amp
+Brightness,bright,Electronic,interference,radio station,static interference on a high-frequency radio band
+Brightness,bright,Electronic,buzzer,game show,a digital buzzer sounding at the end of a round
+Brightness,bright,Electronic,spark,auto shop,an electric spark jumping between two electrodes
+Brightness,bright,Electronic,synthesizer,studio,a digital sawtooth wave being played on a keyboard
+Brightness,bright,Electronic,alarm,bedroom,a digital alarm clock chirping on a nightstand
+Brightness,bright,Electronic,speaker,subway station,a high-frequency announcement chime over a PA system
+Brightness,bright,Electronic,switch,datacenter,a mechanical keyboard switch being pressed rapidly
+Brightness,bright,Electronic,relay,telephone exchange,a high-speed electromagnetic relay clicking into place
+Brightness,bright,Electronic,toy,daycare,a battery-operated toy playing a high-frequency melody
+Brightness,bright,Electronic,computer,office,the startup chime of a modern laptop
+Brightness,bright,Electronic,wire,substation,the high-pitched hum of a transformer in the rain
+Brightness,bright,Electronic,laser,research lab,a laser pulse hitting a metal target plate
+Brightness,bright,Electronic,modem,basement,the high-frequency handshake of a vintage dial-up modem
+Brightness,sparkling,Musical,chimes,balcony,small glass wind chimes tinkling in a light breeze
+Brightness,sparkling,Musical,harp,conservatory,a harpist playing a glissando on the upper strings
+Brightness,sparkling,Musical,tambourine,street corner,a tambourine's metal jingles vibrating after a light tap
+Brightness,sparkling,Musical,music box,nursery,a miniature music box playing a high-pitched tune
+Brightness,sparkling,Musical,sleigh bells,snowy road,silver sleigh bells jingling on a horse harness
+Brightness,sparkling,Musical,finger cymbals,dance hall,tiny brass finger cymbals striking each other
+Brightness,sparkling,Musical,xylophone,classroom,a plastic mallet hitting the highest bar on a toy xylophone
+Brightness,sparkling,Musical,bells,chapel,a string of small silver bells being shaken
+Brightness,sparkling,Musical,piano,parlor,a rapid trill on the highest keys of a grand piano
+Brightness,sparkling,Musical,triangle,concert hall,a rapid roll on a small steel triangle
+Brightness,sparkling,Musical,zither,tea house,a fingernail raking across the high strings of a zither
+Brightness,sparkling,Musical,shaker,recording studio,a metal shaker filled with tiny glass beads
+Brightness,sparkling,Musical,kalimba,garden,the tines of a thumb piano being plucked quickly
+Brightness,sparkling,Musical,celesta,fairground,a celesta playing a rapid arpeggio in the high register
+Brightness,sparkling,Musical,mark tree,jazz club,a finger sweeping across a row of hanging metal bar chimes
+Brightness,sparkling,Musical,handpan,park,the high-pitched outer rim of a handpan being tapped
+Brightness,sparkling,Musical,dulcimer,canyon,a hammer dulcimer being played with light wooden beaters
+Brightness,sparkling,Mechanical,watch,jewelry store,the internal gears of a mechanical watch spinning rapidly
+Brightness,sparkling,Mechanical,gears,watchmaker,tiny brass gears rotating in a precision instrument
+Brightness,sparkling,Mechanical,beads,curtain shop,a curtain of glass beads swaying and clinking
+Brightness,sparkling,Mechanical,coins,casino,a pile of small coins falling into a metal tray
+Brightness,sparkling,Mechanical,camera,photo studio,the rapid fire of a digital camera shutter
+Brightness,sparkling,Mechanical,projector,cinema,the mechanical whir of a vintage 8mm film projector
+Brightness,sparkling,Mechanical,typewriter,attic,the rapid clack of a portable typewriter's keys
+Brightness,sparkling,Mechanical,lock,safari,the tumblers of a combination lock spinning quickly
+Brightness,sparkling,Mechanical,spinner,playground,a metal fidget spinner rotating at high speed
+Brightness,sparkling,Mechanical,staples,office,a box of staples being shaken in a metal tin
+Brightness,sparkling,Mechanical,ball bearings,machine shop,small steel ball bearings rolling in a glass jar
+Brightness,sparkling,Mechanical,fishing reel,pier,the drag of a fishing reel spinning as a line is pulled
+Brightness,sparkling,Mechanical,sewing machine,loft,the rapid needle movement of a vintage sewing machine
+Brightness,sparkling,Mechanical,sprinkler,lawn,a mechanical lawn sprinkler head rotating and clicking
+Brightness,sparkling,Mechanical,fan,bedroom,a small metal fan blade hitting a piece of paper
+Brightness,sparkling,Mechanical,gears,science center,a complex kinetic sculpture with many tiny moving parts
+Brightness,sparkling,Mechanical,metronome,rehearsal room,a digital metronome clicking at a high tempo
+Brightness,sparkling,Mechanical,zipper,tent,a high-quality metal zipper sliding back and forth
+Brightness,sparkling,Environmental,water,fountain,water droplets splashing into a marble basin
+Brightness,sparkling,Environmental,ice,glacier,frozen meltwater trickling over an icy ledge
+Brightness,sparkling,Environmental,rain,porch,light rain hitting a metal watering can
+Brightness,sparkling,Environmental,bubbles,stream,carbonated spring water bubbling up through sand
+Brightness,sparkling,Environmental,sand,dunes,grains of sand hitting a glass bottle in the wind
+Brightness,sparkling,Environmental,crystals,cave,calcite crystals rubbing together as a rock shifts
+Brightness,sparkling,Environmental,fire,fireplace,embers popping and crackling in a hot fire
+Brightness,sparkling,Environmental,leaves,aspen grove,aspen leaves quaking in a light breeze
+Brightness,sparkling,Environmental,hail,car roof,tiny sleet pellets hitting a vehicle's sunroof
+Brightness,sparkling,Environmental,snow,ski resort,the crunch of fresh powder under a ski edge
+Brightness,sparkling,Environmental,pebbles,shoreline,small quartz pebbles shifting in a gentle wave
+Brightness,sparkling,Environmental,wind,desert,wind whistling through a cluster of dry cacti
+Brightness,sparkling,Environmental,shells,beach,tiny shell fragments washing up in the foam
+Brightness,sparkling,Environmental,insects,field,the rapid wing beats of a dragonfly
+Brightness,sparkling,Environmental,geyser,thermal park,fine mist spraying from a small steam vent
+Brightness,sparkling,Environmental,frost,window,ice crystals forming on a cold glass pane
+Brightness,sparkling,Environmental,thaw,forest,water dripping from icicles onto dry leaves
+Brightness,sparkling,Organic,insect,meadow,a swarm of cicadas buzzing in a distant tree
+Brightness,sparkling,Organic,teeth,bathroom,a person brushing their teeth with a stiff toothbrush
+Brightness,sparkling,Organic,fingernails,desk,fingernails drumming on a glass computer screen
+Brightness,sparkling,Organic,hair,salon,static electricity popping as a brush moves through hair
+Brightness,sparkling,Organic,shells,aquarium,a hermit crab's shell scraping against a glass wall
+Brightness,sparkling,Organic,seeds,field,dry seeds rattling inside a poppy pod
+Brightness,sparkling,Organic,scales,reptile house,a snake's scales rubbing against a dry branch
+Brightness,sparkling,Organic,bones,desert,dry bones being sifted in the sand
+Brightness,sparkling,Organic,skin,spa,salt scrub being rubbed onto dry skin
+Brightness,sparkling,Organic,vocal,forest,a group of small birds chirping simultaneously
+Brightness,sparkling,Organic,feet,dance floor,tap shoes performing a rapid rhythmic sequence
+Brightness,sparkling,Organic,leaves,garden,a lizard scurrying through dry bamboo leaves
+Brightness,sparkling,Organic,nest,hedgerow,a bird building a nest with dry twigs and straw
+Brightness,sparkling,Organic,egg,incubator,a chick pecking at the inside of a thin eggshell
+Brightness,sparkling,Organic,bark,woodland,bark beetles boring into a dry pine log
+Brightness,sparkling,Organic,wings,conservatory,the fluttering of a hummingbird's wings
+Brightness,sparkling,Organic,claws,attic,a squirrel's claws scratching on a wooden beam
+Brightness,sparkling,Domestic,glass,kitchen,effervescent tablets dissolving in a glass of water
+Brightness,sparkling,Domestic,jewelry,closet,a tray of diamond rings being shifted
+Brightness,sparkling,Domestic,sequins,sewing room,a sequined dress being shaken vigorously
+Brightness,sparkling,Domestic,beads,craft room,tiny glass beads being poured into a plastic tray
+Brightness,sparkling,Domestic,cutlery,dining room,silver spoons clinking together in a drawer
+Brightness,sparkling,Domestic,plastic,kitchen,bubble wrap being popped rapidly
+Brightness,sparkling,Domestic,ceramics,pantry,salt being poured onto a ceramic plate
+Brightness,sparkling,Domestic,metal,garage,a handful of small screws falling onto a concrete floor
+Brightness,sparkling,Domestic,electronics,living room,the sound of a digital camera's flash charging
+Brightness,sparkling,Domestic,bottle,patio,ice cubes clinking in a tall glass of soda
+Brightness,sparkling,Domestic,can,campsite,a soda can being opened and fizzing over
+Brightness,sparkling,Domestic,keys,hallway,a set of small brass keys being jiggled
+Brightness,sparkling,Domestic,foil,kitchen,candy wrappers being crinkled by hand
+Brightness,sparkling,Domestic,curtain,bedroom,a beaded curtain being parted
+Brightness,sparkling,Domestic,light,office,the sound of a fluorescent light flickering to life
+Brightness,sparkling,Domestic,spices,kitchen,peppercorns being ground in a metal mill
+Brightness,sparkling,Domestic,zipper,wardrobe,a fine metal zipper on a silk purse
+Brightness,sparkling,Electronic,synthesizer,studio,a digital delay effect on a high-pitched note
+Brightness,sparkling,Electronic,capacitor,lab,the discharge of multiple small capacitors
+Brightness,sparkling,Electronic,interference,radio,high-frequency static on a shortwave radio
+Brightness,sparkling,Electronic,led,billboard,the subtle buzz of a massive LED screen
+Brightness,sparkling,Electronic,processor,server room,the sound of a computer fan at maximum speed
+Brightness,sparkling,Electronic,beeper,arcade,a series of high-pitched digital reward sounds
+Brightness,sparkling,Electronic,oscillator,workshop,a square wave being swept across high frequencies
+Brightness,sparkling,Electronic,relay,factory,a bank of electronic relays clicking rapidly
+Brightness,sparkling,Electronic,toy,bedroom,a robotic toy emitting a series of electronic chirps
+Brightness,sparkling,Electronic,phone,office,a smartphone vibrating on a glass desk
+Brightness,sparkling,Electronic,alarm,kitchen,the high-pitched digital timer on a microwave
+Brightness,sparkling,Electronic,display,lab,the whine of a cathode ray tube turning on
+Brightness,sparkling,Electronic,spark,garage,an electric arc welder striking a metal surface
+Brightness,sparkling,Electronic,switch,datacenter,a mechanical switch being toggled back and forth
+Brightness,sparkling,Electronic,cable,substation,the crackle of high-tension wires in humid air
+Brightness,sparkling,Electronic,modem,attic,the digital data stream of an old modem
+Brightness,sparkling,Electronic,laser,clinic,a medical laser pulsing during a procedure
+Brightness,brilliant,Musical,trumpet,concert hall,a brass trumpet playing a sustained high note
+Brightness,brilliant,Musical,cymbals,stadium,a large orchestral cymbal being struck with a heavy mallet
+Brightness,brilliant,Musical,piano,ballroom,a grand piano playing a forte chord in the upper octaves
+Brightness,brilliant,Musical,bells,cathedral,a massive bronze bell ringing in a stone tower
+Brightness,brilliant,Musical,violin,opera house,a violin playing a high harmonic note
+Brightness,brilliant,Musical,flute,conservatory,a silver flute playing a bright trill
+Brightness,brilliant,Musical,harpsichord,parlor,a harpsichord playing a rapid scale
+Brightness,brilliant,Musical,gong,temple,a small tuned gong being struck with a metal beater
+Brightness,brilliant,Musical,piccolo,parade,a piccolo playing a sharp melody over a drumline
+Brightness,brilliant,Musical,organ,church,a pipe organ using its highest reed stops
+Brightness,brilliant,Musical,mandolin,tavern,a mandolin being strummed forcefully
+Brightness,brilliant,Musical,triangle,studio,a high-quality steel triangle being struck
+Brightness,brilliant,Musical,glockenspiel,theatre,a glockenspiel playing a bright melody
+Brightness,brilliant,Musical,celesta,attic,a celesta playing a high-frequency arpeggio
+Brightness,brilliant,Musical,guitar,concert,an electric guitar playing a high-gain solo
+Brightness,brilliant,Musical,harp,meadow,a harp string being plucked near the soundboard
+Brightness,brilliant,Musical,chimes,plaza,tubular bells being struck with a leather mallet
+Brightness,brilliant,Mechanical,lathe,machine shop,a high-speed lathe cutting through stainless steel
+Brightness,brilliant,Mechanical,drill,construction site,a steel drill bit piercing a metal beam
+Brightness,brilliant,Mechanical,saw,woodshop,a circular saw blade spinning at full speed
+Brightness,brilliant,Mechanical,engine,racetrack,a high-performance motorcycle engine idling
+Brightness,brilliant,Mechanical,gears,factory,precision gears spinning at high velocity
+Brightness,brilliant,Mechanical,turbine,power plant,a jet turbine spooling up to full power
+Brightness,brilliant,Mechanical,grinder,garage,a metal grinder throwing sparks off a steel bar
+Brightness,brilliant,Mechanical,typewriter,office,a vintage typewriter being used at high speed
+Brightness,brilliant,Mechanical,camera,studio,a professional camera flash recycling
+Brightness,brilliant,Mechanical,clock,tower,the escapement of a large mechanical clock
+Brightness,brilliant,Mechanical,fan,warehouse,a large industrial fan blowing through a vent
+Brightness,brilliant,Mechanical,bell,ship,a ship's bell ringing in the morning fog
+Brightness,brilliant,Mechanical,winch,dock,a steel cable snapping tight under tension
+Brightness,brilliant,Mechanical,sewing machine,factory,an industrial sewing machine at high speed
+Brightness,brilliant,Mechanical,pump,laboratory,a high-pressure vacuum pump running
+Brightness,brilliant,Mechanical,compressor,garage,an air compressor releasing a high-pressure burst
+Brightness,brilliant,Mechanical,shutter,lab,a high-speed mechanical shutter opening and closing
+Brightness,brilliant,Environmental,ice,arctic,a massive glacier calving into the ocean
+Brightness,brilliant,Environmental,thunder,desert,a lightning strike hitting a sand dune
+Brightness,brilliant,Environmental,water,waterfall,water crashing over a high granite ledge
+Brightness,brilliant,Environmental,wind,mountain,wind whistling through a narrow mountain pass
+Brightness,brilliant,Environmental,fire,forge,a high-intensity gas forge roaring
+Brightness,brilliant,Environmental,crystals,cave,a cluster of quartz crystals being struck together
+Brightness,brilliant,Environmental,hail,greenhouse,large hailstones hitting a glass roof
+Brightness,brilliant,Environmental,sand,beach,wind-blown sand hitting a glass window
+Brightness,brilliant,Environmental,snow,tundra,the sun-warmed crust of snow cracking
+Brightness,brilliant,Environmental,river,canyon,a fast-moving river rushing through a narrow gorge
+Brightness,brilliant,Environmental,leaves,forest,dry leaves being blown across a frozen lake
+Brightness,brilliant,Environmental,bubbles,ocean,large air bubbles rising from an underwater vent
+Brightness,brilliant,Environmental,geyser,park,a geyser erupting with a high-pressure jet
+Brightness,brilliant,Environmental,volcano,crater,molten glass fragments cooling and cracking
+Brightness,brilliant,Environmental,rain,roof,heavy rain hitting a corrugated metal barn
+Brightness,brilliant,Environmental,thaw,spring,icicles falling and shattering on rocks
+Brightness,brilliant,Environmental,waves,cliffs,a wave crashing into a sea cave
+Brightness,brilliant,Organic,bird,jungle,a parrot letting out a high-pitched screech
+Brightness,brilliant,Organic,insect,field,a cicada buzzing at its maximum intensity
+Brightness,brilliant,Organic,teeth,dentist,a metal tool scraping against a tooth
+Brightness,brilliant,Organic,fingernails,blackboard,fingernails scratching across a slate chalkboard
+Brightness,brilliant,Organic,bones,cave,dry bones being struck together
+Brightness,brilliant,Organic,vocal,opera,a soprano singer hitting a high c note
+Brightness,brilliant,Organic,shell,beach,a large conch shell being struck with a stone
+Brightness,brilliant,Organic,wood,workshop,a piece of dry mahogany being sanded
+Brightness,brilliant,Organic,beak,cliffs,a hawk's sharp cry echoing in a canyon
+Brightness,brilliant,Organic,egg,kitchen,an ostrich eggshell being cracked open
+Brightness,brilliant,Organic,skin,gym,a hand slapping a leather gymnastic mat
+Brightness,brilliant,Organic,hair,salon,a pair of sharp scissors snipping dry hair
+Brightness,brilliant,Organic,seed,field,dry bean pods popping in the sun
+Brightness,brilliant,Organic,bark,forest,a dry branch snapping in a frozen forest
+Brightness,brilliant,Organic,claws,attic,a cat's claws scratching a metal screen
+Brightness,brilliant,Organic,wings,garden,the rapid flutter of a hummingbird's wings
+Brightness,brilliant,Organic,feet,hallway,hard leather soles clicking on a marble floor
+Brightness,brilliant,Domestic,glass,dining room,a crystal glass being struck with a silver knife
+Brightness,brilliant,Domestic,ceramic,kitchen,a porcelain plate being dropped onto tile
+Brightness,brilliant,Domestic,metal,pantry,a stainless steel bowl falling on a stone floor
+Brightness,brilliant,Domestic,silverware,restaurant,a tray of silverware being emptied
+Brightness,brilliant,Domestic,jewelry,bedroom,a diamond ring being dropped into a glass bowl
+Brightness,brilliant,Domestic,keys,foyer,a heavy ring of keys being dropped on a glass table
+Brightness,brilliant,Domestic,mirror,dressing room,a mirror being shattered with a hammer
+Brightness,brilliant,Domestic,lightbulb,garage,a high-wattage bulb exploding
+Brightness,brilliant,Domestic,zipper,closet,a metal zipper being pulled at high speed
+Brightness,brilliant,Domestic,bottle,cellar,a glass bottle breaking on a concrete floor
+Brightness,brilliant,Domestic,oven,bakery,the timer bell on a commercial oven
+Brightness,brilliant,Domestic,can,kitchen,a metal can being opened with a manual opener
+Brightness,brilliant,Domestic,knocker,door,a brass knocker striking a metal plate
+Brightness,brilliant,Domestic,plastic,playroom,hard plastic toys being dumped from a bin
+Brightness,brilliant,Domestic,silverware,kitchen,a metal whisk hitting the side of a glass bowl
+Brightness,brilliant,Domestic,foil,kitchen,aluminum foil being torn from a dispenser
+Brightness,brilliant,Domestic,bell,reception,a desk bell being rung sharply
+Brightness,brilliant,Electronic,oscillator,lab,a high-frequency sine wave through a horn speaker
+Brightness,brilliant,Electronic,beeper,hospital,a high-pitched electronic alarm in a hallway
+Brightness,brilliant,Electronic,feedback,stage,high-frequency feedback from a vocal mic
+Brightness,brilliant,Electronic,synthesizer,studio,a bright leadsynth sound with high resonance
+Brightness,brilliant,Electronic,alarm,factory,a high-pitched industrial alarm sounding
+Brightness,brilliant,Electronic,spark,lab,a high-voltage spark jumping across a gap
+Brightness,brilliant,Electronic,buzzer,game,a loud electronic buzzer
+Brightness,brilliant,Electronic,interference,radio,high-pitched whine in a radio signal
+Brightness,brilliant,Electronic,laser,lab,a laser beam cutting through thin metal
+Brightness,brilliant,Electronic,computer,office,a high-pitched error tone from a computer
+Brightness,brilliant,Electronic,phone,bedroom,a high-pitched digital ringtone
+Brightness,brilliant,Electronic,switch,server,a high-speed mechanical switch toggling
+Brightness,brilliant,Electronic,modem,basement,the high-pitched squeal of a 56k modem
+Brightness,brilliant,Electronic,display,living room,the high-frequency whine of an old monitor
+Brightness,brilliant,Electronic,transformer,street,the high-pitched hum of a power transformer
+Brightness,brilliant,Electronic,toy,nursery,an electronic toy playing a high-pitched tune
+Brightness,brilliant,Electronic,buzzer,stadium,the scoreboard buzzer at the end of a game
+Brightness,shimmering,Musical,cymbals,studio,a soft mallet roll on a large ride cymbal
+Brightness,shimmering,Musical,harp,ballroom,a gentle arpeggio on the upper harp strings
+Brightness,shimmering,Musical,chimes,garden,glass chimes vibrating in a steady wind
+Brightness,shimmering,Musical,tambourine,stage,a tambourine being shaken softly in a circle
+Brightness,shimmering,Musical,triangle,cathedral,a sustained roll on a small silver triangle
+Brightness,shimmering,Musical,mark tree,concert hall,a slow sweep across hanging metal bar chimes
+Brightness,shimmering,Musical,piano,parlor,the sympathetic resonance of piano strings with the damper pedal down
+Brightness,shimmering,Musical,vibraphone,jazz club,a vibraphone with the motor spinning on a high note
+Brightness,shimmering,Musical,violin,conservatory,a violin playing a rapid tremolo on a high string
+Brightness,shimmering,Musical,flute,meadow,a flute playing a soft trill in a breezy field
+Brightness,shimmering,Musical,sleigh bells,snowy path,a string of bells vibrating as a sleigh moves
+Brightness,shimmering,Musical,music box,attic,the echoes of a music box in a large empty space
+Brightness,shimmering,Musical,glockenspiel,theatre,a mallet roll on the highest bars of a glockenspiel
+Brightness,shimmering,Musical,zither,tea house,a slow glissando on high-tension zither strings
+Brightness,shimmering,Musical,handpan,beach,the overtones of a handpan ringing out
+Brightness,shimmering,Musical,celesta,palace,a series of soft high notes on a celesta
+Brightness,shimmering,Musical,bells,temple,many small bronze bells vibrating in the wind
+Brightness,shimmering,Mechanical,gears,clockmaker,the high-frequency vibration of a tiny gear train
+Brightness,shimmering,Mechanical,beads,boutique,a curtain of crystal beads swaying in the wind
+Brightness,shimmering,Mechanical,fan,office,a metal fan blade spinning at a speed that causes a thin hum
+Brightness,shimmering,Mechanical,spring,workshop,a long metal spring vibrating after being struck
+Brightness,shimmering,Mechanical,turbine,hangar,the high-pitched whine of a jet engine cooling down
+Brightness,shimmering,Mechanical,projector,cinema,the light flickering against the mechanical parts of a projector
+Brightness,shimmering,Mechanical,bicycle,road,the clicking of a high-end bicycle hub coasting
+Brightness,shimmering,Mechanical,spools,textile mill,thousands of metal spools spinning simultaneously
+Brightness,shimmering,Mechanical,lathe,factory,the vibration of a thin metal sheet on a lathe
+Brightness,shimmering,Mechanical,watch,jewelry shop,the rapid ticking of multiple luxury watches
+Brightness,shimmering,Mechanical,sewing machine,loft,the rapid vibration of a sewing needle plate
+Brightness,shimmering,Mechanical,wind-up toy,playroom,a tin toy's internal gears whirring
+Brightness,shimmering,Mechanical,lock,bank vault,the internal tumblers of a lock being manipulated
+Brightness,shimmering,Mechanical,spinner,desk,a high-precision metal bearing spinning
+Brightness,shimmering,Mechanical,metronome,music room,the echoes of a mechanical metronome in a hall
+Brightness,shimmering,Mechanical,typewriter,library,the ringing of the margin bell on a typewriter
+Brightness,shimmering,Mechanical,pump,lab,the high-frequency vibration of a liquid cooling pump
+Brightness,shimmering,Environmental,water,lake,sunlight reflecting off small ripples on a lake surface
+Brightness,shimmering,Environmental,ice,cave,water dripping onto a thin sheet of vibrating ice
+Brightness,shimmering,Environmental,leaves,aspen forest,thousands of aspen leaves quaking in the wind
+Brightness,shimmering,Environmental,rain,porch,light rain hitting a thin metal sheet
+Brightness,shimmering,Environmental,wind,desert,wind blowing through a field of dry grasses
+Brightness,shimmering,Environmental,hail,car,tiny hailstones bouncing off a glass windshield
+Brightness,shimmering,Environmental,crystals,mine,the resonance of a crystal cluster when tapped
+Brightness,shimmering,Environmental,fire,campsite,the sound of heat waves rising from a bed of coals
+Brightness,shimmering,Environmental,snow,mountain,the sound of spindrift blowing over a frozen crust
+Brightness,shimmering,Environmental,river,stream,water rushing over a bed of fine gravel
+Brightness,shimmering,Environmental,sand,dunes,sand grains sliding down a steep dune face
+Brightness,shimmering,Environmental,thunder,valley,the high-frequency tail of a distant lightning strike
+Brightness,shimmering,Environmental,bubbles,fountain,tiny bubbles bursting on the surface of a pool
+Brightness,shimmering,Environmental,geyser,thermal field,the hiss of steam escaping a small vent
+Brightness,shimmering,Environmental,thaw,orchard,icicles melting and dripping onto metal buckets
+Brightness,shimmering,Environmental,volcano,lava tube,obsidian flakes falling onto a stone floor
+Brightness,shimmering,Environmental,waves,beach,the foam of a receding wave on wet sand
+Brightness,shimmering,Organic,insect,field,the collective hum of a field of crickets
+Brightness,shimmering,Organic,wings,garden,the rapid vibration of a dragonfly's wings
+Brightness,shimmering,Organic,leaves,forest,dry bamboo leaves rustling in a steady breeze
+Brightness,shimmering,Organic,scales,desert,a rattlesnake's tail vibrating at high speed
+Brightness,shimmering,Organic,fingernails,table,fingernails drumming rapidly on a glass surface
+Brightness,shimmering,Organic,teeth,bathroom,teeth chattering from the cold
+Brightness,shimmering,Organic,vocal,nursery,a baby's soft
+Brightness,shimmering,Organic,hair,salon,a brush moving through hair with static electricity
+Brightness,shimmering,Organic,shells,tide pool,small shells clinking in a gentle current
+Brightness,shimmering,Organic,seeds,field,seeds rattling in a dry pod in the wind
+Brightness,shimmering,Organic,bark,woodland,thin bark peeling off a tree in the wind
+Brightness,shimmering,Organic,nest,attic,the rustling of dry straw in a bird's nest
+Brightness,shimmering,Organic,claws,cage,a hamster's claws running on a metal wheel
+Brightness,shimmering,Organic,feathers,aviary,a bird preening its stiff flight feathers
+Brightness,shimmering,Organic,skin,beach,sand being rubbed off dry skin
+Brightness,shimmering,Organic,bones,museum,a string of small bones swaying in a draft
+Brightness,shimmering,Organic,egg,nest,a chick chirping inside its shell
+Brightness,shimmering,Domestic,glass,dining room,ice cubes melting and shifting in a crystal glass
+Brightness,shimmering,Domestic,jewelry,bedroom,a silver chain being shaken in a small box
+Brightness,shimmering,Domestic,sequins,closet,a sequined gown being brushed against
+Brightness,shimmering,Domestic,foil,kitchen,a large sheet of aluminum foil vibrating in the wind
+Brightness,shimmering,Domestic,curtain,living room,a beaded curtain swaying after being touched
+Brightness,shimmering,Domestic,silverware,kitchen,silverware being polished with a dry cloth
+Brightness,shimmering,Domestic,bottle,patio,the fizzing of a carbonated drink in a glass
+Brightness,shimmering,Domestic,light,office,the buzz of a faulty fluorescent lightbulb
+Brightness,shimmering,Domestic,coins,jar,a jar of small coins being shaken gently
+Brightness,shimmering,Domestic,plastic,playroom,a bag of hard plastic beads being poured
+Brightness,shimmering,Domestic,ceramic,pantry,a porcelain bowl vibrating on a metal shelf
+Brightness,shimmering,Domestic,beads,craft room,tiny glass beads rolling on a wooden table
+Brightness,shimmering,Domestic,keys,foyer,a set of keys being jingled softly
+Brightness,shimmering,Domestic,silverware,dining room,a fork vibrating against a crystal glass
+Brightness,shimmering,Domestic,can,kitchen,the sound of an empty soda can wobbling on a counter
+Brightness,shimmering,Domestic,mirror,dressing room,the sound of a hand mirror being cleaned
+Brightness,shimmering,Domestic,zipper,bedroom,a long metal zipper being opened slowly
+Brightness,shimmering,Domestic,spices,kitchen,salt crystals falling into a metal bowl
+Brightness,shimmering,Electronic,synthesizer,studio,a digital pad with a slow high-frequency filter sweep
+Brightness,shimmering,Electronic,delay,rehearsal room,a high-pitched guitar note with a shimmering delay effect
+Brightness,shimmering,Electronic,beeper,hospital,the high-pitched pulse of a medical monitor
+Brightness,shimmering,Electronic,interference,radio,the oscillating static of a distant radio station
+Brightness,shimmering,Electronic,oscillator,lab,two high-frequency sine waves beating together
+Brightness,shimmering,Electronic,feedback,stage,the sustain of a high guitar harmonic
+Brightness,shimmering,Electronic,spark,garage,a series of small electric sparks from a motor
+Brightness,shimmering,Electronic,transformer,street,the high-pitched vibration of a power line
+Brightness,shimmering,Electronic,alarm,bedroom,a digital alarm with a soft chirping sound
+Brightness,shimmering,Electronic,display,office,the high-frequency hum of a computer screen
+Brightness,shimmering,Electronic,toy,nursery,a light-up toy with a high-pitched electronic chime
+Brightness,shimmering,Electronic,processor,server room,the sound of data being processed on a high-speed drive
+Brightness,shimmering,Electronic,capacitor,lab,a capacitor charging with a rising pitch
+Brightness,shimmering,Electronic,switch,datacenter,a bank of lights flickering on a server
+Brightness,shimmering,Electronic,modem,basement,the high-frequency Carrier wave of a modem
+Brightness,shimmering,Electronic,laser,lab,a laser beam reflecting off a spinning mirror
+Brightness,shimmering,Electronic,phone,living room,a high-pitched digital notification sound
+Brightness,shrill,Musical,piccolo,stadium,a piccolo playing a sustained high note at full volume
+Brightness,shrill,Musical,violin,orchestra pit,a violin bow screeching across a high string
+Brightness,shrill,Musical,recorder,classroom,a plastic recorder being blown too hard by a child
+Brightness,shrill,Musical,trumpet,street,a trumpet playing a high
+Brightness,shrill,Musical,harmonica,porch,a harmonica being played with intense air pressure
+Brightness,shrill,Musical,bagpipes,highlands,the high-pitched drone of bagpipes in a valley
+Brightness,shrill,Musical,whistle,field,a metal referee whistle being blown sharply
+Brightness,shrill,Musical,clarinet,rehearsal room,a clarinet squeaking on a high transition
+Brightness,shrill,Musical,oboe,concert hall,an oboe playing a piercing high reed note
+Brightness,shrill,Musical,flute,mountaintop,a flute playing a sharp overblown note
+Brightness,shrill,Musical,organ,cathedral,a pipe organ using a high-pitched mixture stop
+Brightness,shrill,Musical,cymbal,studio,a small splash cymbal being struck with a metal stick
+Brightness,shrill,Musical,triangle,theatre,a thin steel triangle being struck repeatedly
+Brightness,shrill,Musical,pan flute,temple,a pan flute playing a high
+Brightness,shrill,Musical,cornet,parade,a cornet playing a high-frequency fanfare
+Brightness,shrill,Musical,fiddle,barn,a fiddle being played with a very tight bow
+Brightness,shrill,Musical,kazoo,party,a metal kazoo being hummed into loudly
+Brightness,shrill,Mechanical,brakes,train station,the screech of train brakes on steel tracks
+Brightness,shrill,Mechanical,drill,workshop,a high-speed drill bit spinning in air
+Brightness,shrill,Mechanical,saw,construction site,a circular saw cutting through a thin metal pipe
+Brightness,shrill,Mechanical,grinder,factory,a metal grinder touching a hardened steel edge
+Brightness,shrill,Mechanical,engine,racetrack,a high-revving small engine at peak power
+Brightness,shrill,Mechanical,lathe,machine shop,a lathe tool chattering against a metal workpiece
+Brightness,shrill,Mechanical,siren,city street,a mechanical siren wailing as it spins up
+Brightness,shrill,Mechanical,kettle,kitchen,a steam whistle on a boiling tea kettle
+Brightness,shrill,Mechanical,fan,office,a small fan with a dry bearing squealing
+Brightness,shrill,Mechanical,hinge,basement,a rusty metal hinge being opened slowly
+Brightness,shrill,Mechanical,pulley,dockyard,a metal pulley squeaking under a heavy load
+Brightness,shrill,Mechanical,gears,clock tower,dry gears grinding together in an old clock
+Brightness,shrill,Mechanical,pump,garage,a high-pressure air pump hissing through a small leak
+Brightness,shrill,Mechanical,typewriter,attic,a typewriter carriage sliding with a metal screech
+Brightness,shrill,Mechanical,belt,auto shop,a slipping fan belt on a car engine
+Brightness,shrill,Mechanical,winch,shipyard,a steel cable rubbing against a metal fairlead
+Brightness,shrill,Mechanical,compressor,factory,a compressor releasing a high-pitched air burst
+Brightness,shrill,Environmental,wind,canyon,wind howling through a narrow rock crevice
+Brightness,shrill,Environmental,ice,frozen lake,ice sheets grinding together in the wind
+Brightness,shrill,Environmental,geyser,volcanic field,a high-pressure steam vent hissing
+Brightness,shrill,Environmental,water,dam,water spraying through a high-pressure nozzle
+Brightness,shrill,Environmental,thunder,plains,the high-pitched crack of a nearby lightning strike
+Brightness,shrill,Environmental,fire,forest,green wood hissing and screaming in a hot fire
+Brightness,shrill,Environmental,sand,desert,sand whistling as it blows over a sharp ridge
+Brightness,shrill,Environmental,rain,roof,heavy rain hitting a thin plastic sheet
+Brightness,shrill,Environmental,leaves,woods,dry leaves rattling in a high-velocity wind
+Brightness,shrill,Environmental,volcano,vent,volcanic gas escaping a narrow fissure
+Brightness,shrill,Environmental,thaw,mountain,a small stream of water jetting through a hole in ice
+Brightness,shrill,Environmental,crystals,cave,crystals vibrating in a high-frequency draft
+Brightness,shrill,Environmental,hail,greenhouse,hail hitting a glass pane at a sharp angle
+Brightness,shrill,Environmental,waves,shore,the hiss of sea foam on a pebble beach
+Brightness,shrill,Environmental,bats,cave,the high-pitched chirping of a colony of bats
+Brightness,shrill,Environmental,insect,jungle,a cicada's high-frequency mating call
+Brightness,shrill,Environmental,bird,cliffs,a seagull's sharp cry echoing off stone
+Brightness,shrill,Organic,bird,rainforest,a tropical bird letting out a sharp alarm call
+Brightness,shrill,Organic,insect,meadow,a cricket chirping at a very high pitch
+Brightness,shrill,Organic,vocal,nursery,a baby's high-pitched scream
+Brightness,shrill,Organic,teeth,dentist,a metal pick scraping against enamel
+Brightness,shrill,Organic,fingernails,classroom,fingernails screeching down a blackboard
+Brightness,shrill,Organic,bones,cave,dry bones rubbing together with friction
+Brightness,shrill,Organic,beak,cliffs,an eagle's high-pitched scream
+Brightness,shrill,Organic,skin,gym,rubber sneakers squeaking on a polished floor
+Brightness,shrill,Organic,hair,salon,a fine-toothed comb pulling through tangled hair
+Brightness,shrill,Organic,scales,desert,a snake's hiss through a narrow mouth
+Brightness,shrill,Organic,wings,garden,the high-pitched hum of a mosquito near an ear
+Brightness,shrill,Organic,egg,incubator,a chick pecking sharply at its shell
+Brightness,shrill,Organic,bark,forest,a dry tree branch rubbing against another in the wind
+Brightness,shrill,Organic,claws,attic,a rodent scratching on a metal duct
+Brightness,shrill,Organic,feet,hallway,a person whistling a high note
+Brightness,shrill,Organic,throat,woods,a fox's high-pitched bark at night
+Brightness,shrill,Organic,shell,beach,a crab's claw scraping against a glass tank
+Brightness,shrill,Domestic,kettle,kitchen,the steam whistle of a boiling tea kettle
+Brightness,shrill,Domestic,glass,dining room,a wet finger rubbing the rim of a wine glass
+Brightness,shrill,Domestic,ceramic,kitchen,a metal knife scraping across a porcelain plate
+Brightness,shrill,Domestic,metal,pantry,a metal lid being twisted off a glass jar
+Brightness,shrill,Domestic,silverware,restaurant,a fork tines scratching a ceramic bowl
+Brightness,shrill,Domestic,jewelry,bedroom,a metal clasp rubbing against a gold chain
+Brightness,shrill,Domestic,keys,foyer,a key scraping inside a tight metal lock
+Brightness,shrill,Domestic,mirror,dressing room,a glass cutter scoring a mirror
+Brightness,shrill,Domestic,light,garage,a fluorescent bulb ballast humming at a high pitch
+Brightness,shrill,Domestic,zipper,closet,a stuck metal zipper being forced up
+Brightness,shrill,Domestic,bottle,patio,the screech of a metal cap being twisted on a glass bottle
+Brightness,shrill,Domestic,oven,bakery,the high-pitched whine of a convection fan
+Brightness,shrill,Domestic,can,kitchen,a metal can opener cutting through a lid
+Brightness,shrill,Domestic,knocker,door,a heavy brass knocker being dragged across a plate
+Brightness,shrill,Domestic,plastic,playroom,a plastic toy being dragged across a hardwood floor
+Brightness,shrill,Domestic,foil,kitchen,aluminum foil being pulled across a metal edge
+Brightness,shrill,Domestic,bell,reception,a small desk bell being rung rapidly
+Brightness,shrill,Electronic,feedback,stage,high-pitched audio feedback from a microphone
+Brightness,shrill,Electronic,synthesizer,studio,a high-frequency square wave with no filtering
+Brightness,shrill,Electronic,beeper,hospital,a malfunctioning heart monitor's continuous tone
+Brightness,shrill,Electronic,alarm,factory,a high-pitched electronic siren
+Brightness,shrill,Electronic,interference,radio,a high-pitched whistle in a radio signal
+Brightness,shrill,Electronic,oscillator,lab,a signal generator outputting 15kHz
+Brightness,shrill,Electronic,buzzer,game show,a harsh electronic buzzer
+Brightness,shrill,Electronic,spark,garage,a continuous high-voltage arc
+Brightness,shrill,Electronic,laser,lab,a high-power laser pulsing at a high frequency
+Brightness,shrill,Electronic,computer,office,a high-pitched whine from a power supply
+Brightness,shrill,Electronic,phone,bedroom,a sharp digital alarm sound
+Brightness,shrill,Electronic,switch,server,a high-speed mechanical relay clicking
+Brightness,shrill,Electronic,modem,basement,the initial high-pitched handshake of a modem
+Brightness,shrill,Electronic,display,living room,the whine of a flyback transformer in a CRT
+Brightness,shrill,Electronic,transformer,street,a transformer humming at a high frequency
+Brightness,shrill,Electronic,toy,nursery,a toy's high-pitched electronic laugh
+Brightness,shrill,Electronic,buzzer,stadium,the high-pitched end-of-quarter buzzer
+Brightness,strident,Musical,trumpet,city street,a trumpet playing a loud
+Brightness,strident,Musical,saxophone,subway,a saxophone playing a harsh
+Brightness,strident,Musical,cymbals,concert hall,a pair of heavy cymbals being crashed together forcefully
+Brightness,strident,Musical,organ,church,a pipe organ with all reed stops pulled
+Brightness,strident,Musical,violin,studio,a violin being played with heavy bow pressure on the e-string
+Brightness,strident,Musical,oboe,conservatory,an oboe playing a loud
+Brightness,strident,Musical,bagpipes,field,the piercing squawk of bagpipes starting up
+Brightness,strident,Musical,trombone,parade,a trombone playing a loud
+Brightness,strident,Musical,accordion,street,an accordion being squeezed rapidly with high-pitched reeds
+Brightness,strident,Musical,harmonica,tavern,a harmonica being played with aggressive force
+Brightness,strident,Musical,horn,mountain,a large alpine horn being blown with great effort
+Brightness,strident,Musical,clarinet,classroom,a clarinet squeal at high volume
+Brightness,strident,Musical,piccolo,stadium,a piccolo playing a sharp
+Brightness,strident,Musical,guitar,stage,an electric guitar with heavy distortion and high treble
+Brightness,strident,Musical,gong,temple,a large metal gong being struck with a hard mallet
+Brightness,strident,Musical,cornet,park,a cornet playing a loud
+Brightness,strident,Musical,fiddle,barn,a fiddle being played aggressively at a dance
+Brightness,strident,Mechanical,brakes,city street,bus brakes squealing as it stops at a curb
+Brightness,strident,Mechanical,saw,construction site,a circular saw cutting through a thick metal beam
+Brightness,strident,Mechanical,drill,garage,a metal drill bit catching and screeching against steel
+Brightness,strident,Mechanical,engine,racetrack,a formula one engine screaming at high RPM
+Brightness,strident,Mechanical,grinder,factory,an industrial grinder sharpening a large blade
+Brightness,strident,Mechanical,lathe,machine shop,a lathe cutting a deep groove in brass
+Brightness,strident,Mechanical,siren,station,a mechanical air-raid siren wailing
+Brightness,strident,Mechanical,kettle,kitchen,the loud
+Brightness,strident,Mechanical,fan,warehouse,a large metal fan vibrating against its housing
+Brightness,strident,Mechanical,hinge,gate,a massive iron gate screeching open
+Brightness,strident,Mechanical,pulley,dockyard,a rusty pulley screaming under tension
+Brightness,strident,Mechanical,gears,mill,heavy metal gears grinding together without oil
+Brightness,strident,Mechanical,pump,industrial site,a high-pressure hydraulic pump whining
+Brightness,strident,Mechanical,typewriter,newsroom,the rapid
+Brightness,strident,Mechanical,belt,garage,a loud
+Brightness,strident,Mechanical,winch,quarry,a steel cable grating against a rock ledge
+Brightness,strident,Mechanical,compressor,construction,a jackhammer's high-pitched mechanical clatter
+Brightness,strident,Mechanical,shutter,factory,a large metal security shutter being pulled down
+Brightness,strident,Environmental,wind,mountain,wind screaming through a narrow rock chimney
+Brightness,strident,Environmental,ice,arctic,the loud grinding of two massive ice floes
+Brightness,strident,Environmental,geyser,park,a high-pressure steam jet erupting from the ground
+Brightness,strident,Environmental,thunder,desert,the sharp
+Brightness,strident,Environmental,fire,forest,the roar and pop of a high-intensity forest fire
+Brightness,strident,Environmental,water,dam,water roaring through a high-pressure spillway
+Brightness,strident,Environmental,sand,desert,the loud whistling of a sandstorm hitting a metal fence
+Brightness,strident,Environmental,volcano,vent,gas escaping a volcanic vent with a loud hiss
+Brightness,strident,Environmental,leaves,woods,dry leaves being whipped around in a violent gale
+Brightness,strident,Environmental,rain,roof,heavy rain drumming on a corrugated tin roof
+Brightness,strident,Environmental,hail,car,large hailstones hitting a metal car hood
+Brightness,strident,Environmental,waves,cliffs,a wave crashing into a hollow sea cave
+Brightness,strident,Environmental,thaw,mountain,a waterfall hitting a frozen pool of ice
+Brightness,strident,Environmental,crystals,mine,a large cluster of quartz being struck with a hammer
+Brightness,strident,Environmental,storm,prairie,the high-pitched howl of a tornado in the distance
+Brightness,strident,Environmental,volcano,crater,the sound of cooling lava stones clattering
+Brightness,strident,Organic,bird,jungle,a macaw letting out a loud
+Brightness,strident,Organic,insect,field,a swarm of cicadas buzzing at peak volume
+Brightness,strident,Organic,vocal,stadium,a person shouting at the top of their lungs
+Brightness,strident,Organic,teeth,dentist,a high-speed dental drill on a tooth
+Brightness,strident,Organic,fingernails,classroom,fingernails being dragged forcefully across a chalkboard
+Brightness,strident,Organic,bones,museum,large animal bones being struck together
+Brightness,strident,Organic,beak,cliffs,a bird of prey's harsh
+Brightness,strident,Organic,skin,gym,a hand slapping a hard wooden floor
+Brightness,strident,Organic,hair,salon,hair being cut with dull
+Brightness,strident,Organic,scales,reptile house,a large snake's scales rasping against a metal grate
+Brightness,strident,Organic,wings,garden,the loud buzz of a large hornet
+Brightness,strident,Organic,egg,kitchen,a thick eggshell being crushed with a metal tool
+Brightness,strident,Organic,bark,forest,a dry tree trunk snapping in half
+Brightness,strident,Organic,claws,attic,a large animal scratching on a metal roof
+Brightness,strident,Organic,feet,hallway,hard-soled boots stomping on a metal floor
+Brightness,strident,Organic,throat,woods,a mountain lion's loud
+Brightness,strident,Organic,shell,beach,a large sea shell being crushed under a heavy boot
+Brightness,strident,Domestic,glass,dining room,a glass bottle being smashed against a stone wall
+Brightness,strident,Domestic,ceramic,kitchen,a metal scrubber being rubbed on a porcelain sink
+Brightness,strident,Domestic,metal,pantry,a stack of metal trays falling onto a floor
+Brightness,strident,Domestic,silverware,restaurant,knives and forks being dumped into a metal bin
+Brightness,strident,Domestic,jewelry,bedroom,a heavy metal chain being dragged across a table
+Brightness,strident,Domestic,keys,foyer,a large ring of keys being shaken violently
+Brightness,strident,Domestic,mirror,dressing room,a mirror being scratched with a diamond tip
+Brightness,strident,Domestic,light,garage,a high-pitched electronic buzz from a neon sign
+Brightness,strident,Domestic,zipper,closet,a heavy metal zipper being pulled up quickly
+Brightness,strident,Domestic,bottle,patio,a glass bottle being opened with a metal pry bar
+Brightness,strident,Domestic,oven,bakery,the loud metallic clang of an oven door closing
+Brightness,strident,Domestic,can,kitchen,a metal can being crushed by a heavy press
+Brightness,strident,Domestic,knocker,door,a heavy brass knocker striking a metal plate
+Brightness,strident,Domestic,plastic,playroom,hard plastic toys being scraped together
+Brightness,strident,Domestic,foil,kitchen,a large sheet of tin foil being crumpled
+Brightness,strident,Domestic,bell,reception,a desk bell being struck with great force
+Brightness,strident,Electronic,feedback,stage,intense
+Brightness,strident,Electronic,alarm,factory,a loud industrial siren wailing
+Brightness,strident,Electronic,interference,radio,loud
+Brightness,strident,Electronic,oscillator,lab,a high-pitched square wave at high volume
+Brightness,strident,Electronic,spark,garage,a large electric spark jumping a gap
+Brightness,strident,Electronic,laser,lab,a high-power laser pulsing rapidly
+Brightness,strident,Electronic,switch,server,a heavy-duty electronic relay clicking
+Brightness,strident,Electronic,display,living room,the loud whine of an old television
+Brightness,strident,Electronic,toy,nursery,a toy's loud
+Brightness,piercing,Musical,whistle,field,a metal whistle being blown at maximum pressure
+Brightness,piercing,Musical,violin,studio,a violin playing a high harmonic with a thin bow
+Brightness,piercing,Musical,flute,meadow,a flute playing a sharp
+Brightness,piercing,Musical,recorder,classroom,a plastic recorder being blown into sharply
+Brightness,piercing,Musical,organ,church,the highest pipe of a pipe organ being played
+Brightness,piercing,Musical,cymbal,stage,a small finger cymbal being struck with a metal rod
+Brightness,piercing,Musical,triangle,cathedral,a steel triangle being struck with a sharp metal beater
+Brightness,piercing,Musical,oboe,conservatory,an oboe playing a sharp
+Brightness,piercing,Musical,bagpipes,highlands,a piercing note from the chanter of a bagpipe
+Brightness,piercing,Musical,clarinet,theatre,a clarinet squeaking on a high-pitched note
+Brightness,piercing,Musical,harmonica,porch,a high-pitched note on a harmonica
+Brightness,piercing,Musical,pan flute,temple,a sharp
+Brightness,piercing,Musical,fiddle,barn,a high-pitched note on a fiddle
+Brightness,piercing,Musical,bell,tower,a small silver bell being rung sharply
+Brightness,piercing,Mechanical,siren,city street,an electronic siren chirping once
+Brightness,piercing,Mechanical,brakes,train station,the high-pitched screech of a subway brake
+Brightness,piercing,Mechanical,drill,workshop,a high-speed drill bit hitting a metal plate
+Brightness,piercing,Mechanical,saw,construction,a circular saw hitting a knot in wood
+Brightness,piercing,Mechanical,grinder,factory,a grinder throwing a single bright spark
+Brightness,piercing,Mechanical,lathe,machine shop,a lathe tool making a sharp
+Brightness,piercing,Mechanical,kettle,kitchen,the sharp whistle of a steam kettle
+Brightness,piercing,Mechanical,fan,office,a fan blade hitting a metal guard
+Brightness,piercing,Mechanical,hinge,basement,a metal door screeching open once
+Brightness,piercing,Mechanical,pulley,dockyard,a pulley squealing under a sharp pull
+Brightness,piercing,Mechanical,gears,clockmaker,a gear slipping with a sharp click
+Brightness,piercing,Mechanical,pump,industrial site,a high-pressure air leak
+Brightness,piercing,Mechanical,typewriter,newsroom,a typewriter bell ringing sharply
+Brightness,piercing,Mechanical,belt,garage,a sharp squeal from a slipping engine belt
+Brightness,piercing,Mechanical,winch,quarry,a cable snapping with a sharp crack
+Brightness,piercing,Mechanical,compressor,construction,a burst of high-pressure air
+Brightness,piercing,Mechanical,shutter,factory,a metal shutter slamming shut
+Brightness,piercing,Mechanical,bell,ship,a ship's bell being struck once sharply
+Brightness,piercing,Environmental,wind,canyon,a sharp gust of wind through a narrow gap
+Brightness,piercing,Environmental,ice,frozen lake,a sharp crack in a sheet of ice
+Brightness,piercing,Environmental,geyser,park,a sharp hiss of steam from a vent
+Brightness,piercing,Environmental,fire,forest,a single loud pop from a burning log
+Brightness,piercing,Environmental,water,dam,a sharp jet of water hitting a metal plate
+Brightness,piercing,Environmental,sand,desert,a sharp whistle of wind over a dune
+Brightness,piercing,Environmental,volcano,vent,a sharp hiss of gas from a fissure
+Brightness,piercing,Environmental,leaves,woods,a sharp rustle of dry leaves in a gust
+Brightness,piercing,Environmental,rain,roof,a sharp drop of rain hitting a metal sheet
+Brightness,piercing,Environmental,hail,car,a sharp strike of a large hailstone
+Brightness,piercing,Environmental,waves,cliffs,a sharp splash of water against a rock
+Brightness,piercing,Environmental,thaw,mountain,a sharp crack of a falling icicle
+Brightness,piercing,Environmental,crystals,mine,a sharp click of two crystals hitting
+Brightness,piercing,Environmental,storm,prairie,a sharp whistle of wind through a wire
+Brightness,piercing,Environmental,ice,glacier,a sharp crack from a moving glacier
+Brightness,piercing,Environmental,volcano,crater,a sharp click of a cooling rock
+Brightness,piercing,Organic,bird,jungle,a parrot's sharp alarm call
+Brightness,piercing,Organic,insect,meadow,a cricket's sharp chirp
+Brightness,piercing,Organic,vocal,nursery,a baby's sharp cry
+Brightness,piercing,Organic,teeth,dentist,a sharp scrape on a tooth
+Brightness,piercing,Organic,fingernails,classroom,a sharp scratch on a blackboard
+Brightness,piercing,Organic,bones,museum,a sharp click of two bones
+Brightness,piercing,Organic,beak,cliffs,a bird's sharp cry
+Brightness,piercing,Organic,skin,gym,a sharp slap on a floor
+Brightness,piercing,Organic,hair,salon,a sharp snip of scissors
+Brightness,piercing,Organic,scales,reptile house,a snake's sharp hiss
+Brightness,piercing,Organic,wings,garden,a mosquito's sharp hum
+Brightness,piercing,Organic,egg,kitchen,a sharp crack of an eggshell
+Brightness,piercing,Organic,bark,forest,a sharp snap of a dry branch
+Brightness,piercing,Organic,claws,attic,a sharp scratch on a metal duct
+Brightness,piercing,Organic,feet,hallway,a sharp whistle
+Brightness,piercing,Organic,throat,woods,a sharp bark of a fox
+Brightness,piercing,Organic,shell,beach,a sharp click of two shells
+Brightness,piercing,Domestic,kettle,kitchen,a sharp whistle of a tea kettle
+Brightness,piercing,Domestic,glass,dining room,a sharp clink of two glasses
+Brightness,piercing,Domestic,ceramic,kitchen,a sharp scrape on a porcelain plate
+Brightness,piercing,Domestic,metal,pantry,a sharp clang of a metal lid
+Brightness,piercing,Domestic,silverware,restaurant,a sharp clink of a fork
+Brightness,piercing,Domestic,jewelry,bedroom,a sharp click of a metal clasp
+Brightness,piercing,Domestic,keys,foyer,a sharp jingle of keys
+Brightness,piercing,Domestic,mirror,dressing room,a sharp crack of a mirror
+Brightness,piercing,Domestic,light,garage,a sharp pop of a lightbulb
+Brightness,piercing,Domestic,zipper,closet,a sharp zip of a metal zipper
+Brightness,piercing,Domestic,bottle,patio,a sharp pop of a bottle cap
+Brightness,piercing,Domestic,oven,bakery,a sharp ring of a timer bell
+Brightness,piercing,Domestic,can,kitchen,a sharp click of a can opening
+Brightness,piercing,Domestic,knocker,door,a sharp knock on a door
+Brightness,piercing,Domestic,plastic,playroom,a sharp click of two plastic toys
+Brightness,piercing,Domestic,foil,kitchen,a sharp crinkle of tin foil
+Brightness,piercing,Domestic,bell,reception,a sharp ring of a desk bell
+Brightness,piercing,Electronic,feedback,stage,a sharp burst of audio feedback
+Brightness,piercing,Electronic,beeper,hospital,a sharp beep of a monitor
+Brightness,piercing,Electronic,alarm,factory,a sharp chirp of an alarm
+Brightness,piercing,Electronic,interference,radio,a sharp whistle in a radio signal
+Brightness,piercing,Electronic,buzzer,game show,a sharp electronic buzzer
+Brightness,piercing,Electronic,spark,garage,a sharp electric spark
+Brightness,piercing,Electronic,laser,lab,a sharp pulse of a laser
+Brightness,piercing,Electronic,computer,office,a sharp error tone
+Brightness,piercing,Electronic,phone,bedroom,a sharp digital ringtone
+Brightness,piercing,Electronic,switch,server,a sharp click of a relay
+Brightness,piercing,Electronic,modem,basement,a sharp noise of a modem
+Brightness,piercing,Electronic,display,living room,a sharp whine of a TV
+Brightness,piercing,Electronic,transformer,street,a sharp hum of a transformer
+Brightness,piercing,Electronic,toy,nursery,a sharp electronic chime
+Brightness,piercing,Electronic,buzzer,stadium,a sharp scoreboard buzzer
+Brightness,cutting,Musical,cymbal,stadium,a thin crash cymbal being struck with a metal stick
+Brightness,cutting,Musical,trumpet,city street,a trumpet playing a sharp
+Brightness,cutting,Musical,violin,orchestra,a violin playing a sharp staccato note
+Brightness,cutting,Musical,glockenspiel,concert hall,a glockenspiel being struck with a hard metal mallet
+Brightness,cutting,Musical,triangle,cathedral,a steel triangle being struck once forcefully
+Brightness,cutting,Musical,harpsichord,ballroom,a harpsichord playing a rapid
+Brightness,cutting,Musical,banjo,porch,a banjo string being snapped against the fretboard
+Brightness,cutting,Musical,guitar,stage,an electric guitar playing a sharp
+Brightness,cutting,Musical,mandolin,tavern,a mandolin playing a sharp
+Brightness,cutting,Musical,recorder,classroom,a recorder playing a sharp
+Brightness,cutting,Musical,accordion,street,an accordion playing a sharp
+Brightness,cutting,Musical,harmonica,tavern,a harmonica playing a sharp
+Brightness,cutting,Musical,kazoo,party,a kazoo playing a sharp
+Brightness,cutting,Musical,pan flute,temple,a pan flute playing a sharp
+Brightness,cutting,Musical,fiddle,barn,a fiddle playing a sharp
+Brightness,cutting,Mechanical,saw,workshop,a circular saw blade hitting a metal nail
+Brightness,cutting,Mechanical,drill,garage,a drill bit piercing through a thin metal sheet
+Brightness,cutting,Mechanical,lathe,machine shop,a lathe tool cutting a sharp groove in steel
+Brightness,cutting,Mechanical,grinder,factory,a grinder making a sharp
+Brightness,cutting,Mechanical,brakes,city street,a sharp squeal from a car's brakes
+Brightness,cutting,Mechanical,siren,station,a sharp chirp from an electronic siren
+Brightness,cutting,Mechanical,kettle,kitchen,a sharp burst of steam from a kettle
+Brightness,cutting,Mechanical,fan,office,a sharp click from a fan blade hitting a guard
+Brightness,cutting,Mechanical,hinge,basement,a sharp screech from a metal hinge
+Brightness,cutting,Mechanical,pulley,dockyard,a sharp squeal from a pulley
+Brightness,cutting,Mechanical,gears,clockmaker,a sharp click from a gear slipping
+Brightness,cutting,Mechanical,pump,industrial site,a sharp hiss of high-pressure air
+Brightness,cutting,Mechanical,typewriter,newsroom,a sharp ring from a typewriter bell
+Brightness,cutting,Mechanical,belt,garage,a sharp squeal from a slipping belt
+Brightness,cutting,Mechanical,winch,quarry,a sharp snap from a cable
+Brightness,cutting,Mechanical,compressor,construction,a sharp burst of air from a compressor
+Brightness,cutting,Mechanical,shutter,factory,a sharp clang from a metal shutter
+Brightness,cutting,Mechanical,bell,ship,a sharp strike from a ship's bell
+Brightness,cutting,Environmental,wind,canyon,a sharp whistle of wind through a gap
+Brightness,cutting,Environmental,geyser,park,a sharp hiss of steam from a geyser
+Brightness,cutting,Environmental,thunder,desert,a sharp crack of lightning
+Brightness,cutting,Environmental,fire,forest,a sharp pop from a burning log
+Brightness,cutting,Environmental,leaves,woods,a sharp rustle of dry leaves
+Brightness,cutting,Environmental,waves,cliffs,a sharp splash of water
+Brightness,cutting,Environmental,crystals,mine,a sharp click of two crystals

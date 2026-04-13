@@ -1,0 +1,745 @@
+category,tag,domain,source,environment,scenario
+Spatial/Near,near,Musical,ukulele,porch,a nylon ukulele string being plucked inches from the listener
+Spatial/Near,near,Musical,harmonica,campfire,a single breathy note being played on a harmonica held to the face
+Spatial/Near,near,Musical,triangle,orchestra pit,a steel triangle being tapped softly near a microphone
+Spatial/Near,near,Musical,shaker,recording studio,a metal egg shaker being rattled right next to an ear
+Spatial/Near,near,Musical,tambourine,festival,the metal jingles of a tambourine clinking close by
+Spatial/Near,near,Musical,recorder,classroom,a plastic recorder being blown gently near the face
+Spatial/Near,near,Musical,violin,art gallery,a bow moving across a violin e-string just inches away
+Spatial/Near,near,Musical,guitar,bedroom,a fingernail tapping the wooden body of an acoustic guitar
+Spatial/Near,near,Musical,kalimba,garden,the metal tines of a thumb piano being plucked close to the head
+Spatial/Near,near,Musical,bells,temple,a tiny handbell being shaken right next to the listener
+Spatial/Near,near,Musical,piano,ballroom,the internal hammers of a piano clicking near the open lid
+Spatial/Near,near,Musical,flute,meadow,the rush of air through a flute mouthpiece held very close
+Spatial/Near,near,Musical,mandolin,tavern,a thin plectrum picking a steel string close to the ear
+Spatial/Near,near,Musical,chimes,balcony,small glass chimes tinkling right in front of a person
+Spatial/Near,near,Musical,drum,basement,a drumstick lightly tapping a snare head near the rim
+Spatial/Near,near,Musical,harp,conservatory,a finger sliding along a high harp string close by
+Spatial/Near,near,Musical,music box,nursery,a miniature music box playing while held in a hand
+Spatial/Near,near,Mechanical,watch,jewelry store,the internal ticking of a mechanical wristwatch held to an ear
+Spatial/Near,near,Mechanical,camera,darkroom,a mechanical camera shutter clicking right in front of the face
+Spatial/Near,near,Mechanical,gears,clockmaker,tiny brass gears meshing inside a device held in hand
+Spatial/Near,near,Mechanical,fan,office,the light whir of a small desk fan blowing on the face
+Spatial/Near,near,Mechanical,drill,workshop,a high-speed rotary tool engraving a piece of metal close by
+Spatial/Near,near,Mechanical,stapler,library,a hand stapler punching through paper on a desk
+Spatial/Near,near,Mechanical,scissors,tailor shop,metal shears snipping through silk right next to the ear
+Spatial/Near,near,Mechanical,lock,vault,a brass key turning and clicking in a lock near the face
+Spatial/Near,near,Mechanical,typewriter,attic,a single typewriter key hitting a ribbon inches away
+Spatial/Near,near,Mechanical,metronome,music room,the dry tick of a mechanical metronome on a nearby table
+Spatial/Near,near,Mechanical,winch,dockyard,a small metal ratchet clicking in a hand-held tool
+Spatial/Near,near,Mechanical,lathe,machine shop,a lathe tool shaving a thin spiral of brass close by
+Spatial/Near,near,Mechanical,hard drive,server room,the clicking of a hard drive arm inside an open casing
+Spatial/Near,near,Mechanical,pump,basement,the subtle buzzing of a small fuel pump near the floor
+Spatial/Near,near,Mechanical,sewing machine,loft,a needle plate vibrating as a machine runs nearby
+Spatial/Near,near,Mechanical,lighter,porch,the sparking of a flint wheel on a metal lighter in hand
+Spatial/Near,near,Mechanical,spinner,desk,a ceramic ball bearing spinning rapidly close to the head
+Spatial/Near,near,Environmental,water,cave,a single drop of water hitting a stone pool right in front of the face
+Spatial/Near,near,Environmental,insect,meadow,a mosquito's high-frequency hum right next to an ear
+Spatial/Near,near,Environmental,ice,frozen lake,a thin ice crust cracking directly under a person's boot
+Spatial/Near,near,Environmental,leaves,forest,a dry leaf falling and landing on the listener's shoulder
+Spatial/Near,near,Environmental,wind,canyon,a light breeze whistling through a person's hair
+Spatial/Near,near,Environmental,sand,desert,grains of sand hitting a glass bottle held in hand
+Spatial/Near,near,Environmental,rain,greenhouse,a single raindrop hitting a person's hand
+Spatial/Near,near,Environmental,thaw,orchard,meltwater dripping from a branch onto a person's hat
+Spatial/Near,near,Environmental,fire,campsite,a small twig snapping and popping in a fire right in front
+Spatial/Near,near,Environmental,bubbles,pond,a single bubble bursting on a still water surface close by
+Spatial/Near,near,Environmental,grass,meadow,a person's hand brushing through tall dry grass
+Spatial/Near,near,Environmental,mist,swamp,the subtle rush of air through reeds just inches away
+Spatial/Near,near,Environmental,icicle,backyard,an icicle snapping off a gutter right above the listener
+Spatial/Near,near,Environmental,snow,tundra,the soft crunch of a hand squeezing a snowball
+Spatial/Near,near,Environmental,rock,cliffs,a small pebble hitting a stone ledge near a person's feet
+Spatial/Near,near,Environmental,bamboo,jungle,a dry bamboo leaf scraping against a person's sleeve
+Spatial/Near,near,Environmental,feathers,aviary,a bird's wing brushing against a person's head
+Spatial/Near,near,Organic,breathing,bedroom,the light and steady exhale of a person sleeping nearby
+Spatial/Near,near,Organic,vocal,nursery,a person whispering a secret directly into an ear
+Spatial/Near,near,Organic,teeth,bathroom,a person clicking their teeth together close to a microphone
+Spatial/Near,near,Organic,fingernails,desk,fingernails tapping on a glass screen right in front
+Spatial/Near,near,Organic,skin,spa,a finger snapping right next to a person's head
+Spatial/Near,near,Organic,hair,salon,scissors snipping a lock of hair close to the ear
+Spatial/Near,near,Organic,tongue,zoo,a person making a sharp tongue click near the face
+Spatial/Near,near,Organic,scales,reptile house,a snake's belly sliding over a person's hand
+Spatial/Near,near,Organic,heartbeat,quiet room,a person's heartbeat heard through a chest-pressed stethoscope
+Spatial/Near,near,Organic,wings,garden,the fluttering of a moth's wings against a person's face
+Spatial/Near,near,Organic,claws,attic,a mouse scurrying over a wooden floor right next to a person
+Spatial/Near,near,Organic,beak,cliffs,a bird pecking at a piece of fruit held in a hand
+Spatial/Near,near,Organic,egg,kitchen,an eggshell cracking as it is tapped against a person's finger
+Spatial/Near,near,Organic,throat,woods,a person clearing their throat right next to the listener
+Spatial/Near,near,Organic,joint,gym,a person's knuckle popping close to the ear
+Spatial/Near,near,Organic,bark,forest,a hand peeling a piece of dry bark off a tree
+Spatial/Near,near,Organic,bones,museum,two small bone fragments clinking together in hand
+Spatial/Near,near,Domestic,keys,foyer,a single brass key being dropped into a person's palm
+Spatial/Near,near,Domestic,pen,office,the click of a ballpoint pen held near the head
+Spatial/Near,near,Domestic,glass,dining room,the sound of a wet finger rubbing a wine glass rim close by
+Spatial/Near,near,Domestic,can,kitchen,the snap of a soda can tab being opened near the face
+Spatial/Near,near,Domestic,zipper,closet,a metal zipper being pulled up on a jacket worn by the listener
+Spatial/Near,near,Domestic,lighter,porch,the click of a metal lighter closing in hand
+Spatial/Near,near,Domestic,bottle,cellar,a bottle cap being pried off right in front of the face
+Spatial/Near,near,Domestic,foil,kitchen,a piece of aluminum foil being crumpled in hand
+Spatial/Near,near,Domestic,jewelry,bedroom,a gold chain sliding through a person's fingers
+Spatial/Near,near,Domestic,spoon,restaurant,a metal spoon tapping a ceramic cup near the mouth
+Spatial/Near,near,Domestic,clock,bedroom,the light tick of a small alarm clock on a nightstand
+Spatial/Near,near,Domestic,plastic,playroom,two hard plastic blocks being snapped together in hand
+Spatial/Near,near,Domestic,curtain,bedroom,a lace curtain brushing against a person's arm
+Spatial/Near,near,Domestic,button,wardrobe,a metal snap fastener being clicked on a garment
+Spatial/Near,near,Domestic,straw,kitchen,sipping liquid through a plastic straw close by
+Spatial/Near,near,Domestic,mirror,dressing room,a person tapping the surface of a hand mirror
+Spatial/Near,near,Domestic,towel,bathroom,a person rubbing their hands with a dry towel near the face
+Spatial/Near,near,Electronic,led,laboratory,the subtle click of a micro-switch on a nearby device
+Spatial/Near,near,Electronic,beeper,hospital,a digital pager chirping on a person's belt
+Spatial/Near,near,Electronic,phone,hallway,a smartphone vibrating in a person's pocket
+Spatial/Near,near,Electronic,spark,auto shop,a tiny static spark jumping from a finger to a door
+Spatial/Near,near,Electronic,switch,datacenter,a mechanical keyboard switch being pressed close by
+Spatial/Near,near,Electronic,toy,playroom,a small electronic toy beep in a hand
+Spatial/Near,near,Electronic,alarm,bedroom,a digital alarm clock on a nearby nightstand
+Spatial/Near,near,Electronic,fan,office,a tiny cooling fan whirring in a laptop on a lap
+Spatial/Near,near,Electronic,buzzer,game show,a handheld buzzer being pressed by the listener
+Spatial/Near,near,Electronic,speaker,subway,the subtle hum of a speaker right above the head
+Spatial/Near,near,Electronic,modem,attic,the handshake tones of a modem in a device on a desk
+Spatial/Near,near,Electronic,capacitor,lab,the discharge of a small capacitor on a nearby board
+Spatial/Near,near,Electronic,interference,radio,the crackle of a phone near a person's radio
+Spatial/Near,near,Electronic,laser,research lab,the subtle whine of a laser cooling fan close by
+Spatial/Near,near,Electronic,transformer,street,the hum of a power brick held in hand
+Spatial/Near,near,Electronic,relay,basement,an electromagnetic switch clicking in a nearby panel
+Spatial/Near,near,Electronic,sensor,hallway,the click of a motion sensor right next to a person
+Spatial/Near,direct,Musical,snare drum,studio,a wooden drumstick striking the center of a snare with no reverb
+Spatial/Near,direct,Musical,trumpet,field,a trumpet blast aimed straight toward the listener in an open field
+Spatial/Near,direct,Musical,triangle,meadow,a steel triangle strike in a dry
+Spatial/Near,direct,Musical,claves,recording studio,two rosewood sticks hitting together in a dead room
+Spatial/Near,direct,Musical,harmonica,porch,a sharp exhale through a harmonica aimed at the listener
+Spatial/Near,direct,Musical,piano,parlor,a single high note on a grand piano with all dampers on
+Spatial/Near,direct,Musical,harp,conservatory,a gut harp string being snapped against the frame
+Spatial/Near,direct,Musical,glockenspiel,observatory,a metal mallet hitting a steel bar in a padded room
+Spatial/Near,direct,Musical,tambourine,stage,a sharp palm strike on a tambourine head facing forward
+Spatial/Near,direct,Musical,castanets,dance studio,a single loud click from a wooden castanet
+Spatial/Near,direct,Musical,flute,tundra,a flute playing a sharp
+Spatial/Near,direct,Musical,guitar,tavern,an electric guitar string being plucked forcefully
+Spatial/Near,direct,Musical,xylophone,classroom,a hard mallet striking a wooden key with no echo
+Spatial/Near,direct,Musical,handbell,cathedral,a brass bell clapper hitting the rim once sharply
+Spatial/Near,direct,Musical,marimba,theatre,a rubber mallet hitting a rosewood bar in a dry space
+Spatial/Near,direct,Musical,piccolo,alpine forest,a short staccato note on a piccolo in a clearing
+Spatial/Near,direct,Musical,whistle,field,a metal pea whistle blown at high pressure toward the ear
+Spatial/Near,direct,Mechanical,stapler,office,a heavy-duty stapler punching paper on a flat desk
+Spatial/Near,direct,Mechanical,camera,darkroom,the sharp fire of a mechanical shutter in a small room
+Spatial/Near,direct,Mechanical,typewriter,newsroom,a typewriter hammer hitting the platen once sharply
+Spatial/Near,direct,Mechanical,switch,foyer,a wall-mounted light switch being flipped with a snap
+Spatial/Near,direct,Mechanical,lock,vault,a heavy bolt in a door sliding into place with a clunk
+Spatial/Near,direct,Mechanical,hammer,workshop,a steel hammer hitting a metal anvil once forcefully
+Spatial/Near,direct,Mechanical,drill,garage,a pneumatic impact wrench hitting a lug nut
+Spatial/Near,direct,Mechanical,winch,dockyard,a metal ratchet tooth clicking into a gear once
+Spatial/Near,direct,Mechanical,bell,ship,the clapper of a brass bell hitting the rim once sharply
+Spatial/Near,direct,Mechanical,press,factory floor,a hydraulic punch hitting a sheet of steel
+Spatial/Near,direct,Mechanical,valve,power plant,a high-pressure steam valve snapping shut
+Spatial/Near,direct,Mechanical,shutter,photo studio,the precise click of a leaf shutter on a lens
+Spatial/Near,direct,Mechanical,relay,datacenter,a single mechanical relay clicking into its housing
+Spatial/Near,direct,Mechanical,lathe,machine shop,a lathe tool making a single sharp cut in brass
+Spatial/Near,direct,Mechanical,printer,office,the single strike of a dot-matrix pin against paper
+Spatial/Near,direct,Mechanical,gears,clockmaker,a single tooth engaging in a precision clockwork
+Spatial/Near,direct,Mechanical,motor,garage,a micro-motor spinning a plastic propeller once
+Spatial/Near,direct,Environmental,thunder,prairie,the immediate sharp crack of a nearby lightning strike
+Spatial/Near,direct,Environmental,icicle,backyard,an icicle shattering on a concrete patio
+Spatial/Near,direct,Environmental,branch,forest,a dry tree branch snapping under a heavy weight
+Spatial/Near,direct,Environmental,rock,cliffs,a stone hitting a granite ledge after a short fall
+Spatial/Near,direct,Environmental,hail,car roof,a large hailstone hitting a metal vehicle hood
+Spatial/Near,direct,Environmental,fire,campsite,a dry log popping in a fire with a loud explosion
+Spatial/Near,direct,Environmental,bubbles,hot spring,a single large gas bubble bursting at the surface
+Spatial/Near,direct,Environmental,volcano,lava field,an obsidian flake snapping as it cools
+Spatial/Near,direct,Environmental,bamboo,jungle,a dry bamboo stalk snapping in half with a crack
+Spatial/Near,direct,Environmental,mud,swamp,a heavy object hitting the surface of a mud pool
+Spatial/Near,direct,Environmental,thaw,orchard,a chunk of ice hitting a wooden board once
+Spatial/Near,direct,Environmental,waves,shoreline,a heavy wave slapping against a flat rock face
+Spatial/Near,direct,Environmental,ice,lake,a single deep crack forming in a thick ice sheet
+Spatial/Near,direct,Environmental,sand,desert,a handful of sand being thrown against a glass pane
+Spatial/Near,direct,Environmental,geyser,thermal field,the initial burst of a geyser eruption
+Spatial/Near,direct,Environmental,snow,tundra,the crust of a snowpack collapsing under a boot
+Spatial/Near,direct,Environmental,lightning,desert,a sharp thunderclap occurring directly overhead
+Spatial/Near,direct,Organic,clap,stadium,a single loud handclap in an open
+Spatial/Near,direct,Organic,snap,dance studio,a person snapping their fingers once with a sharp pop
+Spatial/Near,direct,Organic,teeth,bathroom,a person clicking their teeth together once sharply
+Spatial/Near,direct,Organic,beak,cliffs,a bird snapping its beak shut on a rocky ledge
+Spatial/Near,direct,Organic,joint,gym,a person's knuckle popping once during a stretch
+Spatial/Near,direct,Organic,bite,kitchen,a person biting into a crisp apple with a loud snap
+Spatial/Near,direct,Organic,egg,incubator,a chick's beak breaking through an eggshell once
+Spatial/Near,direct,Organic,fingernail,desk,a single sharp tap of a nail on a glass screen
+Spatial/Near,direct,Organic,scales,reptile house,a snake's rattle giving a single sharp shake
+Spatial/Near,direct,Organic,skull,desert,a knuckle tapping on a dry animal skull once
+Spatial/Near,direct,Organic,nest,barn,a bird's beak hitting a wooden beam once
+Spatial/Near,direct,Organic,seed,garden,a dry seed pod bursting open with a sharp pop
+Spatial/Near,direct,Organic,tongue,zoo,a person performing a single loud tongue click
+Spatial/Near,direct,Organic,bones,museum,two small bone fragments clacking together once
+Spatial/Near,direct,Organic,skin,spa,a sharp slap of a hand on a flat surface
+Spatial/Near,direct,Organic,vocal,forest,a single sharp chirp from a bird in a tree
+Spatial/Near,direct,Organic,footstep,stairwell,one hard leather sole hitting a stone step
+Spatial/Near,direct,Domestic,glass,kitchen,a crystal wine glass being struck once with a spoon
+Spatial/Near,direct,Domestic,plate,dining room,a porcelain cup being set on a saucer with a click
+Spatial/Near,direct,Domestic,door,hallway,a heavy wooden door being slammed shut once
+Spatial/Near,direct,Domestic,pen,office,the single sharp click of a ballpoint pen
+Spatial/Near,direct,Domestic,lightbulb,garage,a lightbulb filament vibrating after being flicked
+Spatial/Near,direct,Domestic,key,foyer,a brass key being dropped on a glass table
+Spatial/Near,direct,Domestic,can,kitchen,a metal soda can being opened with a snap
+Spatial/Near,direct,Domestic,knocker,front door,a brass door knocker hitting a metal plate once
+Spatial/Near,direct,Domestic,lighter,porch,the click of a flip-top metal lighter closing
+Spatial/Near,direct,Domestic,mirror,dressing room,a glass mirror being tapped with a ring
+Spatial/Near,direct,Domestic,bottle,cellar,a glass bottle cap being pried off once
+Spatial/Near,direct,Domestic,zipper,closet,the single snap of a metal zipper being engaged
+Spatial/Near,direct,Domestic,pot,pantry,a cast iron lid being set on a heavy pot
+Spatial/Near,direct,Domestic,cup,restaurant,a ceramic coffee mug hitting a wooden table
+Spatial/Near,direct,Domestic,plastic,playroom,two hard plastic blocks snapping together
+Spatial/Near,direct,Domestic,foil,kitchen,a single crinkle of a sheet of tin foil
+Spatial/Near,direct,Domestic,box,closet,a cardboard box being slapped once sharply
+Spatial/Near,direct,Electronic,spark,auto shop,a single high-voltage spark jumping a gap
+Spatial/Near,direct,Electronic,beeper,hospital,a single digital pulse from a medical monitor
+Spatial/Near,direct,Electronic,synthesizer,studio,a synthesizer patch with a zero-millisecond attack
+Spatial/Near,direct,Electronic,oscillator,laboratory,a square-wave trigger pulse from a generator
+Spatial/Near,direct,Electronic,buzzer,game show,the sharp initial onset of a buzzer
+Spatial/Near,direct,Electronic,switch,datacenter,the mechanical click of a keyboard switch
+Spatial/Near,direct,Electronic,relay,basement,an electromagnetic relay snapping into place
+Spatial/Near,direct,Electronic,alarm,bedroom,a digital alarm clock's first chirp
+Spatial/Near,direct,Electronic,capacitor,lab,the discharge of a small ceramic capacitor
+Spatial/Near,direct,Electronic,logic,research lab,a logic gate signal trigger pulse
+Spatial/Near,direct,Electronic,toy,daycare,the first beep of an electronic toy
+Spatial/Near,direct,Electronic,phone,hallway,the initial click of a smartphone lock screen
+Spatial/Near,direct,Electronic,modem,basement,the starting tone of a modem handshake
+Spatial/Near,direct,Electronic,sensor,hallway,the click of a motion sensor engaging
+Spatial/Near,direct,Electronic,trigger,studio,a digital drum pad being struck once
+Spatial/Near,direct,Electronic,bit,server room,a magnetic head seeking a sector once
+Spatial/Near,direct,Electronic,flash,photo studio,the pop of a high-power strobe unit
+Spatial/Near,focused,Musical,flute,meadow,blowing air through a narrow flute mouthpiece at a fixed target
+Spatial/Near,focused,Musical,triangle,concert hall,a steel triangle struck exactly in the center with a thin rod
+Spatial/Near,focused,Musical,trumpet,stadium,a trumpet playing a single note directed through a tight mute
+Spatial/Near,focused,Musical,violin,art gallery,a bow moving across a violin string at a precise point
+Spatial/Near,focused,Musical,harp,conservatory,a single harp string being plucked at its exact center
+Spatial/Near,focused,Musical,drum,rehearsal room,a drumstick hitting the dead center of a tuned snare head
+Spatial/Near,focused,Musical,piano,ballroom,a grand piano hammer striking one single string cleanly
+Spatial/Near,focused,Musical,glockenspiel,observatory,a metal mallet hitting the exact middle of a steel bar
+Spatial/Near,focused,Musical,recorder,classroom,a steady stream of air through a narrow plastic whistle
+Spatial/Near,focused,Musical,harmonica,porch,a single reed vibrating in a harmonica through a tiny gap
+Spatial/Near,focused,Musical,tambourine,stage,a single finger tap on the center of a tambourine head
+Spatial/Near,focused,Musical,marimba,theatre,a rubber mallet hitting a rosewood bar in a precise spot
+Spatial/Near,focused,Musical,handbell,cathedral,a handbell clapper striking a specific point on the rim
+Spatial/Near,focused,Musical,piccolo,alpine forest,a high-frequency note on a piccolo directed at a microphone
+Spatial/Near,focused,Musical,oboe,conservatory,a sharp reed pop from a tightly compressed oboe reed
+Spatial/Near,focused,Musical,gong,temple,a small gong being struck in the center with a hard beater
+Spatial/Near,focused,Musical,zither,tea house,a metal pick plucking a single high-tension zither wire
+Spatial/Near,focused,Mechanical,laser,laboratory,a laser engraver etching a precise line on a metal plate
+Spatial/Near,focused,Mechanical,drill,workshop,a micro-drill bit piercing a specific point in steel
+Spatial/Near,focused,Mechanical,needle,loft,a sewing machine needle hitting a metal plate once
+Spatial/Near,focused,Mechanical,gears,clockmaker,a single gear tooth engaging in a precision watch
+Spatial/Near,focused,Mechanical,valve,factory,high-pressure air jetting through a tiny focused nozzle
+Spatial/Near,focused,Mechanical,lathe,machine shop,a lathe tool cutting a thin groove in a brass part
+Spatial/Near,focused,Mechanical,printer,office,an inkjet printer head spraying ink in a precise line
+Spatial/Near,focused,Mechanical,camera,darkroom,the movement of a precision camera lens focusing
+Spatial/Near,focused,Mechanical,switch,foyer,a toggle switch being flipped in a quiet hallway
+Spatial/Near,focused,Mechanical,shutter,photo studio,the precise click of a leaf shutter opening
+Spatial/Near,focused,Mechanical,winch,dockyard,a metal cable snapping into a single focused groove
+Spatial/Near,focused,Mechanical,pump,basement,a high-pressure fuel injector spraying in a burst
+Spatial/Near,focused,Mechanical,typewriter,attic,a single typewriter hammer hitting a specific letter
+Spatial/Near,focused,Mechanical,stapler,library,a staple being driven into a precise spot in paper
+Spatial/Near,focused,Mechanical,watch,jewelry store,the internal ticking of a precision timepiece
+Spatial/Near,focused,Mechanical,fan,bedroom,a tiny cooling fan whirring at a high constant speed
+Spatial/Near,focused,Mechanical,lock,vault,a combination dial clicking at a specific number
+Spatial/Near,focused,Environmental,water,cave,a single drop of water hitting a precise point in a pool
+Spatial/Near,focused,Environmental,wind,canyon,wind whistling through a tiny pinhole in a rock wall
+Spatial/Near,focused,Environmental,ice,frozen lake,a sharp crack forming in a specific spot on ice
+Spatial/Near,focused,Environmental,rain,greenhouse,a single raindrop hitting a specific glass pane
+Spatial/Near,focused,Environmental,geyser,thermal field,a steam jet escaping from a narrow focused vent
+Spatial/Near,focused,Environmental,bubbles,hot spring,a single gas bubble bursting at the surface
+Spatial/Near,focused,Environmental,volcano,lava field,an obsidian shard snapping in a specific spot
+Spatial/Near,focused,Environmental,thaw,orchard,a drop of meltwater hitting a specific metal bucket
+Spatial/Near,focused,Environmental,rock,cliffs,a small pebble hitting a precise point on a ledge
+Spatial/Near,focused,Environmental,bamboo,jungle,a single dry bamboo stalk snapping at a joint
+Spatial/Near,focused,Environmental,leaves,forest,a single dry leaf hitting a wooden deck once
+Spatial/Near,focused,Environmental,sand,desert,a single grain of sand hitting a glass pane once
+Spatial/Near,focused,Environmental,icicle,backyard,the sharp strike of a falling icicle on concrete
+Spatial/Near,focused,Environmental,thunder,prairie,the single sharp crack of a nearby lightning strike
+Spatial/Near,focused,Environmental,storm,prairie,wind whistling through a tight wire mesh once
+Spatial/Near,focused,Environmental,mud,swamp,a single gas bubble popping in thick mud
+Spatial/Near,focused,Environmental,fire,campsite,a single pop from a burning log in a fire
+Spatial/Near,focused,Organic,beak,cliffs,a woodpecker's beak hitting a specific spot on a branch
+Spatial/Near,focused,Organic,fingernail,desk,a single tap of a nail on a glass screen
+Spatial/Near,focused,Organic,snap,dance studio,a person snapping their fingers once with a pop
+Spatial/Near,focused,Organic,teeth,bathroom,a person clicking two specific teeth together once
+Spatial/Near,focused,Organic,joint,gym,a person's knuckle popping in a specific motion
+Spatial/Near,focused,Organic,bite,kitchen,a person biting into a crisp apple with a snap
+Spatial/Near,focused,Organic,egg,incubator,a chick pecking a specific point on an eggshell
+Spatial/Near,focused,Organic,scales,reptile house,a snake's rattle giving one sharp focused shake
+Spatial/Near,focused,Organic,skull,desert,a knuckle tapping a specific spot on a dry skull
+Spatial/Near,focused,Organic,nest,barn,a bird's beak hitting a wooden beam in one spot
+Spatial/Near,focused,Organic,seed,garden,a single seed pod bursting open with a pop
+Spatial/Near,focused,Organic,tongue,zoo,a person performing a single focused tongue click
+Spatial/Near,focused,Organic,bones,museum,two specific bone fragments clacking together once
+Spatial/Near,focused,Organic,skin,spa,a sharp slap on a specific patch of skin
+Spatial/Near,focused,Organic,vocal,forest,a single sharp chirp from a bird in a canopy
+Spatial/Near,focused,Organic,footstep,stairwell,one hard sole hitting a specific stone step
+Spatial/Near,focused,Organic,hair,salon,a pair of scissors snipping hair in a precise line
+Spatial/Near,focused,Domestic,glass,dining room,a crystal glass being struck in one spot with a spoon
+Spatial/Near,focused,Domestic,plate,dining room,a porcelain cup being set on a saucer once
+Spatial/Near,focused,Domestic,door,hallway,a single knock on a specific point of a door
+Spatial/Near,focused,Domestic,key,foyer,a single brass key being dropped on a glass table
+Spatial/Near,focused,Domestic,lighter,porch,the click of a metal lighter closing once
+Spatial/Near,focused,Domestic,zipper,closet,a metal zipper being engaged at a specific point
+Spatial/Near,focused,Domestic,plastic,playroom,two plastic blocks being snapped together
+Spatial/Near,focused,Domestic,box,closet,a cardboard box being tapped in the center
+Spatial/Near,focused,Domestic,silverware,restaurant,a single fork hitting a ceramic plate once
+Spatial/Near,focused,Domestic,bell,reception,the single ring of a desktop service bell
+Spatial/Near,focused,Electronic,laser,laboratory,a single pulse of a laser on a metal target
+Spatial/Near,focused,Electronic,beeper,hospital,a single digital beep from a specific monitor
+Spatial/Near,focused,Electronic,synthesizer,studio,a single short high-frequency digital pulse
+Spatial/Near,focused,Electronic,relay,basement,a single electromagnetic relay clicking once
+Spatial/Near,focused,Electronic,alarm,bedroom,a digital alarm clock's single focused chirp
+Spatial/Near,focused,Electronic,oscillator,lab,a single cycle of a high-frequency sine wave
+Spatial/Near,focused,Electronic,interference,radio,a single sharp pop in a radio signal
+Spatial/Near,focused,Electronic,buzzer,game show,a single short buzz from a digital device
+Spatial/Near,focused,Electronic,toy,playroom,a single electronic note from a toy piano
+Spatial/Near,focused,Electronic,phone,hallway,a single vibration pulse from a smartphone
+Spatial/Near,focused,Electronic,capacitor,lab,the single discharge of a ceramic capacitor
+Spatial/Near,focused,Electronic,modem,basement,a single digital handshake tone once
+Spatial/Near,focused,Electronic,led,office,a click of a micro-switch on a screen
+Spatial/Near,focused,Electronic,trigger,studio,a single drum trigger signal tone
+Spatial/Near,precise,Musical,triangle,concert hall,a silver triangle struck exactly once with a metal rod
+Spatial/Near,precise,Musical,glockenspiel,observatory,a metal mallet hitting the highest glockenspiel bar
+Spatial/Near,precise,Musical,piano,ballroom,a grand piano key being pressed with a sharp attack
+Spatial/Near,precise,Musical,violin,art gallery,a single pizzicato note on a high violin string
+Spatial/Near,precise,Musical,harp,conservatory,a single harp string plucked cleanly with a finger
+Spatial/Near,precise,Musical,tambourine,stage,a single jingle being flicked with a fingernail
+Spatial/Near,precise,Musical,claves,recording studio,two rosewood sticks clicking together once
+Spatial/Near,precise,Musical,castanets,dance studio,a single precise click from a wooden castanet
+Spatial/Near,precise,Musical,flute,meadow,a flute playing a short and sharp staccato note
+Spatial/Near,precise,Musical,recorder,classroom,a single breathy note on a plastic whistle
+Spatial/Near,precise,Musical,oboe,conservatory,a single short reed pop from an oboe
+Spatial/Near,precise,Musical,handbell,cathedral,a handbell being struck once with a felt mallet
+Spatial/Near,precise,Musical,marimba,theatre,a rubber mallet striking a high marimba bar
+Spatial/Near,precise,Musical,piccolo,alpine forest,a single short staccato note on a piccolo
+Spatial/Near,precise,Musical,whistle,field,a metal pea whistle blown at high pressure once
+Spatial/Near,precise,Musical,xylophone,classroom,a plastic mallet striking a wooden key
+Spatial/Near,precise,Musical,bells,tower,a silver bell being tapped with a finger
+Spatial/Near,precise,Mechanical,watch,jewelry store,the internal ticking of a precision stopwatch
+Spatial/Near,precise,Mechanical,camera,darkroom,the precise fire of a mechanical camera shutter
+Spatial/Near,precise,Mechanical,gears,clockmaker,a gear tooth engaging with a single click
+Spatial/Near,precise,Mechanical,switch,foyer,a light switch being toggled in a quiet room
+Spatial/Near,precise,Mechanical,lock,vault,a brass key clicking into a lock tumbler
+Spatial/Near,precise,Mechanical,stapler,library,a single staple being punched through paper
+Spatial/Near,precise,Mechanical,relay,factory,a single industrial relay clicking into place
+Spatial/Near,precise,Mechanical,winch,dockyard,a single ratchet click on a metal winch
+Spatial/Near,precise,Mechanical,lathe,machine shop,a lathe tool making a sharp cut in brass
+Spatial/Near,precise,Mechanical,printer,office,the click of a printer head on a rail
+Spatial/Near,precise,Mechanical,valve,power plant,an air valve snapping shut once
+Spatial/Near,precise,Mechanical,fan,bedroom,the sound of a fan motor turning on with a click
+Spatial/Near,precise,Mechanical,hard drive,server room,a single click of a hard drive arm
+Spatial/Near,precise,Mechanical,needle,loft,a sewing machine needle hitting a metal plate
+Spatial/Near,precise,Mechanical,bell,ship,a single strike on a brass ship's bell
+Spatial/Near,precise,Mechanical,typewriter,newsroom,a single typewriter key hitting a platen
+Spatial/Near,precise,Mechanical,drill,garage,a single ratchet click on an impact wrench
+Spatial/Near,precise,Mechanical,shutter,photo studio,the precise click of a leaf shutter
+Spatial/Near,precise,Environmental,water,cave,a single drop of water hitting a stone pool
+Spatial/Near,precise,Environmental,ice,frozen lake,the single sharp crack of a thin ice sheet
+Spatial/Near,precise,Environmental,rain,porch,a single large raindrop hitting a glass table
+Spatial/Near,precise,Environmental,hail,car roof,a single hailstone hitting a metal surface
+Spatial/Near,precise,Environmental,crystals,mine,a single click of two quartz crystals hitting
+Spatial/Near,precise,Environmental,thaw,orchard,a single drop of meltwater hitting a dry leaf
+Spatial/Near,precise,Environmental,snow,tundra,a single footstep on a layer of crusty snow
+Spatial/Near,precise,Environmental,bubbles,pond,a single air bubble bursting on a calm surface
+Spatial/Near,precise,Environmental,rock,cliffs,a single stone hitting a granite ledge
+Spatial/Near,precise,Environmental,volcano,lava field,an obsidian shard snapping once
+Spatial/Near,precise,Environmental,bamboo,jungle,a single dry bamboo stalk snapping
+Spatial/Near,precise,Environmental,leaves,forest,a single dry leaf falling on a wooden deck
+Spatial/Near,precise,Environmental,sand,desert,a single grain of sand hitting a glass pane
+Spatial/Near,precise,Environmental,icicle,backyard,the single strike of a falling icicle on concrete
+Spatial/Near,precise,Environmental,geyser,thermal field,the single burst of a geyser eruption
+Spatial/Near,precise,Organic,bird,forest,the single and sharp chirp of a songbird
+Spatial/Near,precise,Organic,insect,meadow,a single click from a grasshopper
+Spatial/Near,precise,Organic,vocal,nursery,a person making a single short clicking sound
+Spatial/Near,precise,Organic,teeth,bathroom,a person clicking their teeth together once
+Spatial/Near,precise,Organic,fingernails,desk,a single tap of a fingernail on a glass screen
+Spatial/Near,precise,Organic,skin,spa,a single finger snap in a quiet room
+Spatial/Near,precise,Organic,hair,salon,a single pair of scissors snipping once
+Spatial/Near,precise,Organic,egg,kitchen,a single crack of an eggshell on a bowl rim
+Spatial/Near,precise,Organic,nut,orchard,a single nut shell being cracked
+Spatial/Near,precise,Organic,beak,cliffs,a bird snapping its beak shut once
+Spatial/Near,precise,Organic,scales,reptile house,a lizard's tail hitting a glass wall once
+Spatial/Near,precise,Organic,heartbeat,quiet room,a single and well-defined thump of a heart
+Spatial/Near,precise,Organic,bones,museum,two bone fragments hitting each other once
+Spatial/Near,precise,Organic,wings,garden,the single flap of a large bird's wing
+Spatial/Near,precise,Organic,throat,woods,the single hoot of an owl
+Spatial/Near,precise,Organic,seed,garden,a single dry seed pod bursting
+Spatial/Near,precise,Organic,bark,forest,a single dry branch snapping
+Spatial/Near,precise,Domestic,glass,dining room,a single clink of two wine glasses
+Spatial/Near,precise,Domestic,metal,pantry,a single tap on a stainless steel pot
+Spatial/Near,precise,Domestic,keys,foyer,a single key hitting a glass table
+Spatial/Near,precise,Domestic,zipper,closet,a single short movement of a metal zipper
+Spatial/Near,precise,Domestic,light,office,the single click of a ballpoint pen
+Spatial/Near,precise,Domestic,bottle,cellar,a single pop of a bottle cap
+Spatial/Near,precise,Domestic,can,kitchen,the single click of a soda can opening
+Spatial/Near,precise,Domestic,lighter,porch,the single click of a metal lighter
+Spatial/Near,precise,Domestic,door,hallway,a single knock on a solid wood door
+Spatial/Near,precise,Domestic,plastic,playroom,a single plastic block snapping into place
+Spatial/Near,precise,Domestic,silverware,restaurant,a single fork hitting a ceramic plate
+Spatial/Near,precise,Domestic,coin,arcade,a single coin hitting a metal tray
+Spatial/Near,precise,Domestic,button,wardrobe,a single snap fastener being closed
+Spatial/Near,precise,Domestic,foil,kitchen,a single crinkle of aluminum foil
+Spatial/Near,precise,Domestic,oven,bakery,the single ring of a timer bell
+Spatial/Near,precise,Domestic,jewelry,bedroom,a gold ring hitting a wooden surface
+Spatial/Near,precise,Electronic,beeper,hospital,a single digital beep from a monitor
+Spatial/Near,precise,Electronic,alarm,bedroom,a single digital chirp from a phone
+Spatial/Near,precise,Electronic,synthesizer,studio,a single short high-frequency pulse
+Spatial/Near,precise,Electronic,switch,datacenter,a single mechanical keyboard switch click
+Spatial/Near,precise,Electronic,relay,basement,a single electromagnetic relay clicking
+Spatial/Near,precise,Electronic,spark,auto shop,a single electric spark jumping
+Spatial/Near,precise,Electronic,computer,office,the single chime of a computer alert
+Spatial/Near,precise,Electronic,buzzer,game show,a single short buzz from an electronic device
+Spatial/Near,precise,Electronic,toy,playroom,a single electronic note from a toy
+Spatial/Near,precise,Electronic,modem,basement,a single digital handshake tone
+Spatial/Near,precise,Electronic,laser,research lab,a single pulse of a laser on a target
+Spatial/Near,precise,Electronic,led,office,the single click of a micro-switch on a screen
+Spatial/Near,precise,Electronic,sensor,hallway,the single click of a motion sensor engaging
+Spatial/Near,projecting,Musical,trumpet,stadium,a trumpet fanfare performed for a large arena
+Spatial/Near,projecting,Musical,bagpipes,highlands,the drone of bagpipes echoing across a wide lake
+Spatial/Near,projecting,Musical,drum,field,a massive bass drum being struck in an open valley
+Spatial/Near,projecting,Musical,gong,temple,a large ceremonial gong being struck forcefully
+Spatial/Near,projecting,Musical,whistle,prairie,a metal whistle blown at full pressure across a plain
+Spatial/Near,projecting,Musical,trombone,hangar,a trombone blast directed into a large space
+Spatial/Near,projecting,Musical,organ,cathedral,the loudest pipes of an organ playing a sustained note
+Spatial/Near,projecting,Musical,flute,mountaintop,a silver flute melody carried by the wind
+Spatial/Near,projecting,Musical,accordion,street,a loud chord played on an accordion in a town square
+Spatial/Near,projecting,Musical,violin,cliffs,a violin soloist performing on a high rock ledge
+Spatial/Near,projecting,Musical,harp,ballroom,a grand harp glissando in a large hall
+Spatial/Near,projecting,Musical,piano,rooftop,a grand piano being played on a city roof
+Spatial/Near,projecting,Musical,didgeridoo,outback,the deep drone of a didgeridoo in a canyon
+Spatial/Near,projecting,Musical,bells,plaza,a set of tower bells ringing over a city
+Spatial/Near,projecting,Musical,sax,subway,a saxophone solo echoing through a long tunnel
+Spatial/Near,projecting,Musical,handbell,cathedral,a brass handbell rung sharply from a balcony
+Spatial/Near,projecting,Musical,timpani,theatre,a timpani roll building in volume in an auditorium
+Spatial/Near,projecting,Mechanical,siren,city street,a mechanical siren wailing as it spins up
+Spatial/Near,projecting,Mechanical,horn,shipyard,a massive ship's foghorn blasting over the water
+Spatial/Near,projecting,Mechanical,engine,racetrack,a race car engine roaring as it passes
+Spatial/Near,projecting,Mechanical,whistle,factory,a steam whistle signaling a shift change
+Spatial/Near,projecting,Mechanical,crane,dockyard,a diesel engine humming on a large port crane
+Spatial/Near,projecting,Mechanical,plane,sky,a propeller plane engine droning at high altitude
+Spatial/Near,projecting,Mechanical,drill,quarry,a rock drill boring into a granite wall
+Spatial/Near,projecting,Mechanical,shutter,loading dock,a heavy metal door slamming shut
+Spatial/Near,projecting,Mechanical,hammer,construction,a pile driver striking a steel beam
+Spatial/Near,projecting,Mechanical,winch,mine shaft,a winch cable ratcheting in a deep pit
+Spatial/Near,projecting,Mechanical,pump,industrial site,a high-pressure pump humming loudly
+Spatial/Near,projecting,Mechanical,fan,warehouse,a massive exhaust fan spinning in a bay
+Spatial/Near,projecting,Mechanical,press,factory,a heavy hydraulic press stamping steel
+Spatial/Near,projecting,Mechanical,bell,ship,a brass ship's bell ringing across a harbor
+Spatial/Near,projecting,Mechanical,locomotive,railway yard,a train engine idling in a valley
+Spatial/Near,projecting,Mechanical,mixer,bakery,a large industrial dough mixer turning
+Spatial/Near,projecting,Mechanical,saw,woodshop,a circular saw cutting through a thick log
+Spatial/Near,projecting,Environmental,thunder,desert,a loud thunderclap echoing between mountains
+Spatial/Near,projecting,Environmental,wind,canyon,a gale howling through a narrow rock gap
+Spatial/Near,projecting,Environmental,waterfall,mountain,the roar of a massive waterfall hitting a pool
+Spatial/Near,projecting,Environmental,volcano,island,the deep rumble of an erupting vent
+Spatial/Near,projecting,Environmental,waves,shoreline,the wash of heavy surf on a coastline
+Spatial/Near,projecting,Environmental,landslide,quarry,earth and rock falling down a steep slope
+Spatial/Near,projecting,Environmental,geyser,thermal field,a steam eruption from a large geyser
+Spatial/Near,projecting,Environmental,ice,arctic,a glacier calving into the ocean with a roar
+Spatial/Near,projecting,Environmental,storm surge,pier,a massive wave hitting a sea wall
+Spatial/Near,projecting,Environmental,rain,forest,a heavy downpour hitting a jungle canopy
+Spatial/Near,projecting,Environmental,fire,fields,the roar of a large brush fire in a meadow
+Spatial/Near,projecting,Environmental,sandstorm,adobe ruins,sand blowing against a stone wall
+Spatial/Near,projecting,Environmental,avalanche,mountain,snow sliding down a peak with a roar
+Spatial/Near,projecting,Environmental,bubbles,swamp,gas bursting on the surface of a deep pool
+Spatial/Near,projecting,Environmental,river,valley,water rushing through a series of rapids
+Spatial/Near,projecting,Environmental,thaw,meadow,meltwater rushing through a rock channel
+Spatial/Near,projecting,Environmental,leaves,woods,wind swiveling dry leaves in a forest
+Spatial/Near,projecting,Organic,howl,mountains,a wolf howling across a wide mountain range
+Spatial/Near,projecting,Organic,roar,savanna,a lion's roar traveling across an open plain
+Spatial/Near,projecting,Organic,scream,canyon,an eagle's cry over a deep open gorge
+Spatial/Near,projecting,Organic,vocal,stadium,the collective cheer of a large crowd
+Spatial/Near,projecting,Organic,throat,zoo,the deep groan of an elephant in a paddock
+Spatial/Near,projecting,Organic,wings,prairie,the flapping of a large bird's wings taking flight
+Spatial/Near,projecting,Organic,bark,farmland,a dog barking in a vast open pasture
+Spatial/Near,projecting,Organic,purr,manor house,the purr of a cat in a large stone hall
+Spatial/Near,projecting,Organic,skin,gym,a hand slap in an open outdoor arena
+Spatial/Near,projecting,Organic,scales,desert,a snake moving across open sand dunes
+Spatial/Near,projecting,Organic,bones,museum,the clatter of bones in a high gallery
+Spatial/Near,projecting,Organic,hair,salon,a hairdryer blowing air in a large room
+Spatial/Near,projecting,Organic,claws,rooftop,a squirrel scratching on a metal roof
+Spatial/Near,projecting,Organic,egg,farm,an eggshell cracking in an open barnyard
+Spatial/Near,projecting,Organic,beak,cliffs,a bird pecking at a shell on a rock
+Spatial/Near,projecting,Organic,throat,woods,the warning bark of a deer in the forest
+Spatial/Near,projecting,Organic,heartbeat,quiet room,a pulse echoing in a large chest
+Spatial/Near,projecting,Domestic,lawnmower,backyard,a lawnmower running in an open field
+Spatial/Near,projecting,Domestic,door,hallway,a heavy front door slamming in a stone foyer
+Spatial/Near,projecting,Domestic,vacuum,yard,the hum of a vacuum motor in a garage
+Spatial/Near,projecting,Domestic,kettle,pantry,a tea kettle whistle in a large kitchen
+Spatial/Near,projecting,Domestic,faucet,garden,water running from an outdoor hose bib
+Spatial/Near,projecting,Domestic,can,recycling center,a metal can being crushed in a yard
+Spatial/Near,projecting,Domestic,plate,dining room,a plate shattering on a marble terrace
+Spatial/Near,projecting,Domestic,silverware,restaurant,forks clinking on an outdoor cafe table
+Spatial/Near,projecting,Domestic,bottle,cellar,a glass bottle clinking on a stone wall
+Spatial/Near,projecting,Domestic,furniture,bedroom,a chair being moved on an open deck
+Spatial/Near,projecting,Domestic,clock,hallway,the chime of a clock in a town square
+Spatial/Near,projecting,Domestic,keys,foyer,keys being jiggled on a patio table
+Spatial/Near,projecting,Domestic,zipper,closet,a zipper being pulled on a tent door
+Spatial/Near,projecting,Domestic,lightbulb,garage,a lightbulb popping on a porch
+Spatial/Near,projecting,Domestic,curtain,bedroom,curtains flapping in an open window
+Spatial/Near,projecting,Domestic,fan,patio,a desk fan blowing on a balcony
+Spatial/Near,projecting,Domestic,broom,porch,a broom sweeping an open sidewalk
+Spatial/Near,projecting,Electronic,siren,city center,an electronic siren on a rooftop
+Spatial/Near,projecting,Electronic,beeper,hospital,a digital pager in an open hall
+Spatial/Near,projecting,Electronic,speaker,stadium,a public address chime in an arena
+Spatial/Near,projecting,Electronic,transformer,substation,the hum of a transformer in a field
+Spatial/Near,projecting,Electronic,alarm,bedroom,a digital alarm on a campsite
+Spatial/Near,projecting,Electronic,buzzer,factory,a buzzer sounding in an industrial yard
+Spatial/Near,projecting,Electronic,static,radio,the hiss of a radio on a beach
+Spatial/Near,projecting,Electronic,feedback,stage,guitar feedback in an outdoor theater
+Spatial/Near,projecting,Electronic,synthesizer,studio,a synthesizer pad on a roof
+Spatial/Near,projecting,Electronic,oscillator,lab,a frequency tone in a research park
+Spatial/Near,projecting,Electronic,relay,basement,an electrical switch in a cabinet
+Spatial/Near,projecting,Electronic,spark,garage,an electric spark in a workshop
+Spatial/Near,projecting,Electronic,toy,playroom,an electronic toy tune in a park
+Spatial/Near,projecting,Electronic,phone,hallway,a phone ringing on a plaza
+Spatial/Near,projecting,Electronic,modem,attic,modem tones in an open office
+Spatial/Near,projecting,Electronic,laser,lab,the cooling hum of a laser in a bay
+Spatial/Near,projecting,Electronic,led,billboard,the buzz of a screen in a square
+Spatial/Near,strong,Musical,timpani,concert hall,a timpani head being struck with a heavy mallet
+Spatial/Near,strong,Musical,trumpet,city square,a trumpet fanfare performed with great force
+Spatial/Near,strong,Musical,drums,stadium,a heavy bass drum being hit in the center
+Spatial/Near,strong,Musical,pipe organ,cathedral,the lowest pipes of an organ playing a full chord
+Spatial/Near,strong,Musical,gong,temple,a large ceremonial gong being struck in a courtyard
+Spatial/Near,strong,Musical,piano,ballroom,a grand piano chord played with a heavy attack
+Spatial/Near,strong,Musical,violin,art gallery,a bow moving forcefully across a violin string
+Spatial/Near,strong,Musical,cello,stone chapel,a low string note being plucked with power
+Spatial/Near,strong,Musical,trombone,hangar,a trombone player sustaining a loud steady note
+Spatial/Near,strong,Musical,didgeridoo,canyon,the deep vibrating drone of a didgeridoo
+Spatial/Near,strong,Musical,harp,conservatory,the resonance of several low strings being swept
+Spatial/Near,strong,Musical,bagpipes,highlands,the piercing sound of drone pipes in the wind
+Spatial/Near,strong,Musical,guitar,stage,an electric guitar chord played with high gain
+Spatial/Near,strong,Musical,flute,meadow,a flute playing a sharp overblown note in a field
+Spatial/Near,strong,Musical,marimba,theatre,a mallet strike on a low marimba bar
+Spatial/Near,strong,Musical,handbell,cathedral,a brass handbell being rung with force
+Spatial/Near,strong,Musical,cymbal,stadium,two crash cymbals hit together forcefully
+Spatial/Near,strong,Mechanical,hammer,workshop,a steel sledgehammer hitting a metal anvil
+Spatial/Near,strong,Mechanical,engine,racetrack,a race car motor revving at full throttle
+Spatial/Near,strong,Mechanical,press,factory,a heavy hydraulic press stamping a metal sheet
+Spatial/Near,strong,Mechanical,crane,dockyard,a diesel motor on a large port crane humming
+Spatial/Near,strong,Mechanical,siren,city street,a mechanical siren wailing at its peak
+Spatial/Near,strong,Mechanical,shutter,loading dock,a heavy steel door slamming shut
+Spatial/Near,strong,Mechanical,winch,mine shaft,a winch cable ratcheting under a heavy load
+Spatial/Near,strong,Mechanical,boiler,basement,the internal vibration of a steam boiler
+Spatial/Near,strong,Mechanical,piston,auto shop,the movement of a heavy hydraulic lift
+Spatial/Near,strong,Mechanical,belt,garage,a rubber belt snapping under extreme tension
+Spatial/Near,strong,Mechanical,lathe,factory,a lathe cutting into a piece of cast iron
+Spatial/Near,strong,Electronic,transformer,substation,the hum of a transformer in an field
+Spatial/Near,powerful,Musical,pipe organ,cathedral,a massive low chord playing on a cathedral organ
+Spatial/Near,powerful,Musical,bass drum,stadium,a heavy strike on a large concert bass drum
+Spatial/Near,powerful,Musical,timpani,concert hall,a timpani roll building to a peak intensity
+Spatial/Near,powerful,Musical,gong,temple,a ceremonial gong struck with a heavy felt mallet
+Spatial/Near,powerful,Musical,trumpet,city square,a trumpet blast aimed at a stone wall
+Spatial/Near,powerful,Musical,didgeridoo,canyon,the deep resonant drone of a didgeridoo
+Spatial/Near,powerful,Musical,piano,ballroom,a grand piano chord with full sustain pedal
+Spatial/Near,powerful,Musical,trombone,hangar,a trombone player sustaining a loud note
+Spatial/Near,powerful,Musical,tuba,museum,a tuba pedal note vibrating a wooden floor
+Spatial/Near,powerful,Musical,drum,basement,a heavy strike on a large floor tom tom
+Spatial/Near,powerful,Musical,cymbal,stadium,two large crash cymbals hitting each other
+Spatial/Near,powerful,Musical,bagpipes,highlands,drone pipes humming in a strong wind
+Spatial/Near,powerful,Musical,bells,tower,a large bronze bell ringing in a tower
+Spatial/Near,powerful,Musical,marimba,theatre,a low bar being struck with power
+Spatial/Near,powerful,Musical,saxophone,subway,a loud altissimo note on a saxophone
+Spatial/Near,powerful,Musical,violin,cave,a violin string plucked with force in a cavern
+Spatial/Near,powerful,Musical,accordion,tavern,a bellows-driven chord played forcefully
+Spatial/Near,powerful,Mechanical,industrial press,factory,a massive hydraulic press stamping a metal part
+Spatial/Near,powerful,Mechanical,pile driver,construction,a pile driver hitting a concrete beam
+Spatial/Near,powerful,Mechanical,engine,railway yard,a diesel locomotive motor starting up
+Spatial/Near,powerful,Mechanical,hammer,workshop,a steel hammer hitting a metal anvil
+Spatial/Near,powerful,Mechanical,crane,dockyard,a motor on a large port crane humming
+Spatial/Near,powerful,Mechanical,winch,mine shaft,a winch cable ratcheting under load
+Spatial/Near,powerful,Mechanical,saw,woodshop,a circular saw cutting through a log
+Spatial/Near,powerful,Mechanical,boiler,basement,internal vibration of a steam boiler
+Spatial/Near,powerful,Mechanical,piston,auto shop,movement of a heavy hydraulic lift
+Spatial/Near,powerful,Mechanical,belt,garage,a rubber belt snapping under tension
+Spatial/Near,powerful,Mechanical,lathe,factory,a lathe cutting into cast iron
+Spatial/Near,powerful,Environmental,waterfall,mountain,roar of a massive waterfall hitting a pool
+Spatial/Near,powerful,Environmental,waves,shoreline,wash of heavy surf on a coastline
+Spatial/Near,powerful,Environmental,landslide,quarry,earth and rock falling down a slope
+Spatial/Near,powerful,Environmental,geyser,thermal field,a steam eruption from a geyser
+Spatial/Near,powerful,Environmental,ice,arctic,a glacier calving into the ocean
+Spatial/Near,powerful,Environmental,fire,fields,the roar of a brush fire in a meadow
+Spatial/Near,powerful,Environmental,avalanche,mountain,snow sliding down a peak
+Spatial/Near,powerful,Environmental,bubbles,swamp,gas bursting on a stagnant surface
+Spatial/Near,powerful,Organic,vocal,stadium,collective cheer of a large crowd
+Spatial/Near,powerful,Organic,throat,zoo,deep groan of an elephant in a paddock
+Spatial/Near,powerful,Organic,wings,prairie,flapping of a large bird's wings taking flight
+Spatial/Near,powerful,Organic,purr,manor house,purr of a cat in a stone fireplace
+Spatial/Near,powerful,Organic,bones,museum,clatter of bones in a high gallery
+Spatial/Near,powerful,Organic,hair,salon,hairdryer blowing air in a large room
+Spatial/Near,powerful,Organic,claws,rooftop,squirrel scratching on a metal roof
+Spatial/Near,powerful,Organic,egg,farm,eggshell cracking in an open barnyard
+Spatial/Near,powerful,Organic,throat,woods,warning bark of a deer in the forest
+Spatial/Near,powerful,Organic,heartbeat,quiet room,pulse echoing in a large chest
+Spatial/Near,powerful,Domestic,lawnmower,backyard,lawnmower running in an open field
+Spatial/Near,powerful,Domestic,door,hallway,heavy front door slamming in a stone foyer
+Spatial/Near,powerful,Domestic,vacuum,yard,hum of a vacuum motor in a garage
+Spatial/Near,powerful,Domestic,kettle,pantry,tea kettle whistle in a large kitchen
+Spatial/Near,powerful,Domestic,can,recycling center,metal can being crushed in a yard
+Spatial/Near,powerful,Domestic,plate,dining room,plate shattering on a marble terrace
+Spatial/Near,powerful,Domestic,silverware,restaurant,forks clinking on an outdoor table
+Spatial/Near,powerful,Domestic,bottle,cellar,glass bottle clinking on a stone wall
+Spatial/Near,powerful,Domestic,furniture,bedroom,a chair being moved on a roof deck
+Spatial/Near,powerful,Domestic,clock,hallway,chime of a clock in a town square
+Spatial/Near,powerful,Domestic,zipper,closet,zipper being pulled on a tent door
+Spatial/Near,powerful,Domestic,lightbulb,garage,lightbulb popping on a porch
+Spatial/Near,powerful,Domestic,fan,patio,desk fan blowing on a balcony
+Spatial/Near,powerful,Domestic,broom,porch,broom sweeping an open sidewalk
+Spatial/Near,powerful,Electronic,siren,city center,electronic siren on a rooftop
+Spatial/Near,powerful,Electronic,beeper,hospital,digital pager in an open hall
+Spatial/Near,powerful,Electronic,speaker,stadium,public address chime in an arena
+Spatial/Near,powerful,Electronic,transformer,substation,hum of a transformer in a field
+Spatial/Near,powerful,Electronic,alarm,bedroom,digital alarm on a campsite
+Spatial/Near,powerful,Electronic,buzzer,factory,buzzer sounding in an industrial yard
+Spatial/Near,powerful,Electronic,static,radio,hiss of a radio on a beach
+Spatial/Near,powerful,Electronic,synthesizer,studio,synthesizer pad on a roof
+Spatial/Near,powerful,Electronic,oscillator,lab,frequency tone in a research park
+Spatial/Near,powerful,Electronic,relay,basement,electrical switch in a cabinet
+Spatial/Near,powerful,Electronic,spark,garage,electric spark in a workshop
+Spatial/Near,powerful,Electronic,toy,playroom,electronic toy tune in a park
+Spatial/Near,powerful,Electronic,phone,hallway,phone ringing on a plaza
+Spatial/Near,powerful,Electronic,laser,lab,cooling hum of a laser in a bay
+Spatial/Near,powerful,Electronic,led,billboard,buzz of a screen in a square
+Spatial/Near,loud,Musical,timpani,concert hall,timpani head struck with a heavy mallet
+Spatial/Near,loud,Musical,trumpet,city square,trumpet fanfare performed with great force
+Spatial/Near,loud,Musical,drums,stadium,heavy bass drum hit in the center
+Spatial/Near,loud,Musical,pipe organ,cathedral,lowest organ pipes playing a full chord
+Spatial/Near,loud,Musical,gong,temple,large ceremonial gong struck in a courtyard
+Spatial/Near,loud,Musical,piano,ballroom,grand piano chord played with a heavy attack
+Spatial/Near,loud,Musical,violin,art gallery,bow moving forcefully across a string
+Spatial/Near,loud,Musical,cello,stone chapel,low string note plucked with power
+Spatial/Near,loud,Musical,trombone,hangar,trombone player sustaining a loud steady note
+Spatial/Near,loud,Musical,didgeridoo,canyon,deep vibrating drone of a didgeridoo
+Spatial/Near,loud,Musical,harp,conservatory,resonance of low strings being swept
+Spatial/Near,loud,Musical,bagpipes,highlands,piercing sound of drone pipes in wind
+Spatial/Near,loud,Musical,guitar,stage,electric guitar chord played with high gain
+Spatial/Near,loud,Musical,flute,meadow,flute playing sharp overblown note in field
+Spatial/Near,loud,Musical,marimba,theatre,mallet strike on a low marimba bar
+Spatial/Near,loud,Musical,handbell,cathedral,brass handbell rung with force
+Spatial/Near,loud,Mechanical,hammer,workshop,steel sledgehammer hitting a metal anvil
+Spatial/Near,loud,Mechanical,engine,racetrack,race car motor revving at full throttle
+Spatial/Near,loud,Mechanical,drill,quarry,rock drill boring into a granite wall
+Spatial/Near,loud,Mechanical,press,factory,heavy hydraulic press stamping metal sheet
+Spatial/Near,loud,Mechanical,crane,dockyard,diesel motor on a port crane humming
+Spatial/Near,loud,Mechanical,siren,city street,mechanical siren wailing at its peak
+Spatial/Near,loud,Mechanical,shutter,loading dock,heavy steel door slamming shut
+Spatial/Near,loud,Mechanical,winch,mine shaft,winch cable ratcheting under load
+Spatial/Near,loud,Mechanical,pump,industrial site,high-pressure pump humming loudly
+Spatial/Near,loud,Mechanical,fan,warehouse,massive exhaust fan spinning in a bay
+Spatial/Near,loud,Mechanical,saw,woodshop,circular saw cutting through a thick log
+Spatial/Near,loud,Mechanical,locomotive,railway yard,train engine idling in a valley
+Spatial/Near,loud,Mechanical,mixer,bakery,large industrial dough mixer turning
+Spatial/Near,loud,Mechanical,belt,garage,rubber belt snapping under tension
+Spatial/Near,loud,Mechanical,lathe,factory,lathe cutting into piece of cast iron
+Spatial/Near,loud,Environmental,thunder,prairie,loud thunderclap echoing between mountains
+Spatial/Near,loud,Environmental,wind,canyon,gale howling through narrow rock gap
+Spatial/Near,loud,Environmental,waterfall,mountain,roar of massive waterfall hitting a pool
+Spatial/Near,loud,Environmental,volcano,island,deep rumble of an erupting vent
+Spatial/Near,loud,Environmental,geyser,thermal field,steam eruption from a large geyser
+Spatial/Near,loud,Environmental,ice,arctic,glacier calving into ocean with a roar
+Spatial/Near,loud,Environmental,storm surge,pier,massive wave hitting a sea wall
+Spatial/Near,loud,Environmental,rain,forest,heavy downpour hitting a jungle canopy
+Spatial/Near,loud,Environmental,fire,fields,roar of a large brush fire in a meadow
+Spatial/Near,loud,Environmental,sandstorm,adobe ruins,sand blowing against stone wall
+Spatial/Near,loud,Environmental,avalanche,mountain,snow sliding down peak with a roar
+Spatial/Near,loud,Environmental,bubbles,swamp,gas bursting on surface of a deep pool
+Spatial/Near,loud,Environmental,thaw,meadow,meltwater rushing through rock channel
+Spatial/Near,loud,Environmental,leaves,forest,wind swiveling dry leaves in forest
+Spatial/Near,loud,Organic,roar,savanna,lion's roar traveling across an open plain
+Spatial/Near,loud,Organic,howl,mountains,wolf howling across wide mountain range
+Spatial/Near,loud,Organic,scream,canyon,eagle's cry over a deep open gorge
+Spatial/Near,loud,Organic,throat,zoo,deep groan of elephant in a paddock
+Spatial/Near,loud,Organic,wings,prairie,flapping of large bird's wings taking flight
+Spatial/Near,loud,Organic,bark,farmland,dog barking in vast open pasture
+Spatial/Near,loud,Organic,purr,manor house,purr of cat in stone fireplace
+Spatial/Near,loud,Organic,skin,gym,hand slap in open outdoor arena
+Spatial/Near,loud,Organic,scales,desert,snake moving across open sand dunes
+Spatial/Near,loud,Organic,claws,rooftop,squirrel scratching on metal roof
+Spatial/Near,loud,Organic,egg,farm,eggshell cracking in open barnyard
+Spatial/Near,loud,Organic,beak,cliffs,bird pecking at shell on a rock
+Spatial/Near,loud,Organic,throat,woods,warning bark of deer in forest
+Spatial/Near,loud,Domestic,lawnmower,backyard,lawnmower running in open field
+Spatial/Near,loud,Domestic,door,hallway,heavy front door slamming in foyer
+Spatial/Near,loud,Domestic,vacuum,yard,hum of vacuum motor in a garage
+Spatial/Near,loud,Domestic,faucet,garden,water running from outdoor hose bib
+Spatial/Near,loud,Domestic,can,recycling center,metal can being crushed in yard
+Spatial/Near,loud,Domestic,plate,dining room,plate shattering on marble terrace
+Spatial/Near,loud,Domestic,silverware,restaurant,forks clinking on outdoor table
+Spatial/Near,loud,Domestic,bottle,cellar,glass bottle clinking on stone wall
+Spatial/Near,loud,Domestic,furniture,bedroom,chair being moved on roof deck
+Spatial/Near,loud,Domestic,clock,hallway,chime of a clock in town square
+Spatial/Near,loud,Domestic,keys,foyer,keys being jiggled on patio table
+Spatial/Near,loud,Domestic,zipper,closet,zipper being pulled on tent door
+Spatial/Near,loud,Domestic,lightbulb,garage,lightbulb popping on porch
+Spatial/Near,loud,Domestic,curtain,bedroom,curtains flapping in open window
+Spatial/Near,loud,Domestic,fan,patio,desk fan blowing on balcony
+Spatial/Near,loud,Electronic,siren,city center,electronic siren on rooftop
+Spatial/Near,loud,Electronic,beeper,hospital,digital pager in open hall
+Spatial/Near,loud,Electronic,speaker,stadium,public address chime in arena
+Spatial/Near,loud,Electronic,transformer,substation,hum of transformer in field
+Spatial/Near,loud,Electronic,alarm,bedroom,digital alarm on campsite
+Spatial/Near,loud,Electronic,buzzer,factory,buzzer sounding in industrial yard
+Spatial/Near,loud,Electronic,static,radio,hiss of radio on a beach
+Spatial/Near,loud,Electronic,feedback,stage,guitar feedback in outdoor theater
+Spatial/Near,loud,Electronic,oscillator,lab,frequency tone in research park
+Spatial/Near,loud,Electronic,relay,basement,electrical switch in cabinet
+Spatial/Near,loud,Electronic,spark,garage,electric spark in workshop
+Spatial/Near,loud,Electronic,toy,playroom,electronic toy tune in park
+Spatial/Near,loud,Electronic,phone,hallway,phone ringing on plaza
+Spatial/Near,loud,Electronic,modem,attic,modem tones in open office
+Spatial/Near,loud,Electronic,laser,lab,cooling hum of laser in bay
+Spatial/Near,loud,Electronic,led,billboard,buzz of screen in square
+Spatial/Near,assertive,Musical,drums,stadium,heavy bass drum strike in the center
+Spatial/Near,assertive,Musical,timpani,concert hall,timpani head hit with a heavy mallet
+Spatial/Near,assertive,Musical,gong,temple,ceremonial gong struck in a courtyard
+Spatial/Near,assertive,Musical,piano,ballroom,grand piano chord with heavy attack
+Spatial/Near,assertive,Musical,pipe organ,cathedral,organ pipes playing a full chord
+Spatial/Near,assertive,Musical,trombone,hangar,trombone sustaining a loud note
+Spatial/Near,assertive,Musical,bagpipes,highlands,piercing sound of drone pipes
+Spatial/Near,assertive,Musical,guitar,stage,electric guitar chord with high gain
+Spatial/Near,assertive,Musical,flute,meadow,flute playing a sharp overblown note
+Spatial/Near,assertive,Musical,cymbal,stadium,crash cymbals hit together forcefully
+Spatial/Near,assertive,Mechanical,hammer,workshop,steel sledgehammer hitting an anvil
+Spatial/Near,assertive,Mechanical,press,factory,heavy hydraulic press stamping metal
+Spatial/Near,assertive,Mechanical,saw,woodshop,circular saw cutting through a log
+Spatial/Near,assertive,Mechanical,piston,auto shop,movement of heavy hydraulic lift
+Spatial/Near,assertive,Mechanical,lathe,factory,lathe cutting into cast iron
+Spatial/Near,assertive,Environmental,thunder,prairie,loud thunderclap echoing in mountains
+Spatial/Near,assertive,Environmental,wind,canyon,gale howling through rock gap
+Spatial/Near,assertive,Environmental,waterfall,mountain,roar of massive waterfall in pool
+Spatial/Near,assertive,Environmental,waves,shoreline,wash of heavy surf on coastline
+Spatial/Near,assertive,Environmental,landslide,quarry,earth falling down a steep slope
+Spatial/Near,assertive,Environmental,geyser,thermal field,steam eruption from a geyser
+Spatial/Near,assertive,Environmental,ice,arctic,glacier calving into ocean with roar
+Spatial/Near,assertive,Environmental,storm surge,pier,massive wave hitting sea wall
+Spatial/Near,assertive,Environmental,rain,forest,heavy downpour hitting jungle canopy
+Spatial/Near,assertive,Environmental,fire,fields,roar of a brush fire in a meadow
+Spatial/Near,assertive,Environmental,sandstorm,adobe ruins,sand blowing against wall
+Spatial/Near,assertive,Environmental,avalanche,mountain,snow sliding down mountain
+Spatial/Near,assertive,Environmental,bubbles,swamp,gas bursting on surface of pool
+Spatial/Near,assertive,Environmental,river,valley,water rushing through rapids
+Spatial/Near,assertive,Environmental,thaw,meadow,meltwater rushing in rock channel
+Spatial/Near,assertive,Organic,roar,savanna,lion's roar traveling across plain
+Spatial/Near,assertive,Organic,howl,mountains,wolf howling across mountain range
+Spatial/Near,assertive,Organic,scream,canyon,eagle's cry over deep open gorge
+Spatial/Near,assertive,Organic,wings,prairie,flapping of large bird's wings
+Spatial/Near,assertive,Organic,bark,farmland,dog barking in open pasture
+Spatial/Near,assertive,Organic,scales,desert,snake moving across sand dunes
+Spatial/Near,assertive,Organic,bones,museum,clatter of bones in high gallery
+Spatial/Near,assertive,Organic,hair,salon,hairdryer blowing air in large room
+Spatial/Near,assertive,Organic,egg,farm,eggshell cracking in barnyard
+Spatial/Near,assertive,Organic,beak,cliffs,bird pecking at shell on rock
+Spatial/Near,assertive,Organic,heartbeat,quiet room,pulse echoing in large chest
+Spatial/Near,assertive,Domestic,vacuum,yard,hum of vacuum motor in garage
+Spatial/Near,assertive,Domestic,kettle,pantry,tea kettle whistle in kitchen
+Spatial/Near,assertive,Domestic,faucet,garden,water running from outdoor hose
+Spatial/Near,assertive,Domestic,can,recycling center,metal can being crushed
+Spatial/Near,assertive,Domestic,plate,dining room,plate shattering on terrace
+Spatial/Near,assertive,Domestic,silverware,restaurant,forks clinking on table
+Spatial/Near,assertive,Domestic,bottle,cellar,glass bottle clinking on wall
+Spatial/Near,assertive,Domestic,furniture,bedroom,chair being moved on deck
+Spatial/Near,assertive,Domestic,clock,hallway,chime of clock in town square
+Spatial/Near,assertive,Domestic,zipper,closet,zipper being pulled on tent
+Spatial/Near,assertive,Domestic,curtain,bedroom,curtains flapping in window
+Spatial/Near,assertive,Domestic,broom,porch,broom sweeping open sidewalk
+Spatial/Near,assertive,Electronic,buzzer,factory,buzzer sounding in yard
+Spatial/Near,assertive,Electronic,static,radio,hiss of radio on beach
+Spatial/Near,assertive,Electronic,feedback,stage,guitar feedback in theater
+Spatial/Near,assertive,Electronic,synthesizer,studio,synthesizer pad on roof

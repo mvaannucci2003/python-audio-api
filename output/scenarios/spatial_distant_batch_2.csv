@@ -1,0 +1,674 @@
+category,tag,domain,source,environment,scenario
+Spatial/Distant,far,Musical,trumpet,mountain range,a trumpet fanfare performed from a peak several miles away
+Spatial/Distant,far,Musical,bagpipes,highlands,the drone of bagpipes carried over a wide lake from a remote shore
+Spatial/Distant,far,Musical,temple bell,valley,a large bronze bell striking in a monastery on a distant hill
+Spatial/Distant,far,Musical,marching band,city street,the rhythmic pulse of a drumline heard from several blocks away
+Spatial/Distant,far,Musical,organ,fields,a church organ playing during a service heard from across a meadow
+Spatial/Distant,far,Musical,flute,forest,a wooden flute melody drifting through a dense woods from a hidden clearing
+Spatial/Distant,far,Musical,gong,desert,a ceremonial gong being struck at a remote encampment
+Spatial/Distant,far,Musical,piano,manor house,a piano being played in a distant wing of a large stone estate
+Spatial/Distant,far,Musical,violin,cliffs,a violin soloist performing on a high ledge above a coastal path
+Spatial/Distant,far,Musical,drums,stadium,the sound of a stadium drum kit heard from a parking lot outside
+Spatial/Distant,far,Musical,harmonica,campsite,a harmonica tune played by a fire on the opposite side of a canyon
+Spatial/Distant,far,Musical,cello,art gallery,the low notes of a cello in a basement heard from the top floor
+Spatial/Distant,far,Musical,accordion,village square,an accordion playing at a festival heard from a remote vineyard
+Spatial/Distant,far,Musical,harp,conservatory,the high strings of a harp in a courtyard heard through a closed window
+Spatial/Distant,far,Musical,tuba,park,a tuba practicing in a gazebo heard from the edge of the woods
+Spatial/Distant,far,Musical,shaker,beach,a percussionist shaking beads on a far sandbar at low tide
+Spatial/Distant,far,Musical,triangle,cathedral,a triangle strike in the bell tower heard from the street level
+Spatial/Distant,far,Mechanical,train engine,prairie,a freight train crossing a trestle on the distant horizon
+Spatial/Distant,far,Mechanical,siren,city center,an emergency siren wailing from across a sprawling metropolitan area
+Spatial/Distant,far,Mechanical,tractor,farmland,a diesel tractor tilling a field on the opposite side of a valley
+Spatial/Distant,far,Mechanical,winch,dockyard,a heavy metal winch ratcheting on a ship anchored in the bay
+Spatial/Distant,far,Mechanical,lawnmower,suburban park,a gasoline lawnmower running in a neighboring residential block
+Spatial/Distant,far,Mechanical,crane,industrial site,a massive construction crane pivoting on a site across the river
+Spatial/Distant,far,Mechanical,propeller plane,sky,a vintage biplane flying at a high altitude over a field
+Spatial/Distant,far,Mechanical,drill,quarry,a rock drill boring into granite on the floor of a deep pit
+Spatial/Distant,far,Mechanical,gears,mill,the rhythmic grinding of a water-powered mill from a forest path
+Spatial/Distant,far,Mechanical,shutter,factory,a large metal loading bay door closing in a warehouse district
+Spatial/Distant,far,Mechanical,pump,oil field,a pumpjack rhythmically moving in a remote desert patch
+Spatial/Distant,far,Mechanical,clock tower,town square,a clock mechanism striking the hour heard from a rural road
+Spatial/Distant,far,Mechanical,compressor,garage,an industrial air compressor running inside a brick building across a yard
+Spatial/Distant,far,Mechanical,fan,parking garage,a massive ventilation fan humming from deep within a tunnel
+Spatial/Distant,far,Mechanical,generator,campsite,a portable gas generator running at a remote cabin in the woods
+Spatial/Distant,far,Mechanical,lathe,machine shop,a metal lathe spinning in a basement heard from the sidewalk
+Spatial/Distant,far,Mechanical,elevator,hotel,the whir of an elevator motor at the top of a skyscraper shaft
+Spatial/Distant,far,Mechanical,chainsaw,forest,a chainsaw felling a tree on a distant timber lot
+Spatial/Distant,far,Environmental,thunder,desert,a rolling thunderclap originating behind a remote mountain ridge
+Spatial/Distant,far,Environmental,waves,shoreline,the wash of heavy surf on a coastline several miles away
+Spatial/Distant,far,Environmental,waterfall,mountain,the constant roar of a massive waterfall across a wide gorge
+Spatial/Distant,far,Environmental,landslide,canyon,earth and rock falling down a steep slope in a remote valley
+Spatial/Distant,far,Environmental,volcano,island,the deep rumble of a volcanic vent erupting on a far peak
+Spatial/Distant,far,Environmental,wind,canyon,a gale howling through a narrow pass at the top of a mountain
+Spatial/Distant,far,Environmental,ice,arctic,a glacier calving into the ocean heard from a research boat
+Spatial/Distant,far,Environmental,rain,forest,a heavy downpour hitting the canopy of a rainforest a mile away
+Spatial/Distant,far,Environmental,geyser,thermal field,a steam eruption from a large geyser on a distant plain
+Spatial/Distant,far,Environmental,river,valley,water rushing through a series of rapids in a deep gorge
+Spatial/Distant,far,Environmental,avalanche,alpine ridge,the sound of snow sliding down a peak in the distance
+Spatial/Distant,far,Environmental,storm surge,pier,a massive wave hitting a sea wall across a harbor
+Spatial/Distant,far,Environmental,sandstorm,adobe ruins,the hiss of sand blowing against a stone wall across the dunes
+Spatial/Distant,far,Environmental,fire,forest,the roar of a large forest fire in a remote mountain basin
+Spatial/Distant,far,Environmental,bubbles,swamp,marsh gas bursting on the surface of a distant stagnant pool
+Spatial/Distant,far,Environmental,thaw,meadow,meltwater rushing through a rock channel at the edge of a glacier
+Spatial/Distant,far,Environmental,leaves,autumn woods,a whirlwind lifting dry leaves in a distant meadow
+Spatial/Distant,far,Organic,howl,mountains,a wolf howling from a ridge on the opposite side of a valley
+Spatial/Distant,far,Organic,roar,savanna,a lion's roar echoing across an open plain at night
+Spatial/Distant,far,Organic,scream,canyon,the cry of a hawk circling high above a deep gorge
+Spatial/Distant,far,Organic,vocal,stadium,the collective cheer of a crowd heard from a mile away
+Spatial/Distant,far,Organic,footsteps,forest,a large animal moving through dry brush on a far hillside
+Spatial/Distant,far,Organic,wings,meadow,the flapping of a large bird taking flight from a distant pond
+Spatial/Distant,far,Organic,throat,zoo,the deep groan of an elephant at a remote corner of a park
+Spatial/Distant,far,Organic,trill,woodland,a songbird calling from the top of a very tall redwood tree
+Spatial/Distant,far,Organic,howl,tundra,the yip of a coyote pack in a remote snowy basin
+Spatial/Distant,far,Organic,breathing,stable,the heavy exhale of a horse in a far paddock
+Spatial/Distant,far,Organic,scales,reptile house,a large snake sliding over dry leaves in a remote enclosure
+Spatial/Distant,far,Organic,purr,manor house,the vibration of a large cat in a far room of a mansion
+Spatial/Distant,far,Organic,bark,farmland,a sheepdog barking at a herd on a distant pasture
+Spatial/Distant,far,Organic,bones,museum,the clatter of a heavy bone being set down in a far gallery
+Spatial/Distant,far,Organic,egg,incubator,a chick pecking at a shell in a back room of a hatchery
+Spatial/Distant,far,Organic,hair,salon,the snip of scissors at the opposite end of a long hallway
+Spatial/Distant,far,Organic,claws,attic,a squirrel scratching on a wooden beam in a far corner of a house
+Spatial/Distant,far,Domestic,lawnmower,backyard,a neighbor mowing their lawn several houses away
+Spatial/Distant,far,Domestic,door,hallway,a heavy front door slamming at the end of a long corridor
+Spatial/Distant,far,Domestic,plate,dining room,the clatter of a ceramic plate in a kitchen heard from a balcony
+Spatial/Distant,far,Domestic,keys,foyer,a ring of keys being dropped on a table in a far entryway
+Spatial/Distant,far,Domestic,vacuum,living room,the hum of a vacuum cleaner in an upstairs bedroom
+Spatial/Distant,far,Domestic,kettle,pantry,a tea kettle whistling in a kitchen at the end of a hall
+Spatial/Distant,far,Domestic,silverware,restaurant,the clinking of forks in a busser's bin at the back of a hall
+Spatial/Distant,far,Domestic,furniture,bedroom,a heavy wardrobe being dragged across a floor in a far room
+Spatial/Distant,far,Domestic,clock,hallway,the chime of a grandfather clock in a foyer heard from an attic
+Spatial/Distant,far,Domestic,faucet,bathroom,water running in a bathtub in a guest wing of a house
+Spatial/Distant,far,Domestic,can,kitchen,a metal can being crushed in a garage heard from a patio
+Spatial/Distant,far,Domestic,bottle,cellar,a glass bottle breaking on a basement floor heard from a porch
+Spatial/Distant,far,Domestic,zipper,closet,a heavy zipper being pulled on a jacket in a far wardrobe
+Spatial/Distant,far,Domestic,lightbulb,garage,a high-wattage bulb popping in a shed across a yard
+Spatial/Distant,far,Domestic,broom,porch,a person sweeping a stone patio at the far end of a garden
+Spatial/Distant,far,Domestic,curtain,theatre,stage curtains being drawn in an empty auditorium
+Spatial/Distant,far,Domestic,fan,bedroom,a desk fan humming in a room across a large apartment
+Spatial/Distant,far,Electronic,siren,city square,a civil defense siren wailing from a remote rooftop
+Spatial/Distant,far,Electronic,beeper,hospital,a digital pager beeping at the far end of a long ward
+Spatial/Distant,far,Electronic,speaker,stadium,a public address system announcement echoing across a city
+Spatial/Distant,far,Electronic,transformer,substation,the hum of a high-voltage transformer in a remote field
+Spatial/Distant,far,Electronic,alarm,bedroom,a digital alarm clock chirping in a neighbor's apartment
+Spatial/Distant,far,Electronic,buzzer,factory,an industrial shift buzzer sounding in a far wing of a plant
+Spatial/Distant,far,Electronic,static,radio,the hiss of a radio on a far porch across a lake
+Spatial/Distant,far,Electronic,feedback,stage,guitar feedback from a concert heard from a nearby park
+Spatial/Distant,far,Electronic,synthesizer,studio,a synthesizer pad playing in a basement heard from a sidewalk
+Spatial/Distant,far,Electronic,oscillator,lab,a high-frequency tone generator in a research facility
+Spatial/Distant,far,Electronic,relay,basement,an electromagnetic relay clicking in a remote server room
+Spatial/Distant,far,Electronic,spark,garage,an electric arc from a welder in a shop across a courtyard
+Spatial/Distant,far,Electronic,toy,playroom,an electronic toy playing a tune in a far nursery
+Spatial/Distant,far,Electronic,phone,hallway,a smartphone ringing in a bag at the end of a corridor
+Spatial/Distant,far,Electronic,modem,attic,the handshake tones of a modem in a remote office
+Spatial/Distant,far,Electronic,laser,lab,the cooling fan of a high-power laser in a far research wing
+Spatial/Distant,far,Electronic,led,billboard,the subtle buzz of a massive screen across a wide plaza
+Spatial/Distant,reverb,Musical,snare drum,hangar,a single sharp strike on a snare drum in an empty airplane hangar
+Spatial/Distant,reverb,Musical,trumpet,cathedral,a trumpet playing a loud staccato note in a stone vaulted church
+Spatial/Distant,reverb,Musical,pipe organ,abbey,a massive chord on a pipe organ in a highly reflective stone abbey
+Spatial/Distant,reverb,Musical,violin,cave,a violin playing a pizzicato note in a damp limestone cavern
+Spatial/Distant,reverb,Musical,piano,ballroom,a grand piano chord played with the sustain pedal in an empty hall
+Spatial/Distant,reverb,Musical,gong,temple,a bronze gong struck once in a large subterranean stone chamber
+Spatial/Distant,reverb,Musical,harp,museum,a glissando on a harp in a high-ceilinged marble gallery
+Spatial/Distant,reverb,Musical,cello,cistern,a cellist playing a low note in an empty brick water tank
+Spatial/Distant,reverb,Musical,flute,tunnel,a silver flute melody echoing in a long concrete drainage pipe
+Spatial/Distant,reverb,Musical,handbell,cathedral,a brass handbell struck once in a central bell tower
+Spatial/Distant,reverb,Musical,timpani,theatre,a timpani strike in an empty wooden auditorium
+Spatial/Distant,reverb,Musical,marimba,warehouse,a mallet roll on a marimba in a large industrial space
+Spatial/Distant,reverb,Musical,claves,abbey,two rosewood sticks being struck together in a stone cloister
+Spatial/Distant,reverb,Musical,harpsichord,castle,a harpsichord arpeggio in a stone-walled banquet hall
+Spatial/Distant,reverb,Musical,triangle,cathedral,a steel triangle strike in a massive gothic cathedral
+Spatial/Distant,reverb,Musical,cymbals,gymnasium,two crash cymbals hit together in an empty sports hall
+Spatial/Distant,reverb,Musical,didgeridoo,canyon,a didgeridoo drone echoing inside a deep sandstone cave
+Spatial/Distant,reverb,Mechanical,shutter,warehouse,a heavy steel rolling door slamming shut in a vast empty depot
+Spatial/Distant,reverb,Mechanical,hammer,basement,a steel hammer hitting a metal pipe in a large concrete cellar
+Spatial/Distant,reverb,Mechanical,gears,clock tower,the mechanical ticking of gears in a stone clock chamber
+Spatial/Distant,reverb,Mechanical,winch,mine shaft,a winch cable ratcheting in a deep vertical stone pit
+Spatial/Distant,reverb,Mechanical,engine,parking garage,a car engine starting up in a multi-story concrete structure
+Spatial/Distant,reverb,Mechanical,siren,tunnel,a mechanical siren wailing as it passes through a road tunnel
+Spatial/Distant,reverb,Mechanical,press,factory,a hydraulic press stamping metal in an empty industrial bay
+Spatial/Distant,reverb,Mechanical,drill,subway station,a pneumatic drill working on a concrete platform
+Spatial/Distant,reverb,Mechanical,fan,parking garage,a massive exhaust fan spinning in an empty basement level
+Spatial/Distant,reverb,Mechanical,typewriter,library,a single typewriter key strike in a vast silent reading room
+Spatial/Distant,reverb,Mechanical,clock,hallway,the slow ticking of a grandfather clock in a long marble hall
+Spatial/Distant,reverb,Mechanical,printing press,basement,a vintage press mechanism in a large stone vault
+Spatial/Distant,reverb,Mechanical,lock,vault,a heavy bolt sliding into place in a large metal safe room
+Spatial/Distant,reverb,Mechanical,elevator,hotel,the sound of an elevator car arriving in a high atrium
+Spatial/Distant,reverb,Mechanical,pump,waterworks,a water pump vibrating in a large stone filtration room
+Spatial/Distant,reverb,Mechanical,winch,dockyard,a cable snapping under tension in an empty dry dock
+Spatial/Distant,reverb,Mechanical,lathe,machine shop,a metal lathe spinning a part in a large empty workshop
+Spatial/Distant,reverb,Environmental,water,cave,a single water droplet falling into a deep pool in a limestone cavern
+Spatial/Distant,reverb,Environmental,thunder,canyon,a thunderclap echoing between steep granite walls
+Spatial/Distant,reverb,Environmental,ice,glacier,the sound of an ice shelf cracking inside a deep moulin
+Spatial/Distant,reverb,Environmental,rockslide,quarry,heavy boulders falling into a deep rock pit
+Spatial/Distant,reverb,Environmental,wind,canyon,a gust of wind howling through a hollow mountain cave
+Spatial/Distant,reverb,Environmental,geyser,thermal field,the internal thumping of water boiling in a stone vent
+Spatial/Distant,reverb,Environmental,volcano,lava tube,rocks clattering down the side of a hollow volcanic pipe
+Spatial/Distant,reverb,Environmental,waves,cliffs,surf crashing into a deep sea cave during high tide
+Spatial/Distant,reverb,Environmental,rain,greenhouse,heavy rain drumming on a large glass and metal dome
+Spatial/Distant,reverb,Environmental,river,tunnel,water rushing through a large concrete overflow pipe
+Spatial/Distant,reverb,Environmental,thaw,mountain,a chunk of ice shattering in a narrow rock crevice
+Spatial/Distant,reverb,Environmental,landslide,cave,earth sliding down a vertical shaft into a cavern
+Spatial/Distant,reverb,Environmental,bubbles,cistern,large bubbles rising to the surface of a deep tank
+Spatial/Distant,reverb,Environmental,gears,mill,the sound of a waterwheel turning in a large stone mill house
+Spatial/Distant,reverb,Environmental,leaves,forest,dry leaves being swirled by wind in a stone courtyard
+Spatial/Distant,reverb,Environmental,snow,tundra,the crunch of boots on ice inside a large hollow ice cave
+Spatial/Distant,reverb,Environmental,storm,ship,the creaking of wooden beams in a large empty cargo hold
+Spatial/Distant,reverb,Organic,vocal,stairwell,"a person shouting ""hello"" in a multi-story concrete stairwell"
+Spatial/Distant,reverb,Organic,footsteps,hallway,hard-soled boots walking on a polished marble floor
+Spatial/Distant,reverb,Organic,throat,zoo,the roar of a lion echoing in a concrete den
+Spatial/Distant,reverb,Organic,scream,canyon,a hawk's cry echoing off the walls of a narrow gorge
+Spatial/Distant,reverb,Organic,breathing,cave,the slow exhale of a person in a deep limestone cavern
+Spatial/Distant,reverb,Organic,skin,gym,a hand slap on a wall in an empty indoor basketball court
+Spatial/Distant,reverb,Organic,bones,museum,the clatter of bones being moved in a high-vaulted gallery
+Spatial/Distant,reverb,Organic,teeth,bathroom,a person clicking their teeth in a tiled shower room
+Spatial/Distant,reverb,Organic,fingernails,boardroom,nails tapping on a glass table in a large empty office
+Spatial/Distant,reverb,Organic,wings,barn,a bird's wings flapping in a large empty hay loft
+Spatial/Distant,reverb,Organic,vocal,abbey,a monk's low-frequency chant in a stone chapel
+Spatial/Distant,reverb,Organic,nest,attic,a squirrel scurrying across a wooden floor in a hollow roof
+Spatial/Distant,reverb,Organic,claws,basement,a rat scratching on a metal pipe in a concrete cellar
+Spatial/Distant,reverb,Organic,hair,salon,the snip of scissors echoing in an empty tiled shop
+Spatial/Distant,reverb,Organic,egg,kitchen,an eggshell cracking in a large empty dining hall
+Spatial/Distant,reverb,Organic,purr,manor house,the purr of a cat in a large stone fireplace
+Spatial/Distant,reverb,Organic,beak,cliffs,a bird pecking a shell on a rock in a sea cave
+Spatial/Distant,reverb,Domestic,door,hallway,a heavy wooden interior door being closed in a stone foyer
+Spatial/Distant,reverb,Domestic,plate,dining room,a ceramic plate shattering on a tile floor in an empty ballroom
+Spatial/Distant,reverb,Domestic,silverware,restaurant,a spoon being dropped into a metal sink in a large hall
+Spatial/Distant,reverb,Domestic,keys,foyer,a ring of keys being tossed onto a marble counter
+Spatial/Distant,reverb,Domestic,kettle,pantry,a tea kettle whistle echoing in a high-ceilinged kitchen
+Spatial/Distant,reverb,Domestic,vacuum,living room,the drone of a vacuum cleaner in a large empty mansion
+Spatial/Distant,reverb,Domestic,bottle,cellar,a glass bottle clinking against a wall in a stone cellar
+Spatial/Distant,reverb,Domestic,furniture,bedroom,a heavy oak chair being moved in a large vaulted room
+Spatial/Distant,reverb,Domestic,clock,hallway,the chime of a grandfather clock in a long gallery
+Spatial/Distant,reverb,Domestic,faucet,bathroom,a dripping tap in a large tiled public restroom
+Spatial/Distant,reverb,Domestic,can,kitchen,an aluminum can hitting a stone floor in a warehouse
+Spatial/Distant,reverb,Domestic,jewelry,bedroom,a gold necklace sliding onto a glass vanity in a large room
+Spatial/Distant,reverb,Domestic,zipper,closet,a metal zipper being pulled in a walk-in closet
+Spatial/Distant,reverb,Domestic,lightbulb,garage,a lightbulb exploding in a large concrete garage
+Spatial/Distant,reverb,Domestic,curtain,theatre,heavy stage curtains being pulled in an empty auditorium
+Spatial/Distant,reverb,Domestic,fan,bedroom,a desk fan humming in a large high-ceilinged attic
+Spatial/Distant,reverb,Domestic,broom,porch,a broom sweeping a stone porch in a quiet courtyard
+Spatial/Distant,reverb,Electronic,buzzer,subway station,a loud electronic buzzer sounding in a long tunnel
+Spatial/Distant,reverb,Electronic,beeper,hospital,a digital alarm beeping in an empty medical wing
+Spatial/Distant,reverb,Electronic,speaker,stadium,a microphone feedback squeal in an empty arena
+Spatial/Distant,reverb,Electronic,transformer,substation,the hum of a power transformer in a large concrete bay
+Spatial/Distant,reverb,Electronic,static,radio,the hiss of a radio playing in a large empty hall
+Spatial/Distant,reverb,Electronic,alarm,bedroom,a digital alarm clock chirping in an unfurnished room
+Spatial/Distant,reverb,Electronic,feedback,stage,guitar feedback building in a large empty theater
+Spatial/Distant,reverb,Electronic,synthesizer,studio,a synthesizer note echoing in a large recording chamber
+Spatial/Distant,reverb,Electronic,oscillator,lab,a pure sine wave playing through speakers in a cavern
+Spatial/Distant,reverb,Electronic,relay,basement,an electromagnetic switch clicking in a hollow metal cabinet
+Spatial/Distant,reverb,Electronic,spark,garage,a high-voltage spark jumping between poles in a concrete shop
+Spatial/Distant,reverb,Electronic,toy,playroom,an electronic toy playing a chime in an empty nursery
+Spatial/Distant,reverb,Electronic,phone,hallway,a smartphone ringing in a long concrete corridor
+Spatial/Distant,reverb,Electronic,modem,attic,the digital data stream echoing in an empty house
+Spatial/Distant,reverb,Electronic,laser,lab,the pulse of a laser system in a high-vaulted laboratory
+Spatial/Distant,reverb,Electronic,led,billboard,the buzz of a massive screen in an empty stone plaza
+Spatial/Distant,reverb,Electronic,capacitor,lab,the discharge of a large capacitor in a research hall
+Spatial/Distant,open,Musical,trumpet,prairie,a trumpet playing a single long note on a flat plain
+Spatial/Distant,open,Musical,chimes,mountaintop,metal wind chimes swaying in a high-altitude breeze
+Spatial/Distant,open,Musical,drum,field,a large bass drum being struck in the middle of a valley
+Spatial/Distant,open,Musical,flute,meadow,a wooden flute playing a melody in an open grassland
+Spatial/Distant,open,Musical,bagpipes,plateau,the drone of bagpipes over a vast rocky plateau
+Spatial/Distant,open,Musical,gong,beach,a gong being struck on a wide sandy shoreline
+Spatial/Distant,open,Musical,violin,salt flat,a violin being bowed in a vast white desert
+Spatial/Distant,open,Musical,mandolin,hillside,a mandolin being strummed on a steep grassy slope
+Spatial/Distant,open,Musical,harp,meadow,the resonance of harp strings in an open valley
+Spatial/Distant,open,Musical,piano,rooftop,a grand piano being played on the roof of a skyscraper
+Spatial/Distant,open,Musical,harmonica,farmland,a harmonica melody carried by the wind over cornfields
+Spatial/Distant,open,Musical,tambourine,parade ground,a tambourine shaken in a vast outdoor arena
+Spatial/Distant,open,Musical,triangle,mountaintop,a triangle being struck at a high mountain pass
+Spatial/Distant,open,Musical,accordion,street,an accordion playing in a wide open town square
+Spatial/Distant,open,Musical,celesta,garden,a celesta playing in the center of a large park
+Spatial/Distant,open,Musical,didgeridoo,outback,the drone of a didgeridoo in a flat scrubland
+Spatial/Distant,open,Musical,bells,plaza,a set of small bells ringing in an open courtyard
+Spatial/Distant,open,Mechanical,propeller plane,sky,a small airplane engine humming in a clear blue sky
+Spatial/Distant,open,Mechanical,tractor,fields,a diesel tractor engine running on a flat horizon
+Spatial/Distant,open,Mechanical,winch,dockyard,a winch motor on an open pier pulling a boat
+Spatial/Distant,open,Mechanical,crane,shipyard,a heavy crane arm moving in an open container port
+Spatial/Distant,open,Mechanical,engine,racetrack,a race car engine roaring on an open circuit
+Spatial/Distant,open,Mechanical,siren,rooftop,a mechanical siren spinning up on an open city roof
+Spatial/Distant,open,Mechanical,lawnmower,park,a lawnmower running in the middle of a vast lawn
+Spatial/Distant,open,Mechanical,drill,construction site,a drill boring into a concrete bridge deck
+Spatial/Distant,open,Mechanical,gears,clock tower,the ticking of a clock in an open bell tower
+Spatial/Distant,open,Mechanical,fan,rooftop,a large industrial fan blowing on an open roof
+Spatial/Distant,open,Mechanical,pump,oil field,a pumpjack moving in a wide open desert
+Spatial/Distant,open,Mechanical,typewriter,porch,a typewriter being used on an open veranda
+Spatial/Distant,open,Mechanical,winch,quarry,a cable ratcheting in an open-pit mine
+Spatial/Distant,open,Mechanical,elevator,bridge,the whir of a lift on an open suspension bridge
+Spatial/Distant,open,Mechanical,shutter,warehouse,a metal door rattling in an open loading dock
+Spatial/Distant,open,Mechanical,press,industrial site,a hydraulic ram hitting a block in an open yard
+Spatial/Distant,open,Mechanical,bicycle,road,a bicycle chain whirring on a long flat highway
+Spatial/Distant,open,Environmental,thunder,prairie,a rolling thunder rumble across an open plain
+Spatial/Distant,open,Environmental,wind,canyon,a gust of wind whistling over a high cliff edge
+Spatial/Distant,open,Environmental,waves,shoreline,the roar of surf on a vast ocean beach
+Spatial/Distant,open,Environmental,waterfall,mountain,water crashing over a ledge into an open valley
+Spatial/Distant,open,Environmental,rain,fields,rain falling on a wide expanse of wheat fields
+Spatial/Distant,open,Environmental,geyser,thermal field,a steam eruption on an open volcanic plain
+Spatial/Distant,open,Environmental,volcano,crater,the rumble of a volcanic vent in an open crater
+Spatial/Distant,open,Environmental,ice,lake,a sheet of ice cracking on a large open frozen lake
+Spatial/Distant,open,Environmental,leaves,woods,wind rustling leaves in an open forest clearing
+Spatial/Distant,open,Environmental,sandstorm,desert,sand blowing across an open dunes landscape
+Spatial/Distant,open,Environmental,storm,ship,wind howling across the open deck of a ship
+Spatial/Distant,open,Environmental,landslide,quarry,earth falling down a slope in an open-pit mine
+Spatial/Distant,open,Environmental,bubbles,swamp,gas bursting on the surface of an open marsh
+Spatial/Distant,open,Environmental,thaw,meadow,meltwater rushing through an open rocky field
+Spatial/Distant,open,Environmental,avalanche,mountain,snow sliding down a wide mountain face
+Spatial/Distant,open,Environmental,river,valley,water rushing through an open river basin
+Spatial/Distant,open,Environmental,fire,fields,the crackle of a brush fire in an open meadow
+Spatial/Distant,open,Organic,vocal,mountains,a person yodeling across a wide mountain range
+Spatial/Distant,open,Organic,roar,savanna,a lion's roar traveling across an open grassland
+Spatial/Distant,open,Organic,scream,canyon,an eagle's cry over a deep open gorge
+Spatial/Distant,open,Organic,footsteps,beach,boots walking on an open sandy shore
+Spatial/Distant,open,Organic,wings,prairie,the flapping of a bird's wings in an open sky
+Spatial/Distant,open,Organic,breathing,rooftop,a person exhaling on an open city terrace
+Spatial/Distant,open,Organic,trill,woodland,a bird singing in an open forest canopy
+Spatial/Distant,open,Organic,throat,zoo,the groan of an animal in an open paddock
+Spatial/Distant,open,Organic,skin,gym,a hand clap in an open outdoor arena
+Spatial/Distant,open,Organic,scales,desert,a snake moving across open sand dunes
+Spatial/Distant,open,Organic,bark,farmland,a dog barking in a vast open pasture
+Spatial/Distant,open,Organic,bones,desert,the clatter of bones being moved on an open plain
+Spatial/Distant,open,Organic,purr,porch,the purr of a cat on an open wooden deck
+Spatial/Distant,open,Organic,hair,salon,scissors snipping hair on an open balcony
+Spatial/Distant,open,Organic,claws,rooftop,a squirrel scratching on an open roof ledge
+Spatial/Distant,open,Organic,egg,farm,an eggshell cracking in an open barnyard
+Spatial/Distant,open,Organic,heartbeat,quiet room,a pulse being taken in an open garden
+Spatial/Distant,open,Domestic,lawnmower,backyard,a lawnmower running in an open field
+Spatial/Distant,open,Domestic,door,porch,a screen door slamming on an open veranda
+Spatial/Distant,open,Domestic,keys,foyer,keys being jiggled on an open patio table
+Spatial/Distant,open,Domestic,plate,dining room,a ceramic plate hitting an open marble terrace
+Spatial/Distant,open,Domestic,silverware,restaurant,forks clinking on an open outdoor cafe table
+Spatial/Distant,open,Domestic,kettle,pantry,a tea kettle whistle on an open campsite
+Spatial/Distant,open,Domestic,vacuum,yard,the hum of a vacuum motor in an open garage
+Spatial/Distant,open,Domestic,bottle,cellar,a glass bottle clinking on an open stone wall
+Spatial/Distant,open,Domestic,furniture,bedroom,a chair being moved on an open roof deck
+Spatial/Distant,open,Domestic,clock,hallway,the chime of a clock in an open town square
+Spatial/Distant,open,Domestic,faucet,garden,water running from an open outdoor hose bib
+Spatial/Distant,open,Domestic,can,recycling center,a metal can being crushed in an open yard
+Spatial/Distant,open,Domestic,jewelry,bedroom,a necklace being set on an open glass table
+Spatial/Distant,open,Domestic,zipper,closet,a zipper being pulled on an open tent door
+Spatial/Distant,open,Domestic,lightbulb,garage,a lightbulb popping on an open porch
+Spatial/Distant,open,Domestic,curtain,bedroom,curtains flapping in an open window
+Spatial/Distant,open,Domestic,fan,patio,a desk fan blowing on an open balcony
+Spatial/Distant,open,Domestic,broom,porch,a broom sweeping an open sidewalk
+Spatial/Distant,open,Electronic,siren,city center,an electronic siren on an open rooftop
+Spatial/Distant,open,Electronic,beeper,hospital,a digital pager on an open terrace
+Spatial/Distant,open,Electronic,speaker,stadium,a public address chime in an open arena
+Spatial/Distant,open,Electronic,transformer,substation,the hum of a transformer in an open field
+Spatial/Distant,open,Electronic,alarm,bedroom,a digital alarm on an open campsite
+Spatial/Distant,open,Electronic,buzzer,factory,a buzzer sounding in an open industrial yard
+Spatial/Distant,open,Electronic,static,radio,the hiss of a radio on an open beach
+Spatial/Distant,open,Electronic,feedback,stage,guitar feedback in an open outdoor theater
+Spatial/Distant,open,Electronic,synthesizer,studio,a synthesizer pad on an open roof
+Spatial/Distant,open,Electronic,oscillator,lab,a frequency tone in an open research park
+Spatial/Distant,open,Electronic,relay,basement,an electrical switch in an open cabinet
+Spatial/Distant,open,Electronic,spark,garage,an electric spark in an open workshop
+Spatial/Distant,open,Electronic,toy,playroom,an electronic toy tune in an open park
+Spatial/Distant,open,Electronic,phone,hallway,a phone ringing on an open plaza
+Spatial/Distant,open,Electronic,modem,attic,modem tones in an open office plan
+Spatial/Distant,open,Electronic,laser,lab,the cooling hum of a laser in an open bay
+Spatial/Distant,open,Electronic,led,billboard,the buzz of a screen in an open square
+Spatial/Distant,airy,Musical,flute,meadow,a silver flute playing with a light and breathy attack
+Spatial/Distant,airy,Musical,pan flute,alpine forest,the rush of air through a hollow reed pipe
+Spatial/Distant,airy,Musical,organ,cathedral,the movement of air through a small tin pipe organ pipe
+Spatial/Distant,airy,Musical,accordion,tavern,the sound of the bellows expanding without a note
+Spatial/Distant,airy,Musical,violin,art gallery,a bow moving lightly over a violin e-string
+Spatial/Distant,airy,Musical,harp,conservatory,the resonance of a high harp string in a breezy hall
+Spatial/Distant,airy,Musical,trumpet,stadium,a trumpet player blowing air through the bell
+Spatial/Distant,airy,Musical,cello,stone chapel,the sound of a bow barely touching a cello string
+Spatial/Distant,airy,Musical,harmonica,porch,a soft exhale through a harmonica
+Spatial/Distant,airy,Musical,piccolo,alpine forest,a high trill on a piccolo in the wind
+Spatial/Distant,airy,Musical,bagpipes,highlands,the hiss of air from the bag of a bagpipe
+Spatial/Distant,airy,Musical,sax,subway,an air-filled note on a tenor saxophone
+Spatial/Distant,airy,Musical,zither,tea house,the vibration of a thin zither wire in a draft
+Spatial/Distant,airy,Musical,recorder,classroom,a soft breathy tone on a plastic recorder
+Spatial/Distant,airy,Musical,didgeridoo,canyon,the sound of air rushing through a hollow log
+Spatial/Distant,airy,Musical,celesta,attic,a light chime on a celesta in a drafty room
+Spatial/Distant,airy,Musical,music box,nursery,a music box playing in a large open hall
+Spatial/Distant,airy,Mechanical,fan,bedroom,the light whir of a desk fan blowing air
+Spatial/Distant,airy,Mechanical,valve,factory,a small hiss of air from a pneumatic hose
+Spatial/Distant,airy,Mechanical,shutter,warehouse,a metal door rattling in a light breeze
+Spatial/Distant,airy,Mechanical,gears,clock tower,the sound of air moving in a clock chamber
+Spatial/Distant,airy,Mechanical,winch,dockyard,a rope sliding through a pulley in the wind
+Spatial/Distant,airy,Mechanical,pump,basement,the light hum of a cooling pump in a hall
+Spatial/Distant,airy,Mechanical,typewriter,attic,a typewriter hammer moving through the air
+Spatial/Distant,airy,Mechanical,clock,hallway,the sound of a pendulum swinging in a draft
+Spatial/Distant,airy,Mechanical,camera,darkroom,the silent movement of a camera shutter
+Spatial/Distant,airy,Mechanical,drill,workshop,the whir of a high-speed drill in air
+Spatial/Distant,airy,Mechanical,sewing machine,loft,the movement of a needle in a breezy room
+Spatial/Distant,airy,Mechanical,printer,office,the movement of paper through an inkjet printer
+Spatial/Distant,airy,Mechanical,lathe,machine shop,a lathe tool grazing a metal part in a hall
+Spatial/Distant,airy,Mechanical,winch,mine shaft,a cable vibrating in a subterranean draft
+Spatial/Distant,airy,Mechanical,elevator,hotel,the sound of air in a moving elevator shaft
+Spatial/Distant,airy,Mechanical,boiler,basement,the hiss of steam from a radiator valve
+Spatial/Distant,airy,Mechanical,engine,garage,the light whir of a cooling fan on a car
+Spatial/Distant,airy,Environmental,wind,canyon,a light breeze whistling through a rock hole
+Spatial/Distant,airy,Environmental,mist,swamp,the subtle rush of air through a reed bed
+Spatial/Distant,airy,Environmental,leaves,forest,the rustle of dry leaves in a gentle wind
+Spatial/Distant,airy,Environmental,rain,greenhouse,a fine mist hitting a glass roof
+Spatial/Distant,airy,Environmental,waterfall,mountain,the spray of water being moved by wind
+Spatial/Distant,airy,Environmental,bubbles,pond,the burst of a single bubble on a calm surface
+Spatial/Distant,airy,Environmental,thaw,meadow,the sound of air over a mountain stream
+Spatial/Distant,airy,Environmental,sand,desert,sand grains being lifted by a light wind
+Spatial/Distant,airy,Environmental,ice,lake,the sound of wind over a frozen lake crust
+Spatial/Distant,airy,Environmental,snow,tundra,the rush of wind-blown snow on the plains
+Spatial/Distant,airy,Environmental,volcano,crater,the hiss of gas from a small volcanic vent
+Spatial/Distant,airy,Environmental,geyser,thermal field,steam escaping into the sky from a vent
+Spatial/Distant,airy,Environmental,river,valley,the sound of air over a fast river
+Spatial/Distant,airy,Environmental,clouds,mountaintop,the sound of mist moving through a pass
+Spatial/Distant,airy,Environmental,fire,campsite,the hiss of a small flame in a draft
+Spatial/Distant,airy,Environmental,grass,meadow,a breeze moving through tall dry grass
+Spatial/Distant,airy,Environmental,icicle,backyard,the whistle of wind through hanging ice
+Spatial/Distant,airy,Organic,breathing,bedroom,the light and steady exhale of a person
+Spatial/Distant,airy,Organic,vocal,nursery,a person whispering a lullaby in a hall
+Spatial/Distant,airy,Organic,wings,garden,the fluttering of a moth's wings in flight
+Spatial/Distant,airy,Organic,throat,woods,the soft hoot of an owl in a tree
+Spatial/Distant,airy,Organic,purr,living room,the light vibration of a cat's purr
+Spatial/Distant,airy,Organic,skin,spa,a hand sliding lightly over a person's back
+Spatial/Distant,airy,Organic,hair,salon,a hairdryer blowing air through dry hair
+Spatial/Distant,airy,Organic,fingernails,desk,a light scratch of a nail on a paper
+Spatial/Distant,airy,Organic,beak,cliffs,a bird's soft chirp in an open sky
+Spatial/Distant,airy,Organic,scales,reptile house,a snake moving through dry grass
+Spatial/Distant,airy,Organic,wings,meadow,the hum of a dragonfly's wings in air
+Spatial/Distant,airy,Organic,tongue,zoo,the light click of a person's tongue
+Spatial/Distant,airy,Organic,seed,garden,seeds rattling in a dry pod in a breeze
+Spatial/Distant,airy,Organic,claws,attic,a squirrel moving over a wooden floor
+Spatial/Distant,airy,Organic,bark,woods,bark peeling off a tree in the wind
+Spatial/Distant,airy,Organic,feathers,aviary,a bird ruffling its feathers in a draft
+Spatial/Distant,airy,Organic,heartbeat,quiet room,a steady heartbeat in a large chest
+Spatial/Distant,airy,Domestic,curtain,bedroom,sheer lace curtains rustling in a breeze
+Spatial/Distant,airy,Domestic,iron,laundry room,the hiss of steam from an iron plate
+Spatial/Distant,airy,Domestic,fan,bedroom,a desk fan blowing air in a large room
+Spatial/Distant,airy,Domestic,bottle,cellar,blowing air across the mouth of a glass bottle
+Spatial/Distant,airy,Domestic,kettle,kitchen,the light whistle of a tea kettle starting
+Spatial/Distant,airy,Domestic,vacuum,living room,the air intake of a vacuum cleaner
+Spatial/Distant,airy,Domestic,faucet,bathroom,the sound of water spray in a sink
+Spatial/Distant,airy,Domestic,door,hallway,a door creaking in a drafty house
+Spatial/Distant,airy,Domestic,broom,porch,the sound of a broom sweeping a stone floor
+Spatial/Distant,airy,Domestic,can,kitchen,the sound of air entering a opened can
+Spatial/Distant,airy,Domestic,foil,pantry,a piece of foil vibrating in a breeze
+Spatial/Distant,airy,Domestic,zipper,closet,the sound of a nylon zipper being pulled
+Spatial/Distant,airy,Domestic,lighter,porch,the sound of a gas release on a lighter
+Spatial/Distant,airy,Domestic,clock,bedroom,the light tick of a small clock in a hall
+Spatial/Distant,airy,Domestic,cabinet,pantry,a cabinet door moving in a draft
+Spatial/Distant,airy,Domestic,towel,bathroom,a cotton towel flapping in a breeze
+Spatial/Distant,airy,Domestic,jewelry,bedroom,a necklace being moved on a glass table
+Spatial/Distant,airy,Electronic,fan,datacenter,the light whir of a server cooling fan
+Spatial/Distant,airy,Electronic,static,radio,the hiss of an unassigned radio frequency
+Spatial/Distant,airy,Electronic,speaker,subway,the subtle hum of an idle public address system
+Spatial/Distant,airy,Electronic,synthesizer,studio,a synthesizer pad with a high noise floor
+Spatial/Distant,airy,Electronic,oscillator,lab,a high-frequency sine wave in an open hall
+Spatial/Distant,airy,Electronic,beeper,hospital,a digital beep in a large empty wing
+Spatial/Distant,airy,Electronic,feedback,stage,the light ringing of guitar feedback
+Spatial/Distant,airy,Electronic,interference,office,the buzz of a phone near a speaker
+Spatial/Distant,airy,Electronic,hum,substation,the light hum of a transformer in a hall
+Spatial/Distant,airy,Electronic,relay,basement,the click of a switch in a hollow cabinet
+Spatial/Distant,airy,Electronic,spark,garage,a tiny electric spark jumping in air
+Spatial/Distant,airy,Electronic,toy,playroom,an electronic toy chime in an open room
+Spatial/Distant,airy,Electronic,modem,attic,the handshake tones of a modem in a hall
+Spatial/Distant,airy,Electronic,laser,lab,the cooling fan of a laser in a large room
+Spatial/Distant,airy,Electronic,led,billboard,the buzz of a screen in an open plaza
+Spatial/Distant,airy,Electronic,capacitor,lab,the discharge of a capacitor in a hall
+Spatial/Distant,airy,Electronic,cable,studio,the hum of a signal wire in a draft
+Spatial/Distant,breathy,Musical,pan flute,temple,blowing air across a reed pipe with low pressure
+Spatial/Distant,breathy,Musical,flute,meadow,a silver flute note with an audible air stream
+Spatial/Distant,breathy,Musical,recorder,classroom,a child blowing softly into a plastic whistle
+Spatial/Distant,breathy,Musical,organ,church,air rushing through a wooden organ pipe
+Spatial/Distant,breathy,Musical,sax,subway,a tenor saxophone playing an air-filled note
+Spatial/Distant,breathy,Musical,accordion,tavern,the rush of air through accordion bellows
+Spatial/Distant,breathy,Musical,didgeridoo,canyon,blowing air into a hollow eucalyptus log
+Spatial/Distant,breathy,Musical,harmonica,porch,a soft draw of air through harmonica reeds
+Spatial/Distant,breathy,Musical,trumpet,stadium,blowing air through a trumpet with no note
+Spatial/Distant,breathy,Musical,clarinet,conservatory,an airy low note on a wooden clarinet
+Spatial/Distant,breathy,Musical,oboe,theatre,a reed pop with an audible exhale
+Spatial/Distant,breathy,Musical,bassoon,hall,the air rush through a large double reed
+Spatial/Distant,breathy,Musical,bagpipes,highlands,the hiss of air from a pipe bag
+Spatial/Distant,breathy,Musical,ocarina,cave,a breathy melody on a ceramic ocarina
+Spatial/Distant,breathy,Musical,tin whistle,pub,blowing air across the labium of a whistle
+Spatial/Distant,breathy,Musical,shaker,studio,a soft shake of seeds in a gourd
+Spatial/Distant,breathy,Musical,gong,temple,the sustain of a gong in a drafty hall
+Spatial/Distant,breathy,Mechanical,valve,factory,a soft release of air from a pneumatic tank
+Spatial/Distant,breathy,Mechanical,pump,basement,an air pump moving air through a pipe
+Spatial/Distant,breathy,Mechanical,fan,bedroom,the rush of air from a rotating desk fan
+Spatial/Distant,breathy,Mechanical,kettle,kitchen,the soft whistle of a kettle starting to boil
+Spatial/Distant,breathy,Mechanical,bellows,foundry,hand bellows pushing air into a forge
+Spatial/Distant,breathy,Mechanical,compressor,garage,the air intake of a large compressor
+Spatial/Distant,breathy,Mechanical,vacuum,rug,the suction of air through a vacuum nozzle
+Spatial/Distant,breathy,Mechanical,winch,dockyard,a steel cable moving air under tension
+Spatial/Distant,breathy,Mechanical,engine,racetrack,the exhaust of a large engine idling
+Spatial/Distant,breathy,Mechanical,drill,workshop,the whir of a drill moving air at high speed
+Spatial/Distant,breathy,Mechanical,sewing machine,loft,the movement of a needle through silk
+Spatial/Distant,breathy,Mechanical,typewriter,attic,the sound of keys moving through air
+Spatial/Distant,breathy,Mechanical,gears,clock,the movement of air in a large clockwork
+Spatial/Distant,breathy,Mechanical,shutter,camera,the silent movement of a leaf shutter
+Spatial/Distant,breathy,Mechanical,lathe,factory,the rush of air over a spinning lathe part
+Spatial/Distant,breathy,Mechanical,elevator,hotel,the sound of air in a lift shaft
+Spatial/Distant,breathy,Environmental,geyser,thermal field,the hiss of steam from a volcanic vent
+Spatial/Distant,breathy,Environmental,volcano,crater,gas escaping from a volcanic fissure
+Spatial/Distant,breathy,Environmental,bubbles,pond,the burst of air bubbles on a surface
+Spatial/Distant,breathy,Environmental,river,valley,water rushing through a narrow rocky gap
+Spatial/Distant,breathy,Environmental,rain,greenhouse,a fine mist of rain on a glass roof
+Spatial/Distant,breathy,Environmental,waterfall,mountain,the spray of water moved by air
+Spatial/Distant,breathy,Environmental,leaves,forest,the rustle of leaves in a light breeze
+Spatial/Distant,breathy,Environmental,sand,desert,sand being lifted by an air current
+Spatial/Distant,breathy,Environmental,ice,lake,the sound of wind over a frozen lake surface
+Spatial/Distant,breathy,Environmental,snow,tundra,the rush of wind-blown snow on a plain
+Spatial/Distant,breathy,Environmental,clouds,mountaintop,the sound of mist moving in a pass
+Spatial/Distant,breathy,Environmental,grass,meadow,a breeze through tall dry grass
+Spatial/Distant,breathy,Environmental,storm,prairie,wind howling through a wire mesh
+Spatial/Distant,breathy,Organic,vocal,nursery,a person whispering a soft lullaby
+Spatial/Distant,breathy,Organic,throat,zoo,the soft hiss of a large snake
+Spatial/Distant,breathy,Organic,vocal,forest,the soft chirp of a bird in a tree
+Spatial/Distant,breathy,Organic,skin,spa,a hand sliding lightly over a person's skin
+Spatial/Distant,breathy,Organic,hair,salon,a hairdryer blowing air through hair
+Spatial/Distant,breathy,Organic,fingernails,desk,a light scratch of a nail on paper
+Spatial/Distant,breathy,Organic,wings,garden,the fluttering of a moth's wings in air
+Spatial/Distant,breathy,Domestic,curtain,bedroom,sheer curtains rustling in a breeze
+Spatial/Distant,breathy,Domestic,fan,bedroom,a desk fan blowing air in a room
+Spatial/Distant,breathy,Domestic,kettle,kitchen,the light whistle of a kettle starting
+Spatial/Distant,breathy,Domestic,broom,porch,the sound of a broom sweeping a floor
+Spatial/Distant,breathy,Domestic,jewelry,bedroom,a necklace being moved on a table
+Spatial/Distant,breathy,Electronic,speaker,subway,the subtle hum of an idle PA system
+Spatial/Distant,hollow,Musical,log drum,jungle,a heavy branch hitting a hollowed-out tree trunk
+Spatial/Distant,hollow,Musical,pan drum,subway station,a strike on the center of a hollow steel pan drum
+Spatial/Distant,hollow,Musical,ocarina,cave,a ceramic ocarina playing a slow note in a cavern
+Spatial/Distant,hollow,Musical,didgeridoo,outback,the drone of a didgeridoo through a hollow branch
+Spatial/Distant,hollow,Musical,flute,canyon,blowing air through a large hollow bamboo flute
+Spatial/Distant,hollow,Musical,bottle,kitchen,the resonance of blowing across an empty glass jug
+Spatial/Distant,hollow,Musical,drum,concert hall,a strike on a large bass drum with no resonant head
+Spatial/Distant,hollow,Musical,pipe organ,cathedral,air rushing through a large wooden pipe
+Spatial/Distant,hollow,Musical,marimba,theatre,the resonance of a marimba tube after a strike
+Spatial/Distant,hollow,Musical,cello,conservatory,tapping on the back of a wooden cello body
+Spatial/Distant,hollow,Musical,piano,ballroom,the internal echo of a piano after a loud chord
+Spatial/Distant,hollow,Musical,guitar,tavern,drumming with a palm on an acoustic guitar body
+Spatial/Distant,hollow,Musical,shaker,recording studio,a hollow gourd being shaken with seeds
+Spatial/Distant,hollow,Musical,conch,beach,blowing through a large hollowed sea shell
+Spatial/Distant,hollow,Musical,harp,meadow,air whistling through the frame of a grand harp
+Spatial/Distant,hollow,Musical,tambourine,festival ground,tapping the frame of a tambourine
+Spatial/Distant,hollow,Musical,bells,temple,striking a large bronze bell with a padded beam
+Spatial/Distant,hollow,Mechanical,pipe,construction site,a metal wrench hitting a long hollow steel pipe
+Spatial/Distant,hollow,Mechanical,tank,garage,a wrench tapping the side of an empty gas cylinder
+Spatial/Distant,hollow,Mechanical,boiler,basement,a metal rod hitting the side of an empty boiler
+Spatial/Distant,hollow,Mechanical,ventilation,parking garage,an exhaust fan in a large metal duct
+Spatial/Distant,hollow,Mechanical,winch,mine shaft,a cable ratcheting in a deep hollow pit
+Spatial/Distant,hollow,Mechanical,shutter,loading dock,a metal door rattling in a warehouse
+Spatial/Distant,hollow,Mechanical,elevator,hotel,the hum of a lift in a large open shaft
+Spatial/Distant,hollow,Mechanical,pump,basement,a water pump echoing in a large concrete cellar
+Spatial/Distant,hollow,Mechanical,lathe,factory floor,a lathe spinning in an empty workshop
+Spatial/Distant,hollow,Mechanical,gears,mill,wooden gears grinding in an empty granary
+Spatial/Distant,hollow,Mechanical,fan,office building,a ceiling fan humming in an empty lobby
+Spatial/Distant,hollow,Mechanical,pulley,barn,a pulley creaking in a large hollow loft
+Spatial/Distant,hollow,Mechanical,drill,workshop,a drill spinning inside a hollow wooden box
+Spatial/Distant,hollow,Mechanical,lock,vault,a bolt sliding into place in an empty chamber
+Spatial/Distant,hollow,Mechanical,engine,shipyard,the echoing clatter of an engine in a hold
+Spatial/Distant,hollow,Mechanical,press,machine shop,a hydraulic press in an empty hall
+Spatial/Distant,hollow,Mechanical,typewriter,attic,a typewriter key hitting a hollow table
+Spatial/Distant,hollow,Environmental,cave,canyon,a gust of wind echoing in a limestone cavern
+Spatial/Distant,hollow,Environmental,water,cistern,a water drop falling into a deep underground tank
+Spatial/Distant,hollow,Environmental,thunder,valley,thunder rolling through a wide mountain pass
+Spatial/Distant,hollow,Environmental,wind,desert,wind howling across the mouth of a dry well
+Spatial/Distant,hollow,Environmental,ocean,cliffs,waves crashing inside a hollow sea cave
+Spatial/Distant,hollow,Environmental,volcano,lava tube,rocks falling down a hollow volcanic vent
+Spatial/Distant,hollow,Environmental,geyser,thermal field,thumping water in a subterranean pipe
+Spatial/Distant,hollow,Environmental,sand,dunes,the low boom of sand sliding down a dune face
+Spatial/Distant,hollow,Environmental,bamboo,jungle,a hollow bamboo stalk snapping in a forest
+Spatial/Distant,hollow,Environmental,mud,swamp,a gas bubble bursting in a deep pool
+Spatial/Distant,hollow,Environmental,storm,prairie,wind whistling through a hollow metal post
+Spatial/Distant,hollow,Environmental,rock,cliffs,a stone bouncing down a mountain crevice
+Spatial/Distant,hollow,Environmental,wood,forest,a woodpecker drumming on a hollow log
+Spatial/Distant,hollow,Environmental,thaw,orchard,icicles falling into an empty metal bucket
+Spatial/Distant,hollow,Environmental,bridge,river,footsteps on a hollow wooden bridge
+Spatial/Distant,hollow,Environmental,glacier,arctic,a deep boom from an air bubble in a glacier
+Spatial/Distant,hollow,Environmental,river,canyon,the roar of a river echoing in a gorge
+Spatial/Distant,hollow,Organic,vocal,mountains,a person shouting into a deep canyon
+Spatial/Distant,hollow,Organic,chest,bedroom,a hollow thud from tapping on a person's chest
+Spatial/Distant,hollow,Organic,bones,museum,a strike on a large hollow dinosaur bone
+Spatial/Distant,hollow,Organic,throat,zoo,the hoot of an owl in a hollow tree
+Spatial/Distant,hollow,Organic,stomach,kitchen,the sound of a stomach growling in a room
+Spatial/Distant,hollow,Organic,beak,cliffs,a bird pecking at a hollow piece of driftwood
+Spatial/Distant,hollow,Organic,egg,incubator,tapping on an empty eggshell
+Spatial/Distant,hollow,Organic,nut,orchard,the sound of a hollow nut shell being cracked
+Spatial/Distant,hollow,Organic,scales,reptile house,a snake sliding over a hollow log
+Spatial/Distant,hollow,Organic,wings,garden,a moth fluttering inside a hollow gourd
+Spatial/Distant,hollow,Organic,claws,attic,an animal scratching inside a hollow beam
+Spatial/Distant,hollow,Organic,shell,beach,wind whistling through a conch shell
+Spatial/Distant,hollow,Organic,nest,barn,a bird's wings in a hollow loft
+Spatial/Distant,hollow,Organic,footstep,stairwell,boots on a hollow wooden floor
+Spatial/Distant,hollow,Organic,skull,desert,a knuckle tapping on a dry animal skull
+Spatial/Distant,hollow,Organic,bark,forest,the sound of air under peeling tree bark
+Spatial/Distant,hollow,Organic,tail,swamp,a beaver's tail hitting a hollow log
+Spatial/Distant,hollow,Domestic,bottle,cellar,clinking two empty glass bottles together
+Spatial/Distant,hollow,Domestic,pot,kitchen,tapping the side of an empty cast iron pot
+Spatial/Distant,hollow,Domestic,drum,garage,a metal rod striking an empty oil drum
+Spatial/Distant,hollow,Domestic,room,foyer,footsteps in an empty house
+Spatial/Distant,hollow,Domestic,box,closet,tapping on a large empty cardboard box
+Spatial/Distant,hollow,Domestic,can,pantry,a spoon hitting an empty tin can
+Spatial/Distant,hollow,Domestic,jug,patio,water sloshing in a large empty ceramic jug
+Spatial/Distant,hollow,Domestic,trash can,alley,a metal trash can falling over
+Spatial/Distant,hollow,Domestic,barrel,basement,a wooden barrel being rolled on concrete
+Spatial/Distant,hollow,Domestic,glass,dining room,the resonance of an empty wine glass
+Spatial/Distant,hollow,Domestic,kettle,kitchen,tapping an empty tea kettle
+Spatial/Distant,hollow,Domestic,cup,restaurant,a cup being set on an empty table
+Spatial/Distant,hollow,Domestic,cabinet,laundry room,the echo of a door on an empty cabinet
+Spatial/Distant,hollow,Domestic,closet,bedroom,a voice echoing in a walk-in closet
+Spatial/Distant,hollow,Domestic,drawer,office,a drawer sliding in an empty desk
+Spatial/Distant,hollow,Domestic,pipe,bathroom,water in an empty drain pipe
+Spatial/Distant,hollow,Domestic,safe,office,a heavy bolt in an empty safe
+Spatial/Distant,hollow,Electronic,radio,living room,the static hiss of an empty frequency
+Spatial/Distant,hollow,Electronic,hum,server room,the hum of an empty server rack
+Spatial/Distant,hollow,Electronic,oscillator,lab,a sine wave echoing in a chamber
+Spatial/Distant,hollow,Electronic,beeper,hospital,a digital beep in an empty hallway
+Spatial/Distant,hollow,Electronic,speaker,stadium,feedback in an empty arena
+Spatial/Distant,hollow,Electronic,switch,datacenter,a switch clicking in a silent room
+Spatial/Distant,hollow,Electronic,interference,office,the hum of a screen in an empty office
+Spatial/Distant,hollow,Electronic,relay,basement,a relay in a hollow enclosure
+Spatial/Distant,hollow,Electronic,transformer,street,the hum of a transformer in an alley
+Spatial/Distant,hollow,Electronic,buzzer,factory,a buzzer in an empty warehouse
+Spatial/Distant,hollow,Electronic,fan,bedroom,a fan whirring in an empty apartment
+Spatial/Distant,hollow,Electronic,toy,playroom,a toy echoing in an empty nursery
+Spatial/Distant,hollow,Electronic,alarm,bedroom,a digital alarm in an empty room
+Spatial/Distant,hollow,Electronic,cable,studio,a cable hum in a recording booth
+Spatial/Distant,hollow,Electronic,monitor,lab,the whine of a screen in a dark room
+Spatial/Distant,hollow,Electronic,motor,garage,a motor in an empty garage
+Spatial/Distant,hollow,Electronic,phone,hallway,a phone in an empty corridor
+Spatial/Distant,quiet,Musical,harp,conservatory,a single harp string plucked pianissimo with a fingertip
+Spatial/Distant,quiet,Musical,flute,meadow,a flute playing a very soft legato melody in a breeze
+Spatial/Distant,quiet,Musical,violin,art gallery,a violin playing a soft pizzicato note in a hall
+Spatial/Distant,quiet,Musical,piano,parlor,a piano key being pressed so slowly the sound is barely audible
+Spatial/Distant,quiet,Musical,triangle,cathedral,a triangle strike with a felt-tipped beater
+Spatial/Distant,quiet,Musical,tambourine,stage,a single jingle being moved with a finger
+Spatial/Distant,quiet,Musical,glockenspiel,observatory,a glockenspiel bar being tapped with a cotton swab
+Spatial/Distant,quiet,Musical,music box,nursery,a music box playing at the end of its spring
+Spatial/Distant,quiet,Musical,sleigh bells,snowy trail,a single bell jingling in the wind
+Spatial/Distant,quiet,Musical,ukulele,beach,a finger lightly stroking a nylon string
+Spatial/Distant,quiet,Musical,pan flute,temple,a soft breathy note on a reed pipe
+Spatial/Distant,quiet,Musical,guitar,tavern,a fingernail tapping the body of a guitar
+Spatial/Distant,quiet,Musical,marimba,theatre,a yarn mallet brushing a marimba bar
+Spatial/Distant,quiet,Musical,recorder,classroom,a soft breathy note on a recorder
+Spatial/Distant,quiet,Musical,celesta,attic,a soft high note on a celesta
+Spatial/Distant,quiet,Musical,shaker,studio,a single grain of sand in a shaker
+Spatial/Distant,quiet,Musical,bells,tower,a silver bell being tapped with a finger
+Spatial/Distant,quiet,Mechanical,watch,jewelry store,a small mechanical watch ticking on a velvet pad
+Spatial/Distant,quiet,Mechanical,gears,laboratory,tiny plastic gears turning in a device
+Spatial/Distant,quiet,Mechanical,fan,bedroom,a desk fan spinning on its lowest setting
+Spatial/Distant,quiet,Mechanical,spinner,desk,a metal bearing spinning silently
+Spatial/Distant,quiet,Mechanical,switch,office,a keyboard key being pressed lightly
+Spatial/Distant,quiet,Mechanical,sewing machine,loft,a needle moving through a single layer of silk
+Spatial/Distant,quiet,Mechanical,lathe,workshop,a lathe tool grazing a piece of plastic
+Spatial/Distant,quiet,Mechanical,metronome,music room,a digital metronome at low volume
+Spatial/Distant,quiet,Mechanical,clock,hallway,the sound of a travel clock ticking
+Spatial/Distant,quiet,Mechanical,printer,office,paper moving through an inkjet printer
+Spatial/Distant,quiet,Mechanical,lock,vault,a small padlock being opened with a key
+Spatial/Distant,quiet,Mechanical,winch,dockyard,a thin line through a plastic pulley
+Spatial/Distant,quiet,Mechanical,valve,factory,a small air leak from a seal
+Spatial/Distant,quiet,Mechanical,stapler,library,a paperclip being bent by hand
+Spatial/Distant,quiet,Mechanical,typewriter,attic,a single key on a toy typewriter
+Spatial/Distant,quiet,Mechanical,motor,garage,a micro-motor spinning a propeller
+Spatial/Distant,quiet,Mechanical,shutter,photo studio,a camera shutter firing once
+Spatial/Distant,quiet,Environmental,snow,tundra,a single snowflake landing on a dry leaf
+Spatial/Distant,quiet,Environmental,dust,attic,dust motes settling on a wooden floor
+Spatial/Distant,quiet,Environmental,wind,meadow,a gentle breeze moving a single blade of grass
+Spatial/Distant,quiet,Environmental,water,cave,a tiny ripple in a pool from a drop
+Spatial/Distant,quiet,Environmental,leaves,forest,a dry leaf falling on a mossy rock
+Spatial/Distant,quiet,Environmental,sand,desert,a few grains of sand on a glass pane
+Spatial/Distant,quiet,Environmental,rain,porch,a light mist hitting a plastic chair
+Spatial/Distant,quiet,Environmental,bubbles,pond,a single bubble bursting on water
+Spatial/Distant,quiet,Environmental,thaw,orchard,a drop of meltwater hitting a leaf
+Spatial/Distant,quiet,Environmental,ice,glacier,a tiny crack in a thin ice crust
+Spatial/Distant,quiet,Environmental,feathers,aviary,a down feather landing on a branch
+Spatial/Distant,quiet,Environmental,ash,volcano,fine ash falling on a metal roof
+Spatial/Distant,quiet,Environmental,pollen,field,pollen grains shaken from a flower
+Spatial/Distant,quiet,Environmental,mist,swamp,mist moving through dry reeds
+Spatial/Distant,quiet,Environmental,frost,window,a fingernail scratching frost
+Spatial/Distant,quiet,Environmental,pebbles,shoreline,a tiny pebble moved by a wave
+Spatial/Distant,quiet,Environmental,grass,meadow,a butterfly landing on a seed head
+Spatial/Distant,quiet,Organic,wings,garden,a moth's wings hitting a screen
+Spatial/Distant,quiet,Organic,insect,meadow,a ladybug crawling on a dry leaf
+Spatial/Distant,quiet,Organic,skin,spa,a soft brush moved across a cheek
+Spatial/Distant,quiet,Organic,hair,salon,a single hair falling on a tile floor
+Spatial/Distant,quiet,Organic,breathing,nursery,the soft breathing of an infant
+Spatial/Distant,quiet,Organic,fingernails,desk,a light tap of a nail on a screen
+Spatial/Distant,quiet,Organic,scales,reptile house,a lizard scurrying on a branch
+Spatial/Distant,quiet,Organic,feathers,aviary,a bird preening a down feather
+Spatial/Distant,quiet,Organic,heartbeat,quiet room,the heartbeat of a small hamster
+Spatial/Distant,quiet,Organic,vocal,forest,the soft chirp of a tree frog
+Spatial/Distant,quiet,Organic,feet,hallway,a cat walking on a carpeted floor
+Spatial/Distant,quiet,Organic,claws,attic,a mouse scratching on a box
+Spatial/Distant,quiet,Organic,egg,incubator,a chick pecking inside its shell
+Spatial/Distant,quiet,Organic,bark,forest,a piece of bark falling from a tree
+Spatial/Distant,quiet,Organic,seed,garden,a dandelion seed in the wind
+Spatial/Distant,quiet,Organic,nest,barn,a small bird on a bed of straw
+Spatial/Distant,quiet,Organic,spider,basement,a spider moving on a web
+Spatial/Distant,quiet,Domestic,paper,office,a sheet of tissue paper being crumpled
+Spatial/Distant,quiet,Domestic,bubble,bathroom,a soap bubble popping in the air
+Spatial/Distant,quiet,Domestic,plastic,kitchen,plastic wrap being pulled tight
+Spatial/Distant,quiet,Domestic,glass,dining room,a thin glass set on a linen cloth
+Spatial/Distant,quiet,Domestic,foil,pantry,a candy wrapper being unfolded
+Spatial/Distant,quiet,Domestic,thread,closet,a needle pulled through silk
+Spatial/Distant,quiet,Domestic,towel,bathroom,a cotton ball dropped into a jar
+Spatial/Distant,quiet,Domestic,jewelry,bedroom,a gold chain on a velvet pad
+Spatial/Distant,quiet,Domestic,dust,living room,a feather duster on a glass shelf
+Spatial/Distant,quiet,Domestic,zipper,closet,a nylon zipper being pulled
+Spatial/Distant,quiet,Domestic,bottle,cellar,a plastic cap screwed onto a bottle
+Spatial/Distant,quiet,Domestic,curtain,bedroom,lace curtains in a breeze
+Spatial/Distant,quiet,Domestic,pillow,bedroom,a down pillow being fluffed
+Spatial/Distant,quiet,Domestic,button,wardrobe,a button hitting a wooden floor
+Spatial/Distant,quiet,Domestic,sponge,kitchen,a dry sponge on a counter
+Spatial/Distant,quiet,Domestic,box,closet,a small matchbox being shaken
+Spatial/Distant,quiet,Domestic,ribbon,craft room,silk ribbon from a spool
+Spatial/Distant,quiet,Electronic,led,laboratory,the subtle click of a micro-switch
+Spatial/Distant,quiet,Electronic,beeper,hospital,a digital chirp on a sensor
+Spatial/Distant,quiet,Electronic,synthesizer,studio,a sine wave with low amplitude
+Spatial/Distant,quiet,Electronic,fan,datacenter,a tiny fan in a laptop
+Spatial/Distant,quiet,Electronic,oscillator,lab,a tone at the edge of hearing
+Spatial/Distant,quiet,Electronic,buzzer,bedroom,a digital alert on a smartwatch
+Spatial/Distant,quiet,Electronic,spark,auto shop,a static spark from a finger
+Spatial/Distant,quiet,Electronic,interference,radio,a light hiss on a radio band
+Spatial/Distant,quiet,Electronic,keyboard,office,tapping on a laser keyboard
+Spatial/Distant,quiet,Electronic,sensor,hallway,a motion sensor click
+Spatial/Distant,quiet,Electronic,display,living room,the whine of an LED screen
+Spatial/Distant,quiet,Electronic,relay,basement,a miniature relay clicking
+Spatial/Distant,quiet,Electronic,toy,playroom,an electronic toy beep
+Spatial/Distant,quiet,Electronic,alarm,bedroom,a soft chime on a phone
+Spatial/Distant,quiet,Electronic,transformer,street,the faint hum of a wall adapter
+Spatial/Distant,quiet,Electronic,motor,garage,a motor in a vibrating phone
+Spatial/Distant,quiet,Electronic,capacitor,lab,discharge of a ceramic capacitor

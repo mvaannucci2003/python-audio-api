@@ -1,0 +1,307 @@
+category,tag,domain,source,environment,scenario
+Dynamic/Stable,constant,Musical,pipe organ,cathedral,a pipe organ pedal note held in a stone sanctuary
+Dynamic/Stable,constant,Musical,bagpipes,highlands,a constant drone from a bagpipe chanter echoing across a valley
+Dynamic/Stable,constant,Musical,hurdy-gurdy,piazza,a hand-cranked hurdy-gurdy playing a continuous drone note
+Dynamic/Stable,constant,Musical,tanpura,shrine,a tanpura string being plucked repeatedly to maintain a tonal backdrop
+Dynamic/Stable,constant,Musical,double bass,hall,a double bass string being bowed with a long and steady stroke
+Dynamic/Stable,constant,Musical,cello,chamber,a cello playing a sustained low note without vibrato
+Dynamic/Stable,constant,Musical,violin,studio,a violin string being bowed at a fixed pressure and speed
+Dynamic/Stable,constant,Musical,accordion,plaza,an accordion holding a single chord with a steady bellows squeeze
+Dynamic/Stable,constant,Musical,harmonium,temple,a harmonium playing a sustained reed note in a quiet room
+Dynamic/Stable,constant,Musical,synthesizer,laboratory,a digital synthesizer outputting a steady sine wave
+Dynamic/Stable,constant,Musical,singing bowl,meadow,a mallet circling the rim of a brass singing bowl
+Dynamic/Stable,constant,Musical,gong,observatory,a large gong being rolled with soft mallets to create a wash
+Dynamic/Stable,constant,Musical,timpani,stage,a timpani roll maintained at a steady volume
+Dynamic/Stable,constant,Musical,marimba,conservatory,a marimba bar being rolled with yarn mallets
+Dynamic/Stable,constant,Musical,didgeridoo,outback,a continuous rhythmic drone through a hollow eucalyptus branch
+Dynamic/Stable,constant,Musical,flute,garden,a concert flute playing a single held note for a long breath
+Dynamic/Stable,constant,Musical,harmonica,porch,a single high note held on a harmonica in a light breeze
+Dynamic/Stable,constant,Mechanical,diesel engine,warehouse,a heavy diesel engine idling at a fixed speed
+Dynamic/Stable,constant,Mechanical,turbine,dam,a hydroelectric turbine spinning at its operating velocity
+Dynamic/Stable,constant,Mechanical,conveyor,factory,a rubber conveyor belt moving at a steady rate
+Dynamic/Stable,constant,Mechanical,lathe,workshop,a metal lathe spindle rotating without interruption
+Dynamic/Stable,constant,Mechanical,drill,garage,an electric drill motor running at its highest setting
+Dynamic/Stable,constant,Mechanical,cooling fan,data center,a high-speed server fan spinning in a rack
+Dynamic/Stable,constant,Mechanical,water wheel,mill,a wooden water wheel turning in a steady river current
+Dynamic/Stable,constant,Mechanical,millstone,farmland,two large stones grinding grain in a wind-powered mill
+Dynamic/Stable,constant,Mechanical,winch,harbor,an electric winch motor winding a cable at a fixed pace
+Dynamic/Stable,constant,Mechanical,generator,bunker,a backup generator running in a concrete room
+Dynamic/Stable,constant,Mechanical,elevator motor,hotel,an elevator motor operating during a long ascent
+Dynamic/Stable,constant,Mechanical,printing press,basement,the motor of an offset press running through a large job
+Dynamic/Stable,constant,Mechanical,pump,well,a mechanical water pump operating in a field
+Dynamic/Stable,constant,Mechanical,air compressor,site,an air compressor motor running to maintain tank pressure
+Dynamic/Stable,constant,Mechanical,sewing machine,loft,a sewing machine motor running at a high speed
+Dynamic/Stable,constant,Mechanical,gears,clock tower,a series of heavy brass gears meshing in a clock movement
+Dynamic/Stable,constant,Mechanical,flywheel,foundry,a massive metal flywheel spinning in a machine shop
+Dynamic/Stable,constant,Environmental,wind,canyon,a steady gale howling through a narrow rock gap
+Dynamic/Stable,constant,Environmental,waterfall,cliff,the unchanging roar of a massive waterfall hitting a pool
+Dynamic/Stable,constant,Environmental,river,gorge,a deep river flowing over a flat rocky bed
+Dynamic/Stable,constant,Environmental,rain,tin roof,a heavy and unchanging downpour on a metal shed
+Dynamic/Stable,constant,Environmental,fire,forest,the steady roar of a large forest fire in the wind
+Dynamic/Stable,constant,Environmental,ocean,shore,the low-frequency wash of distant surf on a flat beach
+Dynamic/Stable,constant,Environmental,sandstorm,desert,wind driving sand against a corrugated metal wall
+Dynamic/Stable,constant,Environmental,geyser,basin,a volcanic vent releasing a steady stream of steam
+Dynamic/Stable,constant,Environmental,steam vent,mountain,pressurized gas escaping from a rocky fissure
+Dynamic/Stable,constant,Environmental,wind,power lines,wind passing through high-tension wires on a plain
+Dynamic/Stable,constant,Environmental,stream,woods,water rippling over a shallow bed of smooth pebbles
+Dynamic/Stable,constant,Environmental,rapids,canyon,river water surging through a narrow stone channel
+Dynamic/Stable,constant,Environmental,mud pot,swamp,thick mud bubbling in a geothermal field
+Dynamic/Stable,constant,Environmental,hail,orchard,a steady fall of hail hitting a wooden deck
+Dynamic/Stable,constant,Environmental,wind,forest,the constant rustle of leaves in a steady breeze
+Dynamic/Stable,constant,Environmental,glacier,arctic,the steady groan of an ice shelf shifting in the night
+Dynamic/Stable,constant,Environmental,mist,harbor,a distant foghorn sounding a single long note
+Dynamic/Stable,constant,Organic,purr,living room,a large cat purring continuously on a soft cushion
+Dynamic/Stable,constant,Organic,cicada,tree,the high-pitched drone of a cicada in the summer heat
+Dynamic/Stable,constant,Organic,bees,hive,the collective hum of a swarm of honeybees
+Dynamic/Stable,constant,Organic,hum,kitchen,a person humming a single note while preparing food
+Dynamic/Stable,constant,Organic,breath,bedroom,the deep and rhythmic breathing of a sleeping person
+Dynamic/Stable,constant,Organic,heartbeat,room,a steady heartbeat heard through a stethoscope
+Dynamic/Stable,constant,Organic,panting,yard,a dog panting at a regular pace after running
+Dynamic/Stable,constant,Organic,gurgle,nursery,a baby's stomach gurgling in a quiet room
+Dynamic/Stable,constant,Organic,locusts,meadow,a swarm of locusts flying through tall grass
+Dynamic/Stable,constant,Organic,vocalizations,forest,the long and unchanging whistle of a bird
+Dynamic/Stable,constant,Organic,whale song,ocean,the low-frequency moan of a blue whale underwater
+Dynamic/Stable,constant,Organic,snail,garden,a snail sliding across a smooth terracotta surface
+Dynamic/Stable,constant,Organic,hiss,desert,a snake's steady hiss in the dry underbrush
+Dynamic/Stable,constant,Organic,wings,night,the rapid and even flutter of a moth's wings
+Dynamic/Stable,constant,Organic,grazing,field,a cow pulling and chewing grass in a pasture
+Dynamic/Stable,constant,Organic,chatter,woods,the steady chatter of a squirrel on a branch
+Dynamic/Stable,constant,Organic,creak,orchard,a large tree trunk swaying in a steady wind
+Dynamic/Stable,constant,Domestic,fridge,kitchen,the steady hum of a refrigerator compressor
+Dynamic/Stable,constant,Domestic,AC unit,bedroom,the sound of an air conditioner running at its medium setting
+Dynamic/Stable,constant,Domestic,vacuum,hallway,a vacuum cleaner motor running in a long corridor
+Dynamic/Stable,constant,Domestic,washing machine,laundry,the motor of a washer during a high-speed spin cycle
+Dynamic/Stable,constant,Domestic,ceiling fan,parlor,a ceiling fan spinning at a fixed speed
+Dynamic/Stable,constant,Domestic,radiator,study,steam hissing through a metal heating pipe
+Dynamic/Stable,constant,Domestic,plumbing,bathroom,water moving through copper pipes in a wall
+Dynamic/Stable,constant,Domestic,kettle,stove,the whistle of a tea kettle at a full boil
+Dynamic/Stable,constant,Domestic,blender,pantry,a blender running on its highest setting
+Dynamic/Stable,constant,Domestic,clock,hall,the internal whir of a clock's mechanical movement
+Dynamic/Stable,constant,Domestic,oven fan,kitchen,the cooling fan of an electric oven running
+Dynamic/Stable,constant,Domestic,hairdryer,bathroom,a handheld hairdryer running on high power
+Dynamic/Stable,constant,Domestic,electric shaver,bedroom,an electric razor vibrating against a surface
+Dynamic/Stable,constant,Domestic,humidifier,nursery,the steady whir of an ultrasonic humidifier
+Dynamic/Stable,constant,Domestic,shower,bathroom,water spraying from a shower head into a tub
+Dynamic/Stable,constant,Domestic,lawnmower,yard,an electric lawnmower running in a garden
+Dynamic/Stable,constant,Domestic,dishwasher,kitchen,the rhythmic slosh of water in a dishwasher
+Dynamic/Stable,constant,Electronic,transformer,substation,the 60hz buzz of a power transformer on a concrete pad
+Dynamic/Stable,constant,Electronic,radio,office,white noise from a radio tuned to a dead frequency
+Dynamic/Stable,constant,Electronic,server,warehouse,the collective drone of thousands of cooling fans
+Dynamic/Stable,constant,Electronic,signal,laboratory,a pure sine wave output from a signal generator
+Dynamic/Stable,constant,Electronic,modem,basement,the high-pitched screech of a data handshake
+Dynamic/Stable,constant,Electronic,amplifier,garage,the steady hiss of a tube amplifier idling
+Dynamic/Stable,constant,Electronic,monitor,study,the high-frequency whine of an old CRT display
+Dynamic/Stable,constant,Electronic,UPS,office,the internal hum of a battery backup system
+Dynamic/Stable,constant,Electronic,router fan,closet,the small cooling fan of a network router
+Dynamic/Stable,constant,Electronic,strobe,nightclub,the high-pitched recycle hum of a xenon flash
+Dynamic/Stable,constant,Electronic,feedback,stage,a guitar feedback loop maintained at one pitch
+Dynamic/Stable,constant,Electronic,noise,room,a wash of pink noise through a high-quality speaker
+Dynamic/Stable,constant,Electronic,plasma globe,lab,the electric buzz of a plasma lamp
+Dynamic/Stable,constant,Electronic,arc,workshop,the steady sizzle of an industrial welder
+Dynamic/Stable,constant,Electronic,telemetry,tower,a rhythmic electronic pulse from a radio tower
+Dynamic/Stable,constant,Electronic,buzzer,gate,an intercom buzzer being held down
+Dynamic/Stable,constant,Electronic,inductor,device,the high-pitched sing of a power supply circuit
+Dynamic/Stable,continuous,Musical,glass harmonica,museum,a wet finger circling the rim of a rotating glass bowl
+Dynamic/Stable,continuous,Musical,hurdy-gurdy,piazza,the wheel of a hurdy-gurdy rubbing against gut strings
+Dynamic/Stable,continuous,Musical,pipe organ,church,the steady intake of air into an organ's bellows
+Dynamic/Stable,continuous,Musical,bowed cymbal,stage,a violin bow being drawn along the edge of a cymbal
+Dynamic/Stable,continuous,Musical,vibraphone,club,a vibraphone note with a steady tremolo motor
+Dynamic/Stable,continuous,Musical,marimba,conservatory,a sustained roll on a wooden marimba bar
+Dynamic/Stable,continuous,Musical,tanpura,temple,a sequence of notes providing an ongoing drone
+Dynamic/Stable,continuous,Musical,cello,hall,a long legato phrase played on a cello
+Dynamic/Stable,continuous,Musical,didgeridoo,cave,a sustained drone with vocal modulations
+Dynamic/Stable,continuous,Musical,accordion,plaza,a series of notes played with a steady bellows motion
+Dynamic/Stable,continuous,Musical,guitar,loft,an electric guitar string vibrating with an e-bow
+Dynamic/Stable,continuous,Musical,harmonica,porch,a long and steady exhale through a harmonica
+Dynamic/Stable,continuous,Musical,flute,meadow,a trill on a wooden flute maintained for a long breath
+Dynamic/Stable,continuous,Musical,harp,parlor,a harpist performing a long series of glissandi
+Dynamic/Stable,continuous,Musical,gong,observatory,a gong being rolled with heavy felt mallets
+Dynamic/Stable,continuous,Musical,violin,chamber,a violin playing a long tremolo on a single string
+Dynamic/Stable,continuous,Musical,bagpipes,highlands,the steady drone of the pipes while a melody is played
+Dynamic/Stable,continuous,Mechanical,tape recorder,study,magnetic tape moving through a reel-to-reel recorder
+Dynamic/Stable,continuous,Mechanical,projector,cinema,the shutter mechanism of a film projector spinning
+Dynamic/Stable,continuous,Mechanical,escalator,mall,the movement of a metal escalator track
+Dynamic/Stable,continuous,Mechanical,circular saw,woodshop,a saw blade spinning at peak speed between cuts
+Dynamic/Stable,continuous,Mechanical,treadmill,gym,a rubber treadmill belt sliding over metal rollers
+Dynamic/Stable,continuous,Mechanical,hydraulic ram,factory,a piston extending at a slow and steady rate
+Dynamic/Stable,continuous,Mechanical,fan blades,office,a desk fan blades cutting through the air
+Dynamic/Stable,continuous,Mechanical,lathe,workshop,a metal lathe carving a continuous strip of steel
+Dynamic/Stable,continuous,Mechanical,drill,garage,a pneumatic drill spinning in the open air
+Dynamic/Stable,continuous,Mechanical,gears,clockmaker,the whirring of small gears in a grandfather clock
+Dynamic/Stable,continuous,Mechanical,winch,dock,a winch winding a rope at a constant speed
+Dynamic/Stable,continuous,Mechanical,piston,mill,a steam piston moving back and forth rhythmically
+Dynamic/Stable,continuous,Mechanical,turbine,hangar,the whine of a jet engine spooling up
+Dynamic/Stable,continuous,Mechanical,conveyor,warehouse,a belt drive system in a shipping facility
+Dynamic/Stable,continuous,Mechanical,sewing machine,loft,a sewing machine needle punching fabric rapidly
+Dynamic/Stable,continuous,Mechanical,flywheel,foundry,a massive wheel maintaining its rotation
+Dynamic/Stable,continuous,Mechanical,pump,pool,the hum of a pool filter motor in a courtyard
+Dynamic/Stable,continuous,Environmental,mist,forest,water droplets condensing and falling from leaves
+Dynamic/Stable,continuous,Environmental,icicle,eaves,water dripping from a melting icicle into a puddle
+Dynamic/Stable,continuous,Environmental,tide,beach,the gradual sound of the tide advancing over sand
+Dynamic/Stable,continuous,Environmental,volcano,crater,the bubbling of a lava lake in a volcanic vent
+Dynamic/Stable,continuous,Environmental,wind,canyon,a steady air current through a rocky gorge
+Dynamic/Stable,continuous,Environmental,rain,canopy,rain falling on a dense layer of tropical leaves
+Dynamic/Stable,continuous,Environmental,waterfall,cliff,water crashing onto a flat stone ledge
+Dynamic/Stable,continuous,Environmental,ocean,shore,a series of waves breaking on a rocky coast
+Dynamic/Stable,continuous,Environmental,river,gorge,water surging over a riverbed of boulders
+Dynamic/Stable,continuous,Environmental,fire,hearth,the roar of a chimney draft in a fireplace
+Dynamic/Stable,continuous,Environmental,stream,woods,a fast-moving creek rippling over gravel
+Dynamic/Stable,continuous,Environmental,sand,dune,sand grains cascading down a steep slope
+Dynamic/Stable,continuous,Environmental,reeds,marsh,the rustle of reeds in a steady wind
+Dynamic/Stable,continuous,Environmental,thunder,plains,a distant and ongoing roll of thunder
+Dynamic/Stable,continuous,Environmental,hail,rooftop,hailstones hitting a corrugated metal surface
+Dynamic/Stable,continuous,Environmental,echo,cave,a vocal note resonating in a large cavern
+Dynamic/Stable,continuous,Environmental,geyser,basin,the subterranean gurgle of a hot spring
+Dynamic/Stable,continuous,Organic,cricket,night,the ongoing chirp of a cricket in the grass
+Dynamic/Stable,continuous,Organic,moth,porch,the flutter of a moth's wings against a glass pane
+Dynamic/Stable,continuous,Organic,blood,chamber,blood rushing through an artery heard via stethoscope
+Dynamic/Stable,continuous,Organic,sloth,canopy,a sloth moving slowly along a mossy branch
+Dynamic/Stable,continuous,Organic,purr,living room,the steady purr of a cat on a rug
+Dynamic/Stable,continuous,Organic,hum,kitchen,a person humming a melody under their breath
+Dynamic/Stable,continuous,Organic,breath,bedroom,the rhythmic breathing of a sleeper
+Dynamic/Stable,continuous,Organic,heartbeat,room,the steady thud of a heart in a chest
+Dynamic/Stable,continuous,Organic,wings,garden,the buzz of a hummingbird's wings
+Dynamic/Stable,continuous,Organic,grazing,field,a horse chewing grass in a pasture
+Dynamic/Stable,continuous,Organic,scuttle,attic,a rodent moving across a wooden floor
+Dynamic/Stable,continuous,Organic,flutter,aviary,a bird ruffling its feathers
+Dynamic/Stable,continuous,Organic,bees,hive,the collective hum of a beehive
+Dynamic/Stable,continuous,Organic,locusts,meadow,a swarm of insects in flight
+Dynamic/Stable,continuous,Organic,whale,ocean,the low-frequency moan of a whale
+Dynamic/Stable,continuous,Organic,cicada,tree,a single insect's drone in the sun
+Dynamic/Stable,continuous,Organic,creak,woods,two tree branches rubbing in the wind
+Dynamic/Stable,continuous,Domestic,dryer,laundry,a clothes dryer tumbling a load of towels
+Dynamic/Stable,continuous,Domestic,toothbrush,bathroom,an electric toothbrush vibrating against teeth
+Dynamic/Stable,continuous,Domestic,sprinkler,yard,a lawn sprinkler spraying water in an arc
+Dynamic/Stable,continuous,Domestic,fountain,garden,a decorative water fountain splashing into a pool
+Dynamic/Stable,continuous,Domestic,pump,basement,the hum of a fish tank air pump
+Dynamic/Stable,continuous,Domestic,kettle,kitchen,the rumble of water approaching a boil
+Dynamic/Stable,continuous,Domestic,vacuum,room,the drone of a vacuum on a plush carpet
+Dynamic/Stable,continuous,Domestic,fridge,pantry,the hum of a refrigerator motor
+Dynamic/Stable,continuous,Domestic,ceiling fan,bedroom,the rotation of fan blades in the night
+Dynamic/Stable,continuous,Domestic,radiator,study,the hiss of steam in a heating pipe
+Dynamic/Stable,continuous,Domestic,plumbing,hallway,water running through pipes in a house
+Dynamic/Stable,continuous,Domestic,blender,kitchen,a blender running on a low setting
+Dynamic/Stable,continuous,Domestic,hairdryer,bathroom,the whir of a hairdryer in use
+Dynamic/Stable,continuous,Domestic,shaver,closet,an electric shaver running in a room
+Dynamic/Stable,continuous,Domestic,shower,bathroom,the splash of water against a curtain
+Dynamic/Stable,continuous,Domestic,mower,yard,an electric mower cutting grass
+Dynamic/Stable,continuous,Domestic,clock,den,the tick of a grandfather clock
+Dynamic/Stable,continuous,Electronic,signal,laboratory,a sawtooth wave from an oscillator
+Dynamic/Stable,continuous,Electronic,noise,room,pink noise playing through a speaker
+Dynamic/Stable,continuous,Electronic,search,office,the data processing hum of a computer
+Dynamic/Stable,continuous,Electronic,charging,garage,the faint fizz of a battery charger
+Dynamic/Stable,continuous,Electronic,telemetry,tower,a continuous data pulse from a radio
+Dynamic/Stable,continuous,Electronic,hum,basement,the buzz of a power transformer
+Dynamic/Stable,continuous,Electronic,modem,study,the hiss of a data transmission
+Dynamic/Stable,continuous,Electronic,feedback,stage,a high-frequency feedback loop
+Dynamic/Stable,continuous,Electronic,drone,hallway,the hum of a climate system
+Dynamic/Stable,continuous,Electronic,monitor,office,the whine of an electronic display
+Dynamic/Stable,continuous,Electronic,UPS,server room,the hum of a power supply
+Dynamic/Stable,continuous,Electronic,router,closet,the whir of a cooling fan
+Dynamic/Stable,continuous,Electronic,strobe,nightclub,the sing of a flash unit
+Dynamic/Stable,continuous,Electronic,white noise,lab,a signal generator outputting noise
+Dynamic/Stable,continuous,Electronic,plasma,workshop,the buzz of a plasma lamp
+Dynamic/Stable,continuous,Electronic,arc,factory,the sizzle of an industrial welder
+Dynamic/Stable,continuous,Electronic,inductor,device,the sing of a circuit component
+Dynamic/Stable,even,Musical,metronome,music room,a mechanical metronome ticking at a fixed tempo
+Dynamic/Stable,even,Musical,staccato,hall,a series of flute notes played at regular intervals
+Dynamic/Stable,even,Musical,piano,ballroom,a pianist playing a scale with uniform timing
+Dynamic/Stable,even,Musical,woodblock,orchestra,a percussionist striking a woodblock rhythmically
+Dynamic/Stable,even,Musical,triangle,pit,a steel triangle being struck at a steady pace
+Dynamic/Stable,even,Musical,drum,stage,a drummer playing a simple four-four beat
+Dynamic/Stable,even,Musical,harp,parlor,a series of plucked strings with equal duration
+Dynamic/Stable,even,Musical,marimba,conservatory,a marimba being played with steady alternating strokes
+Dynamic/Stable,even,Musical,claves,studio,two wooden sticks striking together in a pattern
+Dynamic/Stable,even,Musical,tambourine,meadow,a tambourine being tapped with the hand rhythmically
+Dynamic/Stable,even,Musical,castanets,plaza,a pair of castanets clicking at a constant rate
+Dynamic/Stable,even,Musical,bells,tower,a bell tolling once every few seconds
+Dynamic/Stable,even,Musical,xylophone,classroom,a wooden bar being hit with a steady rhythm
+Dynamic/Stable,even,Musical,cello,chamber,a series of pizzicato notes at a fixed tempo
+Dynamic/Stable,even,Musical,banjo,porch,a banjo string being plucked at a regular speed
+Dynamic/Stable,even,Musical,cowbell,stadium,a metal stick hitting a cowbell in a pattern
+Dynamic/Stable,even,Musical,glockenspiel,nursery,a sequence of notes with uniform volume
+Dynamic/Stable,even,Mechanical,piston,factory,a hydraulic piston moving in a regular cycle
+Dynamic/Stable,even,Mechanical,clock,hall,the tick-tock of a mechanical wall clock
+Dynamic/Stable,even,Mechanical,toggle switch,office,a series of plastic switches being flipped
+Dynamic/Stable,even,Mechanical,staple gun,garage,a staple gun firing at a steady pace
+Dynamic/Stable,even,Mechanical,typewriter,library,a person typing with a consistent rhythm
+Dynamic/Stable,even,Mechanical,sewing machine,loft,a sewing machine needle punching fabric at a steady speed
+Dynamic/Stable,even,Mechanical,gears,mill,the rhythmic clatter of gears in a wooden mill
+Dynamic/Stable,even,Mechanical,winch,harbor,a cable winch winding with uniform tension
+Dynamic/Stable,even,Mechanical,drill,workshop,an electric drill pulsing at regular intervals
+Dynamic/Stable,even,Mechanical,pump,well,the rhythmic stroke of a manual water pump
+Dynamic/Stable,even,Mechanical,conveyor,warehouse,rollers spinning under a conveyor belt
+Dynamic/Stable,even,Mechanical,lathe,shop,a lathe cutting wood with a steady pressure
+Dynamic/Stable,even,Mechanical,escapement,study,the rapid movement of a watch mechanism
+Dynamic/Stable,even,Mechanical,fan,server room,the rhythmic whir of a cooling fan
+Dynamic/Stable,even,Mechanical,printing press,basement,the rhythmic cycle of an offset press
+Dynamic/Stable,even,Mechanical,engine,track,the steady beat of a four-cylinder engine
+Dynamic/Stable,even,Mechanical,treadmill,gym,the regular impact of feet on a belt
+Dynamic/Stable,even,Environmental,waves,beach,the rhythmic lap of small waves on a shore
+Dynamic/Stable,even,Environmental,geyser,basin,the regular bubbling of a hot spring
+Dynamic/Stable,even,Environmental,icicle,eaves,water dripping at a constant rate
+Dynamic/Stable,even,Environmental,rain,balcony,raindrops hitting a tin roof one by one
+Dynamic/Stable,even,Environmental,leaves,garden,the regular rustle of leaves in a steady air
+Dynamic/Stable,even,Environmental,stones,river,stones clinking together in a regular current
+Dynamic/Stable,even,Environmental,thunder,plains,a series of distant rumbles at intervals
+Dynamic/Stable,even,Environmental,wind,canyon,a pulsing gust of wind through a rock hole
+Dynamic/Stable,even,Environmental,fire,hearth,the rhythmic pop of a log in a fireplace
+Dynamic/Stable,even,Environmental,tide,shore,the regular movement of water over pebbles
+Dynamic/Stable,even,Environmental,mud pot,swamp,gas bubbles bursting in mud at intervals
+Dynamic/Stable,even,Environmental,reeds,marsh,the regular swaying of reeds in the wind
+Dynamic/Stable,even,Environmental,sand,desert,sand grains hitting a glass at a steady rate
+Dynamic/Stable,even,Environmental,ice,lake,a series of cracks forming at a regular pace
+Dynamic/Stable,even,Environmental,thaw,woods,snow melting and dripping from a branch
+Dynamic/Stable,even,Environmental,roots,forest,the regular creak of a tree in a breeze
+Dynamic/Stable,even,Environmental,echo,canyon,a rhythmic clap echoing off rock walls
+Dynamic/Stable,even,Organic,footsteps,hallway,a person walking with a steady and even pace
+Dynamic/Stable,even,Organic,chewing,kitchen,a person chewing food at a regular speed
+Dynamic/Stable,even,Organic,finger tapping,library,fingers drumming on a wooden table
+Dynamic/Stable,even,Organic,wing flaps,garden,a bird's wings flapping at a steady rate
+Dynamic/Stable,even,Organic,tail slaps,swamp,a beaver hitting the water with its tail
+Dynamic/Stable,even,Organic,heartbeat,chamber,the rhythmic thud of a heart in a chest
+Dynamic/Stable,even,Organic,breath,bedroom,the regular inhale and exhale of a sleeper
+Dynamic/Stable,even,Organic,chirp,field,a cricket chirping at a constant tempo
+Dynamic/Stable,even,Organic,peck,woods,a woodpecker tapping at a regular interval
+Dynamic/Stable,even,Organic,scuttle,attic,a rodent moving with a rhythmic gait
+Dynamic/Stable,even,Organic,grazing,meadow,a horse chewing at a steady pace
+Dynamic/Stable,even,Organic,snuffle,stable,a horse exhaling at regular intervals
+Dynamic/Stable,even,Organic,scratching,porch,a dog scratching a wooden door
+Dynamic/Stable,even,Organic,clucking,farm,a chicken vocalizing at a steady rate
+Dynamic/Stable,even,Organic,croak,pond,a frog croaking at regular intervals
+Dynamic/Stable,even,Organic,pulse,room,a pulse thumping in an ear
+Dynamic/Stable,even,Organic,blink,nursery,the rhythmic movement of a baby's eyes
+Dynamic/Stable,even,Domestic,chopping,kitchen,a knife hitting a wooden board at a steady pace
+Dynamic/Stable,even,Domestic,clock,hall,the rhythmic tick of a mantle clock
+Dynamic/Stable,even,Domestic,eggbeater,pantry,a manual eggbeater being turned steadily
+Dynamic/Stable,even,Domestic,blender,kitchen,a blender being pulsed at intervals
+Dynamic/Stable,even,Domestic,mixer,nursery,an electric mixer stirring batter evenly
+Dynamic/Stable,even,Domestic,stairs,foyer,a person climbing stairs with regular steps
+Dynamic/Stable,even,Domestic,hammering,garage,a hammer hitting a nail at a fixed tempo
+Dynamic/Stable,even,Domestic,scissors,office,scissors cutting paper with regular snips
+Dynamic/Stable,even,Domestic,keys,entryway,a person shaking a keyring steadily
+Dynamic/Stable,even,Domestic,ball,playroom,a ball bouncing on a wooden floor
+Dynamic/Stable,even,Domestic,pump,fish tank,the regular pulse of an air stone
+Dynamic/Stable,even,Domestic,mower,yard,an electric mower moving in a straight line
+Dynamic/Stable,even,Domestic,sprinkler,garden,the rhythmic clicking of a water head
+Dynamic/Stable,even,Domestic,fan,bedroom,the regular whir of a ceiling fan
+Dynamic/Stable,even,Domestic,faucet,bathroom,a steady drip from a leaky tap
+Dynamic/Stable,even,Domestic,iron,laundry,the rhythmic hiss of a steam iron
+Dynamic/Stable,even,Domestic,typewriter,study,keys hitting a page at a constant rate
+Dynamic/Stable,even,Electronic,beep,hospital,a heart monitor beeping at a regular interval
+Dynamic/Stable,even,Electronic,blink,office,the rhythmic clicking of a server light
+Dynamic/Stable,even,Electronic,signal,laboratory,a series of electronic pulses at a fixed rate
+Dynamic/Stable,even,Electronic,keypad,gate,a person pressing buttons on a digital pad
+Dynamic/Stable,even,Electronic,sensor,warehouse,a chime sounding as objects pass a beam
+Dynamic/Stable,even,Electronic,led,control room,the regular flickering of an led panel
+Dynamic/Stable,even,Electronic,strobe,nightclub,the rhythmic fire of a strobe light
+Dynamic/Stable,even,Electronic,modem,basement,the periodic chirp of a data connection
+Dynamic/Stable,even,Electronic,pager,subway,the regular vibration of a pager
+Dynamic/Stable,even,Electronic,transformer,pole,the steady buzz of a utility box
+Dynamic/Stable,even,Electronic,fan,router,the even whir of a cooling system
+Dynamic/Stable,even,Electronic,oscillator,lab,a rhythmic square wave pulse
+Dynamic/Stable,even,Electronic,clock,bedroom,the regular tick of a quartz watch
+Dynamic/Stable,even,Electronic,pulse,studio,a synthesizer outputting a steady beat
+Dynamic/Stable,even,Electronic,chime,hallway,a digital doorbell ringing twice
+Dynamic/Stable,even,Electronic,hum,garage,the even vibration of a battery charger
+Dynamic/Stable,even,Electronic,static,radio,the regular crackle of interference

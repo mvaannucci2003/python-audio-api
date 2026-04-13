@@ -1,0 +1,586 @@
+category,tag,domain,source,environment,scenario
+Temporal/Sustained,slow,Musical,double bass,stone chapel,a horsehair bow moving at a snail's pace across a thick double bass string
+Temporal/Sustained,slow,Musical,cello,art gallery,a cellist drawing a bow with extreme deliberation across the lowest string
+Temporal/Sustained,slow,Musical,pipe organ,cathedral,the gradual inflation of leather bellows in an ancient pipe organ
+Temporal/Sustained,slow,Musical,gong,temple,a large bronze gong being struck once every minute with a heavy felt mallet
+Temporal/Sustained,slow,Musical,accordion,subway station,the slow expansion of accordion bellows without any notes being played
+Temporal/Sustained,slow,Musical,violin,ballroom,a violinist performing a long and gradual glissando up the fingerboard
+Temporal/Sustained,slow,Musical,flute,meadow,a wooden flute player exhaling a single breath over a very long duration
+Temporal/Sustained,slow,Musical,handpan,cave,a finger circling the rim of a handpan to produce a steady vibration
+Temporal/Sustained,slow,Musical,harp,conservatory,a single harp string vibrating after a very soft and deliberate pluck
+Temporal/Sustained,slow,Musical,didgeridoo,canyon,a person producing a rhythmic but very slow drone through a hollow log
+Temporal/Sustained,slow,Musical,glass harmonica,observatory,a crystal bowl rotating slowly against a wet finger
+Temporal/Sustained,slow,Musical,trombone,hangar,a trombone slide being extended fully while a note is held
+Temporal/Sustained,slow,Musical,piano,theatre,a grand piano key being depressed so slowly the hammer barely touches the string
+Temporal/Sustained,slow,Musical,vibraphone,jazz club,a vibraphone motor spinning at its lowest possible speed setting
+Temporal/Sustained,slow,Musical,tuba,museum,a tuba player sustaining a pedal note until their air runs out
+Temporal/Sustained,slow,Musical,singing bowl,spa,a wooden striker circling the edge of a brass bowl at a constant slow rate
+Temporal/Sustained,slow,Musical,theremin,laboratory,a hand moving very slowly toward the pitch antenna of a theremin
+Temporal/Sustained,slow,Mechanical,flywheel,factory floor,a massive cast iron flywheel gradually losing momentum after the engine stops
+Temporal/Sustained,slow,Mechanical,gears,clock tower,the heavy brass gears of a clock tower turning once every hour
+Temporal/Sustained,slow,Mechanical,conveyor,warehouse,a thick rubber conveyor belt moving at a barely perceptible speed
+Temporal/Sustained,slow,Mechanical,crane,shipyard,a massive dockside crane arm pivoting slowly across the horizon
+Temporal/Sustained,slow,Mechanical,lathe,workshop,a metal lathe turning a heavy steel cylinder at low rotations per minute
+Temporal/Sustained,slow,Mechanical,shutter,loading dock,a heavy metal security door being raised by a hand crank
+Temporal/Sustained,slow,Mechanical,winch,mine shaft,a rusted iron winch lowering a platform into a deep pit
+Temporal/Sustained,slow,Mechanical,fan,office building,a ceiling fan spinning down after the power has been cut
+Temporal/Sustained,slow,Mechanical,press,machine shop,a hydraulic press descending toward a block of lead
+Temporal/Sustained,slow,Mechanical,escapement,watchmaker shop,the slow and rhythmic movement of a large grandfather clock pendulum
+Temporal/Sustained,slow,Mechanical,elevator,hotel,the sound of an elevator car descending a long shaft in a quiet building
+Temporal/Sustained,slow,Mechanical,drill,garage,a hand-cranked drill boring into a piece of seasoned oak
+Temporal/Sustained,slow,Mechanical,printing press,basement,a vintage letterpress wheel being turned by hand
+Temporal/Sustained,slow,Mechanical,valve,power plant,a large steam valve being turned slowly to the open position
+Temporal/Sustained,slow,Mechanical,sewing machine,loft,the needle of a manual sewing machine moving through thick denim
+Temporal/Sustained,slow,Mechanical,projector,cinema,the mechanical reels of a film projector slowing to a stop
+Temporal/Sustained,slow,Mechanical,pump,waterworks,a large piston pump moving water through a wide cast iron pipe
+Temporal/Sustained,slow,Environmental,glacier,arctic,a massive sheet of ice sliding over a bedrock shelf
+Temporal/Sustained,slow,Environmental,rockslide,canyon,a single large boulder tumbling down a steep gravel slope
+Temporal/Sustained,slow,Environmental,mud,swamp,a heavy object sinking into a pool of thick and viscous mud
+Temporal/Sustained,slow,Environmental,tree,forest,a dying pine tree leaning and creaking against its neighbor in a breeze
+Temporal/Sustained,slow,Environmental,thaw,mountain,water dripping from a large icicle into a deep snowbank
+Temporal/Sustained,slow,Environmental,wind,desert,a steady and low-velocity wind blowing over vast sand dunes
+Temporal/Sustained,slow,Environmental,river,valley,a wide and deep river flowing over a bed of smooth silt
+Temporal/Sustained,slow,Environmental,bubbles,hot spring,large gas bubbles rising slowly through thick mineral water
+Temporal/Sustained,slow,Environmental,geyser,thermal field,the build-up of pressure in a subterranean water chamber
+Temporal/Sustained,slow,Environmental,clouds,mountaintop,the sound of heavy mist moving through a mountain pass
+Temporal/Sustained,slow,Environmental,rain,greenhouse,a light drizzle hitting a glass roof over several hours
+Temporal/Sustained,slow,Environmental,leaves,autumn woods,a single dry leaf tumbling through the air and hitting the ground
+Temporal/Sustained,slow,Environmental,ocean,shoreline,the long and gradual recession of a wave on a flat beach
+Temporal/Sustained,slow,Environmental,ice,lake,the expansion of a frozen lake surface during a temperature drop
+Temporal/Sustained,slow,Environmental,landslide,quarry,saturated earth sliding down a quarry wall after a storm
+Temporal/Sustained,slow,Environmental,tide,reef,the slow movement of water through a kelp forest during tide change
+Temporal/Sustained,slow,Organic,vocal,forest,the long and drawn-out hoot of an owl in a hollow tree
+Temporal/Sustained,slow,Organic,footstep,hallway,a person walking with extreme caution across a creaky floor
+Temporal/Sustained,slow,Organic,breathing,nursery,the deep and rhythmic breathing of a person in a heavy sleep
+Temporal/Sustained,slow,Organic,throat,zoo,the slow and rhythmic purr of a resting lion
+Temporal/Sustained,slow,Organic,scales,reptile house,a large python sliding its body over a piece of dry wood
+Temporal/Sustained,slow,Organic,wings,meadow,the slow flapping of a large bird's wings as it glides
+Temporal/Sustained,slow,Organic,skin,spa,a massage therapist's hands moving slowly across a person's back
+Temporal/Sustained,slow,Organic,hair,salon,a comb being drawn slowly through long and tangled hair
+Temporal/Sustained,slow,Organic,fingers,library,a fingertip tracing a line on a piece of rough parchment
+Temporal/Sustained,slow,Organic,heartbeat,quiet room,the low and steady thumping of a resting heart
+Temporal/Sustained,slow,Organic,belly,swamp,a hippopotamus rising slowly from a muddy river bank
+Temporal/Sustained,slow,Organic,throat,mountains,the long and mournful howl of a wolf in the distance
+Temporal/Sustained,slow,Organic,beak,cliffs,a bird slowly preening its feathers on a rocky ledge
+Temporal/Sustained,slow,Organic,tail,river,an alligator's tail moving slowly through the water
+Temporal/Sustained,slow,Organic,shell,beach,a crab dragging its shell across the wet sand
+Temporal/Sustained,slow,Organic,chest,bedroom,the slow rise and fall of a person's chest while breathing
+Temporal/Sustained,slow,Organic,tongue,zoo,a giraffe licking a salt block with a long and slow stroke
+Temporal/Sustained,slow,Domestic,drawer,kitchen,a wooden drawer being pulled open very slowly on its runners
+Temporal/Sustained,slow,Domestic,knife,pantry,a knife being drawn slowly through a thick block of beeswax
+Temporal/Sustained,slow,Domestic,curtain,bedroom,heavy velvet curtains being drawn across a metal rod
+Temporal/Sustained,slow,Domestic,iron,laundry room,a steam iron being moved slowly across a damp cotton sheet
+Temporal/Sustained,slow,Domestic,bottle,cellar,thick honey being poured slowly from a glass jar
+Temporal/Sustained,slow,Domestic,sponge,bathroom,a wet sponge being wiped slowly across a marble surface
+Temporal/Sustained,slow,Domestic,door,hallway,a heavy pocket door sliding slowly into its wall cavity
+Temporal/Sustained,slow,Domestic,polish,living room,a cloth being rubbed slowly over a wax-covered table
+Temporal/Sustained,slow,Domestic,zipper,closet,a metal zipper being pulled up slowly on a heavy coat
+Temporal/Sustained,slow,Domestic,spatula,bakery,a rubber spatula being used to smooth thick frosting
+Temporal/Sustained,slow,Domestic,broom,porch,a push broom being moved slowly across a stone patio
+Temporal/Sustained,slow,Domestic,clock,hallway,the slow and heavy ticking of a grandfather clock
+Temporal/Sustained,slow,Domestic,trunk,attic,a heavy leather trunk being dragged across wooden floorboards
+Temporal/Sustained,slow,Domestic,pot,kitchen,a heavy ceramic lid being slid onto a cast iron pot
+Temporal/Sustained,slow,Domestic,rug,entryway,a heavy rug being unrolled across a hardwood floor
+Temporal/Sustained,slow,Domestic,faucet,bathroom,a faucet being turned slowly to a full stream
+Temporal/Sustained,slow,Electronic,oscillator,lab,a low-frequency sine wave gradually increasing in pitch
+Temporal/Sustained,slow,Electronic,hum,substation,the steady and unwavering hum of a power transformer
+Temporal/Sustained,slow,Electronic,fan,datacenter,the slow start-up of a massive server rack fan
+Temporal/Sustained,slow,Electronic,synthesizer,studio,a synthesizer patch with a very long attack and decay
+Temporal/Sustained,slow,Electronic,feedback,rehearsal space,a guitar feedback note that builds very gradually
+Temporal/Sustained,slow,Electronic,interference,radio,a slow and rhythmic pulsing in a radio signal
+Temporal/Sustained,slow,Electronic,beeper,hospital,the slow and steady beep of a heart monitor
+Temporal/Sustained,slow,Electronic,static,living room,white noise from a television gradually fading in
+Temporal/Sustained,slow,Electronic,motor,garage,a small electric motor spinning at its lowest voltage
+Temporal/Sustained,slow,Electronic,pulse,laboratory,a rhythmic electronic pulse with a very slow tempo
+Temporal/Sustained,slow,Electronic,buzz,kitchen,the steady and low-frequency hum of a refrigerator
+Temporal/Sustained,slow,Electronic,alarm,bedroom,a digital alarm clock playing a slow and melodic chime
+Temporal/Sustained,slow,Electronic,hard drive,office,the sound of a hard drive spinning down
+Temporal/Sustained,slow,Electronic,led,billboard,the subtle buzz of a massive LED screen cooling
+Temporal/Sustained,slow,Electronic,relay,basement,an electromagnetic relay clicking slowly in an enclosure
+Temporal/Sustained,slow,Electronic,cable,studio,a signal cable being uncoiled slowly on a floor
+Temporal/Sustained,slow,Electronic,modem,attic,the slow and rhythmic handshake of a vintage modem
+Temporal/Sustained,slow attack,Musical,violin,concert hall,a bow gradually increasing in pressure on a violin string
+Temporal/Sustained,slow attack,Musical,flute,meadow,a flute player slowly increasing their breath into the mouthpiece
+Temporal/Sustained,slow attack,Musical,pipe organ,cathedral,a large organ pipe gradually reaching its full vibration
+Temporal/Sustained,slow attack,Musical,cello,art gallery,a cellist performing a long swell on a single note
+Temporal/Sustained,slow attack,Musical,gong,temple,a large gong being rubbed with a mallet to produce a slow build
+Temporal/Sustained,slow attack,Musical,french horn,conservatory,a french horn note fading in from silence
+Temporal/Sustained,slow attack,Musical,accordion,subway station,the gradual onset of a reed note as the bellows expand
+Temporal/Sustained,slow attack,Musical,vibraphone,jazz club,a vibraphone bar struck while the pedal is already down
+Temporal/Sustained,slow attack,Musical,harmonium,temple,the gradual build of air pressure in a hand-cranked organ
+Temporal/Sustained,slow attack,Musical,didgeridoo,canyon,a drone beginning with a soft breath and building in volume
+Temporal/Sustained,slow attack,Musical,theremin,laboratory,a hand moving toward the theremin to fade in a pitch
+Temporal/Sustained,slow attack,Musical,synthesizer,studio,a synthesizer pad with a maximum attack setting
+Temporal/Sustained,slow attack,Musical,singing bowl,spa,a brass bowl beginning to hum as the mallet circles it
+Temporal/Sustained,slow attack,Musical,glass harmonica,observatory,a crystal glass singing as a finger gradually adds pressure
+Temporal/Sustained,slow attack,Musical,trumpet,stadium,a trumpet player performing a long crescendo on one note
+Temporal/Sustained,slow attack,Musical,harp,ballroom,a harpist performing a slow glissando starting from silence
+Temporal/Sustained,slow attack,Musical,tuba,hangar,a tuba note building up resonance in a large space
+Temporal/Sustained,slow attack,Mechanical,turbine,power plant,a massive jet turbine gradually spooling up to full speed
+Temporal/Sustained,slow attack,Mechanical,siren,city street,a mechanical air-raid siren spinning up to its peak pitch
+Temporal/Sustained,slow attack,Mechanical,flywheel,factory floor,a heavy engine flywheel starting to rotate from a stop
+Temporal/Sustained,slow attack,Mechanical,fan,office building,an industrial fan motor gradually reaching its maximum RPM
+Temporal/Sustained,slow attack,Mechanical,winch,mine shaft,a heavy iron winch building tension in a steel cable
+Temporal/Sustained,slow attack,Mechanical,pump,waterworks,a hydraulic pump gradually reaching its operating pressure
+Temporal/Sustained,slow attack,Mechanical,shutter,loading dock,a motorized metal door slowly beginning to move
+Temporal/Sustained,slow attack,Mechanical,lathe,workshop,a lathe spindle gradually accelerating with a heavy part
+Temporal/Sustained,slow attack,Mechanical,drill,garage,a drill motor slowing down and then starting up again
+Temporal/Sustained,slow attack,Mechanical,conveyor,warehouse,a long conveyor belt gradually beginning to move under load
+Temporal/Sustained,slow attack,Mechanical,press,machine shop,a hydraulic ram slowly building force against a block
+Temporal/Sustained,slow attack,Mechanical,compressor,auto shop,an air compressor motor starting up in a quiet garage
+Temporal/Sustained,slow attack,Mechanical,boiler,basement,the gradual onset of steam rushing through pipes
+Temporal/Sustained,slow attack,Mechanical,elevator,hotel,the sound of an elevator motor starting to pull a car
+Temporal/Sustained,slow attack,Mechanical,gears,clock tower,a heavy gear train gradually overcoming friction
+Temporal/Sustained,slow attack,Mechanical,winch,dockyard,a motorized winch slowly pulling a heavy ship
+Temporal/Sustained,slow attack,Mechanical,centrifuge,lab,a laboratory centrifuge gradually increasing its speed
+Temporal/Sustained,slow attack,Environmental,wind,canyon,a gust of wind gradually building up in a narrow pass
+Temporal/Sustained,slow attack,Environmental,thunder,prairie,the slow build-up of a distant rolling thunderclap
+Temporal/Sustained,slow attack,Environmental,waterfall,mountain,the sound of water gradually increasing after a dam release
+Temporal/Sustained,slow attack,Environmental,fire,forest,the gradual build-up of a roaring crown fire in a forest
+Temporal/Sustained,slow attack,Environmental,storm,ship,the gradual increase of wind howling through a ship's rigging
+Temporal/Sustained,slow attack,Environmental,geyser,thermal field,the slow increase of steam pressure before an eruption
+Temporal/Sustained,slow attack,Environmental,landslide,quarry,the gradual onset of earth and rock sliding down a slope
+Temporal/Sustained,slow attack,Environmental,avalanche,alpine ridge,the slow and building roar of sliding snow
+Temporal/Sustained,slow attack,Environmental,river,valley,a flash flood gradually increasing the roar of a river
+Temporal/Sustained,slow attack,Environmental,rain,porch,a light drizzle gradually turning into a heavy downpour
+Temporal/Sustained,slow attack,Environmental,waves,shoreline,a large wave gradually building up as it approaches a cliff
+Temporal/Sustained,slow attack,Environmental,volcano,island,the gradual build-up of a volcanic tremor
+Temporal/Sustained,slow attack,Environmental,thaw,meadow,meltwater gradually increasing its flow after sunrise
+Temporal/Sustained,slow attack,Environmental,leaves,forest,a breeze gradually building up to a roar in the canopy
+Temporal/Sustained,slow attack,Environmental,ice,lake,the gradual groaning of an ice sheet under pressure
+Temporal/Sustained,slow attack,Environmental,bubbles,hot spring,the gradual increase of gas escaping a mineral pool
+Temporal/Sustained,slow attack,Environmental,rockslide,canyon,a few pebbles leading into a large slide of earth
+Temporal/Sustained,slow attack,Organic,throat,zoo,a lion's growl starting softly and building to a roar
+Temporal/Sustained,slow attack,Organic,vocal,mountains,a wolf's howl starting as a low moan and rising in volume
+Temporal/Sustained,slow attack,Organic,breathing,bedroom,a person's breath gradually becoming a loud snore
+Temporal/Sustained,slow attack,Organic,purr,living room,a cat starting to purr as it is being stroked
+Temporal/Sustained,slow attack,Organic,wings,meadow,a large bird's wings gradually flapping harder to take off
+Temporal/Sustained,slow attack,Organic,throat,woods,an owl's hoot fading in from the silence of the night
+Temporal/Sustained,slow attack,Organic,vocal,forest,the gradual increase of an insect drone at dusk
+Temporal/Sustained,slow attack,Organic,skin,spa,a hand gradually adding pressure during a massage stroke
+Temporal/Sustained,slow attack,Organic,vocal,stadium,a crowd gradually beginning to cheer in a large arena
+Temporal/Sustained,slow attack,Organic,heartbeat,quiet room,a heart rate gradually increasing after exercise
+Temporal/Sustained,slow attack,Organic,vocal,savanna,an elephant's low-frequency rumble building in intensity
+Temporal/Sustained,slow attack,Organic,vocal,jungle,a monkey's call starting softly and becoming louder
+Temporal/Sustained,slow attack,Organic,breathing,stable,a horse starting a long and deep exhale
+Temporal/Sustained,slow attack,Organic,vocal,tundra,the gradual onset of a walrus's groan
+Temporal/Sustained,slow attack,Organic,vocal,mountains,the sound of an eagle's cry fading in from the sky
+Temporal/Sustained,slow attack,Organic,throat,zoo,the slow and building hiss of a large snake
+Temporal/Sustained,slow attack,Organic,vocal,hills,the gradual build of a coyote's yip into a howl
+Temporal/Sustained,slow attack,Domestic,kettle,kitchen,a steam kettle slowly starting to whistle as it boils
+Temporal/Sustained,slow attack,Domestic,vacuum,rug,a vacuum cleaner motor gradually spooling up to full power
+Temporal/Sustained,slow attack,Domestic,iron,laundry room,the gradual increase of a steam hiss from an iron
+Temporal/Sustained,slow attack,Domestic,fan,bedroom,a table fan motor slowly reaching its set speed
+Temporal/Sustained,slow attack,Domestic,faucet,bathroom,water gradually being turned on to a full stream
+Temporal/Sustained,slow attack,Domestic,appliance,kitchen,the gradual start-up of a refrigerator compressor
+Temporal/Sustained,slow attack,Domestic,washing machine,laundry room,a machine gradually beginning its spin cycle
+Temporal/Sustained,slow attack,Domestic,door,hallway,the gradual creak of a heavy door being opened slowly
+Temporal/Sustained,slow attack,Domestic,curtain,theatre,the gradual movement of heavy stage curtains
+Temporal/Sustained,slow attack,Domestic,oven,bakery,the gradual onset of a convection fan in a large oven
+Temporal/Sustained,slow attack,Domestic,lighter,porch,the gradual hiss of gas before a flame ignites
+Temporal/Sustained,slow attack,Domestic,mixer,kitchen,a hand mixer gradually increasing its speed
+Temporal/Sustained,slow attack,Domestic,clock,hallway,the gradual build-up of a chime mechanism
+Temporal/Sustained,slow attack,Domestic,hum,office,the gradual onset of a fluorescent light buzz
+Temporal/Sustained,slow attack,Domestic,pipe,bathroom,water gradually filling a large metal bathtub
+Temporal/Sustained,slow attack,Domestic,zipper,closet,the gradual sound of a zipper being pulled slowly
+Temporal/Sustained,slow attack,Domestic,broom,porch,a sweeping motion gradually increasing in speed
+Temporal/Sustained,slow attack,Electronic,feedback,stage,a guitar feedback loop gradually building from silence
+Temporal/Sustained,slow attack,Electronic,synthesizer,studio,a synthesizer note with a very long attack phase
+Temporal/Sustained,slow attack,Electronic,oscillator,lab,a sine wave generator's volume being raised slowly
+Temporal/Sustained,slow attack,Electronic,transformer,substation,the gradual build of a hum as a transformer is powered
+Temporal/Sustained,slow attack,Electronic,interference,radio,a radio signal gradually becoming more static-heavy
+Temporal/Sustained,slow attack,Electronic,beeper,hospital,a digital alarm gradually increasing its volume
+Temporal/Sustained,slow attack,Electronic,fan,datacenter,a cooling fan motor slowly reaching its maximum speed
+Temporal/Sustained,slow attack,Electronic,motor,garage,a small electric motor gradually accelerating
+Temporal/Sustained,slow attack,Electronic,hum,basement,the gradual onset of an electrical hum in a quiet room
+Temporal/Sustained,slow attack,Electronic,alarm,bedroom,a digital alarm clock that fades in the sound
+Temporal/Sustained,slow attack,Electronic,static,living room,the gradual build of white noise on a television
+Temporal/Sustained,slow attack,Electronic,capacitor,lab,the gradual hum of a capacitor bank charging up
+Temporal/Sustained,slow attack,Electronic,drone,studio,a low-frequency drone that builds over several seconds
+Temporal/Sustained,slow attack,Electronic,relay,basement,an electromagnetic relay slowly engaging its contact
+Temporal/Sustained,slow attack,Electronic,speaker,subway,a public address system chime fading in
+Temporal/Sustained,slow attack,Electronic,circuit,attic,the gradual buzz of an overloaded circuit
+Temporal/Sustained,slow attack,Electronic,laser,research lab,the gradual build of a high-power laser charge
+Temporal/Sustained,long,Musical,pipe organ,cathedral,a sustained and unbroken pedal note on a large pipe organ
+Temporal/Sustained,long,Musical,didgeridoo,canyon,a continuous drone from a didgeridoo in a hollow space
+Temporal/Sustained,long,Musical,cello,art gallery,a cellist playing a long and unwavering legato note
+Temporal/Sustained,long,Musical,gong,temple,the extremely long and slow decay of a massive bronze gong
+Temporal/Sustained,long,Musical,singing bowl,spa,a brass singing bowl ringing out for a full minute
+Temporal/Sustained,long,Musical,violin,ballroom,a violinist performing a long and steady whole note
+Temporal/Sustained,long,Musical,harp,meadow,a single harp string vibrating until the sound disappears
+Temporal/Sustained,long,Musical,accordion,tavern,a sustained chord on an accordion with steady bellows
+Temporal/Sustained,long,Musical,vibraphone,jazz club,a vibraphone bar ringing with the sustain pedal down
+Temporal/Sustained,long,Musical,flute,tundra,a flute player holding a single high note for their full breath
+Temporal/Sustained,long,Musical,glass harmonica,observatory,a continuous and pure note from a crystal bowl
+Temporal/Sustained,long,Musical,piano,parlor,a grand piano chord sustained with the damper pedal
+Temporal/Sustained,long,Musical,harmonium,temple,the steady and long-lasting drone of a hand-pumped organ
+Temporal/Sustained,long,Musical,trombone,stadium,a trombone player sustaining a loud and steady note
+Temporal/Sustained,long,Musical,tuba,hangar,a tuba note echoing for a long duration in a large room
+Temporal/Sustained,long,Musical,theremin,laboratory,a steady and long-lasting pitch from a theremin
+Temporal/Sustained,long,Musical,synthesizer,studio,a synthesizer pad that stays at a constant level indefinitely
+Temporal/Sustained,long,Mechanical,turbine,power plant,the continuous and unwavering whir of a steam turbine
+Temporal/Sustained,long,Mechanical,fan,office building,an industrial exhaust fan running for several hours
+Temporal/Sustained,long,Mechanical,engine,shipyard,the steady idling hum of a massive ship's diesel engine
+Temporal/Sustained,long,Mechanical,conveyor,warehouse,a long conveyor belt moving at a constant speed
+Temporal/Sustained,long,Mechanical,pump,basement,a water pump running continuously in a large building
+Temporal/Sustained,long,Mechanical,winch,dockyard,a steel cable being pulled for a long distance
+Temporal/Sustained,long,Mechanical,lathe,workshop,a lathe tool cutting a long spiral on a metal rod
+Temporal/Sustained,long,Mechanical,siren,city street,an emergency siren wailing with a long cycle
+Temporal/Sustained,long,Mechanical,shutter,loading dock,a large motorized shutter taking a long time to open
+Temporal/Sustained,long,Mechanical,clock,hallway,the long and rhythmic ticking of a grandfather clock
+Temporal/Sustained,long,Mechanical,boiler,factory,the continuous and steady vibration of a large boiler
+Temporal/Sustained,long,Mechanical,ventilation,parking garage,a massive fan moving air through a long tunnel
+Temporal/Sustained,long,Mechanical,press,machine shop,a long and slow compression cycle of a hydraulic press
+Temporal/Sustained,long,Mechanical,winch,mine shaft,a cable unspooling for a long time into a deep pit
+Temporal/Sustained,long,Mechanical,escalator,mall,the continuous and steady movement of escalator steps
+Temporal/Sustained,long,Mechanical,metronome,music room,a mechanical metronome ticking for a long duration
+Temporal/Sustained,long,Mechanical,motor,garage,a small electric motor running at a steady high speed
+Temporal/Sustained,long,Environmental,wind,canyon,a steady and long-lasting gale howling through a gorge
+Temporal/Sustained,long,Environmental,river,valley,the continuous and unbroken roar of a wide river
+Temporal/Sustained,long,Environmental,waterfall,mountain,the long and steady sound of water hitting a pool
+Temporal/Sustained,long,Environmental,rain,greenhouse,heavy rain falling steadily on a glass roof
+Temporal/Sustained,long,Environmental,storm,prairie,the long-lasting howl of a winter storm in the plains
+Temporal/Sustained,long,Environmental,ocean,shoreline,the long and continuous sound of heavy surf
+Temporal/Sustained,long,Environmental,thunder,desert,a long and low-frequency rumble of distant thunder
+Temporal/Sustained,long,Environmental,geyser,thermal field,the long and steady hiss of a steam vent
+Temporal/Sustained,long,Environmental,mist,forest,the steady sound of air moving through a dense canopy
+Temporal/Sustained,long,Environmental,fire,campsite,the continuous hiss and crackle of a large bonfire
+Temporal/Sustained,long,Environmental,thaw,meadow,the long-lasting trickle of water in a mountain stream
+Temporal/Sustained,long,Environmental,lava,volcano,the continuous flow of molten rock down a channel
+Temporal/Sustained,long,Environmental,waves,beach,the long and gradual recession of waves on sand
+Temporal/Sustained,long,Environmental,bubbles,hot spring,the continuous sound of gas rising through water
+Temporal/Sustained,long,Environmental,ice,glacier,the long and low-frequency groan of moving ice
+Temporal/Sustained,long,Environmental,landslide,quarry,the long-lasting sound of earth sliding down a slope
+Temporal/Sustained,long,Environmental,stream,woods,the steady and long-lasting babble of a brook
+Temporal/Sustained,long,Organic,throat,zoo,the long and steady purr of a resting panther
+Temporal/Sustained,long,Organic,vocal,mountains,the long and drawn-out howl of a wolf
+Temporal/Sustained,long,Organic,breathing,nursery,the long and rhythmic breathing of a person in sleep
+Temporal/Sustained,long,Organic,wings,meadow,the steady and long-lasting hum of a bee in flight
+Temporal/Sustained,long,Organic,vocal,forest,the long and continuous drone of an insect at night
+Temporal/Sustained,long,Organic,throat,woods,the long and steady coo of a dove in a tree
+Temporal/Sustained,long,Organic,purr,living room,the continuous and low-frequency vibration of a cat
+Temporal/Sustained,long,Organic,heartbeat,quiet room,the steady and long-lasting rhythm of a heart
+Temporal/Sustained,long,Organic,vocal,savanna,an elephant's long-lasting and low-frequency rumble
+Temporal/Sustained,long,Organic,scales,reptile house,a large snake sliding its body over a long branch
+Temporal/Sustained,long,Organic,wings,garden,the continuous and long-lasting flutter of a moth
+Temporal/Sustained,long,Organic,vocal,jungle,the long and echoing call of a gibbon in the canopy
+Temporal/Sustained,long,Organic,breathing,stable,a horse's long and deep exhale through its nose
+Temporal/Sustained,long,Organic,skin,spa,a long and continuous massage stroke along a back
+Temporal/Sustained,long,Organic,vocal,tundra,the long and mournful groan of a walrus
+Temporal/Sustained,long,Organic,throat,zoo,the steady and long-lasting hiss of a large snake
+Temporal/Sustained,long,Organic,vocal,hills,the long and echoing howl of a distant coyote
+Temporal/Sustained,long,Domestic,vacuum,rug,the continuous and long-lasting hum of a vacuum motor
+Temporal/Sustained,long,Domestic,iron,laundry room,the steady and long-lasting hiss of steam from an iron
+Temporal/Sustained,long,Domestic,fan,bedroom,a table fan running at a constant speed for hours
+Temporal/Sustained,long,Domestic,appliance,kitchen,the steady and long-lasting hum of a refrigerator
+Temporal/Sustained,long,Domestic,kettle,kitchen,the long and steady whistle of a boiling kettle
+Temporal/Sustained,long,Domestic,faucet,bathroom,water running continuously from a full faucet
+Temporal/Sustained,long,Domestic,washing machine,laundry room,the long and steady spin cycle of a machine
+Temporal/Sustained,long,Domestic,hum,office,the continuous and long-lasting buzz of a neon sign
+Temporal/Sustained,long,Domestic,curtain,theatre,the long and steady movement of heavy curtains
+Temporal/Sustained,long,Domestic,pipe,basement,water rushing for a long time through a metal pipe
+Temporal/Sustained,long,Domestic,clock,hallway,the long and rhythmic ticking of a mechanical clock
+Temporal/Sustained,long,Domestic,mixer,bakery,the long and steady operation of a dough mixer
+Temporal/Sustained,long,Domestic,stove,kitchen,the continuous and long-lasting hiss of a gas burner
+Temporal/Sustained,long,Domestic,door,hallway,the long and drawn-out creak of a heavy wooden door
+Temporal/Sustained,long,Domestic,shower,bathroom,the steady and long-lasting sound of a shower spray
+Temporal/Sustained,long,Domestic,mower,backyard,the continuous and long-lasting drone of a lawnmower
+Temporal/Sustained,long,Domestic,broom,porch,a series of long and steady sweeping motions
+Temporal/Sustained,long,Electronic,hum,substation,the continuous and long-lasting hum of a transformer
+Temporal/Sustained,long,Electronic,drone,studio,a sustained and long-lasting electronic drone
+Temporal/Sustained,long,Electronic,synthesizer,stage,a synthesizer note held for a very long duration
+Temporal/Sustained,long,Electronic,feedback,rehearsal space,a long and steady guitar feedback note
+Temporal/Sustained,long,Electronic,interference,radio,a continuous and long-lasting hiss in a radio band
+Temporal/Sustained,long,Electronic,beeper,hospital,the long and steady beep of a heart monitor
+Temporal/Sustained,long,Electronic,fan,datacenter,the continuous and long-lasting whir of a cooling fan
+Temporal/Sustained,long,Electronic,static,living room,long-lasting white noise from a detuned television
+Temporal/Sustained,long,Electronic,motor,garage,a small electric motor running continuously
+Temporal/Sustained,long,Electronic,buzz,kitchen,the long and steady hum of a refrigerator compressor
+Temporal/Sustained,long,Electronic,alarm,bedroom,a digital alarm clock's long and continuous chime
+Temporal/Sustained,long,Electronic,oscillator,lab,a long and unwavering sine wave from a generator
+Temporal/Sustained,long,Electronic,hard drive,office,the long and steady spin of an external drive
+Temporal/Sustained,long,Electronic,led,billboard,the long and steady buzz of a massive screen
+Temporal/Sustained,long,Electronic,relay,basement,the long-lasting hum of an electromagnetic relay
+Temporal/Sustained,long,Electronic,cable,studio,the long-lasting hum of an unshielded signal cable
+Temporal/Sustained,long,Electronic,modem,attic,the long and rhythmic data stream of a modem
+Temporal/Sustained,decay,Musical,gong,temple,the long and gradual fading of a massive bronze gong
+Temporal/Sustained,decay,Musical,piano,ballroom,a grand piano note gradually dying out with the pedal held
+Temporal/Sustained,decay,Musical,cymbal,concert hall,the long tail of a large orchestral cymbal crash
+Temporal/Sustained,decay,Musical,singing bowl,spa,a brass singing bowl slowly losing its vibration
+Temporal/Sustained,decay,Musical,harp,conservatory,the gradual fading of a low harp string after a pluck
+Temporal/Sustained,decay,Musical,timpani,stage,a large timpani head vibrating as the energy dissipates
+Temporal/Sustained,decay,Musical,vibraphone,jazz club,a vibraphone bar ringing out with the pedal down
+Temporal/Sustained,decay,Musical,triangle,cathedral,the long and delicate fade of a silver triangle
+Temporal/Sustained,decay,Musical,bells,tower,the gradual fading of a large bell in a stone tower
+Temporal/Sustained,decay,Musical,cello,art gallery,the resonance of a cello string after the bow is lifted
+Temporal/Sustained,decay,Musical,guitar,tavern,the slow dying of an acoustic guitar string vibration
+Temporal/Sustained,decay,Musical,handbell,cathedral,a handbell being struck once and allowed to fade
+Temporal/Sustained,decay,Musical,xylophone,classroom,a wooden xylophone bar ringing as the sound decays
+Temporal/Sustained,decay,Musical,tuba,hangar,the echoing resonance of a tuba note fading away
+Temporal/Sustained,decay,Musical,trumpet,stadium,the tail of a trumpet blast echoing in an arena
+Temporal/Sustained,decay,Musical,marimba,theatre,the gradual fading of a rosewood marimba bar
+Temporal/Sustained,decay,Musical,handpan,cave,the long and echoing decay of a handpan strike
+Temporal/Sustained,decay,Mechanical,flywheel,factory floor,a massive iron flywheel slowing down and eventually stopping
+Temporal/Sustained,decay,Mechanical,engine,railway yard,a large diesel engine spooling down after being shut off
+Temporal/Sustained,decay,Mechanical,fan,office building,the gradual slowing of fan blades as the power cuts
+Temporal/Sustained,decay,Mechanical,turbine,power plant,a jet turbine gradually losing its whine after shut down
+Temporal/Sustained,decay,Mechanical,saw,workshop,a circular saw blade spinning down after a cut
+Temporal/Sustained,decay,Mechanical,lathe,machine shop,the spindle of a lathe slowing to a halt
+Temporal/Sustained,decay,Mechanical,drill,garage,a high-speed drill motor winding down after use
+Temporal/Sustained,decay,Mechanical,pump,waterworks,a hydraulic pump gradually stopping its vibration
+Temporal/Sustained,decay,Mechanical,winch,mine shaft,a winch drum slowing down as the cable tightens
+Temporal/Sustained,decay,Mechanical,siren,city street,a mechanical siren spinning down and lowering its pitch
+Temporal/Sustained,decay,Mechanical,projector,cinema,a film projector motor gradually slowing to a stop
+Temporal/Sustained,decay,Mechanical,compressor,auto shop,an air compressor tank losing its pressure buzz
+Temporal/Sustained,decay,Mechanical,boiler,basement,the fading hiss of steam after a valve is closed
+Temporal/Sustained,decay,Mechanical,gears,clock tower,a heavy gear train gradually losing its momentum
+Temporal/Sustained,decay,Mechanical,winch,dockyard,a motorized winch slowing down under a heavy load
+Temporal/Sustained,decay,Mechanical,shutter,loading dock,a motorized door slowing as it reaches the top
+Temporal/Sustained,decay,Mechanical,centrifuge,lab,a laboratory centrifuge gradually winding down
+Temporal/Sustained,decay,Environmental,thunder,prairie,the long and low-frequency tail of a lightning strike
+Temporal/Sustained,decay,Environmental,avalanche,mountain,the fading roar of snow as it reaches the valley
+Temporal/Sustained,decay,Environmental,waterfall,forest,the sound of water fading as you walk away
+Temporal/Sustained,decay,Environmental,fire,campsite,the dying crackle of embers in a cooling campfire
+Temporal/Sustained,decay,Environmental,rain,porch,the gradual fading of rain after a heavy storm
+Temporal/Sustained,decay,Environmental,wind,canyon,the gradual dying out of a wind gust in a gorge
+Temporal/Sustained,decay,Environmental,glacier,arctic,the echoing sound of an ice crack fading away
+Temporal/Sustained,decay,Environmental,waves,shoreline,the gradual fading of surf as the tide recedes
+Temporal/Sustained,decay,Environmental,volcano,island,the dying rumble of a subterranean tremor
+Temporal/Sustained,decay,Environmental,geyser,thermal field,the fading hiss of steam after an eruption ends
+Temporal/Sustained,decay,Environmental,thaw,meadow,the gradual slowing of meltwater flow at dusk
+Temporal/Sustained,decay,Environmental,rockslide,quarry,the fading sound of pebbles after a landslide
+Temporal/Sustained,decay,Environmental,ice,lake,the echoing groan of an ice sheet fading away
+Temporal/Sustained,decay,Environmental,storm,prairie,the gradual dying down of a violent windstorm
+Temporal/Sustained,decay,Environmental,landslide,canyon,the fading sound of falling earth and debris
+Temporal/Sustained,decay,Environmental,bubbles,hot spring,the gradual stopping of gas rising through water
+Temporal/Sustained,decay,Environmental,stream,woods,the fading sound of a brook as it dries up
+Temporal/Sustained,decay,Organic,vocal,mountains,the long and fading echo of a wolf's howl
+Temporal/Sustained,decay,Organic,throat,zoo,the gradual fading of a lion's roar into a purr
+Temporal/Sustained,decay,Organic,wings,meadow,the fading hum of a large bird's wings as it glides
+Temporal/Sustained,decay,Organic,breathing,nursery,the gradual slowing of a person's breath as they sleep
+Temporal/Sustained,decay,Organic,vocal,forest,the dying drone of an insect as the temperature drops
+Temporal/Sustained,decay,Organic,throat,woods,the fading tail of an owl's hoot in the trees
+Temporal/Sustained,decay,Organic,skin,spa,the fading sensation of a massage stroke on the skin
+Temporal/Sustained,decay,Organic,heartbeat,quiet room,a heart rate gradually slowing down after activity
+Temporal/Sustained,decay,Organic,vocal,savanna,the fading rumble of a distant elephant herd
+Temporal/Sustained,decay,Organic,vocal,jungle,the dying echo of a monkey's call in the canopy
+Temporal/Sustained,decay,Organic,vocal,stadium,the gradual fading of a crowd's cheer after a goal
+Temporal/Sustained,decay,Organic,vocal,tundra,the fading groan of a walrus on an ice floe
+Temporal/Sustained,decay,Organic,wings,garden,the fading flutter of a moth as it lands
+Temporal/Sustained,decay,Organic,purr,living room,a cat's purr gradually stopping as it falls asleep
+Temporal/Sustained,decay,Organic,vocal,hills,the fading echo of a coyote's yip in the valley
+Temporal/Sustained,decay,Organic,throat,zoo,the fading hiss of a large snake as it retreats
+Temporal/Sustained,decay,Organic,footstep,hallway,the fading sound of footsteps as a person walks away
+Temporal/Sustained,decay,Domestic,kettle,kitchen,the gradual fading of a kettle whistle as it is removed
+Temporal/Sustained,decay,Domestic,vacuum,rug,the sound of a vacuum motor winding down to silence
+Temporal/Sustained,decay,Domestic,fan,bedroom,a desk fan gradually slowing down after being turned off
+Temporal/Sustained,decay,Domestic,iron,laundry room,the fading hiss of steam after an iron is set down
+Temporal/Sustained,decay,Domestic,appliance,kitchen,the gradual stop of a refrigerator compressor
+Temporal/Sustained,decay,Domestic,washing machine,laundry room,a machine slowing down after a spin cycle
+Temporal/Sustained,decay,Domestic,mixer,bakery,the gradual stop of a large industrial dough mixer
+Temporal/Sustained,decay,Domestic,oven,bakery,the fading hum of a convection fan in a cooling oven
+Temporal/Sustained,decay,Domestic,stove,kitchen,the fading hiss of a gas burner after it is turned off
+Temporal/Sustained,decay,Domestic,curtain,theatre,the gradual stop of heavy curtains after they close
+Temporal/Sustained,decay,Domestic,door,hallway,the gradual dying out of a door's creak as it stops
+Temporal/Sustained,decay,Domestic,clock,hallway,the fading of a chime after the hour is struck
+Temporal/Sustained,decay,Domestic,mower,backyard,the fading drone of a lawnmower as it is shut off
+Temporal/Sustained,decay,Domestic,faucet,bathroom,the fading sound of water as a tap is closed
+Temporal/Sustained,decay,Domestic,hum,office,the fading buzz of a fluorescent light as it is turned off
+Temporal/Sustained,decay,Domestic,broom,porch,the fading sound of a sweeping stroke as it ends
+Temporal/Sustained,decay,Domestic,trunk,attic,the fading scrape of a trunk as it stops moving
+Temporal/Sustained,decay,Electronic,feedback,stage,the gradual fading of a guitar feedback loop
+Temporal/Sustained,decay,Electronic,synthesizer,studio,a synthesizer note with a very long release phase
+Temporal/Sustained,decay,Electronic,beeper,hospital,the fading beep of a monitor as the volume is lowered
+Temporal/Sustained,decay,Electronic,oscillator,lab,a sine wave generator's tone gradually dying out
+Temporal/Sustained,decay,Electronic,interference,radio,a radio signal gradually fading into white noise
+Temporal/Sustained,decay,Electronic,fan,datacenter,a cooling fan motor winding down after power loss
+Temporal/Sustained,decay,Electronic,motor,garage,a small electric motor slowing to a stop
+Temporal/Sustained,decay,Electronic,static,living room,the fading of white noise as a television is turned off
+Temporal/Sustained,decay,Electronic,buzz,kitchen,the gradual stop of a refrigerator hum
+Temporal/Sustained,decay,Electronic,alarm,bedroom,a digital alarm chime gradually fading away
+Temporal/Sustained,decay,Electronic,hard drive,office,the gradual spin-down of an external disk drive
+Temporal/Sustained,decay,Electronic,led,billboard,the fading buzz of a large screen after shut down
+Temporal/Sustained,decay,Electronic,relay,basement,the fading vibration of an electromagnetic relay
+Temporal/Sustained,decay,Electronic,capacitor,lab,the fading hum of a capacitor bank discharging
+Temporal/Sustained,decay,Electronic,modem,attic,the dying sounds of a modem connection dropping
+Temporal/Sustained,decay,Electronic,drone,studio,a long electronic drone that fades out slowly
+Temporal/Sustained,decay,Electronic,circuit,attic,the fading hum of a cooling transformer
+Temporal/Sustained,ringing,Musical,handbell,cathedral,a brass handbell struck once and allowed to vibrate
+Temporal/Sustained,ringing,Musical,triangle,concert hall,a silver triangle ringing out after a sharp strike
+Temporal/Sustained,ringing,Musical,gong,temple,the long and metallic resonance of a large bronze gong
+Temporal/Sustained,ringing,Musical,singing bowl,spa,a brass singing bowl vibrating after being struck
+Temporal/Sustained,ringing,Musical,bells,tower,the long-lasting resonance of a large church bell
+Temporal/Sustained,ringing,Musical,glockenspiel,theatre,a steel glockenspiel bar ringing after being hit
+Temporal/Sustained,ringing,Musical,piano,parlor,a high note on a grand piano ringing with the pedal down
+Temporal/Sustained,ringing,Musical,vibraphone,jazz club,a vibraphone bar vibrating after a soft strike
+Temporal/Sustained,ringing,Musical,marimba,theatre,a rosewood marimba bar ringing after being struck
+Temporal/Sustained,ringing,Musical,harp,conservatory,the resonance of a low harp string after a pluck
+Temporal/Sustained,ringing,Musical,guitar,tavern,the vibration of an acoustic guitar string held against a fret
+Temporal/Sustained,ringing,Musical,cymbal,stadium,a large orchestral cymbal ringing after a crash
+Temporal/Sustained,ringing,Musical,handpan,cave,the metallic resonance of a handpan after being struck
+Temporal/Sustained,ringing,Musical,chimes,mountaintop,a tubular aluminum bell ringing in the wind
+Temporal/Sustained,ringing,Musical,celesta,attic,a small steel plate vibrating inside a celesta
+Temporal/Sustained,ringing,Musical,tuning fork,classroom,a steel tuning fork ringing after being struck
+Temporal/Sustained,ringing,Musical,zither,tea house,a zither string ringing after a sharp pluck
+Temporal/Sustained,ringing,Mechanical,bell,ship,a brass ship's bell ringing out across the water
+Temporal/Sustained,ringing,Mechanical,anvil,foundry,a heavy iron anvil ringing after being struck with a hammer
+Temporal/Sustained,ringing,Mechanical,winch,dockyard,a steel cable vibrating and ringing under tension
+Temporal/Sustained,ringing,Mechanical,shutter,loading dock,a metal door ringing after being slammed shut
+Temporal/Sustained,ringing,Mechanical,gears,clock tower,a brass gear ringing as it is struck by a tooth
+Temporal/Sustained,ringing,Mechanical,lathe,machine shop,a thin metal tube ringing as it is being turned
+Temporal/Sustained,ringing,Mechanical,winch,mine shaft,a metal cage ringing as it hits a guide rail
+Temporal/Sustained,ringing,Mechanical,drill,garage,a steel drill bit ringing after being dropped on concrete
+Temporal/Sustained,ringing,Mechanical,pump,waterworks,a metal pipe ringing as water pressure surges
+Temporal/Sustained,ringing,Mechanical,boiler,basement,the side of a boiler ringing after a metallic impact
+Temporal/Sustained,ringing,Mechanical,press,factory floor,a metal part ringing after being stamped
+Temporal/Sustained,ringing,Mechanical,typewriter,attic,the margin bell on a typewriter ringing sharply
+Temporal/Sustained,ringing,Mechanical,hammer,construction,a metal scaffolding pipe ringing after a strike
+Temporal/Sustained,ringing,Mechanical,valve,power plant,a large metal valve handle ringing after being closed
+Temporal/Sustained,ringing,Mechanical,saw,workshop,a circular saw blade ringing after finishing a cut
+Temporal/Sustained,ringing,Mechanical,engine,railway yard,a metal engine cover ringing after a vibration
+Temporal/Sustained,ringing,Mechanical,escapement,watchmaker,the internal spring of a watch ringing faintly
+Temporal/Sustained,ringing,Environmental,ice,frozen lake,a thin sheet of ice ringing after being hit with a stone
+Temporal/Sustained,ringing,Environmental,crystals,cave,a cluster of quartz crystals ringing when tapped
+Temporal/Sustained,ringing,Environmental,geyser,thermal field,a metal vent pipe ringing during a steam release
+Temporal/Sustained,ringing,Environmental,rock,cliffs,a piece of flint ringing after hitting a granite ledge
+Temporal/Sustained,ringing,Environmental,thunder,desert,the high-frequency resonance of a lightning strike
+Temporal/Sustained,ringing,Environmental,icicle,backyard,a falling icicle ringing as it hits a stone patio
+Temporal/Sustained,ringing,Environmental,hail,car roof,a large hailstone making a metal car roof ring
+Temporal/Sustained,ringing,Environmental,fire,campsite,a metal tripod ringing in a hot campfire
+Temporal/Sustained,ringing,Environmental,water,cistern,the resonance of a deep water tank after an impact
+Temporal/Sustained,ringing,Environmental,bamboo,jungle,a dry bamboo stalk ringing after being struck
+Temporal/Sustained,ringing,Environmental,wind,canyon,wind-blown sand making a metal fence ring
+Temporal/Sustained,ringing,Environmental,storm,prairie,the ringing of a metal wire in a high wind
+Temporal/Sustained,ringing,Environmental,bridge,river,a suspension cable ringing after being struck
+Temporal/Sustained,ringing,Environmental,thaw,mountain,a piece of ice ringing as it falls down a gorge
+Temporal/Sustained,ringing,Environmental,rain,roof,raindrops making a thin metal roof ring
+Temporal/Sustained,ringing,Environmental,volcano,vent,a volcanic tremor causing a metal pipe to ring
+Temporal/Sustained,ringing,Environmental,sand,beach,a sea shell ringing when hit against a rock
+Temporal/Sustained,ringing,Organic,teeth,bathroom,a person's teeth ringing after a sharp click
+Temporal/Sustained,ringing,Organic,bones,museum,a small bone fragment ringing on a glass shelf
+Temporal/Sustained,ringing,Organic,egg,kitchen,an eggshell ringing as it is tapped with a silver spoon
+Temporal/Sustained,ringing,Organic,vocal,stadium,a high-pitched shout ringing in a large arena
+Temporal/Sustained,ringing,Organic,fingernails,desk,a fingernail ringing against a crystal glass
+Temporal/Sustained,ringing,Organic,skin,spa,a sharp finger snap ringing in a quiet room
+Temporal/Sustained,ringing,Organic,hair,salon,a single hair ringing as it is pulled tight and plucked
+Temporal/Sustained,ringing,Organic,beak,cliffs,a bird's beak ringing against a stone ledge
+Temporal/Sustained,ringing,Organic,scales,reptile house,a lizard's claw ringing against a metal grate
+Temporal/Sustained,ringing,Organic,throat,woods,an owl's hoot ringing through a silent forest
+Temporal/Sustained,ringing,Organic,wings,meadow,the resonance of a beetle's wings in a hollow gourd
+Temporal/Sustained,ringing,Organic,shell,beach,a conch shell ringing when tapped with a stone
+Temporal/Sustained,ringing,Organic,heartbeat,quiet room,the resonance of a heartbeat in a large chest
+Temporal/Sustained,ringing,Organic,vocal,forest,the ringing echo of a bird's call in a valley
+Temporal/Sustained,ringing,Organic,throat,zoo,the high-pitched hiss of a snake ringing in a cage
+Temporal/Sustained,ringing,Organic,nest,barn,a bird's wings ringing against a metal beam
+Temporal/Sustained,ringing,Organic,footstep,stairwell,hard-soled shoes ringing on a stone step
+Temporal/Sustained,ringing,Domestic,glass,dining room,a crystal wine glass ringing after being tapped
+Temporal/Sustained,ringing,Domestic,ceramic,kitchen,a porcelain plate ringing after being set down
+Temporal/Sustained,ringing,Domestic,metal,pantry,a stainless steel bowl ringing after an impact
+Temporal/Sustained,ringing,Domestic,jewelry,bedroom,a gold ring ringing as it hits a glass tray
+Temporal/Sustained,ringing,Domestic,keys,foyer,a single key ringing against a metal lock plate
+Temporal/Sustained,ringing,Domestic,bottle,cellar,a glass soda bottle ringing after being opened
+Temporal/Sustained,ringing,Domestic,can,kitchen,an aluminum can ringing after being flicked
+Temporal/Sustained,ringing,Domestic,oven,bakery,the mechanical timer bell of an oven ringing
+Temporal/Sustained,ringing,Domestic,silverware,restaurant,a silver spoon ringing on a ceramic plate
+Temporal/Sustained,ringing,Domestic,coin,arcade,a quarter ringing as it hits a metal coin tray
+Temporal/Sustained,ringing,Domestic,pot,kitchen,a cast iron lid ringing as it is set on a pot
+Temporal/Sustained,ringing,Domestic,lighter,porch,a metal lighter lid ringing as it is closed
+Temporal/Sustained,ringing,Domestic,knocker,door,a brass door knocker ringing after a strike
+Temporal/Sustained,ringing,Domestic,mirror,dressing room,a glass mirror ringing after being tapped
+Temporal/Sustained,ringing,Domestic,plastic,playroom,a hard plastic block ringing on a wooden floor
+Temporal/Sustained,ringing,Domestic,button,wardrobe,a metal button ringing against a glass shelf
+Temporal/Sustained,ringing,Domestic,foil,kitchen,a piece of tin foil ringing as it is flicked
+Temporal/Sustained,ringing,Electronic,beeper,hospital,a digital beep ringing in a quiet hallway
+Temporal/Sustained,ringing,Electronic,alarm,bedroom,a digital alarm clock's chime ringing out
+Temporal/Sustained,ringing,Electronic,synthesizer,studio,a synthesizer note with a high resonance setting
+Temporal/Sustained,ringing,Electronic,oscillator,lab,a high-frequency sine wave ringing through a speaker
+Temporal/Sustained,ringing,Electronic,feedback,stage,the high-pitched ringing of guitar feedback
+Temporal/Sustained,ringing,Electronic,interference,radio,a sharp whistle ringing in a radio band
+Temporal/Sustained,ringing,Electronic,spark,auto shop,an electric spark ringing between two electrodes
+Temporal/Sustained,ringing,Electronic,buzzer,game show,an electronic buzzer ringing after being pressed
+Temporal/Sustained,ringing,Electronic,switch,office,the mechanical ringing of a toggle switch
+Temporal/Sustained,ringing,Electronic,relay,basement,an electromagnetic relay ringing as it engages
+Temporal/Sustained,ringing,Electronic,toy,playroom,a toy's electronic note ringing in a quiet room
+Temporal/Sustained,ringing,Electronic,phone,hallway,a smartphone ringing with a clear digital tone
+Temporal/Sustained,ringing,Electronic,capacitor,lab,the ringing discharge of a ceramic capacitor
+Temporal/Sustained,ringing,Electronic,modem,basement,the high-frequency handshake of a modem ringing
+Temporal/Sustained,ringing,Electronic,laser,research lab,the ringing of a metal target after a laser pulse
+Temporal/Sustained,ringing,Electronic,display,office,the high-frequency ringing of a CRT monitor
+Temporal/Sustained,ringing,Electronic,transformer,street,the ringing hum of a power transformer
+Temporal/Sustained,sustain,Musical,double bass,concert hall,the continuous and deep vibration of a bowed double bass
+Temporal/Sustained,sustain,Musical,didgeridoo,canyon,the unbroken low-frequency drone of a didgeridoo
+Temporal/Sustained,sustain,Musical,pipe organ,cathedral,the long and steady sound of a held organ pedal note
+Temporal/Sustained,sustain,Musical,cello,art gallery,a cellist maintaining a long and unwavering legato note
+Temporal/Sustained,sustain,Musical,vibraphone,jazz club,a vibraphone bar vibrating with the pedal held down
+Temporal/Sustained,sustain,Musical,flute,meadow,a flute player holding a single long note with steady air
+Temporal/Sustained,sustain,Musical,accordion,tavern,a sustained chord on an accordion using constant bellows
+Temporal/Sustained,sustain,Musical,harmonium,temple,the steady and long-lasting sound of a hand-pumped organ
+Temporal/Sustained,sustain,Musical,glass harmonica,observatory,a continuous and pure note from a singing glass
+Temporal/Sustained,sustain,Musical,piano,parlor,the resonance of a grand piano with the damper pedal depressed
+Temporal/Sustained,sustain,Musical,singing bowl,spa,a brass singing bowl humming as a mallet circles it
+Temporal/Sustained,sustain,Musical,theremin,laboratory,the unwavering and long-lasting pitch of a theremin
+Temporal/Sustained,sustain,Musical,harp,conservatory,the long-lasting vibration of a low harp string
+Temporal/Sustained,sustain,Musical,tuba,hangar,a tuba note echoing steadily in a large empty room
+Temporal/Sustained,sustain,Musical,gong,temple,the long and continuous vibration of a struck gong
+Temporal/Sustained,sustain,Mechanical,turbine,power plant,the steady and unwavering whir of a steam turbine
+Temporal/Sustained,sustain,Mechanical,fan,office building,an industrial exhaust fan running at a constant speed
+Temporal/Sustained,sustain,Mechanical,engine,shipyard,the continuous and steady idling hum of a ship's engine
+Temporal/Sustained,sustain,Mechanical,winch,mine shaft,the steady and long-lasting tension in a pulling cable
+Temporal/Sustained,sustain,Mechanical,lathe,workshop,a lathe tool cutting a long groove on a metal bar
+Temporal/Sustained,sustain,Mechanical,siren,city street,an emergency siren wailing with a constant cycle
+Temporal/Sustained,sustain,Mechanical,conveyor,warehouse,a conveyor belt moving steadily on its rollers
+Temporal/Sustained,sustain,Mechanical,boiler,factory,the continuous and steady vibration of a steam boiler
+Temporal/Sustained,sustain,Mechanical,ventilation,parking garage,a massive fan moving air through a long shaft
+Temporal/Sustained,sustain,Mechanical,press,machine shop,the steady and long-lasting pressure of a hydraulic press
+Temporal/Sustained,sustain,Mechanical,escalator,mall,the continuous and unwavering movement of escalator steps
+Temporal/Sustained,sustain,Mechanical,shutter,loading dock,the steady and long-lasting whir of a motorized door
+Temporal/Sustained,sustain,Mechanical,winch,dockyard,the continuous and steady unspooling of a winch cable
+Temporal/Sustained,sustain,Mechanical,motor,garage,a small electric motor running at a steady pace
+Temporal/Sustained,sustain,Mechanical,gears,clock tower,the continuous and steady ticking of a clockwork
+Temporal/Sustained,sustain,Mechanical,centrifuge,lab,the steady and long-lasting whine of a centrifuge
+Temporal/Sustained,sustain,Environmental,wind,canyon,the continuous and unwavering howl of wind through a gorge
+Temporal/Sustained,sustain,Environmental,river,valley,the steady and long-lasting roar of a wide river
+Temporal/Sustained,sustain,Environmental,waterfall,mountain,the unbroken sound of water hitting a plunge pool
+Temporal/Sustained,sustain,Environmental,rain,greenhouse,heavy rain falling continuously on a glass roof
+Temporal/Sustained,sustain,Environmental,storm,prairie,the long-lasting and unwavering howl of a storm
+Temporal/Sustained,sustain,Environmental,ocean,shoreline,the steady and long-lasting sound of heavy surf
+Temporal/Sustained,sustain,Environmental,thunder,desert,the continuous and low rumble of distant thunder
+Temporal/Sustained,sustain,Environmental,geyser,thermal field,the steady and long-lasting hiss of a steam vent
+Temporal/Sustained,sustain,Environmental,mist,forest,the unwavering sound of air moving through a canopy
+Temporal/Sustained,sustain,Environmental,fire,campsite,the continuous and steady hiss and pop of a bonfire
+Temporal/Sustained,sustain,Environmental,thaw,meadow,the steady and long-lasting trickle of a mountain stream
+Temporal/Sustained,sustain,Environmental,lava,volcano,the continuous and steady flow of molten rock
+Temporal/Sustained,sustain,Environmental,waves,beach,the long and unwavering recession of waves on sand
+Temporal/Sustained,sustain,Environmental,ice,glacier,the long and steady groan of moving glacial ice
+Temporal/Sustained,sustain,Environmental,landslide,quarry,the steady and long-lasting sound of sliding earth
+Temporal/Sustained,sustain,Environmental,stream,woods,the unwavering babble of a brook in the forest
+Temporal/Sustained,sustain,Organic,throat,zoo,the steady and long-lasting purr of a resting lion
+Temporal/Sustained,sustain,Organic,vocal,mountains,the long and unwavering howl of a distant wolf
+Temporal/Sustained,sustain,Organic,vocal,forest,the continuous and long-lasting drone of an insect
+Temporal/Sustained,sustain,Organic,throat,woods,the long and unwavering coo of a dove in a tree
+Temporal/Sustained,sustain,Organic,purr,living room,the continuous and steady vibration of a cat
+Temporal/Sustained,sustain,Organic,vocal,savanna,an elephant's long-lasting and steady rumble
+Temporal/Sustained,sustain,Organic,scales,reptile house,a snake sliding its body steadily over a long branch
+Temporal/Sustained,sustain,Organic,vocal,jungle,the steady and unwavering call of a gibbon
+Temporal/Sustained,sustain,Organic,breathing,stable,a horse's long and steady exhale through its nose
+Temporal/Sustained,sustain,Organic,skin,spa,a long and steady massage stroke along a back
+Temporal/Sustained,sustain,Organic,vocal,tundra,the long and unwavering groan of a walrus
+Temporal/Sustained,sustain,Domestic,vacuum,rug,the continuous and steady hum of a vacuum motor
+Temporal/Sustained,sustain,Domestic,fan,bedroom,a table fan running at a constant speed for a long time
+Temporal/Sustained,sustain,Domestic,curtain,theatre,the steady and long-lasting movement of heavy curtains
+Temporal/Sustained,sustain,Domestic,mixer,bakery,the steady and long-lasting operation of a dough mixer
+Temporal/Sustained,sustain,Domestic,stove,kitchen,the continuous and steady hiss of a gas burner
+Temporal/Sustained,sustain,Domestic,door,hallway,the long and steady creak of a heavy wooden door
+Temporal/Sustained,sustain,Domestic,mower,backyard,the continuous and steady drone of a lawnmower
+Temporal/Sustained,sustain,Electronic,synthesizer,stage,a synthesizer note held for a very long time
+Temporal/Sustained,sustain,Electronic,alarm,bedroom,a digital alarm clock's long and steady chime
+Temporal/Sustained,sustain,Electronic,modem,attic,the long and steady data stream of a modem
+Temporal/Sustained,sustained,Musical,pipe organ,cathedral,a pedal note being held indefinitely on a large pipe organ
+Temporal/Sustained,sustained,Musical,didgeridoo,canyon,the continuous and unwavering drone of a didgeridoo
+Temporal/Sustained,sustained,Musical,cello,art gallery,a cellist maintaining a single long note with a bow
+Temporal/Sustained,sustained,Musical,vibraphone,jazz club,a vibraphone bar vibrating with the pedal down
+Temporal/Sustained,sustained,Musical,flute,meadow,a flute player holding a single long note with steady breath
+Temporal/Sustained,sustained,Musical,violin,ballroom,a violinist performing a long and unwavering whole note
+Temporal/Sustained,sustained,Musical,piano,parlor,the resonance of a grand piano with the pedal depressed
+Temporal/Sustained,sustained,Musical,singing bowl,spa,a singing bowl humming as a mallet circles it
+Temporal/Sustained,sustained,Musical,vibraphone,jazz club,a high note on a vibraphone held with the sustain pedal
